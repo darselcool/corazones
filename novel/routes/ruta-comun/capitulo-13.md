@@ -493,7 +493,7 @@ MIKA: "Caja de la semana: los tres mil seiscientos de las doce hogazas del jueve
 
 REN: "Es la primera. Apúntalo, que eso sí que es de la columna de lo que aprendimos."
 
-NARRACIÓN: Mika escribió dos renglones en el cuaderno grande, con la letra inclinada que ha mejorado desde enero, y después cogió la tiza y sumó en la pizarra la semana que cerraba: los kilos de harina, los panes, las dos clases, el pago de los dos mil doscientos con la fecha al lado y, debajo de todo, en el sitio donde la pizarra está más gastada, la lista de las diecinueve casas del valle que reparten con nosotros, con las diecinueve rayas y el número de la semana al final. Y a las seis de la tarde, cuando terminó de escribir, puso la tiza en la repisa y dijo en voz alta lo que llevaba cinco días pensando, que era justamente lo que no tenía que decir, y lo dijo porque es la única de las cuatro que dice las cosas antes de que se cumpla el plazo.
+NARRACIÓN: Mika escribió dos renglones en el cuaderno grande, con la letra inclinada que ha mejorado desde enero, y después cogió la tiza y sumó en la pizarra la semana que cerraba: los kilos de harina, los panes, las dos clases, el pago de los dos mil doscientos con la fecha al lado y, debajo de todo, en el sitio donde la pizarra está más gastada, la lista de las diecinueve casas del pueblo que reparten con nosotros, con las diecinueve rayas y el número de la semana al final. Y a las seis de la tarde, cuando terminó de escribir, puso la tiza en la repisa y dijo en voz alta lo que llevaba cinco días pensando, que era justamente lo que no tenía que decir, y lo dijo porque es la única de las cuatro que dice las cosas antes de que se cumpla el plazo.
 
 MIKA: "Ya es veintiocho. El de la ventanilla era hoy."
 
@@ -518,7 +518,7 @@ HIROSHI: "Creo que sí."
 
 REN: "Entonces dime una cifra."
 
-HIROSHI: "Diecinueve casas del valle."
+HIROSHI: "Diecinueve casas del pueblo."
 
 REN: "Esa es de Mika, no tuya. Dime una tuya."
 
@@ -548,7 +548,7 @@ HIROSHI: "Entonces, ¿cuándo?"
 
 SAKI: "Cuando el bote se abra. Ese es el día que le he puesto al asunto, y no lo he elegido por ti ni por las otras tres: lo he elegido porque quiero llegar a ese día sabiendo exactamente lo que hay dentro, y ahora mismo no lo sé. Hasta entonces, cada vez que alguien pregunte, la respuesta es «todavía», y esa respuesta la vas a oír de mi boca todo el año, Hiroshi Matsuda, y no te va a servir de nada venir a la curva a preguntarla otra vez."
 
-NARRACIÓN: Dijo eso y cerró la puerta con la mano izquierda, sin golpe, hasta que la madera tocó el marco, y por el hueco que quedó los últimos dos centímetros se oyó un segundo de cocina: la sopa del domingo moviéndose en la olla y, debajo, el tictac de un despertador de cuerda que estaba andando en un estante a dos metros y veinte del suelo, debajo de un bote, sin ninguna hora puesta. Bajé la cuesta hasta el taller y me quedé en la puerta de la calle, que estaba abierta de par en par, con las sillas todavía encima de las mesas y Ren en la segunda carta, y no entré: me senté en el escalón del umbral, con el sol de marzo en la cara, y estuve un rato largo mirando la pizarra desde fuera, donde estaban escritos los kilos de harina de la semana, las dos clases, los dos mil doscientos con su fecha y las diecinueve rayas de las diecinueve casas del valle. En ninguna parte de esa pizarra, en ninguna de sus tres columnas, había una sola cifra que dijera lo que había en el estante alto de una cocina a once minutos de allí, y esa ausencia, en un taller donde todo se pesa, se cuenta y se apunta, me pareció la cosa más seria que había visto hacer a esta casa en cuatro meses.
+NARRACIÓN: Dijo eso y cerró la puerta con la mano izquierda, sin golpe, hasta que la madera tocó el marco, y por el hueco que quedó los últimos dos centímetros se oyó un segundo de cocina: la sopa del domingo moviéndose en la olla y, debajo, el tictac de un despertador de cuerda que estaba andando en un estante a dos metros y veinte del suelo, debajo de un bote, sin ninguna hora puesta. Bajé la cuesta hasta el taller y me quedé en la puerta de la calle, que estaba abierta de par en par, con las sillas todavía encima de las mesas y Ren en la segunda carta, y no entré: me senté en el escalón del umbral, con el sol de marzo en la cara, y estuve un rato largo mirando la pizarra desde fuera, donde estaban escritos los kilos de harina de la semana, las dos clases, los dos mil doscientos con su fecha y las diecinueve rayas de las diecinueve casas del pueblo. En ninguna parte de esa pizarra, en ninguna de sus tres columnas, había una sola cifra que dijera lo que había en el estante alto de una cocina a once minutos de allí, y esa ausencia, en un taller donde todo se pesa, se cuenta y se apunta, me pareció la cosa más seria que había visto hacer a esta casa en cuatro meses.
 
 *Termina la semana con diez kilos trescientos cincuenta de miso en un estante, un tarro de trescientos gramos al lado para un hombre de ochenta y un años, una carta certificada camino del valle con cuatro números y mi nombre firmado debajo, un sobre con membrete que ha cumplido su fecha sin abrirse delante de catorce vecinos y una palabra que a partir de hoy es la palabra de esta casa: todavía.*
 

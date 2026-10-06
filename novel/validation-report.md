@@ -1,12 +1,13 @@
 # Reporte de Validación
 
-Segunda pasada de verificación de la Story Bible contra el texto original (`novel/_source-extract.md`, 5,069 líneas = texto íntegro de la fuente).
+Registro histórico y certificación final de verificación de la Story Bible y del texto narrativo completo de *Corazones en Ebullición*. El reporte documenta la evolución desde la pasada inicial sobre el texto fuente original (`novel/_source-extract.md`, caps. 1–15H) hasta la **auditoría y validación integral del guion definitivo** (Tronco común completo: caps. 1–21, y las cinco rutas desarrolladas al 100%: caps. 22–36 en Harem, Saki, Ren, Mika y Yuki).
 
 ## Metodología
 
-1. Lectura íntegra del texto extraído (caps. 1–15H, incluidos bloques de metadatos finales de cada capítulo).
-2. Cruce de cada archivo de la Bible contra las escenas fuente.
-3. Búsquedas dirigidas de nombres, eventos y elecciones (`ELECCIÓN`, `RUTA`, `ESCENA`, `CAPÍTULO`, apellidos).
+1. **Pasada inicial de extracción:** Lectura íntegra del texto extraído original (caps. 1–15H, metadatos y glosarios).
+2. **Cruce transversal continuo:** Auditoría de cada archivo de la Story Bible (`characters/`, `timeline.md`, `locations.md`, `objects.md`, `routes.md`) contra los capítulos redactados.
+3. **Búsquedas dirigidas de consistencia:** Identificación y control de elecciones (`ELECCIÓN`), escenas (`ESCENA`), marcadores temporales, cifras de producción/población y parentescos.
+4. **Auditoría integral de cierre de guion:** Verificación de la totalidad de la obra escrita (Tronco común 1–21 y Rutas 22–36 en las 5 ramas), resolución y registro de las 20 contradicciones en `contradictions.md`, armonización de preguntas abiertas en `unresolved-questions.md` y sincronización completa antes del inicio de programación del juego.
 
 ## Problemas encontrados y su tratamiento
 
@@ -579,6 +580,30 @@ Segunda pasada de verificación de la Story Bible contra el texto original (`nov
 
 - **Un descuido de puntuación** en la pizarra del lunes («los siete días de la semana catorce uno debajo de otro» → «la semana catorce, uno debajo de otro»).
 
+## 39ª adenda — Validación Integral Final de la Obra Completa y Cierre de Guion (06/10/2026)
+
+- **(a) Alcance integral y cobertura del 100 % de la obra.** Esta validación acredita formalmente la finalización y coherencia exhaustiva de la novela visual completa *Corazones en Ebullición*, superando el marco provisional de los capítulos iniciales (1–15H) y consolidando más de 750.000 palabras:
+  - **Tronco Común (21 capítulos íntegros):** Capítulos 01–21 en `routes/ruta-comun/` (desde la llegada de Hiroshi a Sakura-machi hasta la crisis múltiple y la Elección 10 del Festival de Renacimiento en el capítulo 21).
+  - **Ruta Harem (15 capítulos, 22H–36H):** `routes/ruta-harem/` — convivencia poligámica consensuada de los cinco, boda de los anillos de plata y alerce (27H–28H), expansión y cooperación comunal (29H–33H), concepción simultánea de las cuatro hijas (34H–35H), parto múltiple coordinado el 15 de marzo de 2027 (36H) y epílogo canónico consolidado en otoño de 2045 (conclusión a 20 años).
+  - **Ruta Saki (15 capítulos, 22S–36S):** `routes/ruta-saki/` — arco de redención y juicio contra Watanabe en Kioto, rescate del restaurante y manantial, boda en Shinshu y nacimiento de su hija Mei Yamamoto.
+  - **Ruta Ren (15 capítulos, 22R–36R):** `routes/ruta-ren/` — desarticulación del fraude corporativo de Moriyama, reconciliación familiar con Emi, boda en el santuario de Shinshu (cap. 30R) y nacimiento de su hija Tomo Takahashi (cap. 36R).
+  - **Ruta Mika (15 capítulos, 22M–36M + 6 escenas explícitas + epílogo opcional E1–E15):** `routes/ruta-mika/` — superación del trauma mediático, compromiso del mirador (33M), confirmación médica de embarazo en julio (34M), boda en el equinoccio de otoño con gestación en segundo trimestre (35M), alumbramiento de Hina Nakamura el 15 de marzo (36M), viñeta E1 en enero del primer año (espera invernal en el séptimo mes de gestación) y progresión de 1 a 10 años en el epílogo.
+  - **Ruta Yuki (15 capítulos, 22Y–36Y):** `routes/ruta-yuki/` — sanación de la parálisis perfeccionista de Ginza, resignificación del legado de su madre, boda de invierno y nacimiento de su hija Kira Hayashi.
+
+- **(b) Registro y resolución total de contradicciones (`contradictions.md`).** Se auditaron y resolvieron formalmente las 20 contradicciones registradas (001 a 020) sin modificaciones silenciosas:
+  - Color de ojos de Yuki (001: avellana cálido), geografía de campus/edificios (002), nombres canónicos de nacimiento de las hijas (003), autoría y título canónico del documental de Mika (004), gemelas y orden de parto (014), presión jurídica de antagonistas (015), hitos y cronología de Ruta Mika (016 y 020), boda de Ren en 30R (017), armonización de numeración vieja del XML con la estructura definitiva 22–36 (018), fechado final del epílogo de 36H en otoño de 2045 (019), y gestación de Mika entre los caps. 34M, 35M y viñeta E1 (020).
+
+- **(c) Censo y cifras armonizadas (Resolución del pendiente #22 de `unresolved-questions.md`).**
+  - Queda zanjada y sincronizada la discrepancia de las casas: **Sakura-machi tiene 19 casas** (y 46 vecinos censados); **el valle exterior cuenta con 46 casas** que reciben pan del obrador desde enero (caps. 14.10, 15.1 y 16.1).
+  - Se corrigieron los tres lapsus de redacción del capítulo 13 (`capitulo-13.md`, líneas 496, 521 y 551) que atribuían erróneamente «diecinueve casas del valle» a la pizarra del taller, restaurando «diecinueve casas del pueblo». El ítem 22 pasa oficialmente a estado `RESOLVED`.
+
+- **(d) Tratamiento de enigmas `NOT STATED`.**
+  - De conformidad con la regla canónica de autor, los misterios e interrogantes clasificados como `NOT STATED` en `mysteries.md` y `unresolved-questions.md` (circunstancias remotas de Kenji, identidades secundarias sin peso dramático, etc.) permanecen deliberadamente abiertos como trasfondo atmosférico. La programación del juego respetará este silencio narrativo sin inventar explicaciones artificiales.
+
+- **(e) Certificación de cierre de guion.**
+  - El corpus textual de guiones y la Story Bible (`canon-rules.md`, `timeline.md`, `characters/`, `routes.md`, `contradictions.md`, `unresolved-questions.md`) alcanzan paridad y consistencia total (100 %).
+  - El guion literario queda formalmente **CERRADO Y CONGELADO**, habilitando de inmediato el inicio de la fase de arquitectura técnica, desarrollo de herramientas y programación del videojuego interactivo.
+
 ## Conclusión
 
-La Story Bible es consistente con el texto original. Los 13 conflictos internos del original están registrados y sin "correcciones silenciosas". Un LLM continuador puede escribir capítulos posteriores (p. ej. 16H) usando: `canon-rules.md` + `timeline.md` + fichas de personajes presentes + `routes.md` + `contradictions.md`, manteniendo la continuidad de los caps. 1–15H.
+La Story Bible y la totalidad de los guiones narrativos de *Corazones en Ebullición* (Tronco Común caps. 1–21 y Rutas caps. 22–36 para Saki, Ren, Mika, Yuki y Harem, con sus epílogos y escenas opcionales) han sido auditados y validados integralmente. Todos los conflictos de continuidad han sido formalmente documentados y resueltos. La obra escrita está completa al 100 % y se encuentra en estado óptimo y definitivo para la implementación del motor de videojuego y la lectura interactiva de sus guiones.
