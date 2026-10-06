@@ -1,0 +1,2 @@
+filas_escritas=18 suma_palabras=253291 suma_interiores=582
+`capitulo-01.md`=3,346 · `capitulo-02.md`=5,595 · `capitulo-03.md`=5,606 · `capitulo-04.md`=6,089 · `capitulo-05.md`=15,608 · `capitulo-06.md`=9,852 · `capitulo-07.md`=9,741 · `capitulo-08.md`=17,485 · `capitulo-09.md`=19,588 · `capitulo-10.md`=17,498 · `capitulo-11.md`=18,731 · `capitulo-12.md`=18,605 · `capitulo-13.md`=23,978 · `capitulo-14.md`=20,733 · `capitulo-15.md`=21,095 · `capitulo-16.md`=22,824 · `capitulo-20.md`=11,953 · `capitulo-21.md`=4,964

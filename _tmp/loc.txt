@@ -1,0 +1,9 @@
+﻿17: ## El ex-restaurante Yamamoto → Taller de Cocina Matsuda → Escuela de Técnicas Culinarias Yuki
+31: - Financia: ahorros de Mika y Ren, venta del apartamento de la madre de Yuki, herencia del padre de Saki (9H.6). `CONFIRMED`.
+33: ## La casa de Saki (Cap. 5.11)
+34: - **Autor, 15/09/2026 (`USER-CANON`):** casa baja a once minutos del taller, la última antes de la curva, con el **zaguán un escalón por encima de la calle** y una parra seca sobre la puerta. Detalle físico mínimo, coherente con el original, donde las cuatro se van «a su casa» al acabar las noches del taller (20.11); la propiedad de Saki solo se confirma más tarde (herencia de su padre, 9H.6). No contradice ningún lugar establecido.
+38: - Instituciones nombradas (14H.1): Escuela de Técnicas Culinarias Yuki (taller original), Centro de Innovación Gastronómica Mika, Mercado Comunitario Ren, Restaurante Patrimonio Saki. `CONFIRMED`.
+44: - **Kyoto**: destino original planeado por Ren y Saki (4.1). `CONFIRMED`.
+47: - **"Restaurante favorito en el pueblo"** donde celebran el trato con Food Network; "el mismo lugar donde Saki tuvo su primera crisis hace tantos meses" (13H.6) — cuál crisis: `NOT STATED` en otra parte.
+56: - **El pozo del patio del taller:** en el patio del ex-restaurante Yamamoto, al lado de los grifos y del termómetro del marco. Tapado desde octubre y destapado en el cap. 10; el agua del depósito baja turbia los primeros cubos.
+66: - **Playa específica** cuyas algas marinas daban el secreto del estofado de la señora Yamamoto (1.4): playa sin nombre, ubicación `NOT STATED`.

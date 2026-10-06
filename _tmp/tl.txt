@@ -1,0 +1,25 @@
+﻿1: # Cronología global (parte 1 de 2)
+2: 
+3: El texto casi no usa fechas absolutas; usa tiempos relativos ("tres días", "dos semanas", "tres años"). Única fecha absoluta confirmada: **15 de marzo** (nacimiento de las hijas, Cap. 15H.1). Estación confirmada del festival tradicional original: primavera (Cap. 1.4). La división por años relativos desde la llegada de Hiroshi es `INFERRED` a partir de los anclajes "hace diez años" (15H.5) y "hace veinte años" (15H.7).
+4: 
+5: ## Año 0 — Llegada y fundación
+6: 
+7: | Cuando | Cap./Escena | Lugar | Personajes | Evento | Consecuencias / revelaciones |
+8: |---|---|---|---|---|---|
+9: | Día 0 | 1.1 | Entrada de Sakura-machi | Hiroshi, Hanako Sato, conductor | Hiroshi llega de la ciudad | Pueblo en decadencia; Hanako lo envía con Tanaka |
+10: | Día 0 | 1.2 | Mercado y ex-restaurante Yamamoto | Hiroshi, Sra. Tanaka | Ve y alquila el local vacío (5 años cerrado) | El edificio perteneció a la familia Yamamoto; Tanaka es dueña |
+11: | Noche día 0 | 1.3 | Habitación sobre el mercado | Hiroshi | Se revela su pasado: Michelin, corrupción expuesta, suicidio del joven chef, Kenji | Núcleo de culpa del protagonista |
+12: | Día 1 | 1.4 | Taller | Hiroshi, Takeshi, Emiko, Jiro | Limpieza colectiva; historias del festival y recetas perdidas | Festival gastronómico anual en primavera |
+13: | Día 3 | 1.5 | Taller | Hiroshi | Apertura oficial ("Taller de Cocina Matsuda") | Tres días sin ningún visitante |
+14: 
+15: ## Semanas 1–3 — Llegada de las cuatro mujeres
+16: 
+17: | Cuando | Cap./Escena | Lugar | Personajes | Evento | Consecuencias |
+18: |---|---|---|---|---|---|
+19: | Día ~6 (tarde lluviosa) | 2.1 | Taller | Hiroshi, Yuki | Primera visitante; colapso público hace 6–7 meses | Semilla del "santuario" |
+20: | Día ~7–9 | 2.2–2.5 | Taller | Hiroshi, Yuki | Observación desde lejos; sopa de miso; conversación nocturna; tortilla dulce | Yuki confiesa la muerte de su madre; pide quedarse |
+21: | Día ~11 | 3.1–3.5 | Taller, parque, pueblo | Hiroshi, Yuki, Mika | Llegada de Mika; llanto en el parque; onigiri; confesiones | Máscara de Mika y su hermana perdida; trío formado |
+22: | Mañana siguiente (aprox.) | 4.1–4.5 | Taller | + Ren, Saki | Llegada simultánea (iban a Kyoto); demostración; conflicto; fundación de la "familia de cocina" | Grupo de cinco; reglas de compromiso mutuo |
+23: # Cronología global (parte 2 de 2)
+24: 
+25: ## Meses 1–2 — Preparación y festival

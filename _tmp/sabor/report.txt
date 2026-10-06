@@ -1,0 +1,19 @@
+FICHERO: C:\Users\ruben\Desktop\corazones\novel\routes\ruta-comun\capitulo-18.md
+lineas=666 palabras=20019
+escenas=8 interiores=32
+CRLF=666 LF_sueltos=0
+BOM=67,65,80
+asteriscos=64 dobles=0 negritas_pares=0
+PROSA lineas=0 digitos=4 terminos_dato=0
+primera_linea=CAPÍTULO 18: LOS QUE MIRAN
+ultima_linea=FIN DEL CAPÍTULO 18
+MAPA:
+  2: ESCENA 18.1 - EL LUNES DE LOS COCHES
+  90: ESCENA 18.2 - EL MARTES DE LA NORMA Y LA PREGUNTA 
+  224: ESCENA 18.3 - LA JUNTA PEQUEÑA
+  298: ESCENA 18.4 - LA VÍSPERA
+  358: ESCENA 18.5 - LA CASA DE LA CURVA DEL POSTE
+  416: ESCENA 18.6 - LAS QUINCE MANOS
+  514: ESCENA 18.7 - LO QUE SUBE LA CUESTA
+  576: ESCENA 18.8 - EL DOMINGO DE LA SOSPECHA
+  666: FIN DEL CAPÍTULO 18

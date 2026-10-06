@@ -1,0 +1,4 @@
+﻿10:44:52 lineas=392 palabras=23114 escenas=9 interiores=27 CRLF=392 LFsueltos=0 asteriscos=150 dobles=48 num=1377 dato=115 digitos=112
+10:57:29 lineas=784 palabras=22824 escenas=9 interiores=42 CRLF=784 LFsueltos=0 asteriscos=180 dobles=48 num=915 dato=24 digitos=69
+12:49:23 lineas=666 palabras=20019 escenas=8 interiores=32 CRLF=666 LFsueltos=0 asteriscos=64 dobles=0 num=843 dato=11 digitos=28
+13:10:28 lineas=666 palabras=20019 escenas=8 interiores=32 CRLF=666 LFsueltos=0 asteriscos=64 dobles=0 num=843 dato=11 digitos=28

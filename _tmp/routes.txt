@@ -1,0 +1,21 @@
+﻿| 8 | 1 | Conversación post-crisis | A: Yuki / B: Mika / C: Ren / D: Saki / **E [solo si se eligió Ruta Harem en Cap. 21]**: hablar todos juntos |
+| 7 | **LA ELECCIÓN CRÍTICA** | Elección forzada del festival | Ver bifurcación principal arriba |
+## Elecciones del tronco ampliado (caps. 6–19, `USER-CANON`, 15/09/2026)
+
+> Las **8 elecciones nuevas** del Plan Maestro (`plan-maestro-tronco-21.md` §5) se reparten en los cuatro capítulos de grupo (**6, 8, 10, 12**) y en los cuatro N4 (**14–17**). Cada elección reparte `+2` a una heroína y `+1` a otras dos: la ampliación suma una constante igual a las cuatro y **no altera las diferencias relativas**, de modo que la **Opción E (≤2)** sigue siendo alcanzable igual que hoy.
+
+| Cap. | Trío del `+2` | Estado | Opciones |
+|---|---|---|---|
+| 6 | Yuki · Mika · Ren | **escrito** (`capitulo-06.md`) | A/B/C · `+2` / `+2` / `+2` |
+| 8 | Yuki · Mika · Saki | **escrito** (`capitulo-08.md`) | A/B/C · `+2` / `+2` / `+2` |
+| 10 | Yuki · Ren · Saki | **escrito** (`capitulo-10.md`) | A `+2 YUKI, +1 REN, +1 SAKI` · B `+2 REN, +1 YUKI, +1 SAKI` · C `+2 SAKI, +1 YUKI, +1 REN` |
+| 12 | Mika · Ren · Saki | **escrito** (`capitulo-12.md`) | A `+2 SAKI, +1 MIKA, +1 REN` (la puerta abierta y el agua puesta) · B `+2 MIKA, +1 REN, +1 SAKI` (la pizarra de dos caras) · C `+2 REN, +1 MIKA, +1 SAKI` (el cuaderno de las horas) |
+| 14 (Yuki) | Yuki · Mika · Ren | pendiente | íd. |
+| 15 (Mika) | Yuki · Mika · Saki | pendiente | íd. |
+| 16 (Ren) | Yuki · Ren · Saki | pendiente | íd. |
+| 17 (Saki) | Mika · Ren · Saki | pendiente | íd. |
+
+**Capítulos sin elección (0 puntos):** **7, 9, 11, 13, 18 y 19** — los cuatro capítulos-espejo (`N2+N3` de Yuki, Mika, Ren y Saki), el de la sospecha coral y el de la última noche del invierno. Escritos y verificados hasta hoy: caps. **6, 8, 10 y 12** con elección (Elecciones 1, 2, 3 y 4) y caps. **7, 9 y 11** con **0 puntos** (N2/N3 de Yuki, Mika y Ren).
+
+
+
