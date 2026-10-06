@@ -2,7 +2,7 @@
 
 > Contenido **OPCIONAL** y **NO OBLIGATORIO** para la trama. Se desbloquea progresivamente en el menú "Un día en Sakura-machi" entre capítulos. Cada escena se juega cuando se quiere y no avanza el reloj narrativo principal: son viñetas de convivencia que amplían el mundo, profundizan a los personajes y suman **horas de juego** como premio por completar la ruta.
 >
-> Reglas: canon intacto (`canon-rules.md`) · formato del original (`style-guide.md`) · primera persona presente (Hiroshi) · **sin puntuación** · ninguna escena sexual (el contenido explícito vive en 25M.4, 27M.5 y 28M.2) · ninguna escena contradice la trama principal.
+> Reglas: canon intacto (`canon-rules.md`) · formato del original (`style-guide.md`) · primera persona presente (Hiroshi) · **sin puntuación** · ninguna escena sexual (el contenido explícito de la trama vive en 26M.4, 30M.4, 33M.4 y 35M.4) · ninguna escena contradice la trama principal.
 
 ## Índice
 

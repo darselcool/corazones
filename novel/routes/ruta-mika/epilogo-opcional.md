@@ -618,7 +618,7 @@ NARRACIÓN: *Vuelvo caminando al taller. Huele a pan. Alguien está discutiendo 
 
 *(Desbloqueo: tras los créditos. Lugar: la habitación de arriba del mercado. Época: verano del séptimo año.)*
 
-> ⚠️ **Contenido explícito (BONUS).** Escena sexual completa entre adultos (Hiroshi y Mika), consentimiento verbal explícito, sin elipsis y sin degradación. Cuarto premio explícito de la ruta, tras 25M.4, 27M.5 y 28M.2. Se puede omitir sin afectar a la trama (opción de configuración del juego).
+> ⚠️ **Contenido explícito (BONUS).** Escena sexual completa entre adultos (Hiroshi y Mika), consentimiento verbal explícito, sin elipsis y sin degradación. Quinto premio explícito de la ruta (primero bonus), tras las cuatro escenas de la trama principal (26M.4, 30M.4, 33M.4 y 35M.4). Se puede omitir sin afectar a la trama (opción de configuración del juego).
 
 NARRACIÓN: *Han pasado siete años y hay una cosa que no ha cambiado: Mika Nakamura sigue sin saber terminar un día.*
 
@@ -1188,8 +1188,8 @@ NARRACIÓN: *Me quedo ahí. Con ella en los brazos, con las caderas en alto sobr
 
 ---
 
-- El epílogo es **contenido opcional post-créditos**; la ruta termina oficialmente en 28M.5 ("Sin cámara. Para siempre." → post-créditos de la parada del autobús).
-- E13 es la **cuarta escena explícita** de la ruta y repite deliberadamente el lema de cierre, cerrando el círculo: el sexo como **lo único que nunca se comparte con el público** en la vida de Mika. `USER-CANON (autor)`.
-- E15 es la **quinta escena explícita** de la ruta (bonus): la **concepción del segundo hijo**, con el mismo tema de fertilidad/ventana fértil/eyaculación interna que 27M.5 (decisión de autor, 14/09/2026). Cierra el arco de maternidad de la ruta.
-- **Hina Nakamura** (hija de Hiroshi y Mika) es el fruto directo de la concepción de **27M.5**: nace en septiembre, tras la boda de junio con "casi seis meses" de gestación (28M.1–28M.3). E14 ("La niña que dibuja el pueblo") la muestra dibujando Sakura-machi, eco explícito del dibujo de **Akari**, su tía fallecida — cierre generacional del arco de la hermana.
-- Ninguna viñeta introduce información nueva que contradiga el "estado del mundo" de 28M.3; Akemi (de E4/E6/E10) y Akari (E3) son personajes del epílogo, no del canon del texto original.
+- El epílogo es **contenido opcional post-créditos**; la trama principal culmina en el Cap. 36M con el nacimiento de Hina y los epílogos a 3 y 10 años (expandiendo el borrador preliminar de 28 capítulos).
+- E13 es la **quinta escena explícita** de la ruta (primera bonus) y repite deliberadamente el lema de cierre, cerrando el círculo: el sexo como **lo único que nunca se comparte con el público** en la vida de Mika. `USER-CANON (autor)`.
+- E15 es la **sexta escena explícita** de la ruta (segunda bonus): la **concepción del segundo hijo**, con el mismo tema de fertilidad/ventana fértil/eyaculación interna que la concepción de Hina en 33M.4 (decisión de autor, 14/09/2026). Cierra el arco de maternidad de la ruta.
+- **Hina Matsuda Nakamura** (hija de Hiroshi y Mika) es el fruto directo de la concepción de **33M.4**: nace el 15 de marzo a las 2:23 PM (Cap. 36M.1), tras la boda sintoísta comunal en 35M. E14 ("La niña que dibuja el pueblo") y 36M.2 la muestran dibujando Sakura-machi, eco explícito del dibujo de **Akari**, su tía fallecida — cierre generacional del arco de la hermana.
+- Ninguna viñeta introduce información nueva que contradiga el estado del mundo canónico; Akemi (de E4/E6/E10) y Akari (E3) son personajes del epílogo y del canon consolidado de la rama.

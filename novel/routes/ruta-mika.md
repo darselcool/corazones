@@ -19,7 +19,7 @@
 ## 1. Ficha técnica de producción
 
 - **Capítulos:** 15 capítulos canónicos (22M–36M en `routes/ruta-mika/`, expandiendo el esquema preliminar de 7 capítulos). **Escenas:** 38 de trama (+15 viñetas de epílogo post-créditos + 12 opcionales). **Elecciones nuevas:** 6 (1M–6M).
-- **Palabras reales del guion escrito:** ~52,700 (37,400 de trama + ~3,960 de escenas opcionales + ~11,375 de epílogo post-créditos; ≈360 páginas de guion, escala superior a la Ruta Harem). **Escenas explícitas canónicas:** **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.5 (concepción de Hina)**, **35M.4** (noche de bodas) + **E13** y **E15** (bonus del epílogo).
+- **Palabras reales del guion escrito:** ~52,700 (37,400 de trama + ~3,960 de escenas opcionales + ~11,375 de epílogo post-créditos; ≈360 páginas de guion, escala superior a la Ruta Harem). **Escenas explícitas canónicas:** **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.4 (concepción de Hina, con 33M.5 retención)**, **35M.4** (noche de bodas) + **E13** y **E15** (bonus del epílogo). Total: 6 escenas explícitas.
 - **Horas de juego estimadas:** 4–5 h de primera lectura; **8–10 h** con rejugado de elecciones, galería de CGs, escenas opcionales y contenido de epílogo.
 - **CGs nuevos:** 13 (ver mapa de fanservice). **Ritmo:** capítulos de 4–6 escenas de 40–90 líneas, igual que el original.
 - **Métrica de la rama:** el sistema de puntuación **TERMINA al entrar a la ruta** (canon: bloque final Cap. 21 "+5 a la elegida, reset de las demás"; decisión de autor 14/09/2026: tampoco existe métrica interna — las elecciones 1M–6M moldean escenas y CGs, nunca números).
@@ -201,6 +201,7 @@ Cierre de Hiroshi.
 - Sí. Sra. Tanaka: "Querida, he vivido en este pueblo durante setenta años y es la segunda vez que lloro de alegría." La primera queda en boca de todos: la boda de nadie más — es la suya la que viene.
 
 **ESCENA 27M.5 — "LA NOCHE DEL COMPROMISO" (EXPLÍCITA, ~60 líneas — regla de autor: mínimo 2 escenas explícitas por final)**
+*(Nota de correspondencia: en el guion definitivo desarrollado a 15 capítulos, este hito de compromiso y concepción se despliega en el Cap. 33M: ESCENA 33M.4 "La Concepción de Hina" y 33M.5 "La Retención Sagrada").*
 - Esa misma noche, en la habitación de arriba del mercado. Escena de intimidad completa y explícita entre Hiroshi y Mika (adultos, consentida, mutua) — la segunda de las tres de la ruta, más serena y celebratoria que 25M.4: aquí no hay máscara que quitar, solo paced, ternura y complicidad de quienes ya se conocen.
 - Beat de apertura (inversión de la tesis): Mika enciende su cámara dos minutos para grabar un mensaje para la caja de recuerdos de su hermana ("Me voy a casar. Con el cocinero. En el pueblo que dibujaste.") — y la apaga: "Ya está. Lo demás no se comparte." La cámara vuela a la silla. La intimidad, de nuevo, "sin cámara".
 - Escritura explícita completa según la regla de autor (ver regla de escritura del §4): anatomía, actos y reacciones descritos sin elipsis; sin degradación; consentimiento verbal explícito ("Dime si quieres parar." / "Te diría. No quiero."). Humor post-escena con su firma: "¿Puedo decir algo cursi? / La viste venir y aun así dijiste sí."
@@ -240,19 +241,20 @@ La escalera de intimidad replica la del original (suave → medio → explícito
 | 6 | 25M.1 — ducha cantada oída desde el pasillo | Suave (humor) | — | Alivio cómico antes del pico |
 | 7 | 25M.2(C) — la cámara la pilla pidiendo permiso | Suave | CG 06 | Romántico: la honestidad como erotismo |
 | 8 | 25M.3 — yukata azul + máscara de zorro | Medio | CG 07 | Transformación visual de la heroína |
-| 9 | **25M.4 — primera noche (EXPLÍCITA, 60–90 líneas)** | **Explícito** | CG 08 | Tesis de la ruta: intimidad elegida "sin cámara" |
-| 10 | 25M.4 — mañana siguiente, camisas intercambiadas | Medio | CG 09 | Ternera post-intimidad (estándar del original 25H→26H) |
-| 11 | 26M.3 — campanas + Saki (glamor coral, no romántico) | Suave | CG 10 | Ensamble familiar |
-| 12 | 26M.5 — estreno, lágrimas y risa | Suave | CG 11 | Catarsis colectiva |
-| 13 | 27M.3(C) — propuesta con onigiri quemado | Medio | CG 12 | El callback cómico-emotivo máximo |
-| 14 | **27M.5 — la noche del compromiso (EXPLÍCITA, ~60 líneas)** | **Explícito** | CG 12b | Segunda entrega explícita: la intimidad de quienes ya se conocen |
-| 15 | 28M.1 — boda, novia con cámara al hombro | Medio | CG 13 | Remuneración final de la ruta |
-| 16 | 28M.2 — noche de bodas (EXPLÍCITA breve, 40 líneas) | **Explícito** | CG 14 | Cierre de la escalera: "Sin cámara. Para siempre." |
-| 17 | 28M.3 post-créditos — foto familiar | Suave | CG FINAL | Última imagen: lo que Kenji nunca le dio a Mika |
+| 9 | **26M.4 (esquema preliminar 25M.4) — primera noche (EXPLÍCITA)** | **Explícito** | CG 08 | Tesis de la ruta: intimidad elegida "sin cámara" |
+| 10 | 26M.5 / mañana siguiente — camisas intercambiadas | Medio | CG 09 | Ternura post-intimidad (estándar del original) |
+| 11 | 28M / campanas + Saki (glamor coral, no romántico) | Suave | CG 10 | Ensamble familiar y auditoría |
+| 11b | **30M.4 — fuego en el obrador (EXPLÍCITA)** | **Explícito** | CG 10b | Celebración de la victoria judicial sobre la mesa de harina |
+| 12 | 31M — estreno del documental, lágrimas y risa | Suave | CG 11 | Catarsis colectiva ("Las Manos de Sakura-machi") |
+| 13 | 32M — propuesta y anillo de plata y alerce | Medio | CG 12 | Petición formal en el mirador de los cerezos |
+| 14 | **33M.4 (esquema preliminar 27M.5) — noche de compromiso / concepción de Hina (EXPLÍCITA)** | **Explícito** | CG 12b | Fecundación consciente y entrega fértil (33M.5 retención) |
+| 15 | 35M — la boda del pueblo (boda comunal con 5ª campana) | Medio | CG 13 | Matrimonio tradicional con Mika grávida de 6 meses |
+| 16 | **35M.4 (esquema preliminar 28M.2) — noche de bodas (EXPLÍCITA)** | **Explícito** | CG 14 | Cierre de la escalera: amor conyugal pleno con Mika a 6 meses de embarazo |
+| 17 | 36M / post-créditos — alumbramiento de Hina y foto familiar | Suave | CG FINAL | Nacimiento el 15 de marzo a las 2:23 PM y epílogos a 3 y 10 años |
 
-**Regla de autor (14/09/2026) — mínimos de premio explícito por final independiente:** todo final de ruta independiente debe incluir **al menos DOS (2) escenas de sexo explícitas** escritas sin elipsis (el premio al jugador; ver regla de escritura abajo). La **Ruta Harem queda como está** (su canon del texto original no se toca). Esta ruta las cumple con **3**: 25M.4 (primera noche), 27M.5 (noche del compromiso) y 28M.2 (noche de bodas).
+**Regla de autor (14/09/2026) — mínimos de premio explícito por final independiente:** todo final de ruta independiente debe incluir **al menos DOS (2) escenas de sexo explícitas** escritas sin elipsis (el premio al jugador; ver regla de escritura abajo). La **Ruta Harem queda como está** (su canon del texto original no se toca). En el guion definitivo de 15 capítulos, esta ruta las cumple con **4 escenas explícitas principales de trama**: **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.4** (concepción de Hina) y **35M.4** (noche de bodas), más **2 escenas bonus en el epílogo** (E13 y E15), totalizando **6 escenas explícitas**.
 
-**Regla de escritura para el LLM continuador:** las escenas explícitas (#9, #14, #16) siguen el estándar literal del Cap. 25H del original: "eroticismo explícito con buen gusto", "descripciones sensuales detalladas", adultos, consentimiento explícito, sin degradación, con humor post-escena en la firma de habla de Mika ("¿Puedo decir algo cursi? / Por favor."). El énfasis anatomía/actos/reacciones se describe directamente, sin cortes de fade ni elipsis, cada vez que la regla de autor exige explícito.
+**Regla de escritura para el LLM continuador:** las cuatro escenas explícitas principales (26M.4, 30M.4, 33M.4, 35M.4) siguen el estándar literal del Cap. 25H del original: "eroticismo explícito con buen gusto", "descripciones sensuales detalladas", adultos, consentimiento explícito, sin degradación, con humor post-escena en la firma de habla de Mika ("¿Puedo decir algo cursi? / Por favor."). El énfasis anatomía/actos/reacciones se describe directamente, sin cortes de fade ni elipsis, cada vez que la regla de autor exige explícito.
 
 ## 5. Cierre de cabos sueltos en esta rama
 
@@ -274,10 +276,10 @@ La escalera de intimidad replica la del original (suave → medio → explícito
 1. **Rama primero:** cualquier capítulo "M" exige haber leído este documento completo. Nunca mezclar con eventos 23H–29H.
 2. **Nunca inventar las causas factuales reservadas:** muerte de Kenji mentor, accidente del abuelo de Ren, verdad de Matsui. Solo arcos emocionales se cierran.
 3. **Yuki (18, canon de autor):** en las escenas M su registro sigue siendo hermandad (la pareja de esta ruta es exclusiva Hiroshi–Mika); sin restricción de edad (DA-M04 derogada). Para contenido erótico con Yuki, usar las rutas donde ella es interés romántico (Ruta Harem, Ruta D).
-4. **El fanservice se gana:** ninguna escena explícita antes de 25M.4, sin excepción. Con el final único feliz, las tres escenas explícitas (25M.4, 27M.5, 28M.2) son obligatorias en toda partida.
+4. **El fanservice se gana:** ninguna escena explícita antes de 26M.4, sin excepción. En el desarrollo canónico de 15 capítulos, las cuatro escenas explícitas principales (26M.4, 30M.4, 33M.4, 35M.4) son canónicas en toda partida completa.
 5. **Estilo:** cada escena sigue `style-guide.md` (formato invariante, golpe emocional en una línea, llanto→alivio, "Por nosotros." solo en brindis de compromiso).
 6. **Metadatos:** cerrar cada capítulo con bloques `ESTABLECIDO EN ESTE CAPÍTULO / TONO ESTABLECIDO / ELEMENTOS CLAVE / PRÓXIMO`. No reportar puntuación alguna (el sistema de puntos terminó al entrar a la ruta).
-7. **No continuar más allá de 28M.3** sin nueva orden del autor (posibles epílogos-hijo o rutas A/B/D son expansiones separadas).
+7. **La ruta desarrollada comprende del 22M al 36M** (15 capítulos desarrollados en `routes/ruta-mika/`, que expandieron el borrador preliminar de 22M–28M). Para contenido posterior, consultar `escenas-opcionales.md`, `epilogo-opcional.md` y `endings.md`.
 
 ## 7. Rejilla de verificación de la ruta (auto-test antes de entregar un capítulo M)
 

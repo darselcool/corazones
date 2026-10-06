@@ -1,6 +1,6 @@
 # Cronología global (parte 1 de 2)
 
-El texto casi no usa fechas absolutas; usa tiempos relativos ("tres días", "dos semanas", "tres años"). Única fecha absoluta confirmada: **15 de marzo** (nacimiento de las hijas, Cap. 15H.1). Estación confirmada del festival tradicional original: primavera (Cap. 1.4). La división por años relativos desde la llegada de Hiroshi es `INFERRED` a partir de los anclajes "hace diez años" (15H.5) y "hace veinte años" (15H.7).
+En el **documento XML original**, el texto casi no usa fechas absolutas; usa tiempos relativos ("tres días", "dos semanas", "tres años") y su única fecha calendario explícita confirmada es el **15 de marzo** (nacimiento de las hijas, Cap. 15H.1 / 36H). En el **tronco común ampliado (caps. 1–21)** y la cronología autorizada por el autor, se fijan además fechas calendario explícitas entre febrero y abril de 2026 (semanas 8 a 14) que guían la evolución estacional y comunitaria de Sakura-machi. Estación confirmada del festival tradicional original: primavera (Cap. 1.4). La división por años relativos desde la llegada de Hiroshi es `INFERRED` a partir de los anclajes "hace diez años" (15H.5) y "hace veinte años" (15H.7).
 
 ## Año 0 — Llegada y fundación
 
@@ -114,6 +114,6 @@ Estadísticas finales del juego (bloque final Cap. 15H / 36H): 20 años transcur
 
 ## Cronología paralela de las Rutas Individuales (Caps. 22–36)
 - **Ruta Yuki (22Y–36Y):** Matrimonio en el santuario (30Y), alumbramiento de **Kira Hayashi Matsuda** el 15 de marzo a las 2:15 PM (35Y), epílogo a los 12 años con Kira a cargo del yanagiba familiar (36Y).
-- **Ruta Mika (22M–36M):** Matrimonio comunal (29M–30M), nacimiento de **Hina Matsuda Nakamura** el 15 de marzo a las 2:23 PM (36M), epílogos a los 3 años (cuaderno de Akari) y a los 10 años (panadería tradicional consolidada).
-- **Ruta Ren (22R–36R):** Forja del cuchillo de compromiso y boda (28R), nacimiento de **Tomo Matsuda Takahashi** el 15 de marzo a las 2:31 PM (35R), epílogo generacional a los 12 años con Tomo forjando junto a sus padres (36R).
+- **Ruta Mika (22M–36M):** Victoria judicial sobre Roppongi (29M), celebración en el obrador (30M), petición de mano y anillo de alerce (32M), concepción de Hina (33M.4), matrimonio tradicional del pueblo en el santuario sintoísta con la quinta campana de plata (35M), alumbramiento de **Hina Matsuda Nakamura** el 15 de marzo a las 2:23 PM (36M), y epílogos a los 3 y 10 años.
+- **Ruta Ren (22R–36R):** Petición formal y forja de los anillos gemelos de hierro y plata (28R), ajuar nupcial (29R), matrimonio tradicional de los fuegos vivos ante toda la comunidad (30R), concepción de Tomo (33R.4), alumbramiento de **Tomo Matsuda Takahashi** el 15 de marzo a las 2:31 PM (35R), y epílogo generacional a los 12 años con Tomo forjando junto a sus padres (36R).
 - **Ruta Saki (22S–36S):** Boda tradicional con uchikake (30S), nacimiento de **Mei Matsuda Yamamoto** el 15 de marzo a las 2:38 PM (35S), epílogo a los 12 años con la presentación de la *Enciclopedia Gastronómica de Sakura-machi* (36S).

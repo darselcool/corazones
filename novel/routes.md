@@ -132,8 +132,7 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–36H) y los de Ruta Mika `M
 
 - **Bifurcación:** Cap. 21.5–21.6, LA ELECCIÓN CRÍTICA del festival (1:00 PM) → **OPCIÓN C: ayudar a Mika** (crisis con Kenji (productor): cámaras sin consentimiento y contratos pendientes, Cap. 21.3–21.4). Base `CONFIRMED`.
 - **Mecánica:** "+5 a heroína elegida, reset otras a 0" (bloque final Cap. 21, `CONFIRMED`). El sistema de puntos se abandona a partir de aquí en esta rama.
-- **Premisa de autor:** en esta ruta **Mika es la ganadora** — el romance exclusivo termina en Hiroshi–Mika como pareja. **Yuki, Ren y Saki NO se alejan**: permanecen en Sakura-machi y en la vida de Mika como familia elegida, ofreciéndole apoyo mientras desarrolla su historia propia.
-- **→ GUION COMPLETO ESCRITO:** `routes/ruta-mika/` — 15 capítulos (22M–36M), 38 escenas de trama + 12 escenas opcionales + 15 viñetas de epílogo post-créditos, ~52,700 palabras ≈ **9–10 h de juego**. El diseño de producción (mapa de fanservice con 17 CGs y **5 escenas explícitas**: 25M.4, **27M.5 la concepción de Hina**, 28M.2 + E13/E15 bonus, cierre de cabos sueltos §5, guardarraíles §6) vive en `routes/ruta-mika.md`.
+- **→ GUION COMPLETO ESCRITO:** `routes/ruta-mika/` — 15 capítulos (22M–36M), 38 escenas de trama + 12 escenas opcionales + 15 viñetas de epílogo post-créditos, ~52,700 palabras ≈ **9–10 h de juego**. El diseño de producción cuenta con **4 escenas explícitas principales de trama**: **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.4 la concepción de Hina** (seguida de 33M.5 retención) y **35M.4** (noche de bodas), más **2 bonus en el epílogo** (E13, E15), totalizando **6 escenas explícitas** (ver `routes/ruta-mika.md` y `routes/ruta-mika/README.md`).
 
 ## Convención de numeración
 
