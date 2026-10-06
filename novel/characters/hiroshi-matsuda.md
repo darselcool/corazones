@@ -28,8 +28,7 @@
 - Cap. 5.7: admite sentimientos románticos por las cuatro; promete decidir "con respeto y amor por todas".
 - Cap. 5.8–5.11 y 20.6–20.7 (material de autor, 15/09/2026): **juego de tensión interrumpido** con las cuatro heroínas, una a una. Los cuatro primeros roces están **dentro del cap. 5** (5.8 Yuki, 5.9 Ren, 5.10 Mika, 5.11 Saki): dos los cortan las demás en el pico y dos los corta el mundo o los firma ella (5.10, una clienta real a golpes de puño en la persiana; 5.11, la llave que ella mete en el hueco y no gira). Él no inicia la escalada (es la física del espacio o ella quien la abre), no consume nada y no reparte puntos; su culpa crece y se formula en primera persona («ninguno de los dos había dicho la palabra error», 20.6).
 - Cap. 5.3–5.6 (material de autor, 15/09/2026): **extensión al límite de los momentos uno-a-uno**, situada **antes** del pacto. Él no provoca la escalada y **tampoco la cierra**: en las cuatro escenas **la que para es ella** (Yuki por su propio temblor, Mika por el teléfono, Ren con la palabra «basta», Saki con un «todavía»). Carga con la culpa y con el centímetro que no cruzó («no la beso porque sé que si la beso una vez voy a necesitar dos»).
-- Cap. 21 (Opción E): declaración pública: no elige a una, elige proteger a la familia; activa la Ruta Harem. `CONFIRMED` (escena 21.6).
-- Caps. 12H–15H: esposo/padre de la familia poliamorosa; fundador del imperio culinario; "papá" de Kira, Hana, Tomo y Mei.
+- Caps. 22H–36H (y rutas individuales 22R–36R, 22S–36S, 22M–36M, 22Y–36Y): esposo y padre; fundador de la cooperativa y el legado culinario comunal; padre de Kira, Hana (en Harem) / Hina (en Ruta Mika), Tomo y Mei.
 
 ## Relaciones
 - Con Yuki, Mika, Ren, Saki: conexiones románticas declaradas (Caps. 5.3–5.6, 21.6). Ver `relationships.md`.
@@ -53,7 +52,7 @@
 
 
 ## Presencia por capítulos
-Aparece en todos: Caps. 1–15H (narrador).
+Aparece en todos: Caps. 1–21 (tronco común), 22H–36H (Ruta Harem), 22R–36R (Ruta Ren), 22S–36S (Ruta Saki), 22M–36M (Ruta Mika), 22Y–36Y (Ruta Yuki) (narrador en primera persona).
 
 ## Acto III del tronco común (caps. 14–19, `USER-CANON`, 33ª adenda, 17/09/2026)
 - **Cap. 14 — el testigo.** Yuki se lo dice con la palabra exacta: **«un testigo. No un ayudante»**, y en todo el capítulo **no decide nada**. Aguanta la madrugada del martes sentado en el banco de espaldas al ventanuco, con las manos en las rodillas; sostiene el borde del mármol a un metro en la 17 y la 18; pone la mano izquierda en la cintura del delantal en la 19 y la deja quieta 74 segundos; lleva la sartén en la 20 con la mano de ella cerrada encima de la suya y cuenta hasta ciento diez alternando números; y no mueve ninguna de las dos manos cuando ella apoya la frente en su esternón. **Nada por debajo de la ropa, ningún beso, nada se consuma**; la única cosa que dice por su cuenta en todo el capítulo es la pregunta que convierte el problema en decidible («al que nos está mirando desde fuera, ¿se le contesta con un papel, con una imagen o con una cuenta?», 14.7), y después se calla. Se lleva de la semana dos cosas escritas: el **Punto cinco** («el huevo solo») y el **Punto seis**, que fija que la 19 y la 20 se repiten en abril «con la casa llena» y que lo demás lo comprueba el tiempo.

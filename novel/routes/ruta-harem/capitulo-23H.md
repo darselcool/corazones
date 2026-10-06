@@ -37,7 +37,7 @@ Mika se puso en pie de un salto, sin que nadie se lo pidiera, y sirvió un cuenc
 
 MIKA: "Aquí tienes, capitana. Dos hojas de menta y ni un grano de azúcar, como te gusta para no ablandar el carácter."
 
-Ren recibió el cuenco con un parpadeo de desconcierto. Por una fracción de segundo, la sombra de la mujer solitaria que desconfiaba de cualquier gesto amable cruzó sus ojos grises; pero al mirar la sonrisa abierta de Mika, sus hombros de atleta se relajaron visiblemente y sus dedos rodearon la cerámica tibia.
+Ren recibió el cuenco con un parpadeo de desconcierto. Por una fracción de segundo, la sombra de la mujer solitaria que desconfiaba de cualquier gesto amable cruzó sus ojos oscuros; pero al mirar la sonrisa abierta de Mika, sus hombros de atleta se relajaron visiblemente y sus dedos rodearon la cerámica tibia.
 
 REN: [En voz baja, con una dulzura áspera que me tocó el alma] "Gracias, Nakamura... no tenías por qué molestarte."
 
@@ -162,7 +162,7 @@ YUKI: [Acurrucándose más contra mi costado, con la voz pastosa y dulce por el 
 
 SAKI: [Acariciando mi cuello con sus dedos calientes, inclinando su rostro hasta apoyar la barbilla en mi coronilla] "Siento la sangre de los cinco corriendo con la misma fuerza. Esta casa nunca había estado tan viva."
 
-Ren dejó su cuenco de sake sobre la madera con un golpe pausado. Sus ojos grises, habitualmente severos, brillaban con un deseo limpio, urgente y sin armadura.
+Ren dejó su cuenco de sake sobre la madera con un golpe pausado. Sus ojos oscuros, habitualmente severos, brillaban con un deseo limpio, urgente y sin armadura.
 
 REN: [Con la voz ligeramente ronca, mirándonos a todos con una fijeza que aceleró los latidos del salón] "Maldita sea... Llevo una hora conteniendo las ganas de hacer algo que jamás creí que saldría de mi boca."
 

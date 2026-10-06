@@ -13,9 +13,9 @@
 3. Información explícita anterior.
 4. Inferencias (siempre etiquetadas).
 
-**Excepción documentada:** los capítulos 22H–29H (anteriormente 8H/9H–15H) son la continuación canónica posterior a la bifurcación del Cap. 21 (vía Opción E). Los bloques finales de los capítulos 1–8 ("PRÓXIMO: …") anticipan contenido que a veces difiere levemente de los capítulos entregados → ver `contradictions.md`.
+**Excepción documentada:** los capítulos 22H–36H (originalmente 8H/9H–15H) son la continuación canónica posterior a la bifurcación del Cap. 21 (vía Opción E). Los bloques finales de los capítulos 1–8 ("PRÓXIMO: …") anticipan contenido que a veces difiere levemente de los capítulos entregados → ver `contradictions.md`.
 
-**Canon de autor — rutas posteriores (14/09/2026):** existe además la **Ruta Mika** (Ruta Individual C, Opción C del Cap. 21), definida por el autor con estructura en `routes.md` y final propio "El Corazón Auténtico" en `endings.md`. Es un **final alternativo y excluyente** con la Ruta Harem: ambos son canon como finales posibles. Toda continuación debe declarar primero en qué rama se ubica (Harem: caps. 22H+ · Mika: caps. 22M+) y no mezclar eventos entre ramas.
+**Canon de autor — rutas posteriores (actualizado):** existen cuatro rutas individuales completas además de la Ruta Harem: **Ruta Saki** (Opción A, 22S–36S), **Ruta Ren** (Opción B, 22R–36R), **Ruta Mika** (Opción C, 22M–36M) y **Ruta Yuki** (Opción D, 22Y–36Y), cada una con 15 capítulos desarrollados al 100%, hijas canónicas y escenas explícitas. Son **finales alternativos y excluyentes** entre sí y con la Ruta Harem: todos son canon como ramas posibles del juego. Toda continuación debe declarar primero en qué rama se ubica y no mezclar eventos entre ramas.
 
 ## Etiquetas de certeza
 

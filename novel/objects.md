@@ -12,8 +12,12 @@
 - Conjunto de campanas de plata en una caja de madera; "perteneció a la familia Yamamoto"; se tocaban "al comienzo de cada festival. Para bendecir la comida y a las personas que la compartirían" (Cap. 20.11). `CONFIRMED`.
 - Entregadas por la Sra. Tanaka justo antes del festival; las tocan los cinco a la vez; hacen que Saki llore (20.11). `CONFIRMED`.
 
-## Los cinco colgantes de compromiso
-- Hechos por Ren: "cinco piezas únicas que juntas forman un todo hermoso"; reemplazan a los anillos en la ceremonia (Cap. 12H.6). `CONFIRMED`.
+## Las alianzas de plata y alerce (Ruta Harem)
+- Forjadas por el maestro Arai en Matsumoto con madera sagrada de alerce de Sakura-machi y plata pura, diseñadas con cuatro ranuras simbólicas en el anillo de Hiroshi que encajan con los patrones de los de Yuki, Mika, Ren y Saki (Caps. 27H y 28H). `CONFIRMED`.
+- En el diseño preliminar (Cap. 12H.6 / Evento 010) se concibieron como cinco colgantes o piezas entrelazadas forjadas por Ren ("cinco piezas únicas que juntas forman un todo hermoso"). Ambas formas representan la alianza indivisible de los cinco.
+
+## Los cinco colgantes / emblemas de compromiso
+- Símbolos de unión complementarios diseñados en la forja comunitaria: piezas únicas entrelazadas que representan el todo familiar (Cap. 12H / 28H). `CONFIRMED`.
 
 ## Las herramientas forjadas por Ren
 - "Un conjunto de herramientas de cocina que ha forjado personalmente" — ofrenda de Ren en la ceremonia (12H.6). `CONFIRMED`.

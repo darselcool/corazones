@@ -1,8 +1,8 @@
 # CORAZONES EN EBULLICIÓN
 ## RUTA YUKI — CAPÍTULO 35Y: El Alumbramiento (Opción D)
 
-### ESCENA 35Y.1: El Gran Temporal de Diciembre y la Rotura de Aguas
-El invierno regresó a Sakura-machi con una ferocidad blanca e implacable a mediados de diciembre. Durante cuarenta y ocho horas ininterrumpidas, una ventisca siberiana de viento gélido descargó más de sesenta centímetros de nieve polvo sobre los tejados de alerce, aislando el valle medio de las carreteras provinciales y convirtiendo los caminos comunales en lechos intransitables de escarcha y hielo.
+### ESCENA 35Y.1: La Madrugada del Quince de Marzo y la Rotura de Aguas
+La madrugada del quince de marzo sorprendió a Sakura-machi con la última gran ventisca tardía del invierno. Durante horas ininterrumpidas, una ráfaga de viento gélido descargó más de cuarenta centímetros de nieve sobre los tejados de alerce, cubriendo el valle medio con un manto blanco y convirtiendo los caminos comunales en lechos resbaladizos de escarcha.
 
 En el interior del caserón, sin embargo, la vida latía con una calidez inexpugnable: la estufa de fundición del pabellón sur y los tiros de la cocina de leña devoraban leños secos de roble y alerce, manteniendo una temperatura constante de veintidós grados en las alcobas familiares.
 
@@ -47,7 +47,7 @@ Apretó los dientes, asintió con valentía suprema y se preparó para el pujo f
 ---
 
 ### ESCENA 35Y.3: El Llanto de Kira y la Mirada Azul
-A las seis de la mañana, cuando la ventisca exterior amainó y las primeras luces del alba de invierno comenzaron a teñir la nieve de un resplandor azul índigo y plateado, el trabajo de parto alcanzó su momento culminante.
+A las dos y cuarto de la tarde (2:15 PM), tras horas de trabajo de parto ininterrumpido en que el caserón entero sostuvo el esfuerzo de Yuki, mientras el temporal exterior comenzaba a ceder ante la luz limpia del sol de montaña, el alumbramiento alcanzó su momento culminante.
 
 —Dilatación completa —declaró el doctor Tanaka con voz firme y solemne—. En la próxima contracción, Yuki, toma una bocanada honda de aire, lleva la barbilla pegada al esternón y empuja hacia abajo con todas tus fuerzas. No grites hacia afuera; empuja con el vientre.
 
@@ -60,7 +60,7 @@ Yuki asintió, reuniendo las últimas reservas de energía que le quedaban en el
 
 Yuki tomó una bocanada de aire temblorosa, me miró a los ojos con una entrega que desafiaba a la muerte y volvió a empujar con toda la bravura de su sangre campesina.
 
-Y entonces, en medio del silencio blanco de la madrugada de Sakura-machi, el milagro se abrió paso en el mundo.
+Y entonces, en el corazón cálido del caserón de Sakura-machi, a las dos y quince minutos de la tarde en punto, el milagro se abrió paso en el mundo.
 Un llanto vigoroso, agudo y limpio resonó en la alcoba:
 *«¡Uwaaaah! ¡Uwaaaah! ¡Uwaaaah!»*
 

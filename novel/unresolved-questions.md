@@ -4,7 +4,7 @@ Preguntas que un capítulo nuevo podría responder, con su estado canónico actu
 
 1. ¿Qué compitió exactamente en Yuki y qué pasó en su colapso público? — `RESOLVED (Ruta Yuki, 22Y–24Y)`: competencia de Ginza, parálisis por perfeccionismo.
 2. ¿Murió la madre de Yuki en un accidente? ¿Dijo Matsui la verdad, mintió o distorsionó? — `RESOLVED (Cap. 21 y Ruta Yuki)`: Matsui distorsionó las cartas; la madre murió en paz con el recetario de la nota roja.
-3. ¿Qué le pasó a la hermana de Mika? ¿Murió? ¿Cuándo? — `RESOLVED (Ruta Mika, 22M–36M)`: Aoi Nakamura, enfermedad larga en la infancia; su dibujo de Sakura-machi fundó la vocación de Mika.
+3. ¿Qué le pasó a la hermana de Mika? ¿Murió? ¿Cuándo? — `RESOLVED (Ruta Mika, 22M–36M)`: Akari Nakamura, enfermedad larga en la infancia; su dibujo de Sakura-machi fundó la vocación de Mika.
 4. ¿Qué accidente mató al abuelo de Ren? ¿Hubo negligencia real? ¿Quién es Emi exactamente? — `RESOLVED (Ruta Ren, 22R–27R)`: Saburo Takahashi murió en una ventisca; cero negligencia de Ren; Moriyama perpetró el fraude; Emi es su prima ejecutiva en Tokio.
 5. ¿Qué acuerdo tenía Saki con los desarrolladores y qué amenaza legal persiste? — `RESOLVED (Ruta Saki, 22S–27S)`: Watanabe adquirió pagarés usurarios; el tribunal de Kioto decretó nulidad de pleno derecho y orden de arresto.
 6. ¿Saki es pariente de la familia Yamamoto del restaurante original? — `RESOLVED (Ruta Saki, 24S)`: Sí, bisnieta de la rama de Kioto cuyo hermano fundó el manantial y el mesón de Shinshu (altar y campanas de plata de las tres hojas de roble).

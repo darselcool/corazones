@@ -8,7 +8,7 @@
 ## Historia
 - Creadora de contenido digital en Tokio ("Contenido digital, principalmente... la cosa moderna", Cap. 3.1). Dejó esa vida; llevaba **tres meses viajando** ("De Tokyo! Pero antes de eso, de todas partes", Cap. 3.1). `CONFIRMED`.
 - "Aventura de autoconocimiento" (Cap. 3.1); también huyendo de productores y contratos (Cap. 21.3: "tienes contratos pendientes" — Kenji). `CONFIRMED`.
-- **Trauma núcleo — su hermana:** construyó su vida y carrera "para alguien que ya no está aquí" (Cap. 3.2, monólogo en el parque: "lo construí para ti, pero se siente tan... vacío sin ti"). La hermana "solía dibujar" pueblos como Sakura-machi; hacían galletas horribles en la cocina de mamá de niñas; "la persona más sabia que conocí". Cómo y cuándo perdió a su hermana: `UNKNOWN`. `CONFIRMED` que existe y que su pérdida es el eje de su máscara.
+- **Trauma núcleo — su hermana (Akari Nakamura):** construyó su vida y carrera "para alguien que ya no está aquí" (Cap. 3.2, monólogo en el parque: "lo construí para ti, pero se siente tan... vacío sin ti"). Su hermana Akari falleció hace cuatro años a causa de una enfermedad prolongada durante su infancia (`USER-CANON`, revelado en detalle en Ruta Mika, caps. 22M–36M y epílogo); solía dibujar pueblos idénticos a Sakura-machi con casitas de techos a dos aguas y le regaló a Mika su primera cámara compacta rota. La pérdida de Akari es la raíz de la vocación comunicativa de Mika y el eje que sostenía su máscara protectora.
 - "No sé cómo ser yo misma sin tener que actuar feliz todo el tiempo... He estado fingiendo estar bien durante tanto tiempo" (Cap. 3.2). `CONFIRMED`.
 
 ## Personalidad
@@ -35,7 +35,9 @@
 - "Tengo algunos ahorros" para la casa (Cap. 9H.6). `CONFIRMED`.
 
 ## Hijos
-- Madre de **Hana** (nacida el 15 de marzo, 2:23 PM; Cap. 15H.1). Hana "sonríe cada vez que huele algo cocinándose" (15H.2). Nota de nombre: ver `contradictions.md` (003).
+- **Ruta Harem:** Madre de **Hana** (nacida el 15 de marzo, 2:23 PM en el caserón comunal; Cap. 15H.1 / 36H). Hana "sonríe cada vez que huele algo cocinándose" (15H.2).
+- **Ruta Individual Mika:** Madre de **Hina Matsuda Nakamura** (nacida el 15 de marzo, 2:23 PM en el caserón comunal; Cap. 36M). Heredera de la panadería comunal, dibuja en el cuaderno de su tía Akari.
+- Nota de armonización de nombres: ver `contradictions.md` (003). Dualidad canónica según la ruta elegida.
 
 ## Gramática sensual (autor, 15/09/2026)
 - **Firma: *naturalidad aprendida*.** Su cuerpo se coloca solo (busca la luz, cae de perfil al reír) porque lleva años delante de una cámara; **no lo hace para Hiroshi**, y eso es precisamente lo que descoloca a Hiroshi. `USER-CANON (autor)`; anclado en *«Naturalmente fotogénica. Como alguien acostumbrada a ser observada»* (Cap. 3.1). `CONFIRMED`.
@@ -62,7 +64,7 @@ Caps. 3–15H (ausente en Caps. 1–2).
 ## Ruta Mika (canon de autor, 14/09/2026)
 
 - Protagonista romántica de la **Ruta Individual C** (Opción C, Cap. 21): final "El Corazón Auténtico". Mika es la ganadora; Yuki, Ren y Saki no se alejan — le ofrecen apoyo como familia mientras desarrolla su historia. Estructura completa en `routes.md`; final en `endings.md`. Excluyente con la Ruta Harem.
-- Rama Mika: caps. 22M–28M — **diseño profundo completo en `routes/ruta-mika.md`** (escenas, elecciones, fanservice, cierre de cabos). Pendiente de redactar como narrativa.
+- Rama Mika: caps. 22M–36M — **15 capítulos narrativos completos (100% redactados)** en `routes/ruta-mika/` con escenas opcionales y epílogo post-créditos; diseño profundo completo en `routes/ruta-mika.md` (escenas, elecciones, fanservice, cierre de cabos).
 
 ## Acto II — escalones y registro (tronco común, `USER-CANON`, 15/09/2026)
 

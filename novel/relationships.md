@@ -25,19 +25,19 @@ Hiroshi admite sentimientos hacia las cuatro; pacto de honestidad y preservació
 Chapter 05 (5.8):
 El pasillo de la cocina: roce y contacto por encima de la ropa a sesenta centímetros de los demás; Yuki no se aparta y es ella la que da el medio paso hacia atrás —«no me digas que fue un accidente. Yo no voy a decir que lo fue»—, con el cuerpo delatándola y el pulso intacto. Interrupción de Mika y Ren en el pico. Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 07:
+Capítulo 21 (orig. Cap. 7):
 Hiroshi la defiende públicamente de Matsui ("lo que vi fue amor", 21.6).
 
-Chapter 08:
-Confiesa "Yo tampoco [puedo fingir]" (8.1). Integra la familia poliamorosa (8.2).
+Capítulo 22H (orig. Cap. 8):
+Confiesa "Yo tampoco [puedo fingir]" (8.1 / 22H). Integra la familia poliamorosa (8.2 / 22H).
 
-Chapter 09H:
-Primer beso grupal: "más tímido pero más profundo" (9H.4). Celos manejados con comunicación (9H.2).
+Capítulo 23H (orig. Cap. 9H):
+Primer beso grupal: "más tímido pero más profundo" (9H.4 / 23H). Celos manejados con comunicación (9H.2 / 23H).
 
-Chapter 12H:
-Esposa en la ceremonia; su ofrenda: un plato "de técnica perfecta aplicada con amor imperfecto" (12H.6).
+Capítulo 27H–28H (orig. Cap. 12H):
+Esposa en la ceremonia; su ofrenda: un plato "de técnica perfecta aplicada con amor imperfecto" (12H.6 / 28H).
 
-Chapter 14H–15H:
+Capítulos 34H–36H (orig. Caps. 14H–15H):
 Madre de Kira. Enseña en la "Escuela de Técnicas Culinarias Yuki".
 
 Current state:
@@ -60,20 +60,20 @@ Chapter 05 (5.4, extendido):
 Chapter 05 (5.10):
 El cierre del mercado: Mika abre el juego en su idioma («llevo dos semanas sin saber dónde poner las manos delante de ti. **Yo.** Con las manos») y concede en voz alta lo que permite («puedes bajarme las manos a la cintura sin pedirme nada. La boca no: la boca la tengo entrenada y no quiero aprobar un examen»), a oscuras con la persiana ya a media altura. **El corte no lo firma ninguna heroína: lo trae el mundo** — tres golpes de puño en la chapa y la Señora Watanabe pidiendo miso: Mika sube la persiana cuarenta centímetros y atiende con la cara de marca, que le vuelve **en segundo y medio** delante de una clienta real. Su cierre, en clave de tienda: «esto no lo hemos cortado tú ni yo. **Lo ha cortado el mostrador**». **Nada se consuma**; no pronuncia la palabra «parar» y siembra 20.6 («la próxima vez te pongo una caja atravesada en el pasillo»). Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 06 (20.6):
+Capítulo 20 (20.6):
 Las cajas del almacén: Mika **tiende la trampa** y lo declara («llevo media hora pensando en cómo ponerla… lo más honesto»), juega con la broma y con la cámara ausente, y su risa de marca se convierte en risa baja que no está hecha para que la oigan. Interrupción de Yuki y Saki en el pico. Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 07:
+Capítulo 21 (orig. Cap. 7):
 Él la protege de las cámaras y del productor Kenji (21.6).
 
-Chapter 08:
-"Después de ayer, ya no puedo fingir" (8.1).
+Capítulo 22H (orig. Cap. 8):
+"Después de ayer, ya no puedo fingir" (8.1 / 22H).
 
-Chapter 09H:
-Celos frente al vínculo Hiroshi–Yuki; regla de nombrar los celos sin acusaciones (9H.2). Primer beso grupal: "dulce, familiar, cálido" (9H.4).
+Capítulo 23H (orig. Cap. 9H):
+Celos frente al vínculo Hiroshi–Yuki; regla de nombrar los celos sin acusaciones (9H.2 / 23H). Primer beso grupal: "dulce, familiar, cálido" (9H.4 / 23H).
 
-Chapter 12H–15H:
-Esposa; ofrenda: álbum de fotos (12H.6); madre de Hana; dirige el "Centro de Innovación Gastronómica Mika" (14H.1); graba el "proyecto bebé" (14H.3).
+Capítulos 27H–36H (orig. Caps. 12H–15H):
+Esposa; ofrenda: álbum de fotos (12H.6 / 28H); madre de Hana; dirige el "Centro de Innovación Gastronómica Mika" (14H.1 / 31H); graba el "proyecto bebé" (14H.3 / 34H).
 
 ## Hiroshi → Ren (y Ren → Hiroshi)
 
@@ -92,17 +92,17 @@ Escalada al límite con las manos ocupadas: es ella la que le coloca la mano lib
 Chapter 05 (5.9):
 Los sacos de harina del almacén: juego como **duelo** con las manos ocupadas («el primero que se mueva pierde… aquí eso es suficiente»); no se sonroja, no acelera y gana ella — es Hiroshi quien no puede moverse. Grieta: «No me tiemblan las manos. Y me tendrían que temblar». Interrupción de Saki y Yuki. Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 07:
+Capítulo 21 (orig. Cap. 7):
 Él la defiende de Emi ("accidentes trágicos pasan", 21.6).
 
-Chapter 09H:
-Límite declarado: intimidad física solo con Hiroshi "no todavía" (9H.3). Primer beso grupal: "sorprendentemente gentil" (9H.4).
+Capítulo 23H (orig. Cap. 9H):
+Límite declarado: intimidad física solo con Hiroshi "no todavía" (9H.3 / 23H). Primer beso grupal: "sorprendentemente gentil" (9H.4 / 23H).
 
-Chapter 10H:
-Crisis mayor: expulsa a su madre de la casa; "Por primera vez en mi vida, no me siento culpable por elegirme a mí misma" (10H.4).
+Capítulo 24H (orig. Cap. 10H):
+Crisis mayor: expulsa a su madre de la casa; "Por primera vez en mi vida, no me siento culpable por elegirme a mí misma" (10H.4 / 24H).
 
-Chapter 12H–15H:
-Esposa; forja las herramientas de la ceremonia y los cinco colgantes (12H.6); madre de Tomo; dirige el "Mercado Comunitario Ren" (14H.1).
+Capítulos 27H–36H (orig. Caps. 12H–15H):
+Esposa; forja las herramientas de la ceremonia y los cinco colgantes (12H.6 / 28H); madre de Tomo; dirige el "Mercado Comunitario Ren" (14H.1 / 31H).
 
 Current state:
 Pareja de Hiroshi; brazo ejecutor y estándar de excelencia del grupo. `CONFIRMED`.
@@ -121,17 +121,17 @@ Escalada al límite administrada por ella, en el estante de los tés: le pone la
 Chapter 05 (5.11):
 La puerta de su casa: Saki sube al escalón del zaguán —él mira **desde abajo** por primera vez—, le pone la palma abierta en la cabeza («cuatro dedos… siempre me he preguntado cómo se veía esto desde abajo») y **declara la regla y el plazo**: «esta puerta no se abre esta noche» · «un todavía sin fecha es un no disfrazado… te voy a dar la fecha cuando la sepa». La razón es el precedente de su tío (5.6) —«eso no es miedo. Es orden»—, no el miedo. **La llave entra en el hueco y no gira**: la parada la firma ella. Detalle-firma: **es la primera vez que le miente**, y miente sobre un temblor propio («ha sido la puerta. Está floja»). Cierre: «la llave la giro yo. Ni el pueblo, ni las ganas, ni el sábado» + el encargo del bote bueno del estante alto (eco de 5.6 y siembra de 20.7). **Nada se consuma.** Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 06 (20.7):
+Capítulo 20 (20.7):
 La despensa: Saki **concede** y es la única que habla con la verdad física encima; le coloca la mano abierta sobre la cintura y le entrega la frase-puerta («no es una pregunta, Hiroshi. Es una puerta. Si no la vas a cruzar, no la toques»). Permiso explícito («cuando yo diga basta, es basta. Hoy no lo he dicho») y despedida-cita: «la despensa tiene puerta». Interrupción de Ren y Mika. Material de autor, 15/09/2026 (`USER-CANON`).
 
-Chapter 07:
+Capítulo 21 (orig. Cap. 7):
 Él la defiende del desarrollador Watanabe (21.6).
 
-Chapter 08:
-Nombra "una familia poliamorosa" (8.2); diseña las reglas de convivencia (8.6H).
+Capítulo 22H (orig. Cap. 8):
+Nombra "una familia poliamorosa" (8.2 / 22H); diseña las reglas de convivencia (8.6H / 22H).
 
-Chapter 12H–15H:
-Esposa; ofrenda: receta-fusión de las técnicas de todos (12H.6); madre de Mei; dirige el "Restaurante Patrimonio Saki" (14H.1); coordina el proyecto bebé (14H.3). Despierta a Hiroshi el día del parto: "Ya es hora" (15H.1).
+Capítulos 27H–36H (orig. Caps. 12H–15H):
+Esposa; ofrenda: receta-fusión de las técnicas de todos (12H.6 / 28H); madre de Mei; dirige el "Restaurante Patrimonio Saki" (14H.1 / 31H); coordina el proyecto bebé (14H.3 / 34H). Despierta a Hiroshi el día del parto: "Ya es hora" (15H.1 / 36H).
 
 Current state:
 Pareja de Hiroshi; estratega, sabia y organizadora del clan. `CONFIRMED`.

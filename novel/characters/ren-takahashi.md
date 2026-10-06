@@ -54,6 +54,14 @@
 
 ## Presencia por capítulos
 Caps. 4–15H (ausente en Caps. 1–3).
+
+## Ruta Ren (canon de autor)
+- Protagonista romántica de la **Ruta Individual B** (Opción B, Cap. 21): final "El Acero Templado / El Legado Forjado".
+- Rama Ren: caps. 22R–36R (15 capítulos narrativos desarrollados al 100%).
+- Romance exclusivo Hiroshi–Ren; Saki, Mika y Yuki permanecen en el caserón comunal como socias de la cooperativa y familia elegida.
+- Hija canónica: **Tomo Matsuda Takahashi** (nacida el 15 de marzo a las 2:31 PM en el caserón comunal; carácter indomable, heredera de la fragua y la cocina).
+- Escenas explícitas sin elipsis: 25R.4, 30R.4 y 33R.4 (concepción de Tomo).
+- Cierre de arcos: Emi (prima corporativa de Tokio) y el fraude de Moriyama son desmontados; reivindicación del legado de Saburo Takahashi.
 ## Acto II — escalones y registro (tronco común, `USER-CANON`, 15/09/2026)
 
 - **N1 — Cap. 10, escena 10.7 «El pozo».** Nace del trabajo y del frío, en el patio del taller, a doce grados bajo cero: doce cubos de agua sacados a mano después de un día de cuesta, un corte de cuerda en la base del pulgar y los guantes **en el bolsillo** porque «estorban para contar». El contacto lo abre Hiroshi (le coge las manos sin pedirlas —primera vez desde octubre—) y **ella pone la regla encima**: «Cuarenta segundos. Y los cuento yo.» Se queda con las **botas plantadas**, las dos piernas sin cruzar y la corva tensa —**sin corregir la postura**—, cuenta en voz baja mirándole la clavícula y a los treinta segundos **apoya la frente en su hombro** y sigue contando; a los cuarenta se aparta un paso **sin disculparse**, escribe dos renglones con la linterna en la boca y lo deja dicho: «Esto ha sido que tenía las manos muertas y tú estabas aquí. No lo conviertas en otra cosa.» **Nada por debajo de la ropa, ningún beso, nada se consuma.**

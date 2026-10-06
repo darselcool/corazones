@@ -13,7 +13,7 @@ La **Ruta Saki (22S–36S)** es el desenlace canónico individual cuando Hiroshi
    - **Capítulo 25S.4:** Primera entrega carnal en el pabellón tradicional de té (*El Deshielo de la Seda*).
    - **Capítulo 30S.4:** Noche de bodas tras el rito tradicional sintoísta de montaña y Kioto (*La Noche de los Dos Linajes*).
    - **Capítulo 33S.4:** Fecundación y concepción carnal en el lecho conyugal bajo la luna de mayo (*El Agua que Engendra la Vida*).
-4. **Hija Canónica:** **Mei Matsuda Yamamoto** (nacida el 15 de marzo, 2:38 PM en el hospital de la comarca con el Dr. Yamamoto; de mirada contemplativa, paladar prodigioso y futura autora de la *Enciclopedia Gastronómica de Sakura-machi*).
+4. **Hija Canónica:** **Mei Matsuda Yamamoto** (nacida el 15 de marzo, 2:38 PM en el caserón comunal con la asistencia del Dr. Yamamoto y la comadrona Sasaki; de mirada contemplativa, paladar prodigioso y futura autora de la *Enciclopedia Gastronómica de Sakura-machi*).
 5. **Idioma:** Español de México auténtico y natural (*camioneta, cuarto, platicar, chamarra, zaguán, estacionar*), libre de modismos peninsulares y sin rupturas de cuarta pared.
 
 ---

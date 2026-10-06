@@ -1,520 +1,427 @@
 CAPÍTULO 9: LA CARA QUE NO SE QUITA
+ESCENA 9.1 - DOMINGO A LAS CINCO Y DIEZ
 
-ESCENA 9.1 - EL DOMINGO EN PENUMBRA
+NARRACIÓN: El domingo me desperté a las cinco y diez, con la casa todavía negra y el cuerpo despierto de golpe, como se despierta uno en un hotel cuando le cambian el turno. Bajé en jersey y calcetines con la idea de encender la estufa antes de que se levantaran las otras tres, y en el último escalón me paré, porque en la cocina había alguien y no había luz.
+NARRACIÓN: Mika estaba sentada en el banco, con la espalda contra la pared y los tobillos cruzados, el pelo suelto en vez de la coleta, una manta de la despensa por los hombros y un trozo de pan del jueves en la mano. La ventana del patio daba la única claridad de la habitación, esa luz azul y sucia que tiene la primera hora del día cuando fuera todavía hay hielo, y con esa luz se le veían las cosas que no se ven con la bombilla encendida: los hombros dos centímetros más abajo, la boca cerrada de otra manera, y los pies descalzos.
+MIKA: [Sin girarse] "No me mires."
+HIROSHI: "No te estoy mirando."
+MIKA: "Sí me estás mirando. Lo noto. Llevo ocho años notándolo y no he fallado nunca."
+NARRACIÓN: No dijo nada más durante un minuto entero, y en ese minuto el único ruido de la casa fue el hilo de agua del taller cayendo en la pila, que llevaba cuatro días sin parar y que ya forma parte del silencio de esta casa como la caldera. Después estiró el brazo hacia el interruptor que tiene a un metro y no lo encendió.
+MIKA: "¿Te importa que no encienda la luz?"
+HIROSHI: "No."
+MIKA: "Es que si enciendo la luz me pongo la cara en dos segundos, sin querer, como se estornuda. Y hoy no la quiero. Hoy es domingo."
+NARRACIÓN: Me senté en el suelo, delante de la puerta de la estufa fría, con la espalda apoyada en la chapa, y no la miré, para que fuera verdad lo que le había dicho. Pero con la vista al frente se me quedó en el rabo del ojo el trozo de pan: dos dedos de pan del jueves, duro como una piedra, comido a mordiscos pequeños con el canto de los dientes, sin nada encima.
+HIROSHI: "Ponlo en la puerta de la estufa y te lo tuesto."
+MIKA: "Está bueno así."
+HIROSHI: "Está duro."
+MIKA: "Está bueno así, duro y todo. Lo que pasa es que aquí el pan duro tiene estatus de reliquia porque Yuki no tira uno, y yo, que soy la panadera, no le voy a decir que el pan de hace cuatro días está duro, porque lo sabe."
+NARRACIÓN: Se rió con la boca cerrada, dos segundos, sin volumen, y esa risa corta y sin público es la única que le he oído en esta casa desde octubre: la que no está hecha para que la oiga nadie. Luego dejó el pan en el banco, se abrazó las rodillas y habló hacia la ventana.
+MIKA: "Me he despertado a las cuatro y media. Como todos los días. Y a las cuatro y media no había nada que hacer: hoy no hay horno, no hay masa que suba, no hay clase, no hay mercado. Así que he ido al taller, le he dado de comer a la masa madre como todos los días, le he puesto el trapo por encima y me he quedado diez minutos mirando el cubo. Y he vuelto."
+HIROSHI: "Diez minutos."
+MIKA: "Diez. Con la linterna apagada y la puerta abierta. No había nada más que hacer en esta casa a las cinco de la mañana, y me he dado cuenta de una cosa que no sabía."
+NARRACIÓN: Se quedó callada, y yo esperé, porque ya he aprendido que el silencio de Mika antes de una frase importante dura exactamente lo que dura el eco del agua en la pila.
+MIKA: "La cara no se me cae cuando no hay nadie. Se me cae cuando no hay nada que hacer. Es distinto y es peor, porque significa que este invierno he estado bien por el trabajo y no por mí."
+NARRACIÓN: Ren bajó a las seis con el cuaderno y el jersey de lana por encima del pijama, y con las orejas rojas del frío del pasillo, y se sentó en el otro extremo de la mesa sin decir «hola» y sin mirar a Mika ni una vez. Abrió el cuaderno por la página del domingo, sacó el bolígrafo y durante los veinte minutos siguientes leyó en voz baja las cuentas de la semana, una detrás de otra, como quien reza: la leña, los kilos, las noches de guardia, el agua del taller, el roble que queda.
+REN: [Leyendo] "Existencias a domingo: leña del cobertizo, cero. Roble del señor Kimura, ciento cuarenta kilos. Arroz, nueve kilos. Harina, catorce. Gas: dos bombonas y un tercio. Noches de helada: cuatro. Cristales partidos: uno, tapado con cartón y cinta. Promedio de temperatura interior de la semana: once grados y cuatro décimas. Y la masa madre de Mika: viva."
+MIKA: [Sin levantar la cabeza] "Ren."
+REN: "Lo he leído porque es domingo y los domingos se lee la cuenta. Y porque así tengo la boca ocupada y no digo otras cosas."
+HIROSHI: "¿Qué otras cosas?"
+REN: [Cerrando el cuaderno] "Nada. Que hoy no se trabaja."
+NARRACIÓN: Yuki bajó a las seis y media, ya vestida y con el pelo recogido, con el cuaderno azul de las clases en una mano y el termómetro de la freidora en la otra, y al entrar en la cocina vio a Mika con el pelo suelto, la manta y los pies descalzos, y no cambió el paso, ni la voz, ni la cara. Puso el termómetro en el mármol, se acercó al banco y le hizo la única pregunta que había que hacer.
+YUKI: "¿Has dormido?"
+MIKA: "Cinco horas y media."
+YUKI: "Cinco y media en invierno y con la casa a once grados es un turno de cocina. Te has ganado el domingo. Yo voy a repasar el menú de abril; si alguien me oye hablar sola en el taller, es eso."
+NARRACIÓN: Y se fue, y en la puerta se paró un segundo para decir la otra cosa, la que llevaba desde el jueves sin decir, y la dijo mirando el marco y no a ninguna de las dos.
+YUKI: "El pan estaba bueno, Mika. No el de ayer: el del jueves. Lo he pensado cuatro días y llevo desde el viernes queriendo decírtelo sin la parte de la verdad de delante."
+MIKA: [Con la voz ronca] "Gracias."
+YUKI: "De nada."
+NARRACIÓN: Saki bajó la última, a las siete y cuarto, con el abrigo de su padre puesto y las llaves en la mano, y se quedó en el umbral con las cejas un poco subidas, mirando la escena entera: la panadera sin coleta, la contable con el cuaderno cerrado, el cocinero en el suelo. No preguntó nada, porque Saki no pregunta lo que ya está dicho.
+SAKI: "Voy a casa de la señora Watanabe, que lleva tres días con la ventana cerrada y ayer le vi la luz a las once. En este pueblo los domingos no se trabaja y no se pregunta, así que aprovechad los dos, que hoy es el único día del mes en que la calle no está mirando. Y volveré con noticias, que siempre vuelvo."
 
-NARRACIÓN: El domingo me desperté antes del amanecer, con la casa todavía sumida en una negrura helada y el cuerpo en alerta, con esa memoria muscular que no sabe de descansos. El salón del viejo restaurante, donde habíamos dormido los cinco alineados sobre los futones tras el reventón del radiador de arriba, guardaba todavía el vaho tibio y espeso de nuestras respiraciones. La conmoción de lo vivido apenas unas horas antes —esa marea ardiente bajo las mantas donde habíamos estado a un solo roce de cruzar juntos todos los límites, antes de que el zarpazo de la ventisca reventara la contraventana del patio y nos devolviera al frío de golpe— flotaba aún entre las sombras como una brasa viva. Con cuidado de no hacer crujir el entarimado, sorteé los bultos de las mantas: el perfil silencioso de Ren acurrucada con el edredón hasta la barbilla, el suspiro acompasado de Yuki y la postura lánguida de Saki con el abrigo sobre los hombros. Me deslicé descalzo hacia la cocina con la intención de avivar la estufa antes de que el frío de las vigas cayera a plomo sobre todos. Al entrar me detuve: en la penumbra ya había alguien, y no había encendido una sola cerilla.
-
-NARRACIÓN: Mika estaba sentada en el banco de madera, con la espalda pegada a la pared encalada y los tobillos cruzados sobre el suelo de piedra. Llevaba el pelo completamente suelto, cayéndole en ondas oscuras sobre los hombros en lugar de su habitual coleta tensa, una manta gruesa de la despensa envolviéndole el pecho y un mendrugo de pan de la hornada anterior entre los dedos. La ventana que daba al patio interior dejaba pasar la única claridad del cuarto: esa luz azulada, espectral y limpia que precede al alba cuando la escarcha cubre los tejados. Con esa penumbra se le adivinaba lo que la luz eléctrica siempre borraba: los hombros caídos con un cansancio infinito, las líneas de la boca desarmadas y la piel limpia de cualquier artificio. 
-
-MIKA: [Sin girarse, con la voz tomada por la vigilia] "No me mires."
-
-HIROSHI: "No te miro."
-
-MIKA: "Sí que me miras. Lo noto en la nuca. Llevo años intuyendo cuándo hay ojos encima y no fallo nunca."
-
-NARRACIÓN: No dijo nada más durante un rato largo. En ese lapso, el único latido de la casa fue el murmullo continuo del hilo de agua del taller que caía en la pila de piedra para que la helada no reventara otra tubería, un rumor que se había vuelto tan inseparable de nosotros como el crujido de la madera vieja. La vi estirar la mano pálida hacia el interruptor de la pared, vacilar con los dedos rozando la baquelita y dejarla caer de nuevo sobre su regazo.
-
-MIKA: "¿Te importa que nos quedemos a oscuras?"
-
-HIROSHI: "Para nada."
-
-MIKA: "Es que si le doy a la llave me pongo la cara en un pestañeo. Sin querer. Como quien tose o se tapa del viento. Y hoy no quiero esa máscara. Hoy es domingo."
-
-NARRACIÓN: Me senté en el suelo, arrimando la espalda a la chapa aún tibia de la estufa apagada, manteniendo la mirada al frente para no quebrantar su tregua. Aun así, de reojo, la silueta de sus manos me atrapaba: sostenía dos dedos de pan duro como un guijarro, comiéndoselo a pellizcos mínimos, casi con reverencia, con la mirada perdida en las vigas del techo. La cercanía en esa cocina fría traía de golpe el peso de la noche: no solo la intimidad febril en el cuarto del calentador, sino el fuego compartido en los futones del salón, sus labios desesperados contra los míos y la certeza de que ambos habíamos estado a punto de perder la cabeza antes de que el viento nos golpeara la cara.
-
-HIROSHI: "Pon ese pan sobre la puerta de hierro, que todavía guarda rescoldo y te lo tuesto un poco."
-
-MIKA: "Así está bien."
-
-HIROSHI: "Está como una tabla."
-
-MIKA: "Está perfecto así. En esta casa el pan duro es casi un amuleto porque Yuki no consiente que se tire ni una miga, y yo, que soy la panadera, no voy a quejarme de lo que cuesta masticar un pedazo de harina vieja cuando sé lo que vale cada grano."
-
-NARRACIÓN: Dejó escapar una risa breve, muda, para sus adentros, de esas que no buscan agradar a nadie ni pedir permiso. Soltó el pan en el banco, se rodeó las rodillas con los brazos y apoyó la barbilla en la tela de la manta, contemplando el azul pálido del cristal.
-
-MIKA: "Me desvelé mucho antes del alba. Como siempre. Y cuando abrí los ojos me di cuenta de que no había ninguna urgencia: no había fuego que encender, no había que bolear, no hay clases ni mercado. Bajé al taller casi a tientas, alimenté a la masa madre con un puñado de harina y un chorro de agua tibia, le eché el trapo por encima y me quedé quieta en la sombra, mirando el cubo de cedro. Durante un buen rato. Sola."
-
-HIROSHI: "¿Y qué viste?"
-
-MIKA: "Nada. Que no había nada más que hacer en este caserón a estas horas. Y entonces me di cuenta de algo amargo que no había querido admitir."
-
-NARRACIÓN: Hizo una pausa, tragando saliva. La respiración se le acompasaba con el goteo lejano de la pila.
-
-MIKA: "La cara no se me cae cuando estoy sola. Se me cae cuando no hay faena. Es muy distinto, Hiroshi, y es mucho peor. Significa que este invierno no he estado en paz por mí misma, sino porque el trabajo me tapaba el hueco."
-
-NARRACIÓN: Ren entró desde el comedor contiguo cuando la claridad ya empezaba a teñir las esquinas de blanco. Venía abrigada con un jersey grueso de lana cruda sobre el pijama, las orejas encendidas por el relente y el cuaderno negro aferrado bajo el brazo. Se sentó en la otra punta de la larga mesa de roble sin cruzar palabra, con esa distancia cautelosa que intentaba recuperar tras la conmoción de la noche en los futones, evitando mirar directamente a Mika o a mí. Abrió las páginas rayadas y comenzó a desgranar en voz baja las existencias, como quien desgrana un rosario laico para aferrarse a la tierra firme.
-
-REN: [Con la vista fija en las columnas de tinta] "Estado del almacén al alba: leña menuda en el cobertizo, agotada. Troncos de roble del señor Kimura, buen montón junto al muro. Harina de fuerza, sacos intactos para una semana larga. El gas aguanta. Sin novedades de roturas tras la purga del salón. Y el fermento de Mika... vigoroso."
-
-MIKA: [Sin levantar la cara de las rodillas] "Ren."
-
-REN: "Leo lo que hay porque es el recuento del domingo. Y porque teniendo los números en la boca me ahorro decir tonterías."
-
-HIROSHI: "¿Qué clase de tonterías?"
-
-REN: [Cerrando las tapas de golpe, con un chasquido seco] "Ninguna. Que hoy toca descanso."
-
-NARRACIÓN: Poco después apareció Yuki. Venía ya peinada con su pulcritud de costumbre, el mandil de lino limpio doblado en el antebrazo y su cuaderno de recetas bajo el brazo. Al ver a Mika en el banco, despeinada, descalza y envuelta en la manta, sus ojos no juzgaron; simplemente midieron la fatiga con la sabiduría física de quien sabe lo que castiga un obrador. Se acercó a la mesa, dejó sus notas sobre la madera y se detuvo junto a ella con naturalidad serena.
-
-YUKI: "¿Pudiste descansar?"
-
-MIKA: "Unas cuantas horas."
-
-YUKI: "Dormir con la casa helada y tras la brega de estos días es un milagro. Tómate el día con calma, Mika. Yo subiré a revisar las notas del menú de primavera; si escuchas murmullos en el piso de arriba, no te asustes, soy yo repasando los pasos en voz alta."
-
-NARRACIÓN: Hizo ademán de marcharse, pero en el umbral se frenó un instante. Se volvió apenas medio cuerpo, mirando la jamba de madera gastada con esa timidez áspera y honesta que le era tan propia.
-
-YUKI: "El pan de estos días atrás... tenía muy buen sabor, Mika. El que sacamos antes de la helada, sí, pero sobre todo el que comimos anoche todos juntos. Llevaba horas dándole vueltas en la cabeza y quería decírtelo así, sin buscarle más vueltas ni ponerle adornos técnicos."
-
-MIKA: [Con un nudo en la garganta] "Gracias, Yuki."
-
-YUKI: "A ti."
-
-NARRACIÓN: La última en bajar fue Saki, cuando el sol ya doraba las copas de los pinos en la loma. Traía puesto el chaquetón de paño de su padre y las llaves de latón tintineando en la palma. Se detuvo en la entrada observando el cuadro entero: la contable guardando el libro, la panadera desarmada, la cocinera silenciosa y yo recogiendo las cenizas frías. Sonrió de lado, con esa mezcla de ironía y ternura con la que siempre nos cubría las espaldas.
-
-SAKI: "Subiré a ver a la abuela Watanabe; lleva dos mañanas sin asomar al quicio y quiero asegurarme de que no se le ha apagado el brasero. Los domingos en este pueblo la gente se guarda en sus casas y nadie hace preguntas incómodas, así que aprovechad el respiro vosotros dos: hoy es el único día en que las ventanas de la cuesta no vigilan. Y no os preocupéis por el almuerzo, que ya traeré yo algo de la calle."
-
-*A primera hora, sin lámparas ni artificios, Mika me soltó la primera confidencia de estas semanas que no tenía cómo justificarse en una receta.*
-*«La cara no se me cae cuando estoy sola: se me cae cuando no hay nada que hacer.» Lo dijo con la amargura de un diagnóstico certero, y no supe qué rebatirle, porque a mí me ocurre lo mismo: llevo años escudándome en el trapo y los cuchillos para no tener que mirarme por dentro.*
-*Ren se refugió en sus cuentas para contener la emoción; Yuki elogió el pan desnudándolo de cualquier orgullo; y Saki se echó a la nieve para cuidar de los viejos del valle. Cada una tiene su trinchera en esta casa, y esta mañana las he visto a todas sostenerse sin que crujiera una sola viga.*
-*Y yo me quedé sentado en las baldosas frías, callado, entendiendo que a veces el mayor trabajo de un cocinero consiste en saber acompañar el silencio de los demás sin apresurarse a encender los fuegos.*
-
----
+*A las cinco y diez de la mañana, sin luz y sin coleta, Mika Nakamura me ha dicho la primera cosa de estas cuatro semanas que no tenía ningún sitio donde decirse.*
+*«La cara no se me cae cuando no hay nadie: se me cae cuando no hay nada que hacer.» Lo ha dicho ella, y yo no he sabido qué contestar, porque a mí me pasa exactamente lo mismo y llevo desde octubre llamándolo oficio.*
+*Ren ha leído la cuenta entera en voz alta para no mirarla; Yuki le ha dicho que el pan estaba bueno sin la parte de la verdad de delante; y Saki se ha ido al pueblo con las llaves de su padre a traer noticias. Las cuatro saben estar en una cocina difícil, cada una a su manera, y esta mañana no he visto fallar a ninguna.*
+*Y yo me he sentado en el suelo con la espalda en la puerta de una estufa apagada y he decidido no decir nada durante una hora entera. Para un hombre que lleva veinte años hablando en servicios, eso es el trabajo del día.*
 
 ESCENA 9.2 - LA CARA AL SOL
 
-NARRACIÓN: Salimos a media mañana, cuando el deshielo empezaba a ganar la partida a la sombra de los aleros. El valle entero rezumaba agua: los canalones escupían chorros cantarines sobre los adoquines, las ramas de los castaños se desprendían de sus costras de escarcha con chasquidos sordos y la cuesta principal de Sakura-machi despedía ese olor denso y vegetal a tierra empapada y humo de leña verde. Caminamos en silencio, esquivando los charcos y la nieve sucia amontonada en las lindes.
-
-NARRACIÓN: Mika caminaba pegada a mi costado, con las manos embutidas en los bolsillos del abrigo y una bufanda de lana tapándole la barbilla. Casi no se cruzaba un alma: apenas la furgoneta del cartero parada junto al puente y el ladrido lejano de un perro en las huertas. Torcimos por el sendero que rodea el templo viejo hasta desembocar en el pequeño parque del pueblo: tres bancos de tablones húmedos, un cerezo inmenso y dormido en el centro cuyas ramas desnudas prometían abril, y el estanque de carpas cubierto por una fina película de hielo lechoso perforada por las gotas del deshielo.
-
-NARRACIÓN: Se sentó en el banco que daba la espalda al pueblo, se retiró la bufanda con un suspiro y posó las dos palmas sobre sus rodillas enguantadas. Yo me quedé de pie a su vera, sintiendo el calor tibio del sol de invierno en la nuca.
-
-MIKA: "¿Te acuerdas de este rincón?"
-
-HIROSHI: "Claro."
-
-MIKA: "Yo también. Aunque me da rabia acordarme de la ropa que llevaba y de la maleta que traía, pero no de qué gesto tenía puesto en la boca. Es tremendo, ¿verdad? Recordar las cosas de fuera y haber borrado cómo te sentías por dentro."
-
-HIROSHI: "Aquel mediodía te vi desde la revuelta del camino. Venía del almacén con provisiones y me frené en seco al divisarte."
-
-MIKA: [Sin girarse, mirando cómo flotaba una hoja seca sobre el hielo] "Dime qué viste."
-
-HIROSHI: "Estabas ahí sentada, con el equipaje a los pies. No estabas llorando... al menos no como se llora cuando uno busca consuelo. Estabas hablando sola, gesticulando hacia el banco vacío de enfrente. En un momento dado hasta soltaste una carcajada limpia. Luego te quedaste rígida, como si una campana te hubiera devuelto a la realidad. Respiraste hondo, te recompusiste el abrigo, alzaste la barbilla con esa seguridad impecable y echaste a andar hacia la plaza como si fueras la dueña del mundo."
-
-NARRACIÓN: Giró el rostro despacio, mirándome con una mezcla de pudor y asombro bajo las pestañas húmedas.
-
-MIKA: "¿Cuánto rato te quedaste mirando?"
-
-HIROSHI: "Apenas un momento. El tiempo justo de comprender que no debía interrumpirte. Luego me di la vuelta y jamás se lo conté a nadie hasta hoy."
-
-MIKA: "Fue suficiente para pillarme a mitad del truco. La otra mitad, la que repito cada día desde que amanece, es la que no soy capaz de desactivar."
-
-NARRACIÓN: Se puso en pie de pronto. Dio un paso hacia mí, mirándose las punteras de las botas empapadas, tomó aire con fuerza y alzó los ojos, pidiéndome una atención despojada de complacencia.
-
-MIKA: "Fíjate bien en mí ahora. Mírame a los ojos. ¿Qué ves?"
-
-HIROSHI: "A ti. Con tu expresión resuelta."
-
-MIKA: "Exacto. Esta es la que conoce la señora Tanaka, la que sale en los vídeos, la que ve cualquiera que me cruza por la calle. Ahora no parpadees."
-
-NARRACIÓN: Ante mis ojos, Mika dejó caer los hombros un par de centímetros. La tensión que sostenía su cuello desapareció; los labios perdieron esa curvatura complaciente y la mirada se le llenó de una fatiga tan honda, tan tierna y desprotegida, que la mujer enérgica del obrador pareció desvanecerse en el aire. Fueron dos segundos apenas. Luego tomó aire bruscamente, se enderezó de nuevo y la coraza volvió a colocarse en su sitio sin el menor chirrido.
-
-HIROSHI: "Es como accionar una palanca."
-
-MIKA: "Eso le digo a la gente y se creen que bromeo o que exagero. No es una metáfora. Ocurre solo, en un parpadeo, y mi cuerpo lo hace sin pedirme permiso."
-
-NARRACIÓN: Volvió a sentarse y palmeó el listón de madera a su lado. Me senté a su vera, hombro con hombro, sintiendo el calor que despedía su lana a través de mi abrigo.
-
-MIKA: "Mira esto otro."
-
-NARRACIÓN: Se llevó las dos manos desnudas a las mejillas. Apretó con fuerza, frotándose la frente y la barbilla con lentitud, como queriendo arrancarse una costra invisible con las yemas de los dedos. Al apartar las manos y mirarme, la expresión seguía intacta, brillante y defensiva.
-
-MIKA: "¿Lo ves? No se borra. Por más que frote o me aísle los domingos, sigue ahí pegada."
-
-HIROSHI: "No parece una máscara postiza."
-
-MIKA: "Es que no lo es. Una careta te la arrancas y debajo queda lo que eres. Esto es como la ropa que tiendes al sol en una cuerda: se seca al aire bravo y cuando la recoges está acartonada, tiesa, guardando para siempre la forma del tendal. Ya no hay agua que la devuelva a su ser con las manos; ha perdido la maleabilidad. Yo puse mi carácter al sol cuando era una cría para que nadie me pisara, y se quedó rígido. Por más que hoy descanse, no cede."
-
-HIROSHI: "¿Y qué pasa cuando no estás ocupada?"
-
-MIKA: "Que me quedo como esta mañana en la cocina: desorientada, sintiendo el frío de las paredes y preguntándome qué queda de mí cuando nadie me está pidiendo una hogaza."
-
-NARRACIÓN: Se me escapó la pregunta que llevaba rondándome desde que la vi en el cuarto del calentador, esa que nadie se atrevía a formular en el caserón por pudor. Le pregunté quién la había obligado a secarse tan pronto. Mika no esquivó la mirada ni se cerró en banda; se limitó a contemplar las ondas del agua del estanque con una calma triste.
-
-MIKA: "Esa cuenta no toca pagarla en domingo."
-
-HIROSHI: "Entendido."
-
-MIKA: "No te lo niego por desconfianza, Hiroshi. Es solo que jamás se lo he dicho a nadie en voz alta y no voy a romper ese silencio en un banco público con el hielo cuarteándose. Pero hagamos un trato, de los que se cumplen sin excusas: el martes tengo que grabar el nuevo contenido para la red. Si consigo sacarlo adelante como es debido, esa misma noche te muestro algo que guardo bajo siete llaves. Y si me faltan las fuerzas el martes, será el miércoles sin falta."
-
-HIROSHI: "¿Qué clase de cosa?"
-
-MIKA: "La verdad. Sin filtros ni edición. Pero no me tires más de la lengua ahora, que se me desbarata el ánimo."
-
-NARRACIÓN: Emprendimos el regreso al mediodía bajo una resolana limpia que derretía los últimos carámbanos. Al enfilar la cuesta que pasaba bajo los ventanales de la señora Nakai, vi a Mika reajustarse el cuello del abrigo y alzar el rostro de golpe: la sonrisa cálida y el paso firme volvieron a florecer al instante. 
-
-MIKA: [En un susurro cómplice, sin perder la compostura de cara a la calle] "No te asustes. Sé que me están mirando desde el visillo y el cuerpo reacciona solo. Mañana abrimos la tiendecita del mercado con el suelo a medio reparar y hay que dar la cara. El oficio no me quita la coraza, pero al menos le da un sentido noble."
-
-*Estuvo sentada a mi lado desprovista de armadura durante casi una hora, y el mundo no se vino abajo.*
-*«Es como la ropa tendida al sol: se queda tiesa con la forma del tendal.» Jamás nadie me había explicado la soledad con una crudeza tan doméstica y certera.*
-*Me ha prometido abrirme una compuerta después de la grabación del martes. En esta casa donde todos callamos por respeto a las cicatrices ajenas, que Mika ofrezca voluntariamente una rendija de su pasado es un abismo que me asusta y me convoca a partes iguales.*
-
----
-
-ESCENA 9.3 - EL PAN DEL LUNES Y LA TIENDA DEL MERCADO
-
-NARRACIÓN: El lunes, mucho antes de que clareara, el caserón olía a fermento dulce y a leña de encina. Mika había dejado la masa levando al amor del fogón durante la noche, arropada con viejos lienzos y con la vigilancia paciente de Ren, que bajaba cada pocas horas a revisar el tiro de la chimenea. Antes del alba ya teníamos cuatro hermosas hogazas redondas reposando en vertical contra la pared encalada del taller, crepitando suavemente mientras perdían el calor sofocante del horno. 
-
-MIKA: [Envolviendo las piezas con paños limpios en una caja de madera] "Salgo ya. La señora Tanaka vive justo tras la tienda y me gusta barrer el portal y revisar los cajones de verduras antes de que asomen los primeros madrugadores."
-
-HIROSHI: "¿Te acompaño con el peso?"
-
-MIKA: "Ven si quieres, pero mantén un paso atrás. A primera hora el pueblo baja a comprar y ese es mi terreno."
-
-NARRACIÓN: El puesto de la señora Tanaka era un local angosto y venerable, encajado en un callejón del mercado: estantes de pino oscurecido por décadas de humo, un mostrador bajo de tablones macizos, una balanza de aguja con el cristal rajado y un olor penetrante a miso casero, alga deshidratada y serrín húmedo. En el centro del pasillo de baldosas rojas descansaba todavía una tabla gruesa de encofrar tapando el hueco donde la helada de días atrás había hecho estallar el codo de cobre de la toma de agua.
-
-MIKA: [Contemplando la tabla con las manos en la cintura] "Mira qué estampa. Jamás me vi atendiendo en un obrador con el suelo destripado. Y lo increíble es que no siento vergüenza ninguna."
-
-HIROSHI: "¿Y por qué habrías de sentirla?"
-
-MIKA: "Porque esto no es dejadez: es la huella del invierno. La helada no avisa a nadie, y quien entra aquí sabe lo que cuesta mantener el agua corriente cuando arrecia el norte."
-
-NARRACIÓN: Alzó la persiana metálica tirando del gancho de hierro con brío. El aire helado del amanecer se coló en el local, trayendo consigo el vaho de la calle y el primer rumor de pasos sobre el barro helado. Mika desplegó sobre el mostrador la hoja de precios que Ren le había caligrafiado con su pulcritud implacable: peso, costes y precios en tinta negra clara. Apenas terminaba de colocarla cuando apareció la señora Tanaka por la trastienda, embutida en un abrigo acolchado que le llegaba a los tobillos y con el libro de caja bajo el brazo.
-
-SEÑORA TANAKA: [Echando una mirada penetrante al papel de Ren y luego a las hogazas doradas] "Esa caligrafía cuadrada huele a contable de banco desde una legua. Pero las cuentas están bien tiradas: cuatrocientos cincuenta por una pieza de este porte es lo justo para el trabajo que lleva. La masa de la señora Ogawa salía más barata, claro, pero era pura agua y levadura química."
-
-MIKA: "Esta masa madre tiene su propio ritmo, señora Tanaka."
-
-SEÑORA TANAKA: "Lo sé de sobra, muchacha. Escúchame bien: este colmado pertenece a los míos desde hace medio siglo, y en estas hojas amarillas está escrito quién levantó el cierre cada bendito día de frío. Este invierno lo levantas tú, y quiero que estampes tu firma en el encabezado. Si los nietos preguntan quién mantuvo el pan caliente en el pueblo durante la peor helada que recordamos, van a leer tu apellido y no un apodo callejero."
-
-NARRACIÓN: Dejó el pesado libro sobre el mostrador, mojó la punta de una estilográfica antigua y marcó con trazo enérgico: «LUNES. Vía abierta. Atiende: Mika Nakamura». 
-
-SEÑORA TANAKA: "Aquí no hay «chicas del pan». A la gente que dobla el lomo se la nombra por su nombre y con respeto."
-
-NARRACIÓN: A lo largo de la mañana el goteo de vecinos fue constante. No venían únicamente por la hogaza; venían a comprobar cómo aguantaba el negocio, a curiosear la madera que tapaba la fuga, a recordar cómo en el setenta y nueve se reventaron los caños del lavadero comunal y a aspirar ese aroma denso y balsámico que despedía la masa madre de Mika.
-
-SEÑORA WATANABE: [Apoyando los nudillos nudosos en el mostrador] "Dame una de esas hogazas morenas y no me mires con cara de lástima por las reumas, que todavía me valgo sola. Anda, explícame de dónde sacas esa harina que huele a monte viejo."
-
-MIKA: "El fermento me acompaña desde hace ocho años, abuela. Me lo traje en el autobús de línea, bien abrigado con mantas y botellas templadas para que el viaje no lo durmiera."
-
-SEÑORA WATANABE: "Bendito sea el cielo. Eso no es harina, criatura: es ganado fino. Y a las bestias nobles hay que alimentarlas aunque a una se le parta el espinazo de cansancio."
-
-NARRACIÓN: Mika soltó una carcajada abierta, sonora y hermosa que llenó el local de par en par. La vi desenvolverse tras el mostrador con una soltura magnética: regalaba palabras amables a los ancianos, envolvía el pan en papel de estraza con rapidez y se adaptaba al compás de cada cliente. Hacia el mediodía se acercó un campesino menudo con la cara curtida por la ventisca; vació sobre la tabla un monedero raído contando monedas de diez en diez, deteniéndose compungido cuando vio que le faltaban unos pocos yenes para el importe total.
-
-MIKA: [Deslizando la hogaza hacia sus manos sin vacilar] "Lléveselo, está saldado."
-
-HOMBRE: "No me llega, señorita. Me faltan cincuenta yenes."
-
-MIKA: "Esta pieza salió de la segunda hornada, cuando el horno ya estaba dulce y no gastó tanta leña. Por eso sale más arreglada de precio. Mañana si baja le aparto otra igual."
-
-NARRACIÓN: El hombre recogió el paquete apretándolo contra el pecho con una reverencia silenciosa. Cuando la puerta de cristal se cerró, Mika se apoyó en el mostrador, sofocando una sonrisa cómplice mientras me miraba a los ojos.
-
-MIKA: "Es la primera vez en mi vida que digo una trola que suena a bendición."
-
-HIROSHI: "¿Te ha pesado la mañana?"
-
-MIKA: "Para nada. He tenido el local a rebosar, he mirado el agujero del suelo mil veces y en ningún momento he sentido la máscara apretándome las sienes. El trabajo honesto la sujeta sin ahogar. Hacía meses que no me sentía tan limpia."
-
-*Nueve hogazas despachadas, las deudas de harina anotadas y la confianza del vecindario sellada en un cuaderno con esquinas de cuero gastado.*
-*La señora Tanaka le exigió firmar con nombre y apellidos: en los pueblos viejos el respeto no se regala, se labra con harina en las uñas y el frío en los tobillos.*
-*Mika supo rebajar el pan a un anciano sin herirle el orgullo, inventándose una rebaja de horneado con la elegancia de una tabernera veterana. Esta tierra áspera le está devolviendo una nobleza que ningún plató de ciudad podría pagar.*
-
----
-
+NARRACIÓN: Salimos a las nueve y diez, después de que Ren cogiera el cuaderno de la estufa y dijera el turno en voz alta —«carga a las diez, carga a las dos, yo»— y de que Mika diera de comer a la masa madre por segunda vez, con la puerta del taller abierta y la escarcha crujiendo debajo de las botas. El pueblo, después de la helada, goteaba. Es lo que hace Sakura-machi cuando se rompe el hielo: los canalones, las ramas, los aleros y hasta las rejas sueltas sueltan agua a la calle, y la calle entera suena como una cocina en la que alguien está fregando en otro cuarto.
+NARRACIÓN: No había nadie. Un coche parado delante de la tienda de la señora Sato con la lona puesta, dos mujeres mayores subiendo la cuesta con las bolsas, y el humo de cuatro chimeneas, y eso fue todo el domingo del pueblo. Mika iba con las manos dentro de las mangas del abrigo y con el gorro hasta las cejas, y andaba a mi lado sin hablar, y a los doscientos metros torció a la izquierda y entramos en el parque del centro: cuatro bancos, un columpio con una cadena partida, un estanque de agua verde con una capa de hielo agujereada en el borde y un cerezo grande que en abril va a tapar todo eso.
+NARRACIÓN: Se sentó en el segundo banco, el que está debajo del cerezo y de espaldas a la calle, se bajó el gorro, se puso las dos manos entre las rodillas y se quedó mirando el estanque. Y yo me quedé de pie, a un metro, porque llevo tres meses aprendiendo a estar de pie donde se me pone.
+MIKA: "¿Te acuerdas de este banco?"
+HIROSHI: "Sí."
+MIKA: "Yo también. Yo me acuerdo de todo lo de ese día menos de lo que hice. Y eso es raro, ¿no? Acordarte de la ropa y no de la cara."
+HIROSHI: "Ese día yo te vi desde la esquina. Desde aquella esquina, con las dos bolsas."
+NARRACIÓN: No se giró. Se quedó mirando el hielo del estanque y durante unos segundos lo único que se movió fue el vapor de su boca.
+MIKA: "Cuéntamelo."
+HIROSHI: "Volvía del mercado con el arroz. Te vi sentada aquí, con la maleta al lado, y me paré en la esquina con las bolsas en las dos manos. Estabas hablando. No estabas llorando, o no como se llora cuando alguien mira: estabas hablando con el banco de enfrente."
+MIKA: "Con el banco de enfrente."
+HIROSHI: "Con el banco de enfrente. Movías las manos y hablabas, y en un momento te reíste. Y después te quedaste quieta, muy quieta, unos segundos, y luego respiraste, te enderezaste y te pusiste la cara, y te fuiste andando hacia el mercado como si tal cosa."
+NARRACIÓN: Se giró entonces, despacio, y me miró con las cejas juntas, no enfadada, sino como se mira a alguien que acaba de decir el número exacto que llevaba dos meses escondido.
+MIKA: "¿Cuánto tiempo me miraste?"
+HIROSHI: "Cuarenta segundos, contados. Desde la esquina. Y luego me fui a casa y no le dije a nadie que te había visto, y no te lo he contado hasta hoy."
+MIKA: "Cuarenta segundos es mucho, Hiroshi."
+HIROSHI: "Lo sé."
+MIKA: "Cuarenta segundos es que me viste hacer la mitad del truco. La otra mitad no la vio nadie, la de todos los días, la de ahora. Y es la que no sé quitar."
+NARRACIÓN: Se levantó del banco, se puso delante de mí a un paso, se miró las botas, respiró, y después hizo algo que no le había visto nunca: me pidió que la mirara con la instrucción puesta, como se pide que se mire una masa.
+MIKA: "Mírame ahora. Bien. ¿Me ves la cara de siempre?"
+HIROSHI: "Te veo la cara."
+MIKA: "Esta es la de siempre. Esta es la de la tienda, la del vídeo, la de la señora Tanaka y la de tu madre si algún día la conoces. Ahora mira."
+NARRACIÓN: Bajó los hombros, dejó caer la cabeza un poco a la derecha, dejó de sujetarse la mandíbula y se quedó mirándome desde abajo, con la boca cerrada y los ojos cansados, y en dos segundos delante de mí hubo dos personas distintas con la misma ropa puesta. Después volvió a respirar, se enderezó y me la devolvió sin decir nada.
+HIROSHI: "Es como un interruptor."
+MIKA: "Es como un interruptor. Eso lo he dicho yo muchas veces y la gente se ríe, porque cree que es una forma de hablar. No es una forma de hablar. Es una cosa que pasa en dos segundos y que no puedo parar."
+NARRACIÓN: Volvió a sentarse en el banco y me hizo sitio a su lado, y yo me senté, y durante un rato nos quedamos los dos mirando el hielo del estanque, que tenía una piedra encima y una hoja de cerezo congelada dentro, perfecta, a un dedo de la superficie.
+MIKA: "Ahora mira lo otro."
+NARRACIÓN: Cerró los ojos, se puso las dos palmas en las mejillas y apretó, como se aprieta para quitarse el sueño, y después se frotó la cara entera, de la frente a la barbilla, despacio, con las dos manos abiertas. Bajó las manos y me miró. Tenía la misma cara.
+MIKA: "¿Ves? No se quita. Se pone y no se quita. Llevo ocho años intentándolo los domingos y no se quita."
+HIROSHI: "Como una máscara no es."
+MIKA: "Como una máscara no es. Una máscara se la pone uno y se la quita, y si se la quita no le queda nada. Esto es al revés: esto se queda. Es más como…"
+NARRACIÓN: Se quedó buscando la palabra con la vista puesta en la hoja congelada, y encontró una que yo no esperaba, y la dijo con la voz baja y tranquila con la que da las temperaturas del horno.
+MIKA: "Es como la ropa tendida. La tiendes al sol y se seca, y cuando la recoges está tiesa: se ha quedado con la forma del tendedero. Y no puedes estirarla con las manos para que vuelva a ser blanda, porque el agua ya no está, ya se ha ido, y lo que queda es la forma. Pues la cara: yo la puse a los quince años al sol, y se ha secado. Los domingos la dejo tendida y no se ablanda. Vuelve igual."
+HIROSHI: "¿Y los días que no vuelve?"
+MIKA: "Los días que no vuelve son los que no hay nada que hacer, como hoy. Y esa es toda la novela, Hiroshi. No hay más."
+NARRACIÓN: Y entonces hice lo que llevaba una hora queriendo hacer y no había hecho, porque en esta casa todo el mundo respeta el silencio de todos menos yo, que soy el que pregunta: le pregunté quién le había puesto aquella cara a los quince años. Y ella no se enfadó, ni se rió, ni se puso la de siempre: se quedó mirando el estanque y contestó con una frase de contable, que es la frase que usa cuando le duele algo de verdad.
+MIKA: "Eso no es del domingo."
+HIROSHI: "Vale."
+MIKA: "No es que no quiera contártelo. Es que no lo he contado nunca y no voy a estrenarlo en un banco de un parque con un hielo que se rompe. Pero te voy a hacer un trato, y en mi idioma los tratos se cumplen, porque si no se cumplen no son tratos: el martes grabo, y después del martes te voy a enseñar una cosa. Y si el martes no me atrevo, el miércoles."
+HIROSHI: "¿Qué cosa?"
+MIKA: "La cosa. Y no preguntes más, que me desordeno."
+NARRACIÓN: Volvimos por la cuesta a las once con el sol ya alto y el pueblo goteando, y a la altura de la casa de la señora Nakai, que ve el pueblo entero desde su ventana, Mika hizo el truco sin avisar: enderezó los hombros, subió la cabeza, se puso el gorro de otra manera y le apareció la cara de siempre, entera, para subir cien metros de cuesta delante de una ventana. A mí me dio un frío que no era del aire.
+MIKA: [Ya con la cara puesta, en voz baja] "Ya está. No te asustes. Es que a cincuenta metros me veo, y cuando me veo me pongo. Es automático, como cerrar los ojos cuando te tiran algo."
+HIROSHI: "¿Y mañana?"
+MIKA: "Mañana abro la tienda con el suelo levantado y el codo partido, y el pueblo va a venir a ver el pan y las dos baldosas, y eso es trabajo. El trabajo no me la quita: el trabajo me la sujeta. Es el único sitio donde la cara y yo vamos en la misma dirección."
+
+*Mika ha estado cuarenta y cinco minutos sentada en un banco con la cara sin poner delante de un hombre, y no ha explotado nada, y yo he contado los minutos sin querer, como cuento los tiempos del pescado.*
+*«Es como la ropa tendida: se seca y se queda tiesa, con la forma del tendedero.» Así explica ella la única cosa que no sabe hacer: quitarse la cara. Y la explicó con la calma de quien ha pensado mucho en eso y no con la del que se da pena, que es una diferencia que solo se nota en la voz.*
+*Me ha dicho que el martes me va a enseñar «la cosa», y que si no se atreve el martes será el miércoles. Yo no he preguntado qué es. Llevo tres meses preguntando en esta casa y he aprendido que las cosas importantes de Mika se dicen por horas y por temperaturas, y que si se pregunta antes se desordenan.*
+ESCENA 9.3 - LA TIENDA A LAS SIETE
+
+NARRACIÓN: El lunes a las seis y veinte la casa ya olía a pan. Mika había hecho la masa el domingo por la noche, la había tenido toda la noche en el cuarto del calentador a veintiséis grados —Ren bajó a las tres, escribió la temperatura y volvió a subir—, y a las seis menos cuarto los cuatro panes estaban fuera del horno, de pie contra la pared, cantando. Los conté con ella: cuatro panes de seiscientos gramos, dos para la tienda y dos para la casa, y una barra pequeña de cuatrocientos que nadie había pedido y que ella había hecho «porque la masa sobraba y tirar masa es de gente que no ha pasado hambre».
+MIKA: "A las seis y cuarenta y cinco salgo. La tienda abre a las siete y hay que barrer, sacar la verdura que está pocha y bajar la persiana de arriba, que lleva cerrada desde el miércoles."
+HIROSHI: "¿Vas sola?"
+MIKA: "Voy sola porque voy a diez minutos de aquí y porque la señora Tanaka vive detrás. Y a las siete y cuarto el pueblo está en la calle: esa es mi hora buena."
+NARRACIÓN: Salió con los cuatro panes en una caja de cartón forrada con un trapo de la cocina, y con el abrigo abierto porque el horno la había dejado a treinta grados por dentro, y a los treinta metros de la puerta ya no llevaba la cara del domingo: llevaba la otra, la que se pone con el gorro y con la caja y con la calle. La cara de la tienda. La lleva puesta desde antes de doblar la esquina.
+NARRACIÓN: El mercado de la señora Tanaka es un cuarto de ocho metros por cinco con estanterías de madera oscura por tres paredes, un mostrador bajo de tablas, un arcón de bebidas, una báscula de aguja reparada dos veces, una bombilla con tulipa de hojalata en el centro y una puerta al fondo que da a la casa de la señora Tanaka. Huele a miso, a encurtido y a madera vieja, y el suelo es de baldosa roja de veinte centímetros con la junta negra.
+NARRACIÓN: Aquella mañana, en el sitio donde había estado el fregadero de la trastienda, había un agujero abierto, un cubo y un trapo rojo atado a la llave general. Y en el pasillo del centro, dos baldosas rojas de veinte centímetros levantadas por un lado, como dos dientes flojos, con un taco de madera y una tabla tapando el hueco para que nadie se rompiera la cara.
+MIKA: [Con las manos en la cintura, mirando las baldosas] "La primera vez en mi vida que tengo una tienda y la tengo con el suelo levantado. Y no me da vergüenza. ¿Te das cuenta? Debería darme vergüenza y no me da."
+HIROSHI: "¿Por qué no?"
+MIKA: "Porque es agua, y el agua la trae la helada, y la helada la traen todos los inviernos. Una mancha la trae uno solo."
+NARRACIÓN: Abrió la persiana desde dentro con la vara de aluminio y la horquilla, la de bajar, la de subir, la misma con la que la bajamos entre los dos el mes pasado, y entró en la tienda la luz gris de las siete y un frío de dos grados que hacía vaho. Después sacó del bolsillo del delantal un papel doblado y lo dejó en el mostrador: era la hoja de la lista de precios, escrita por Ren la noche anterior con su letra de factura, con las columnas, los gramos, los costes de harina, gas y leña, y el precio final por unidad subrayado dos veces.
+MIKA: [Leyendo la lista] "Pan de seiscientos: cuatrocientos cincuenta. Barra de cuatrocientos: trescientos. Pan de centeno con pasas, los domingos: seiscientos. Está caro."
+NARRACIÓN: A las siete y cinco llegó la señora Tanaka, con la bata de casa por debajo del abrigo y el libro de cuentas debajo del brazo, la espalda muy recta, los pies pequeños en unas botas de agua que le venían grandes, y se quedó dos segundos en la puerta mirando el suelo, el cubo y la tabla, y luego dijo lo que había venido a decir, que no era nada del suelo.
+SEÑORA TANAKA: "Ese papel que tienes ahí es un libro de cuentas disfrazado de lista. ¿Quién lo ha escrito?"
+MIKA: "Ren."
+SEÑORA TANAKA: "Ya. Se le nota la letra. Bueno. Cuatrocientos cincuenta el de seiscientos y cuatrocientos me daba a mí la panadería de la ciudad la última vez que lo compré, hace siete años. El de la señora Ogawa costaba trescientos veinte y pesaba quinientos, o sea que a gramo, el tuyo viene a ser lo mismo."
+MIKA: "Lo mismo."
+SEÑORA TANAKA: "Lo mismo. Y ahora escucha, criatura, que esto lo digo una vez: esta tienda es de mi familia desde mil novecientos setenta y cuatro, y en este libro está escrito quién la abrió cada día desde entonces. Este invierno la abres tú, y eso también va a estar escrito, con la fecha, porque si en abril alguien pregunta quién estuvo al frente de este negocio en la peor helada del pueblo en veinte años, quiero que esté escrito y que lo hayas escrito tú."
+NARRACIÓN: Y sin esperar respuesta se sentó en el taburete de detrás del mostrador, abrió el libro por la página del mes, mojó el bolígrafo en la lengua y escribió con una letra grande y cuadrada que ocupaba la línea entera: «LUNES. Helada rota. Abre: M. Nakamura.» Después se levantó, se fue hacia la puerta del fondo y desde allí dijo lo último sin girarse, con la mano ya en el picaporte.
+SEÑORA TANAKA: "Y no te llamo «mi chica» ni «la del pan». Te llamo por tu nombre y te lo escribo, que es lo que se hace con la gente que trabaja."
+NARRACIÓN: A las siete y veinte ya había tres personas delante del mostrador, y a las ocho había seis, y entre las siete y las doce de la mañana pasaron por aquella tienda catorce vecinos de un pueblo de doscientos habitantes en un lunes de invierno, que es una cifra que Ren anotó a mediodía subrayándola dos veces. Mika vendió nueve panes: los cuatro que había traído de casa y cinco que salieron del segundo horno, que hizo a las nueve y media con la masa que había quedado en el cuarto del calentador y con Ren de cronómetro.
+NARRACIÓN: Nadie vino solo a comprar pan. Eso lo apunté yo, que estaba allí de pies y manos, barriendo, sacando cajas de la trastienda y llevando la tabla de las baldosas al sitio cada vez que alguien entraba. Vinieron a ver el agujero. Vinieron a ver las dos baldosas levantadas, y a preguntar cuándo viene el señor Ono, y a decir que en el setenta y nueve hubo una helada igual y que se reventó la toma del lavadero, y a contar cómo se heló el pozo de la señora Watanabe, y a preguntar por qué el pan de esta chica pesa más que el otro y por qué la masa tiene ese olor.
+SEÑORA WATANABE: [Con las dos manos en el mostrador] "A mí dame una y no me pongas cara de que me estás haciendo un favor, que te la estoy viendo. Y ya que estás, cuéntame algo, que llevo cuatro días sin salir de casa. ¿Y esa masa? ¿De dónde sale esa masa, hija?"
+MIKA: "De un cubo que llevo ocho años alimentando."
+SEÑORA WATANABE: "¿Ocho años? Virgen santa. Y te la has traído de la ciudad en el autobús."
+MIKA: "En una nevera de camping, con dos botellas congeladas al lado y una manta. Y me la subí a este pueblo con la maleta."
+SEÑORA WATANABE: "Pues yo he sido cocinera cuarenta años en Osaka y te voy a decir dos cosas, y no me lo agradezcas. Una: eso no es pan, eso es ganado. Y dos: al ganado bueno hay que darle de comer también el día que estés mala."
+NARRACIÓN: Y Mika se rió con la risa de la tienda, que es una risa grande, entera, con el cuerpo incluido, y la señora Watanabe se rió con ella, y yo me quedé mirando la escena desde la trastienda con una caja de conservas en los brazos, pensando que llevo tres meses con estas cinco mujeres y que no había visto todavía a Mika haciendo exactamente lo que hacía antes de que el pueblo se cerrara: vender.
+NARRACIÓN: A las once y veinte vino un hombre mayor que no habló. Llevaba una bolsa de tela, sacó un monedero de cuero y contó las monedas de diez en diez sobre el mostrador, una detrás de otra, hasta trescientas noventa, y se quedó mirando la del final con la mano encima, porque le faltaban sesenta.
+MIKA: "Está bien así."
+HOMBRE: "No está bien."
+MIKA: "El pan de hoy es de segunda hornada y la segunda hornada es más barata porque ha subido con menos frío. Trescientas noventa está bien."
+HOMBRE: [Guardando las monedas] "Nadie me había dicho nunca que la segunda hornada sea más barata."
+MIKA: "Porque nadie hace dos hornadas en este pueblo. Vuelva usted mañana, que es martes, y le digo a qué hora sale la segunda."
+NARRACIÓN: Y el hombre se fue con el pan debajo del brazo y con una hora apuntada en la mano, y Mika, en cuanto se cerró la puerta, se apoyó con las dos manos en el mostrador y se rió bajito, para dentro, y me dijo que aquello era «la primera vez que he mentido con una verdad». A las doce y media cerró, echó la llave, contó la caja dos veces —lo contó todo: los billetes, las monedas y las tres fichas de plástico que la señora Tanaka usa para los fiados— y lo apuntó en el libro, con las uñas todavía negras de la harina.
+MIKA: [Con el bolígrafo en la boca] "Nueve panes, cuatro mil cincuenta yenes, tres fiados y un pan regalado a una señora que me ha contado la vida. Si esto lo ve Ren, me da un infarto."
+HIROSHI: "¿Y qué tal?"
+MIKA: "Que llevo dos horas sola en esta tienda con el suelo levantado, y he tenido tres minutos de nada entre cliente y cliente, tres, y la cara no se me ha caído. Ni un segundo. Es lo que te decía ayer: el trabajo la sujeta. He estado tres minutos mirando el cubo del agua con la cara puesta y contenta."
+HIROSHI: "¿Contenta de verdad?"
+MIKA: [Guardando el libro de cuentas] "Eso es lo que no te sé decir todavía. Pero hoy, por primera vez desde octubre, en la tienda había trabajo que era mío y no de nadie más, y me lo he pasado bien. Y como no lo puedo contar sin que suene a queja, no lo cuento."
+
+*Catorce vecinos en un lunes de dos grados, nueve panes, cuatro mil cincuenta yenes y tres fiados. Ren lo apuntará con subrayado doble porque es la primera vez en tres meses que esta casa ingresa dinero que no viene de una costumbre.*
+*La señora Tanaka le ha escrito el nombre en el libro de cuentas con letra grande, y le ha dicho que a la gente que trabaja se la llama por su nombre y se la escribe. Mika ha salido de la trastienda con el libro debajo del brazo como se lleva un documento, y yo he pensado en mi madre, que lleva cuarenta años escribiendo nombres de clientes en un cuaderno de tapas de hule.*
+*Mika ha mentido con una verdad para que un hombre no se fuera con la sensación de no haber pagado, y ha dicho que la segunda hornada es más barata porque ha subido con menos frío. Las dos cosas son verdad: eso es nuevo en ella, y no sé si es de aquí o si es que aquí ha empezado a permitírselo.*
 ESCENA 9.4 - LA BALANZA DE LA SEÑORA OGAWA
 
-NARRACIÓN: Al filo del mediodía, con la persiana bajada hasta media altura para resguardar la trastienda, un golpe seco de nudillos resonó contra la chapa. Era la señora Ogawa. Ochenta y un inviernos a la espalda, el pañuelo negro anudado bajo la mandíbula y la muñeca derecha firmemente ceñida por una muñequera ortopédica de cuero y remaches. Durante cuatro décadas había sido la única panadera del valle, hasta que las articulaciones le dijeron basta y el silencio se adueñó de su horno de piedra.
+NARRACIÓN: A las doce y media, con la tienda ya cerrada y la persiana bajada hasta la mitad, alguien golpeó el cristal con el canto de una moneda. Era la señora Ogawa, que tiene ochenta y un años, que fue la panadera de Sakura-machi durante cuarenta y un inviernos y que desde hace tres apaga el horno de su casa cada vez más meses, y que venía con el carrito de la compra, un pañuelo atado en la cabeza y la mano derecha envuelta en una muñequera de las de farmacia, la del pulgar, que no se quita ni en casa.
+NARRACIÓN: Mika subió la persiana cuarenta centímetros, la hizo pasar por debajo agachándose como se entra en una tienda de pueblo, y le puso la única silla que hay en el mercado delante del mostrador. La señora Ogawa se sentó, se quitó el pañuelo, se lo puso en las rodillas, miró las dos baldosas levantadas y el cubo, y después dijo lo que había venido a decir, que era muy poco y muy largo a la vez.
+SEÑORA OGAWA: "La señora Watanabe dice que tu pan sabe a algo. Yo he venido a ver a qué sabe. Y no lo digo por ti: lo digo porque hay dos personas en este pueblo que saben de pan y una soy yo."
+MIKA: "¿Quiere probarlo?"
+SEÑORA OGAWA: "He venido a eso. Y no me des un pan entero, criatura, que ya no tengo dientes para un pan entero. Dame media rebanada del de seiscientos y media del de centeno."
+NARRACIÓN: Mika cortó las dos rebanadas y las puso en un plato de los de la tienda, y la señora Ogawa cogió la primera, la miró a contraluz contra la bombilla —sin gafas, con los ojos entrecerrados, exactamente igual que Yuki con el pan del jueves—, la partió con los dedos y la miga se le quedó abierta en la mano. Después la olió, la masticó despacio con los dientes de un lado y se quedó callada tanto tiempo que Mika empezó a limpiar el mostrador para tener las manos en algo.
+SEÑORA OGAWA: "La corteza está bien. Dura y fina, y ha cantado, que lo he oído desde la calle. La miga la has dejado crecer de más: cuarenta minutos justos y no cuarenta y cinco. Y has empezado a cortar el pan en caliente, que se nota en el borde de la rebanada: el borde está roto y no cortado."
+MIKA: "Es verdad. Lo he cortado a las siete y diez y ha salido del horno a las seis menos cuarto."
+SEÑORA OGAWA: "Pues espérate una hora y media, aunque tengas el pueblo en la puerta. Un pan que se corta caliente se venga."
+NARRACIÓN: Y después cogió la segunda rebanada, la del centeno con pasas, y al morderla se le quedó la boca parada un segundo, y Mika, que llevaba toda la mañana con la cara de la tienda, dejó de limpiar el mostrador.
+SEÑORA OGAWA: "Esta. Esta sí. ¿Dónde has aprendido esto?"
+MIKA: "No lo he aprendido. Es lo que hay en el armario de la casa: un paquete de pasas de octubre y dos kilos de centeno que nadie iba a usar."
+SEÑORA OGAWA: "Pues el centeno con pasas lo hacía yo los domingos en este pueblo hace cuarenta años, con las pasas de mi suegra, y aquí no lo ha vuelto a hacer nadie. Y yo no te he dicho la receta ni te la voy a decir, porque no hay receta: hay manos. Y tú tienes manos."
+NARRACIÓN: Se quedó un rato con las dos rebanadas terminadas y las migas en el pañuelo de las rodillas, y habló de su horno: del horno de ladrillo refractario que tiene en la pared del fondo de su casa, encendido por primera vez por su suegra en mil novecientos cincuenta y algo, apagado tres inviernos seguidos ya, con la puerta de hierro y la pala colgada al lado, y de la muñeca derecha, que se le rompió «de amasar y de cerrar potes», dijo, como si fueran la misma cosa.
+SEÑORA OGAWA: "Yo he hecho pan en este pueblo cuarenta y un inviernos. Cuarenta y uno. Y no dejé de hacerlo porque quisiera: dejé de hacerlo porque se me rompió la muñeca y porque el último que compraba un pan entero en esta calle se murió. Ese es el orden de las cosas: primero se rompe la mano, y después te das cuenta de que ya no había a quién."
+MIKA: "Señora Ogawa."
+SEÑORA OGAWA: "No me pongas esa cara, que no te estoy pidiendo nada. Te estoy diciendo dos cosas y las dos te van a servir. La primera: que si algún día tienes que parar, pares tú. La segunda: que esa balanza que tienes en tu cocina es mía desde el año sesenta y ocho, y se queda en tu cocina, y no me la devuelvas ni me la mandes con nadie, porque yo ya no la voy a usar y porque a una balanza que ha pesado cuarenta años de pan no se la jubila en un armario."
+NARRACIÓN: Mika no contestó nada. Se quedó de pie detrás del mostrador, con el cuchillo de pan todavía en la mano y las dos rebanadas cortadas encima del plato, y entonces la señora Ogawa hizo la tercera cosa, la que yo no me esperaba, y la hizo con la naturalidad con la que se pide medio kilo de algo.
+SEÑORA OGAWA: "¿Cómo te llamas? Y no me digas «la del pan». Tu nombre."
+MIKA: "Mika. Mika Nakamura."
+SEÑORA OGAWA: "Mika. Pues mañana te traigo el paño de lino grande, el de cubrir la masa, que fue de mi suegra y lleva sin salir de mi casa desde el año noventa y dos. Y te lo traigo porque una masa tapada con un paño de lino sube distinto que una tapada con un trapo de cocina, y porque si yo me muero este invierno, ese paño va a acabar en un armario o en la basura, y prefiero saber dónde está."
+MIKA: "Señora Ogawa, no diga usted eso."
+SEÑORA OGAWA: "Criatura, tengo ochenta y un años y he enterrado a un marido, a dos cuñadas y a la mitad de esta calle. Digo las cosas y no me pongo trágica. Y ahora la última, que con esta me voy."
+NARRACIÓN: Se levantó apoyándose en el carrito, se colocó el pañuelo, y ya con la mano en la persiana a media altura, sin mirar a Mika, dijo lo que había venido a decir de verdad, que era lo único que no tenía que ver con el pan.
+SEÑORA OGAWA: "En este pueblo ya está decidido qué sois. Y no lo he decidido yo: se ha decidido en las cocinas, que es donde se decide todo en Sakura-machi. Nadie pregunta ya qué hacéis los cinco. La gente pregunta si vais a estar en abril. Y os lo digo porque a mí me pasó lo mismo en el año setenta y dos, cuando me casé y me vine a esta calle, y sé cómo acaba eso: acaba en que un día alguien llama a tu puerta a las once de la noche y no es para el pan."
+MIKA: "¿Y para qué es?"
+SEÑORA OGAWA: "Para lo que sea. Y tú abres. Decir que no a una puerta de este pueblo se paga durante veinte años. Y ya me voy, que tengo el carro con dos cebollas y se me va a helar."
+NARRACIÓN: Se fue por debajo de la persiana medio bajada, agachándose, con el carrito y la muñequera, y se perdió cuesta abajo andando despacio, y Mika cerró del todo, echó la llave, se quedó de espaldas a la puerta con las dos manos en la chapa, y tardó en hablar treinta segundos exactos.
+MIKA: "Nadie me había dicho nunca que se puede dejar de trabajar sin que se acabe el mundo."
+HIROSHI: "Te lo ha dicho una mujer que dejó su horno con la muñeca rota."
+MIKA: "Ya. Y por eso me lo he creído. Si me lo dices tú, es un consejo; si me lo dice ella, es un dato."
+NARRACIÓN: Recogió el plato, las migas y el cuchillo, apagó la bombilla del techo, y antes de salir por la puerta del fondo se paró delante de las dos baldosas levantadas, las miró un segundo y las señaló con la barbilla, sin decir nada, como se señala algo que se va a arreglar y aún no toca.
 
-NARRACIÓN: Mika levantó la persiana con premura, ayudándola a salvar el escalón y ofreciéndole el único taburete del despacho. La anciana se acomodó con parsimonia, pasó la vista por las baldosas levantadas y clavó sus ojos nublados en las hogazas que quedaban en el aparador.
+*La señora Ogawa ha venido a probar el pan de la que le ha quitado el sitio y se ha ido diciendo que tiene manos. Cuarenta y un inviernos de horno son cuarenta y un inviernos de horno, y esta mañana he visto a la panadera vieja dar clase a la nueva por el precio de media rebanada.*
+*«Si algún día tienes que parar, pares tú.» Esa frase la ha dicho una mujer con una muñequera de farmacia y tres inviernos sin encender el horno, y Mika la ha recibido como se recibe un número que cuadra: sin discutirlo.*
+*Y después ha dicho lo otro, lo que yo llevaba tres meses oyendo por la calle en voz baja: que en este pueblo ya está decidido qué somos, y que se ha decidido en las cocinas. No en la calle ni en la plaza: en las cocinas. Eso quiere decir que la decisión ya está tomada por las personas que cuentan, y yo no sé todavía si eso es bueno o es el principio de un problema con fecha.*
+ESCENA 9.5 - EL SEÑOR ONO Y LAS DOS BALDOSAS
 
-SEÑORA OGAWA: "La Watanabe me dijo en la fuente que tu masa tiene miga de verdad. He venido a comprobarlo. Y no me mires con recelo: en este valle sólo hemos quedado dos personas que entendemos lo que cuece una piedra, y una de ellas soy yo."
+NARRACIÓN: El señor Ono llegó a las tres de la tarde con la furgoneta, la caja de herramientas larga y un ayudante que resultó ser su nieto, un chico de dieciséis años con la gorra al revés que estuvo las dos horas siguientes aguantando la linterna y no dijo tres palabras. El señor Ono tiene sesenta y ocho años, tres dedos torcidos, la camisa de trabajo de un azul que ya no se fabrica y la costumbre de explicar lo que va a hacer antes de hacerlo, «porque un fontanero que no explica es un fontanero que va a tardar el doble».
+SEÑOR ONO: [Agachado con la linterna] "Vamos a ver la toma. Cobre de media, del año que sea, con la llave ahí y el codo a la altura del zócalo. Ya. Aquí está. Partido, no rajado. Mira: la soldadura ha aguantado y el cobre ha cedido, o sea que la helada te ha dado por un lado solo, y eso quiere decir que el tubo estaba apoyado en la pared y la pared estaba más fría que el aire. Eso lo apunto, porque si vuelve a helar se vuelve a partir en el mismo sitio."
+MIKA: "¿Y qué se hace?"
+SEÑOR ONO: "Se corta el tramo, se pone un manguito y se suelda. Y aquí sí se puede usar soplete, porque este suelo es baldosa y esta pared es de bloque. En tu casa no, tu casa es de madera con barniz; ahí se suelda con cuidado y con agua al lado. Eso me lo enseñaron a mí en el setenta y nueve y no se me ha olvidado."
+NARRACIÓN: Trabajó hora y media. Cortó el cobre con una sierra pequeña, limó los bordes con la tela de esmeril, pasó el decapante con un pincel, encendió el soplete y soldó el manguito en cuatro minutos mientras el nieto sujetaba la linterna y yo sujetaba el tubo, porque el señor Ono me puso a sujetar el tubo en el segundo minuto, sin preguntarme nada y sin saber quién era. Después abrió la llave general despacio, dejó correr el agua cinco minutos con el cubo debajo, miró si sudaba la junta con un trozo de papel de periódico, y dijo «ya» con la misma voz con la que había dicho todo lo demás.
+SEÑOR ONO: "Cuatro mil y setecientos el material, tres mil doscientos la mano de obra, siete mil novecientos. Y a esto le sumas las dos baldosas, que no las cobro, porque las tienes tú."
+MIKA: "¿Que las tengo yo?"
+SEÑOR ONO: "Catorce baldosas iguales de veinte rojas, en una caja de madera, en la trastienda, debajo de la estantería de las conservas. Las dejó el albañil que hizo este suelo en el setenta y cuatro, y desde entonces están ahí, y yo lo sé porque he levantado este suelo dos veces para el desagüe. Cuando a un albañil le sobran catorce baldosas, no las tira: las deja, porque sabe que alguien va a romper una."
+NARRACIÓN: Fuimos a la trastienda y encontramos la caja, y el señor Ono sacó dos baldosas, las comparó con el hueco, las mojó, las asentó con un mortero que traía ya preparado en un cubo pequeño, y las golpeó con el mango de la llana hasta que sonaron igual que las de al lado. Quedaron más limpias que el resto: dos baldosas nuevas y brillantes en medio de un suelo de más de cuarenta años de rodado, y la junta, como avisó el señor Ono, quedó más clara que las demás.
+SEÑOR ONO: "Eso se oscurece en dos años y no se nota. Y ahora lo importante: la baldosa nueva va a saltar antes que las viejas, porque el mortero de ahora es mejor y el suelo de debajo se mueve lo mismo. Si salta, me llamas y te la pongo sin cobrar. Pregunta por mí en casa de la señora Watanabe, que la casa está al lado."
+NARRACIÓN: A las cuatro y media salió la señora Tanaka con el libro de cuentas, pagó los siete mil novecientos en billetes contados encima del mostrador, sin discutir el precio y sin regatear el trabajo, y lo escribió en la página de gastos con la fecha, el concepto y la firma. Y cuando Mika dijo que ella pagaba la mitad, la señora Tanaka cerró el libro y la miró por encima de las gafas.
+SEÑORA TANAKA: "El tubo es de esta casa."
+MIKA: "Y el agua de este tubo es la que yo uso para fregar y la que hace dos inviernos nadie usaba. Mitad."
+SEÑORA TANAKA: [Abriendo el libro otra vez, sin discutir] "Mitad. Y te lo apunto como deuda, con fecha y sin intereses, porque en esta casa las deudas se escriben y los favores no. Los favores no se escriben porque entonces dejan de ser favores."
+NARRACIÓN: Y cuando ya se iba, el señor Ono se acordó de la línea de agua y pidió ver el calentador del taller, «que la toma que acabo de soldar y el calentador van en la misma tubería y quiero ver la presión», y pasamos los tres por el pasillo de setenta centímetros hasta el cuarto del cacharro, y él se agachó, abrió la portezuela, miró la leña, miró el tiro, tocó la chapa con los nudillos como se toca la puerta de un vecino, y se quedó dos segundos delante de la placa pequeña de latón atornillada a un lado.
+SEÑOR ONO: "RESTAURANTE YAMAMOTO. INSTALADO EN 1979. Ese cacharro no es de fábrica, eso se montó con piezas, y lo he visto funcionar desde que tengo memoria de fontanero. Cuarenta años sin dejarse morir. ¿Y sabes qué te digo? Que en este pueblo hay dos cosas que llevan cuarenta años funcionando sin que nadie se acuerde de quién las puso: este calentador y la campana de la iglesia. Y no preguntes, que yo no lo sé. Yo llegué a esta obra con doce años y limpiando."
+NARRACIÓN: Cerró la portezuela, se levantó con las dos manos en los riñones, y ya en la puerta de la calle, con la caja de herramientas en la furgoneta y el nieto al volante, dijo la última cosa de una manera que no tenía nada de casual, aunque estuviera dicho como si tal cosa.
+SEÑOR ONO: "Oye, y del taller de aquí arriba. Yo salgo dos mañanas por semana a la ciudad, a por piezas, y salgo a las cinco. Llevo desde octubre viendo el ventanuco encendido a esa hora, y el que va por la cuesta a las cinco también lo ve. No te pregunto qué hacéis en esa casa, que no es la mía. Te lo digo porque en este pueblo eso ya se comenta y porque la que se casa en abril es de aquí: a ti no te van a preguntar, a ella la van a proteger. Los preguntados vais a ser vosotros, y tú eres el que tiene la puerta."
+HIROSHI: "Muchas gracias, señor Ono."
+SEÑOR ONO: "De nada. Y arregla esa puerta de la calle, que no cierra bien y a las cinco de la mañana se nota."
+NARRACIÓN: La furgoneta se fue cuesta abajo con el nieto al volante y el señor Ono mirando por la ventanilla el taller, y Mika y yo nos quedamos en la calle con el frío de las cinco, y ella sacó el cuaderno de la caja, apuntó de su puño y letra en la página del libro de la señora Tanaka —en el renglón que decía «deuda de M. Nakamura: mitad del codo»—, y se quedó mirando lo que había escrito con las dos manos abiertas encima del mostrador, como se mira una firma.
 
-MIKA: "¿Le corto un pedazo?"
+MIKA: "Es la primera factura de mi vida que pago por una cosa mía. Y la he pagado con dinero del pan. ¿Te das cuenta? Cuatro meses aquí y ya sé lo que cuesta un tubo."
+HIROSHI: "Tres mil novecientos cincuenta."
+MIKA: "Tres mil novecientos cincuenta. Y comerá pan del mío hasta el viernes. Que me lo cobren."
 
-SEÑORA OGAWA: "Claro que sí, a eso he venido. Pero no me pongas una rueda entera, que ya no tengo quijadas para batallar con cortezas bravas. Un mendrugo del blanco y otro del de centeno con pasas, a ver qué manos tienes."
-
-NARRACIÓN: Mika rebanó el pan con reverencia. La anciana tomó la primera porción, la acercó a la mortecina bombilla del techo para examinar el alveolado —exactamente con el mismo gesto riguroso y concentrado que le vi a Yuki con las piezas del jueves—, hundió los dedos en la miga y se llevó un trozo a la boca. Masticó despacio, con los ojos entrecerrados, sumida en un silencio tan espeso que Mika comenzó a doblar papeles de estraza sólo por calmar el temblor de sus manos.
-
-SEÑORA OGAWA: "La corteza es fina y canta limpio; se nota que el tiro tiraba con ganas. Pero te precipitaste al rajarla: la abriste todavía tibia y el borde se te ha desgarrado en vez de quedar pulcro. El pan caliente no perdona las prisas de nadie."
-
-MIKA: "Es verdad. La saqué del horno y la corté a los pocos minutos porque apretaba la clientela."
-
-SEÑORA OGAWA: "Pues que esperen en la nieve. Quien no sabe guardar el turno de una hogaza no merece morderla."
-
-NARRACIÓN: Mordió entonces la rebanada oscura de centeno. De pronto, sus mandíbulas se detuvieron en seco. Se quedó muy quieta, mirando la madera del suelo, mientras el gesto severo de su cara se suavizaba en una sombra de nostalgia infinita.
-
-SEÑORA OGAWA: "Esta... Esta sí que tiene alma. ¿Quién demonios te enseñó a combinar el centeno con la pasa macerada?"
-
-MIKA: "Nadie. Encontramos un saco empezado en la despensa del caserón y unas pasas viejas de otoño. Me pareció un pecado no darles lumbre."
-
-SEÑORA OGAWA: "Ese pan lo amasaba yo en los años setenta, cuando mi suegra recogía la fruta de las cepas viejas y las fiestas de abril llenaban la plaza. Nadie en cuarenta leguas a la redonda se acordaba de esa mezcla. No hay recetario que valga para esto: son las manos las que mandan. Y tú tienes madera."
-
-NARRACIÓN: Se frotó la muñequera con ademán cansado. Nos habló de su horno comunal de ladrillo refractario, de los inviernos de posguerra amasando de noche cerrada mientras el marido acarreaba la leña del monte, y del dolor sordo que una madrugada le quebró el tendón del pulgar obligándola a apagar las ascuas para siempre.
-
-SEÑORA OGAWA: "Primero se te gasta la osamenta, muchacha, y luego descubres que los vecinos a los que alimentabas ya crían malvas en el camposanto. Así son las cosas por aquí. Por eso te traigo dos razones para escucharme. La primera: que si algún día la vida te pide parar, pares tú antes de que te partan. La segunda: esa balanza de hierro con platillos de latón que tenéis arrumbada en el taller fue mía desde que me casé. Os la quedáis. A una herramienta que ha pesado el sustento de medio pueblo durante cuarenta años no se la deja morir de orín en un trastero."
-
-MIKA: [Conmovida, bajando la vista] "Señora Ogawa..."
-
-SEÑORA OGAWA: "No me llores ahora, que tengo el pellejo curtido de enterrar parientes y no me gustan los melodramas. Mañana te mando con mi zagal el mandil de lino pesado de mi suegra. Una masa tapada con lienzo rústico respira de otra forma, y prefiero saber que abriga tu fermento a que se pudra en un baúl de polillas."
-
-NARRACIÓN: Se incorporó apoyándose con esfuerzo en el brazo de Mika. Antes de agacharse para ganar la calle bajo el faldón de la persiana, se detuvo en seco, clavando sus ojos acerados en los de la muchacha.
-
-SEÑORA OGAWA: "En las cocinas de este pueblo ya se ha tomado una decisión sobre vosotros. No en el ayuntamiento ni en la cantina: en los fogones, que es donde se decide la ley de la sierra. Ya nadie cuchichea sobre qué hacéis los cinco juntos en esa casona. La gente sólo espera saber si vais a abrir las puertas cuando llegue el deshielo grande de abril. Piénsatelo bien, Mika: en este valle, abrirle la puerta a una llamada de noche te ata para los siguientes veinte inviernos."
-
-NARRACIÓN: La anciana se alejó por la calleja arrastrando los pies con parsimonia. Mika se quedó recostada contra la chapa de la persiana, respirando el aroma de la harina y la lluvia.
-
-MIKA: "Jamás nadie me había dicho que una puede soltar el remo sin que se hunda la barca."
-
-HIROSHI: "Te lo ha dicho la única mujer que sabe lo que quema un horno de veras."
-
-MIKA: "Por eso me ha calado tan adentro. Si me lo dices tú, me suena a consuelo de buen amigo; si me lo dice ella, es palabra de ley."
-
-*La vieja maestra del pueblo ha bendecido la harina de la recién llegada por el precio simbólico de una rebanada de centeno.*
-*«Si algún día la vida te pide parar, que pares tú.» Una advertencia que Mika ha grabado a fuego en su cuaderno interior, ella que lleva años huyendo hacia adelante al compás de las visitas y los números.*
-*Las cocinas de Sakura-machi ya han dictado sentencia: no nos ven como extraños de paso, sino como la lumbre que debe alumbrar el valle en abril. El compromiso se estrecha como el cerco del invierno.*
-
----
-
-ESCENA 9.5 - EL SEÑOR ONO Y EL LATÓN DE 1979
-
-NARRACIÓN: A primera hora de la tarde llegó el señor Ono con su mono azul desgastado, una caja de herramientas de chapa oxidada y su nieto adolescente, un muchacho hosco que no soltó la linterna en todo el rato. El fontanero se arrodilló sobre las baldosas sueltas, palpó la tubería con dedos nudosos y encendió el soplete con la soltura de quien lleva medio siglo lidiando con las entrañas de plomo y cobre del pueblo.
-
-SEÑOR ONO: "El tubo abrió por el costado; la soldadura vieja aguantó de milagro, pero el metal pegado al muro no resistió el envite de la helada. Normal: la piedra chupa más frío que el aire libre. Cortamos el tramo viciado, metemos casquillo nuevo y sellamos a soplete limpio. Aquí da gusto soldar, con suelo de losa y pared de tosco; en vuestro caserón de madera hay que andar con el trapo empapado y el corazón en un puño."
-
-NARRACIÓN: Trabajó con parsimonia durante una hora. Yo le sujetaba los tubos y le pasaba la pasta decapante cuando el nieto perdía el foco con la linterna. Cuando el metal enfrió y abrimos la llave de paso, el agua corrió cristalina y potente sin que sudara una sola gota en la junta. Luego, de un arcón mohoso de la trastienda, extrajo dos baldosas rojas idénticas a las del pasillo, guardadas allí desde la reforma del setenta y cuatro. Las asentó con una palada de mortero fresco y las niveló a golpes secos de maza.
-
-SEÑOR ONO: "Quedan un punto más claras que las viejas, pero en dos primaveras de pisadas de alpargata se igualan con el resto. Y ahora que tengo la herramienta fuera, dejadme echarle un ojo a la caldera de vuestro taller, que comparte acometida y no quiero sorpresas con la presión."
-
-NARRACIÓN: Caminamos los tres hasta el rincón húmedo del caserón donde dormitaba la vieja caldera. El señor Ono pasó la mano rugosa por las planchas de hierro fundido, acarició los remaches con afecto casi familiar y se agachó para leer la placa de latón oscurecida por el hollín: RESTAURANTE YAMAMOTO. INSTALADO EN 1979.
-
-SEÑOR ONO: "Este cacharro lo vi descargar de un camión militar cuando yo apenas era un aprendiz de zagal. Cuarenta y tantos inviernos dando calor sin rechistar. Hay dos cosas en esta sierra que no se han rendido jamás: este tiro de leña y la campana de la ermita alta. Y vosotros tenéis las dos llaves."
-
-NARRACIÓN: Se limpió las manos tiznadas con un trapo, recogió la caja y se detuvo en el portalón de salida, echándole una mirada pensativa a la loma donde descansaba el pueblo bajo la niebla de la tarde.
-
-SEÑOR ONO: "Un aviso antes de que suba a la camioneta. Madrugo dos días por semana para bajar al valle a por repuestos, y llevo desde octubre viendo la lumbre de vuestro ventanuco encendida a las cinco en punto. El que baja por la carretera también la ve. No me meto en lo que trajinais de puertas adentro, pero tened presente una cosa: la moza que se casa en abril es de esta sangre, a ella la van a arropar pase lo que pase. Las miradas y las dudas van a caer sobre vosotros dos, y el que da la cara en el quicio eres tú, muchacho."
-
-HIROSHI: "Gracias por la advertencia, señor Ono."
-
-SEÑOR ONO: "A mandar. Y cuídame ese cerrojo, que baila con el viento."
-
-*El latón de 1979 vuelve a cruzarse en el camino como una raíz profunda que no se deja arrancar. Saki calla su estirpe y el pueblo la respeta sin nombrarla.*
-*El fontanero ha sido claro: en abril no habrá término medio. Si la puerta del viejo Yamamoto se abre, seremos el refugio de todos; si flaqueamos, el invierno nos pasará la cuenta sin miramientos.*
-*Mika pagó su mitad del arreglo con el dinero limpio de sus hogazas. Cada moneda que entra en esta casa ya no huele a subsidio ni a favor: sabe a harina y a fuego propio.*
-
----
-
+*Un codo de cobre, un manguito, cuatro minutos de soplete, hora y media de trabajo, siete mil novecientos yenes, dos baldosas del año setenta y cuatro y una junta más clara que las otras diez que tiene al lado.*
+*El señor Ono lleva desde octubre viendo el ventanuco encendido a las cinco, y no lo dice como acusación: lo dice como quien avisa del hielo en la curva. Y la frase que me ha dejado en la boca es la otra: a la que se casa en abril la van a proteger, y a los preguntados nos van a preguntar a nosotros. Eso, traducido a la vida de esta casa, quiere decir que la puerta de la calle soy yo.*
+*El calentador con la placa de latón ha vuelto a esta semana sin que yo lo buscara. Saki no ha estado delante y yo no he dicho lo que sé, porque lo que sé no es nada: un apellido, un año y una respuesta de dos frases que no responde. Y esa es exactamente la clase de cosa que en este pueblo se queda cuarenta años encima de la mesa.*
 ESCENA 9.6 - LAS TRES PREGUNTAS DEL PUEBLO
 
-NARRACIÓN: Esa misma noche, tras compartir un cuenco de sopa humeante al amor de la lumbre, Saki colocó una hoja de libreta sobre la mesa común del taller. Se sirvió té humeante con gesto grave y nos miró a los cuatro por encima del borde de la taza.
-
-SAKI: "He pasado la tarde pateando la calle: con la abuela Watanabe, en la parada del autobús con el señor Kimura y recogiendo recados de la plaza. No os traigo chismes, os traigo el sentir del pueblo en tres líneas. Lo leemos, lo encaramos y decidimos cómo actuar antes de que la nieve del fin de semana nos cierre el paso."
-
-MIKA: "Habla claro, Saki."
-
-SAKI: "La primera cuestión: la luz del ventanuco. Toda la cuesta sabe que hay movimiento antes del alba y el cartero ya ha preguntado si hemos abierto turno de noche. La segunda: qué somos exactamente. El señor Kimura lo suelta en la taberna y la gente quiere saber si somos una cooperativa, una escuela o una cuadrilla de paso. Y la tercera, la más peliaguda: abril. Dos familias han preguntado ya si el banquete y el obrador estarán disponibles cuando rompa el deshielo."
-
-NARRACIÓN: Ren tomó su tiza y trazó tres columnas pulcras en la pizarra del rincón, anotando cada cuestión con su laconismo habitual.
-
-REN: "Las preguntas no bajan, se multiplican. Si no fijamos una respuesta idéntica para los cuatro, el rumor llenará los huecos con disparates."
-
-YUKI: "Lo que jamás haremos es mentir. Se puede guardar silencio sobre lo íntimo, se puede dosificar la información, pero una mentira dicha en un pueblo de montaña pudre la tierra para siempre. Llevo meses diciendo únicamente lo necesario y jamás he tenido que corregirme."
-
-SAKI: "Totalmente de acuerdo. Al vecindario se le atiende con la verdad por delante, pero marcando la linde. Sobre la luz: es la vigilancia del agua caliente y el primer horneado. Sobre quiénes somos: cinco trabajadores empeñados en revivir una cocina tradicional. Y sobre abril: habrá formación y platos si el menú que diseña Yuki cumple con nuestro estándar."
-
-MIKA: [Apretando la taza entre las manos tibias] "Y mañana grabo."
-
-SAKI: "¿El qué exactamente?"
-
-MIKA: "El vídeo para la red. Pero ya no será como antes: no puedo sacar las rejas de la calle, ni el rótulo del callejón, ni la espalda de los vecinos. No quiero que doscientas mil personas ubiquen este rincón sólo por saciar su curiosidad. La cámara se queda dentro del caserón, apuntando a la artesa y a la lumbre."
-
-REN: "Me ofrezco a cronometrarte los descansos y vigilar las inflexiones de la voz. Sin juzgarte: sólo marcándote cuándo la entonación se vuelve postiza."
-
-MIKA: [Mirándola con gratitud sincera] "¿Lo harías de verdad?"
-
-REN: "Es cálculo y atención al detalle. Nada más."
-
-YUKI: "Yo supervisaré los pasos del amasado; si pretendes enseñar un oficio, hay que mostrar el rigor de la masa sin atajos."
-
-MIKA: "Trato hecho. Saki, tú vigila la cancela. Y tú, Hiroshi..."
-
-NARRACIÓN: Se volvió hacia mí con una mirada intensa, cargada de esa intimidad latente que habíamos compartido desde la madrugada del domingo.
-
-MIKA: "Tú te quedas a mi espalda. No delante de la lente: detrás, sujetando el reflector y dándome la presencia que necesito para no buscar el aplauso fácil de los desconocidos."
-
-*Tres respuestas consensuadas a la luz de una vela. Ni engaños ni debilidades.*
-*Yuki ofreció su ojo clínico; Ren su precisión matemática; Saki su instinto protector de la tierra. La grabación de mañana ha dejado de ser un capricho individual para convertirse en una labor de equipo.*
-*Y a mí me ha pedido que sea su ancla detrás del objetivo. En esa trastienda donde todo está por construir, sostenerle la mirada es sostenerle la vida.*
-
----
-
-ESCENA 9.7 - LA PRIMERA TOMA Y EL DESPOJO
-
-NARRACIÓN: El martes a media mañana el taller se transformó en un plató sobrio. Mika sacó de su baúl de viaje un trípode de aluminio ligero, un micrófono de solapa con cable fino y una pantalla reflectora plegable. Nada de focos aparatosos ni cables colgando: la única iluminación era la claridad tamizada que entraba por el ventanuco oriental, un haz de luz plateada que caía oblicuo sobre la mesa de madera enharinada.
-
-MIKA: [Ajustando la zapata del trípode] "El murmullo del agua de la pila se cuela por el micrófono. Y no pienso taparlo. Que quien escuche el vídeo sienta que en esta cocina corre el agua helada a todas horas."
-
-NARRACIÓN: A las diez en punto, la señora Ogawa cumplió su palabra: su nieto trajo un lienzo de lino crudo, remendado en las esquinas y pesado como una manta de campo. Mika lo extendió sobre la masa madre con un temblor reverente en los dedos. Luego me colocó a un paso del encuadre, sosteniendo la pantalla plateada para rebotar la luz sobre sus manos y el cuello de su delantal.
-
-MIKA: "Primera prueba. Esta va a chirriar, lo sé de sobra. Pero hay que soltar la espuma antes de encontrar el caldo limpio."
-
-NARRACIÓN: Encendió la cámara. Y en ese instante milimétrico, el milagro y la tragedia se repitieron: la barbilla de Mika se elevó con prestancia, sus ojos chispearon con un brillo artificial y de su garganta brotó esa voz aterciopelada, cantarina y comercial que durante años había acumulado millones de reproducciones en las pantallas del país. Habló de la nieve, de la harina vieja, del caserón... pero cada adjetivo sonaba a escaparate de gran superficie.
-
-NARRACIÓN: Ren, sentada en el peldaño inferior con el cronómetro en la mano, levantó el lápiz a los pocos minutos.
-
-REN: "Minuto uno con veinte: quiebro de entonación. Dejaste de narrar y empezaste a vender."
-
-MIKA: [Cortando la grabación con un manotazo seco al botón] "Basta. Es una porquería."
-
-YUKI: [Que observaba desde la entrada del secadero con los brazos cruzados] "No es una porquería el dato técnico: la harina está bien pesada y el reposo tiene lógica. Lo que no funciona es el alma. Estás diciendo una verdad grande con cara de mentira."
-
-MIKA: [Desmoronándose sobre el banco de madera] "¿Y cómo demonios se arregla eso, Yuki? ¿Cómo te desprendes de una voz que te ha dado de comer durante ocho años?"
-
-YUKI: [Avanzando un paso, con voz pausada y cálida] "Escribiéndolo de antemano. En mi libreta de recetas, en el apartado del banquete de abril, tengo una anotación que dice: «Tortilla de mi madre. Si me tiembla el pulso al voltearla, respirar hondo y pedir una mano limpia. No fingir soltura». Escribe tu propio límite, Mika. Pon sobre el papel qué harás cuando te asalte el miedo a ser tú misma."
-
-*La lección más pura de la mañana vino de la cocinera más joven: decir la verdad sin disfrazarse de anuncio.*
-*Yuki le tendió un espejo sin herirla, ofreciéndole su propio miedo para ayudarla a cruzar el puente.*
-*He sentido una punzada absurda en el pecho al verla modular su máscara frente a la lente: celos estúpidos de esa multitud invisible que durante años la tuvo secuestrada en una pantalla.*
-
----
-
-ESCENA 9.8 - LA TOMA LIMPIA Y LAS MANOS EN EL ENCUADRE
-
-NARRACIÓN: Mika tomó el lápiz de Ren y trazó en una hoja en blanco cuatro mandamientos breves: «Si me sale la voz de agradar, callo y bebo un trago de agua. Si me tiemblan los hombros, miro a las manos de Hiroshi tras la cámara. Si algo me duele, lo nombro con sencillez. Y no busco la aprobación de nadie».
-
-NARRACIÓN: A mediodía volvimos a situarnos. Esta vez bajó el plano: el encuadre recortaba su rostro por debajo de los ojos, dando absoluto protagonismo a la madera de la mesa, la rugosidad del delantal, la harina en suspensión y la artesa.
-
-MIKA: [Con voz baja, profunda, arrastrando las palabras con la fatiga dulce del amanecer] "Esto no es un decorado de postal. Esto es un rincón frío del norte donde el pan sabe a humo porque no hay otra forma de calentar la piedra."
-
-NARRACIÓN: Durante un buen rato sus manos hablaron solas. Hundió los nudillos en la masa madre con la cadencia sobria de quien no tiene prisa; explicó la temperatura del agua por el tacto de la piel y no por escalas de mercurio; describió el crujido de la corteza al templar como el suspiro de un animal noble que busca descanso. Al llegar al tramo final, alzó la vista hacia mí y me hizo una seña inequívoca con la cabeza.
-
-MIKA: "Acércate. Mete las manos en la artesa."
-
-HIROSHI: "¿Yo?"
-
-MIKA: "Tus manos. Sólo tus manos. Las mías tienen las marcas del fermento y las tuyas las cicatrices del fuego y los cuchillos. Nadie necesita ver quién eres para entender que en esta mesa trabajamos dos pares de brazos."
-
-NARRACIÓN: Dejé el reflector apoyado contra el banco y me incliné sobre la mesa de trabajo. Mis dedos se encontraron con los suyos en el corazón de la masa: la textura era densa, tibia y viva. Amasamos juntos durante un minuto eterno, en un compáscompás sincronizado y tácito donde nuestras muñecas se rozaban levemente despidiendo un calor eléctrico que nada tenía que ver con la harina. Corté las porciones con la rasqueta de hierro mientras ella las boleaba con maestría sobre el tablón enharinado. Ni una palabra de más. Sólo el rumor del agua en la pila y el crujido de la lumbre de fondo.
-
-NARRACIÓN: Cuando el pan salió de la hornada final y reposó sobre la rejilla metálica, dejamos el micrófono pegado a las costras calientes. Durante dos minutos nadie osó respirar en la cocina: sólo se escuchaba el canto finísimo y seco del pan al desgasificarse, un tintineo cristalino que parecía la música secreta de la casa.
-
-REN: [Mirando su reloj, con una sonrisa levísima en los labios] "Impecable. Ni una alteración de tono. Once minutos de oficio puro."
-
-*En el minuto ocho del vídeo aparecen mis manos trabajando al unísono con las suyas.*
-*Sin nombres, sin etiquetas, sin rostros que alimenten el morbo ajeno. Dos pares de manos gastadas sacando pan adelante en una sierra solitaria.*
-*Es el pacto más íntimo y honesto que he firmado jamás con una mujer delante del mundo entero.*
-
----
-
-ESCENA 9.9 - EL BRUTO DE LA NOCHE
-
-NARRACIÓN: Entrada la noche, cuando las otras tres dormían ya en el calor recobrado de la planta baja, bajé al taller para cerrar los tiros y atrancar la puerta del cobertizo. La luz del móvil de Mika brillaba en un rincón oscuro, recortando su figura sentada sobre el banco largo junto a la artesa. Me miró con esa mirada desnuda y profunda que sólo florecía cuando la casa entera callaba.
-
-MIKA: "El vídeo que subí a la red está recortado. Falta un fragmento largo que nadie verá jamás. Ni Ren, ni Yuki, ni Saki. Nadie en este mundo sabe que existe... salvo tú si te sientas a mi lado."
-
-NARRACIÓN: Me acomodé sobre el madero gastado, muy cerca de ella, sintiendo el calor tenue de su hombro rozando el mío. Encendió la pantalla y me tendió uno de los auriculares. En la grabación cruda se la veía sentada frente al ventanuco al anochecer, con la mirada perdida en las sombras de la loma y las manos quietas sobre el regazo. Su voz en el auricular sonaba como una confidencia dicha al oído en la oscuridad.
-
-MIKA: [En la pantalla y a mi lado al mismo tiempo] "Ese pedazo que corté habla de mi hermana. De la que ya no está. No te diré cuándo partió ni cómo se llamaba, porque ese dolor no se manosea en una cocina. Pero ella dibujaba este mismo caserón cuando éramos crías: una colina nevada, una chimenea solitaria y una ventana con luz. Toda mi vida en las pantallas ha sido un intento desesperado de hablarle a ella, de mantener encendida una señal para que supiera que no me había rendido. La cámara nunca fue para los extraños; fue un puente tendido hacia el vacío."
-
-NARRACIÓN: Se quedó en silencio, con la respiración entrecortada. Apagó la pantalla con un toque lento y deslizó su mano sobre el banco hasta buscar la mía. Entrelazó sus dedos fríos entre los míos con una necesidad desesperada y tierna, apretando con una fuerza que le nacía del pecho.
-
-MIKA: "Sólo te pido dos juramentos, Hiroshi: que no se lo repitas a nadie, y que no lo borres de tu memoria."
-
-HIROSHI: "Queda guardado aquí dentro, Mika. Como todo lo que de verdad importa en esta casa."
-
-*Un archivo secreto en la memoria de un teléfono y una confidencia sellada en la penumbra del taller.*
-*Mika no buscaba la fama: buscaba a una hermana ausente a través de la lente de cristal.*
-*Al apretar mi mano contra la suya en ese banco helado, comprendí que su coraza no era orgullo, sino el último baluarte que le quedaba para no romperse en pedazos.*
-
----
-
-ESCENA 9.10 - LA NUCA EN LA TRASTIENDA
-
-NARRACIÓN: El miércoles a mediodía, tras despachar las últimas piezas en el mercado con las dos baldosas del señor Ono ya firmes bajo las suelas, Mika bajó a la trastienda a trasegar dos sacos de harina de espelta. La sentí quejarse en silencio al doblar la espalda; al asomarme entre los cortinajes la descubrí sentada sobre un saco vacío, con la cabeza ladeada hacia la izquierda y una mueca de dolor atenazándole la mandíbula.
-
-MIKA: "Tengo los omóplatos hechos un nudo de hierro. La tensión de grabar y editar con el frío me ha dejado el cuello como un sarmiento."
-
-HIROSHI: "¿Quieres que pruebe a descargar la zona?"
-
-NARRACIÓN: Se quedó mirándome unos instantes con el pecho subiendo y bajando a compás acelerado. La penumbra de la trastienda, el olor a grano seco y la memoria viva de nuestra intimidad en el cuarto de la caldera encendieron el aire de una vibración espesa y dulce.
-
-MIKA: [En un hilo de voz, rindiéndose] "La nuca. Hoy sí... Por favor."
-
-NARRACIÓN: Me coloqué tras ella. Apoyé las dos palmas de mis manos sobre la base de su cráneo, apartando la cascada de su pelo oscuro hacia los lados. Su piel ardía bajo mis dedos en contraste con el relente del local. Al sentir mi primer contacto, Mika soltó un quejido hondo, estremecido, y dejó caer la cabeza hacia atrás, descansando todo su peso contra mi pecho con una entrega desarmante.
-
-NARRACIÓN: Hundí los pulgares en las cuerdas tensas de sus hombros, buscando los nudos que la agarrotaban con una presión lenta, profunda y acompasada. Mika gemía bajito con cada descarga, arqueando la espalda contra mi torso mientras sus manos subían a tientas por mis brazos hasta aferrarse a mis muñecas, guiando mis caricias con una necesidad febril. Su respiración se volvió húmeda y corta; su perfume a harina tostada y canela llenaba por completo el espacio entre los dos.
-
-MIKA: [Con los ojos entornados y la voz quebrada por el gozo del alivio] "Ahí... justo ahí... No te apartes, Hiroshi..."
-
-NARRACIÓN: La sostuve firme contra mi cuerpo mientras mis manos descendían hacia el nacimiento de sus clavículas, acariciando la piel suave de su garganta. Sentía el latido desbocado de su pulso contra mis palmas, el calor líquido que le recorría el vientre y el temblor involuntario de sus muslos sobre la arpillera. Estábamos tan cerca que sus labios entreabiertos rozaban la piel de mi mandíbula a cada suspiro. La tentación de buscarle la boca y consumar el fuego que veníamos conteniendo desde la noche de los futones nos quemaba la sangre a ambos.
-
-NARRACIÓN: El teléfono de Mika comenzó a vibrar con insistencia sobre la repisa de madera, encendiendo la penumbra con destellos azulados de mensajes y notificaciones de la red. Mika ni siquiera pestañeó: estiró la mano perezosamente, volteó el aparato boca abajo contra la tabla sin mirar la pantalla y volvió a hundir la nuca en el hueco de mi cuello, suspirando contra mi piel.
-
-MIKA: [En un susurro abrasador que me erizó el vello] "El teléfono puede esperar... Esto que hay aquí dentro es verdad y no tiene número. Y no te beso ahora, no porque me falten las ganas... Dios sabe que me muero por sentirte... sino porque si te beso aquí, en esta trastienda fría, se me quiebra la poca cordura que me queda para afrontar lo que viene."
-
-NARRACIÓN: Su mano temblorosa subió hasta mi mejilla, acariciándome con una ternura infinita que disolvió cualquier rastro de prisa. Nos quedamos así, respirando al unísono en el silencio de los sacos de harina, mientras la tormenta de deseos se sosegaba en una complicidad sagrada e indestructible.
-
-En ese instante de quietud suspendida, el tintineo agudo de la campanilla de la entrada rasgó el aire del despacho, seguido por pasos arrastrados sobre las baldosas y una voz familiar que llamaba desde el pasillo:
-
-VOZ: "¿Mika? ¿Estás ahí, hija? Que he venido por la hogaza tierna y a ver cómo te defiendes con el suelo arreglado."
-
-NARRACIÓN: Era la señora Watanabe. Y entonces presencié el prodigio entero a menos de medio metro, con la luz dorada entrando por la rendija del cortinaje y sin la menor opción de engaño: Mika se incorporó del saco en un solo movimiento elástico, se pasó las dos manos por la nuca recogiéndose el pelo en una coleta impecable con una goma elástica, se ajustó el delantal de un tirón seco hacia abajo, alzó la barbilla, abrió los ojos con ese brillo cálido y profesional y salió al mostrador respondiendo: «¡Ya voy, abuela, que le tengo apartada la mejor pieza!».
-
-Todo ocurrió en apenas tres segundos. 
-
-Me quedé de pie en la trastienda, con el olor a cereal tostado flotando en la penumbra y las palmas de las manos todavía ardiendo por el contacto de su piel. Y por primera vez desde que llegué a Sakura-machi, aquel truco fulminante no me pareció una impostura ni me dio frío: me inspiró un respeto sobrecogedor. Aquella cara no era una máscara de mentira; era su uniforme de combate, su manera de cuidar al mundo mientras por dentro guardaba para nosotros dos la verdad más íntima y vulnerable.
-
-Al volver a la trastienda un par de minutos después, tras despedir a la anciana, Mika se apoyó en el marco de madera con una sonrisa tenue, desarmada y cómplice, mirándome a los ojos con la respiración templada.
-
-MIKA: "Esa ha sido la cara de la tienda. Y lo de antes... lo de antes ha sido de verdad, Hiroshi. No se te olvide."
-
-*Setenta segundos con su cabeza recostada sobre mi pecho y sus manos enlazadas a las mías.*
-*Mika silenció el clamor de miles de extraños para refugiarse en el calor de un rincón oscuro.*
-*Y luego se puso la armadura en tres segundos para atender a una anciana del pueblo. He entendido por fin que su máscara no la aleja de la vida: la sostiene de pie para que pueda seguir amasando.*
-
----
-
-ESCENA 9.11 - EL AVISO DE LA NIEVE GRANDE
-
-NARRACIÓN: La calma duró poco. A media tarde, cuando el pueblo empezaba a recogerse al calor de los braseros, nos reunimos de nuevo en torno a la mesa del caserón. Saki traía el rostro ensombrecido por la gravedad de las noticias que bajaban del valle.
-
-SAKI: "El temporal grande entra el viernes a medianoche. La radio de la prefectura da aviso rojo: nevada de más de medio metro en la cuenca baja y ventisca helada en los puertos. La carretera principal quedará cortada al tráfico antes del amanecer del sábado."
-
-REN: [Repasando los estadillos con presteza] "Tenemos leña de roble para una semana si racionamos las estufas altas. El agua embotellada aguantará si no revienta el pozo. Pero si el suministro eléctrico cae con el peso de la nieve sobre el tendido, la caldera no podrá bombear y el obrador se nos congelará en cuestión de horas."
-
-YUKI: "Y si el pueblo queda incomunicado, el camión de los víveres no subirá de la capital. Eso significa que el sábado la única lumbre capaz de sacar pan y puchero caliente en diez leguas a la redonda será la nuestra."
-
-MIKA: [Enderezando la espalda con una determinación de hierro, la misma que le vi amasar por la mañana] "Pues encenderemos el horno a plena carga. Si el valle se queda sin camino, este sábado horneamos para todo el que llame a la cancela."
-
-REN: "Queda anotado: hornada de auxilio comunal. Y te diré una cosa, Mika: si superamos este envite sin que falte una hogaza en una sola casa de ancianos, este pueblo no necesitará ver ningún vídeo para saber de qué casta estás hecha."
-
-NARRACIÓN: Esa noche cenamos las sobras del pan bendecido por la anciana Ogawa en un silencio grave y fraternal. Luego, cada una se dispersó a sus cuarteles: Ren a comprobar los cierres de las ventanas con cinta adhesiva, Yuki a revisar los sacos de legumbres secas y Saki a telefonear a los caseríos aislados de la ladera alta. Mika se quedó junto al fogón, despidiendo las últimas brasas con la pala de hierro.
-
-MIKA: [Mirando el resplandor rojizo de las ascuas] "La cara ya no me asusta, Hiroshi. Sé cuándo ponérmela para sostener el peso del mostrador y sé cuándo quitármela para respirar contigo en la sombra. Que venga la nieve cuando quiera. Ahora sabemos amasar en mitad de la helada."
-
-*Un temporal de nieve grande avecinándose sobre las cumbres para cerrar la carretera.*
-*Ren tiene las cuentas cuadradas; Yuki los víveres a buen recaudo; Saki las alertas tendidas en cada rincón del valle; y Mika ha empeñado su palabra de alimentar a la comarca entera sin pedir nada a cambio.*
-*El invierno de verdad está a las puertas, y por primera vez en muchos meses, no tenemos miedo al frío que arrecia.*
-
----
+NARRACIÓN: El lunes por la noche, después de cenar, Saki puso encima de la mesa del taller una hoja doblada, se sentó, se sirvió té y dijo que traía el pueblo. Lo dijo con esas palabras: «Traigo el pueblo», como se trae el pan o la leña, y las otras tres se sentaron, y yo me quedé de pie con el trapo en la mano porque el sitio de la mesa estaba ocupado por cuatro mujeres y una hoja de papel.
+SAKI: "He estado cuatro horas fuera. En casa de la señora Watanabe, en el mercado con la señora Tanaka y en la parada con el señor Kimura. Y esto es lo que hay. No es una amenaza: es un resumen. Si queréis, lo leo y después lo discutimos, y si discutimos hasta la una, mañana hay pan igual, porque mañana el pan lo hace ella."
+MIKA: "Lee."
+SAKI: "Primero: la luz. La señora Nakai la ve desde su ventana desde octubre. El señor Ono la ve desde la cuesta dos veces por semana. Y hoy la ha visto el cartero, que ha preguntado si el taller tiene un turno de noche. Segundo: qué sois. La señora Nakai lo pregunta en el mercado, el señor Kimura lo pregunta en la parada y la señora Watanabe me lo ha preguntado a mí, a la cara, y le he dicho la verdad: que somos cuatro mujeres y un cocinero que trabajan juntos. Y tercero: abril. Dos personas han preguntado esta semana si en abril el taller abre al pueblo. Dos. En enero, cero."
+NARRACIÓN: Ren sacó la pizarra pequeña, la apoyó en la silla y escribió las tres preguntas con el rotulador negro, una debajo de otra, y las numeró. Después, sin que nadie se lo pidiera, escribió al lado de cada una el número de personas que la habían hecho y la fecha en que la había oído por primera vez, y esa columna es la que hizo que la mesa se quedara callada un segundo.
+REN: "Primera pregunta: once semanas. Segunda: desde octubre, y en las últimas dos semanas cuatro personas. Tercera: dos personas, dos días. Las tres suben. Yo no sé qué hacemos con eso, pero sé que suben, y una cosa que sube en un pueblo de doscientos habitantes sube más rápido de lo que baja."
+YUKI: "Yo lo que sé es lo que no se puede hacer: no se puede decir una mentira. Se puede no decir. Se puede decir una parte. Pero si decimos una mentira, el día que se sepa, la mentira va a pesar más que lo que se estaba tapando. Yo llevo tres meses diciendo la verdad y sin contar nada, y no me ha hecho falta inventar una sola vez."
+SAKI: "Eso es exactamente lo que quiero oír, y por eso la hoja la he traído aquí y no la he contestado yo sola en la calle. Porque el pueblo no es un enemigo y no se le miente: al pueblo se le da una parte y se le da antes que la vecina. Eso lo dijo la señora Tanaka en diciembre y yo lo apunté."
+MIKA: [Con las dos manos alrededor de la taza] "Y el martes."
+SAKI: "¿El martes?"
+MIKA: "El martes grabo. Y lo que yo grabo no lo ven doscientos vecinos: lo ven tres mil o cuatro mil o doscientos mil desconocidos, y en un vídeo se ven cosas que en una calle no se ven. Esta mañana he grabado mentalmente la tienda con las dos baldosas levantadas y me he dado cuenta de que en el encuadre entra la persiana, entra el rótulo de la calle y entra la señora Watanabe de espaldas. Y yo no puedo publicar eso, porque entonces el pueblo entero va a saber dónde estoy porque lo he dicho yo, y no porque lo haya dicho la vecina."
+NARRACIÓN: La mesa se quedó pensando, y Ren, que llevaba cinco minutos con el bolígrafo en el aire, hizo la pregunta que nadie había hecho todavía, y la hizo con la voz plana con la que hace las cuentas y mirando la pizarra.
+REN: "¿Y cuántas personas van a ver el vídeo? Porque eso no lo habéis dicho. Mika dice tres mil, cuatro mil, doscientos mil. Yo necesito el número. Porque si lo ven cuarenta personas de este pueblo, estamos hablando de un problema de vecindad, y si lo ven cien mil en once países, estamos hablando de otra cosa y hay que preparar otra cosa."
+MIKA: "El último que subí, en el verano, lo vieron doscientas cuarenta mil personas."
+NARRACIÓN: Y ahí se hizo el silencio más largo de la noche, porque las otras tres entendían perfectamente lo que era eso y ninguna lo dijo, y yo tampoco, pero lo pensé: doscientas cuarenta mil personas mirando a una mujer que ahora vive en un pueblo de doscientos habitantes y le pesa el pan en una balanza del año sesenta y ocho.
+YUKI: "Doscientas cuarenta mil."
+MIKA: "Sí."
+YUKI: "¿Y cuántos de esos doscientos cuarenta mil saben dónde estás ahora?"
+MIKA: "Ninguno. Y quiero que siga siendo ninguno. Por eso el martes no va a salir ni una persiana, ni un rótulo, ni una cara que no sea la mía."
+NARRACIÓN: Saki dejó la hoja encima de la mesa, la alisó con la palma, y entonces hizo la pregunta que llevaba toda la noche queriendo hacer y que le hizo a las tres y a mí, no a una: en este pueblo hay que decidir lo que se contesta. Y avisó antes de que nadie contestara, con la voz lenta y muy clara, de que contestar una pregunta no es lo mismo que decidir lo que vamos a ser, y que lo segundo no se decide hoy ni en enero ni con frío, y que el día que se decida se decidirá con las cuatro en la misma mesa y sin que nadie esté cansado.
+SAKI: "Ahora se contesta lo que se pregunta. Qué sois, por qué hay luz, y si en abril esto abre. Eso es todo lo que hay que decidir esta noche, y lo he traído aquí porque hay que decidirlo entre cuatro y no en la calle."
+YUKI: "En abril hay clase. Eso es verdad y lo digo yo. El menú no está cerrado: cuando esté cerrado, lo digo, y lo digo con fecha. Lo que no voy a decir en el mercado es que tengo miedo de la tortilla."
+MIKA: "Y yo no voy a decir dónde."
+REN: [Escribiendo en la pizarra] "Regla primera: la luz. Respuesta: es el agua del taller, que se enciende a las cinco para que no se hiele la tubería. Verdad completa, sin adornos. Regla segunda: qué somos. Respuesta: cuatro mujeres y un cocinero que trabajan juntos, y el que quiera más detalle que venga a la clase de abril. Regla tercera: abril. Respuesta: hay clase, fecha cuando esté el menú y lo dice Yuki. ¿Algo más?"
+HIROSHI: "Una cosa más. Que se conteste siempre en la puerta y no en la calle. Si alguien pregunta en la calle, se le dice que pase a la puerta, y en la puerta se le contesta. En la calle no hay puerta y en la calle no me puedo quedar con lo que se dice."
+NARRACIÓN: Ren lo escribió tal cual, y después se giró con el rotulador en la mano y le hizo a Mika la oferta que no le había oído hacer a nadie en tres meses: que si grababa el martes, ella podía cronometrar. Que no era broma. Que la cara de Mika cambia en el segundo en que la voz le sube, y que si alguien la mira con el cronómetro y le dice el minuto exacto en que le ha cambiado, entonces Mika se entera, porque nadie se oye a sí misma.
+REN: "Yo te puedo decir el minuto y el segundo. Lo hago con el arroz, lo puedo hacer con esto."
+MIKA: [Después de un silencio] "…¿Y me lo dirás sin cara de lástima?"
+REN: "No tengo cara de lástima. Tengo la de siempre."
+MIKA: "Vale. Sí. Yuki, la verdad del contenido, que si digo una tontería con el pan tú me la dices."
+YUKI: "Eso no hace falta ni pedirlo."
+MIKA: "Saki, dime qué se ve desde la calle mientras grabo."
+SAKI: "Eso también sin pedirlo."
+NARRACIÓN: Y después Mika se giró hacia mí, que seguía de pie con el trapo en la mano, y me pidió lo único que le quedaba por pedir, y lo pidió con la cara puesta, porque estaban las otras tres delante, y aun así se le notó el esfuerzo de decirlo en voz alta.
+MIKA: "Y tú el martes estás conmigo. No delante: detrás. Necesito una persona en el cuarto que no sea la cámara, porque si grabo sola me pongo la de la tienda y no quiero. Y no te voy a explicar por qué no quiero, porque ya lo sabes."
+
+*Tres preguntas escritas en la pizarra con el número de veces que se han hecho: once semanas, cuatro personas, dos días. Ren las ha puesto en una tabla como pone las temperaturas, y el efecto es exactamente el mismo: lo que estaba en el aire pasa a estar sobre la mesa y deja de dar miedo.*
+*Respuesta uno: es el agua del taller. Respuesta dos: cuatro mujeres y un cocinero. Respuesta tres: en abril hay clase. Las tres son verdad, las tres son cortas y ninguna de las tres cuenta nada de lo que pasa dentro de esta casa. Yuki ha dicho que se puede no decir y no se puede mentir, y esa frase la ha dicho la más joven de los cinco, que lleva tres meses dando lecciones sin darse cuenta.*
+*Y Mika ha repartido el trabajo de su grabación como se reparte una mise en place: Ren cronometra la voz, Yuki la verdad del pan, Saki lo que se ve desde la calle, y a mí me ha pedido que esté detrás de la cámara y que no le explique por qué. Cuatro tareas para cuatro personas. Lo ha hecho en dos minutos y sin darse cuenta, y esa es la primera vez en tres meses que la he visto organizar algo que no sea pan.*
+ESCENA 9.7 - LA PRIMERA TOMA
+
+NARRACIÓN: El martes a las nueve, después del pan y de la tienda, Mika trajo de la trastienda una caja de plástico con ruedas, la abrió en el suelo del taller y sacó las cosas una a una, nombrándolas como se nombran las herramientas: el palo de selfie, un trípode pequeño de patas metálicas, un plato blanco plegable de dos caras —una blanca y una plateada—, un micrófono de pinza con dos metros de cable, una batería, dos cables cortos y un trapo cuadrado de color gris.
+MIKA: "Esto es todo lo que hay. Antes tenía tres focos, dos cámaras y una lente que valía más que este pueblo. Lo vendí todo en marzo menos esto, porque esto cabe en una caja y lo demás no."
+HIROSHI: "¿Y el plato ese?"
+MIKA: "Reflector. Rebota la luz de la ventana. Aquí no hay luz eléctrica buena y no la voy a poner: un foco se nota en un vídeo de pueblo y esta casa no tiene focos. Vamos a grabar con la luz de la ventana de la cocina, que entre las nueve y las once es la mejor luz del día en este hemisferio."
+NARRACIÓN: Antes de montar nada hizo dos cosas que no me esperaba. Primero abrió la puerta de la cocina, se quedó de pie en el centro con los ojos cerrados y la grabadora del móvil encendida durante sesenta segundos, y después la escuchó con el cable del auricular puesto y la cara muy seria, como un médico escuchando un pecho. Segundo, bajó al taller, se quedó quieta al lado de la pila y volvió a grabar otro minuto.
+MIKA: "Ya. Tenemos un problema y no lo voy a arreglar. El hilo de agua del taller se oye en toda la casa, y con el micrófono se oye tres veces más. Y ese hilo no se puede cerrar porque la tubería se hiela."
+HIROSHI: "¿Y lo solucionamos?"
+MIKA: "No. Lo usamos. El agua va a sonar en el vídeo todo el rato, como el fondo. Y me gusta. Es la única prueba de sonido que hay en esta casa de que alguien está trabajando aquí dentro a las cinco de la mañana."
+NARRACIÓN: A las diez menos cuarto llegó la señora Ogawa con el paño de lino grande, doblado en cuatro y metido en una bolsa de tela con un nudo, y entró andando despacio por el pasillo hasta la cocina, sin pedir permiso, la puso encima del mármol, la deshizo del nudo y la dejó allí. El paño tenía un borde remendado con hilo de otro color, una mancha pequeña y muy clara en el centro y cuarenta años de suavidad, y la señora Ogawa lo miró un segundo con la mano encima, sin decir nada, y se fue diciendo que volvería el jueves «a por pan y a ver si has tapado la masa como se tapa».
+NARRACIÓN: Mika puso el paño sobre el barreño de la masa madre, en el rincón de la ventana, y se quedó mirándolo como se mira una medida que cuadra. Después colocó el trípode encima del mármol, encajó el móvil, orientó la pantalla hacia ella y me puso a un metro y medio con el reflector en la mano, y me enseñó a moverlo sin hablar: arriba, abajo, un dedo hacia la izquierda, y el plato rebotaba la luz gris del día en su cara.
+MIKA: "Ahora. Vamos con la primera. Esta va a salir mal y lo sabemos los dos, así que la hacemos y ya está. Yo hablo, tú me miras solo cuando el reflector lo diga, y no me hagas caras, por favor, que las caras se me meten en la voz."
+NARRACIÓN: Y entonces pasó lo que llevaba tres meses sin pasar en esta casa: en el segundo en que encendió la grabación, Mika Nakamura se puso la cara. No fue un cambio grande ni un truco de teatro: fue como cuando en una cocina se sube el fuego de golpe. Se le levantó la barbilla, se le abrieron los ojos, le apareció la sonrisa, y la voz que salió de ella no era la voz que yo conozco desde octubre, ni la de la tienda, ni la del domingo: era una voz con volumen y con finales redondos, hecha para que se entienda en un teléfono con el altavoz malo a cuatrocientos kilómetros de aquí.
+MIKA: [A la cámara] "¡Hola, gente! ¿Saben qué? Hoy les traigo algo que no se puede comprar: un pueblo donde nieva, una masa madre de ocho años y una casa en la que a las cinco de la mañana hay que encender el agua para que no se hiele la tubería. Y no me lo va a contar nadie: lo estoy viviendo yo desde el mes de octubre."
+NARRACIÓN: Habló cuatro minutos y medio. Habló del pan, del cuarto del calentador, de la masa madre venida en autobús, de la helada, del agua, y lo hizo todo bien: los tiempos, las pausas, los gestos de las manos hacia la ventana, el momento en que se gira para señalar algo que no está en el encuadre. Ren, sentada en la escalera con el cronómetro de la cocina en las rodillas, dijo el primer número a los cuatro minutos: «cambio de voz: minuto cero, treinta y ocho».
+MIKA: [Apagando la grabación] "Ya está. Esa no vale."
+HIROSHI: "¿Por qué no?"
+MIKA: "Porque a los treinta y ocho segundos he dicho «¿Saben qué?» como si estuviera en un coche llegando a un sitio nuevo. Esa es la que hago para caer bien. Y esa la tengo tan metida que sale antes de que yo llegue."
+NARRACIÓN: Bajó Yuki del taller con el cuaderno azul abierto y el lápiz detrás de la oreja, se quedó de pie con nosotros y pidió ver el vídeo entero. Lo vimos los cuatro sentados en el suelo de la cocina, con el móvil en medio sobre un taburete: cuatro minutos y medio de Mika Nakamura hablando de un pueblo, de un pan y de una tubería, con la voz alta, la sonrisa puesta y las manos abiertas, y con el hilo del agua del taller sonando debajo de todo como un fondo que no se puede quitar. Cuando terminó, Yuki no dijo nada durante medio minuto, y después dio su informe, que es lo que hace siempre: primero lo que está bien, luego lo que está mal, y al final la frase que duele.
+YUKI: "Lo que está bien: los datos. El agua, la hora, la temperatura, los kilos. Un panadero ve eso y se queda. La luz de la ventana a las diez es buena y el encuadre no miente. Lo que está mal: los treinta y ocho primeros segundos y los cuatro minutos siguientes. Estás diciendo la verdad con cara de mentira."
+MIKA: "Con cara de mentira."
+YUKI: "Con cara de estar vendiendo algo. Y no lo estás vendiendo: lo estás contando. Es distinto y no sé explicártelo mejor, porque yo no sé de cámaras. Yo sé de esto: cuando yo explico una receta en el taller, la explico como la explico y a la gente le llega. Cuando la explico como me la explicaron a mí en un sitio donde nadie me quería, a la gente no le llega nada. Tú tienes dos voces y has empezado por la que no eres."
+NARRACIÓN: Mika apagó el móvil, se sentó en el suelo con la espalda contra la pata del mármol y las rodillas dobladas, y se quedó mirando el techo. Y entonces hizo la pregunta que yo llevaba media hora queriendo hacer y no había hecho, y la hizo a Yuki, no a mí, que es lo que hacen las personas que saben a quién hay que preguntar.
+MIKA: "Y tú, en abril. ¿Cómo lo vas a hacer? Tú también tienes una parte que no puedes contar."
+YUKI: [Después de dos segundos] "Yo ya lo he resuelto. Escribiéndolo. En el libro, en la página del menú, hay un punto que se llama «Punto cuatro: tortilla. Yuki. Con ayuda. No sola». Y debajo, con mi letra: que si me tiembla el índice, quien esté en la primera fila lo vea y siga. Lo escribí yo y lo revisó Ren. Escribe tú tu punto cuatro, Mika. Escribe qué haces cuando te sale la voz que no es tuya, y a quién quieres que esté delante para verlo."
+NARRACIÓN: Y ahí, con Yuki explicándole a Mika cómo se resuelve una cosa escribiéndola antes, me di cuenta de la tontería que llevaba veinte minutos dándome vueltas en el pecho, y me la dije a mí mismo con todas las letras, que es la única manera de que no se me salga por la boca: he tenido celos de un teléfono. Celos de que ella hable cuatro minutos y medio con una voz que yo no había oído en tres meses, y de que en esos cuatro minutos y medio no haya hecho falta que yo estuviera. No lo escribo en el cuaderno. Lo escribo aquí y no lo digo.
+
+*Cuatro minutos y medio de vídeo, un cambio de voz al segundo treinta y ocho, y un fondo de agua que no se puede apagar porque el agua es lo que salva la tubería. Mika ha dicho «esa no vale» antes de que se lo dijera nadie, y Ren le ha dado el minuto exacto, y las dos cosas juntas son la primera vez que he visto a alguien corregir su propio trabajo delante de otros sin defenderse.*
+*Yuki ha dicho la frase que va a gobernar el martes: «estás diciendo la verdad con cara de mentira». Y después le ha dado la solución de su propia vida: escribe tu punto cuatro, decide qué haces cuando te sale la voz que no es tuya, y decide quién quieres que esté delante. En abril hay una clase que va a dar esta mujer con la receta de su madre, y la está preparando desde enero escribiendo lo que le da miedo. Yo no he visto nunca un trabajo tan bien hecho sobre una debilidad.*
+*Tres segundos de celos y los he apartado, pero los apunto aquí porque en esta casa las cosas se apuntan antes de que pasen. Mika no tiene un problema con la cámara: tiene ocho años de trabajo con la cámara y la cámara es lo último que le queda del sitio donde aprendió ese trabajo. Cuando habla para el teléfono, habla para el sitio del que se fue.*
+ESCENA 9.8 - LA TOMA QUE SALE
+
+NARRACIÓN: Mika se levantó del suelo, cogió el cuaderno de la casa —el de las cuentas, el que tiene la tabla de temperaturas— y escribió en una página libre, con el bolígrafo de Ren, un punto cuatro que las otras tres leyeron de pie. Puso: «Punto cuatro: la voz. Primero: si a los treinta segundos me sale la de caer bien, paro, bebo agua y vuelvo a empezar. Segundo: delante, Ren con el cronómetro. Detrás, Hiroshi con el reflector y sin hablar. Tercero: nadie me dice nada hasta que yo acabe, ni bueno ni malo. Cuarto: si me da vergüenza, lo digo en voz alta y sigo.»
+MIKA: [Leyendo lo que había escrito] "El cuarto punto es el importante y lo he copiado de Yuki, que en abril va a hacer la tortilla de su madre delante de una desconocida. Cuando me da vergüenza me pongo la cara. Pues lo digo en voz alta y sigo, que es más barato que disimular."
+NARRACIÓN: A las once y cuarenta montamos otra vez. Hizo una cosa nueva: colocó el móvil un poco más bajo, a la altura del mármol, de manera que en el encuadre entraran el barreño, la harina y las manos, y su cara quedara en el borde de arriba. Después se puso el delantal, se sentó en el taburete y se quedó treinta segundos con los ojos cerrados antes de encender.
+MIKA: [A la cámara, en voz baja] "Vamos. Uno: esto no es un vídeo de un pueblo bonito. Esto es una cocina a dos grados en la que hay pan porque hay una tubería abierta desde las cinco de la mañana."
+NARRACIÓN: Habló once minutos sin parar de trabajar. Amasó, dividió, formó, y mientras lo hacía fue explicando lo que hacía con las manos: el agua a cuarenta y dos grados, la masa madre de ocho años que no tiene nombre porque no ha podido ponerle uno, el horno a doscientos cuarenta, los cuarenta golpes, el ruido de la corteza al enfriarse. A los dos minutos y medio respiró hondo, se pasó la mano por la cara y habló de otra cosa, mirando el barreño y no la lente.
+MIKA: [Sin mirar a cámara] "Hay una cosa que quiero decir y no la tenía preparada. Uno de mis vídeos más vistos es uno en el que digo que estoy bien. No lo estaba. Estaba haciendo la cara de estar bien, que es un trabajo que sé hacer muy bien y que me ha dado todo lo que tengo. Hoy estoy bien de otra manera y todavía no sé explicarla, así que no la voy a explicar: la voy a hacer delante de vosotros durante once minutos. Esto es el minuto cuatro. Los otros diez son pan."
+NARRACIÓN: Ren, sentada en el escalón con el cronómetro, levantó la mano con los cinco dedos abiertos cuando llegó al minuto cinco, y al terminar, cuando Mika apagó la grabación y se echó hacia atrás con las manos llenas de harina y la boca abierta, dio el informe sin que nadie se lo pidiera y sin adornos.
+REN: "Once minutos y catorce segundos. Cambios de voz: cero. Pausas largas: cuatro, y las cuatro tienen sentido, porque son cuando cambias de herramienta. En el minuto dos y cuarenta has dicho lo del vídeo de verano y no se te ha movido la cara. Lo he mirado con el cronómetro y con los ojos. Anotado."
+MIKA: "¿Cero?"
+REN: "Cero. Yo no sé de cámaras. Sé contar."
+NARRACIÓN: Yuki llegó a la mitad del informe con el cuchillo de pan en la mano izquierda, porque había estado cortando la barra de las once, y vio los últimos minutos desde la puerta sin decir nada. Cuando Ren acabó, se acercó, masticó un trozo de pan despacio y dio la segunda mitad del informe, que era la que a Mika le importaba.
+YUKI: "Esta sí. Esta no se puede mejorar. Y te digo la verdad completa, que es lo que te he dicho siempre: en el minuto seis has dicho que la corteza canta, y lo has dicho bien, pero la corteza canta más de lo que has dicho. Cuando la saques del horno, deja el micrófono al lado y no digas nada. Que se oiga solo. Es el único ruido de esta casa que se merece un minuto entero."
+MIKA: [Con la harina hasta los codos] "¿Y no te has aburrido?"
+YUKI: "Yo he estado once minutos mirando a una panadera trabajar y he aprendido dos cosas de masa madre que no sabía. No te digo cuáles, que son de mi oficio y del tuyo."
+NARRACIÓN: A las seis y diez salió el pan del horno y grabamos un minuto entero de nada. Mika puso el móvil en el mármol, enciñó el micrófono al borde del barreño, sacó los cuatro panes de la piedra con la pala y los puso de pie en la rejilla, y después se sentó en el taburete y no dijo una palabra. Lo que se oye en ese minuto, y lo he oído cinco veces esta noche para asegurarme, es esto: los panes chasqueando al enfriarse, muy fino, en tres tonos distintos, el agua del taller cayendo de fondo, el crujido de la estufa y un golpe de viento en la ventana. Nada más. Ni una voz.
+NARRACIÓN: Saki volvió a las siete con las manos frías, se quitó el abrigo de su padre y dio su informe de pie, con la espalda en el marco de la puerta, sin haber preguntado nada de lo que se había grabado por dentro.
+SAKI: "He estado en la calle las dos veces. Desde la puerta no se oye nada y desde la esquina no se oye nada. Desde la calle no se ve más que la luz del taller y el vaho de la ventana, y las dos cosas este pueblo las lleva viendo desde octubre. Lo que sí te digo: quien ya sabe que aquí hay actividad, con ese vídeo no va a saber dónde. Y quien no lo sabe, con ese vídeo va a ver una cocina, un pan y unas manos. Eso es todo lo que hay."
+MIKA: "Y una voz."
+SAKI: "Y una voz tuya, que tiene doscientas cuarenta mil personas al otro lado y ninguna de ellas vive en este pueblo. Yo eso no lo puedo medir. Ren lo medirá mañana con números."
+NARRACIÓN: Y a las seis y media, antes de montar la edición, Mika me pidió lo que llevaba toda la tarde queriendo pedirme y no se atrevía, y me lo pidió de la manera más torpe y más directa que le he visto, que es su manera: con las manos.
+MIKA: "Quiero tus manos en el minuto ocho."
+HIROSHI: "¿Mis manos?"
+MIKA: "Tus manos. Amasando al lado de las mías o cortando el pan, lo que sea, pero tus manos. No tu cara, no tu nombre, no tu voz. Manos. Yo llevo once minutos sola en el encuadre y un vídeo de una sola persona es una persona sola, y yo no estoy sola. Y si en el minuto ocho sale otra mano que no es la mía y no digo de quién es, la gente va a entender exactamente lo que quiero que entienda: que hay alguien más en la cocina y que no lo voy a enseñar."
+HIROSHI: "Yo no salgo."
+MIKA: "Ya lo sé. Por eso te pido las manos. Y porque tus manos no se parecen a las mías: tú tienes cicatrices de horno y yo tengo grietas de frío. En un plano de manos se ve todo lo que no se dice."
+NARRACIÓN: Lo hicimos tres veces. En la tercera, a las siete menos cuarto, la cámara corrió un minuto largo con las dos manos dentro: las mías cortando una barra de cuatrocientos en cinco rebanadas, las suyas entrando en el encuadre desde la izquierda, cogiendo una, partiéndola por la mitad y mirándole la miga a contraluz. Sin caras. Sin voces. Mika miró el plano dos veces y dijo «este», y después se sentó delante del móvil con los auriculares puestos y estuvo cuarenta y un minutos editando con las dos manos quietas y la espalda recta, como se sienta alguien delante de un trabajo que sabe hacer mejor que nadie en la habitación.
+NARRACIÓN: A las once y veinte tenía el vídeo montado: once minutos y catorce segundos de pan, un minuto de panes cantando y un plano de manos. Lo vimos entero en el móvil, los cinco, sentados en el suelo de la cocina: Mika, con la barbilla en las rodillas, mirando su propio trabajo sin decir nada; Ren, apuntando con el bolígrafo en la mano y sin escribir; Yuki con los brazos cruzados; Saki sentada sobre los pies; y yo con la sensación rara de estar viendo mi propia casa por una ventana muy pequeña. A las once y cuarenta subió el vídeo. Antes de darle al botón hizo tres cosas: quitó la etiqueta de ubicación, cambió el título por uno que no decía ningún nombre de sitio y puso en la descripción una línea que leyó en voz alta antes de escribirla.
+MIKA: "«Grabado en una cocina del norte, a dos grados. Si alguien pregunta dónde es, no contesto.» Ya está. Y ahora no se puede desgrabar."
+
+*Cuarenta y un minutos de material, once minutos y catorce segundos de vídeo, un minuto de panes cantando, un plano de manos y una etiqueta de ubicación borrada. Ren ha contado los cambios de voz y han salido cero; Yuki ha pedido que la corteza suene sola, que es la cosa más de cocinero que he oído en tres meses; y Saki ha vigilado la calle como se vigila una linde.*
+*En el minuto ocho salen mis manos y no mi nombre. Es la primera vez en la vida que una de las cuatro me mete en algo que sale fuera de esta casa, y lo ha hecho quitándome justo lo que yo no quería dar y pidiéndome lo único que yo no sabía que se podía dar: las manos. Un cocinero de verdad es un par de manos, y eso lo dice ella, que ha pasado ocho años enseñando caras.*
+*Y en la descripción hay una frase que me ha dejado el estómago apretado: «si alguien pregunta dónde es, no contesto». La ha leído en voz alta antes de escribirla, como se lee un contrato. Lleva tres meses escondiendo un pueblo y esta noche ha escondido una cocina delante de doscientas cuarenta mil personas a las que sí les ha contado todo lo demás.*
+ESCENA 9.9 - EL BRUTO
+
+NARRACIÓN: Los otros tres se acostaron y Mika no subió. Cuando yo bajé la tapa de la estufa y me acerqué al pasillo para echar el cerrojo, la encontré de pie en el taller, en la puerta del cuarto del calentador, con el móvil en la mano y la pantalla encendida, y me miró con una cara que le había visto una vez, un domingo a las cinco y diez, y que no le había vuelto a ver hasta ahora.
+MIKA: "No he subido el bruto. He subido doce minutos y catorce segundos y el bruto tiene dieciséis y treinta y cuatro. Hay cuatro minutos y veinte que no he subido y no los voy a subir nunca, y hoy no se los he enseñado a nadie. Ni a las tres. Nadie de esta casa sabe que esos cuatro minutos existen."
+HIROSHI: "¿Y yo?"
+MIKA: "Tú tampoco. Todavía. Ven."
+NARRACIÓN: Nos sentamos en el banco del taller, el de madera, con el móvil entre los dos y la linterna encendida y apoyada en el barreño para que la pantalla no nos dejara ciegos en la oscuridad. El hilo de agua caía en la pila al lado, a un metro, y ese ruido, que en el vídeo queda de fondo y suena bien, allí dentro sonaba a casa: casa en invierno, casa de madrugada, casa con alguien trabajando dentro.
+MIKA: "Esto es lo que he cortado. Míralo entero, sin decir nada, y no me mires a mí. Míralo, y cuando acabe hablamos."
+NARRACIÓN: Le dio al play. Los primeros once minutos eran el vídeo que habíamos visto todos. Después venía lo otro: cuatro minutos y veinte segundos de Mika Nakamura sentada en el mismo taburete, con el delantal puesto y las manos quietas encima del mármol, hablando despacio, sin la voz alta, sin gestos y con el encuadre un poco torcido, porque el móvil estaba apoyado en un bote de harina y ella no se había levantado a arreglarlo.
+NARRACIÓN: Yo miré la pantalla todo el tiempo, como me había pedido. Lo que se veía era sencillo: una mujer joven con la coleta de un lado contando una cosa que le había pasado. Y a mi lado, en el banco, a cuarenta centímetros, estaba la misma mujer, viva, con el móvil en la mano, mirándome a mí mirar. Que es la cosa más difícil que he hecho en tres meses, y no lo digo por vergüenza: lo digo porque no se puede hacer nada con las manos.
+MIKA: [Cuando terminó el vídeo] "Esos cuatro minutos son de mi hermana. Y ahora te voy a decir lo que puedo decir y lo que no, porque si no lo digo todo de golpe me desordeno."
+NARRACIÓN: Se puso el móvil boca abajo encima del banco, entre los dos, y habló con la voz de las noches, la baja, la que no tiene volumen ni finales redondos.
+MIKA: "Tengo una hermana. Tenía. Y no te voy a decir su nombre, ni cuándo, ni cómo, y no es porque no me fíe de ti: es porque eso no lo he dicho nunca en voz alta en ocho años y no lo voy a estrenar en un taller a las doce y media de la noche. Lo que sí te voy a decir es esto: en la cocina de mi madre hacíamos galletas horribles, con mantequilla de la que no era mantequilla y un horno que calentaba por un lado. Salían como piedras. Y nos las comíamos igual, todas, riéndonos, y yo tenía nueve años y ella era la persona más lista que yo he conocido nunca. Dibujaba pueblos. Pueblo pequeño, una calle, una montaña detrás, una casa con la luz encendida. Cuarenta veces el mismo pueblo. Y cuando llegué a Sakura-machi en el autobús, hace tres meses, lo primero que pensé fue que el pueblo que ella dibujaba era muy parecido a este, y esa es la clase de cosa que no se puede decir en voz alta en un sitio público."
+HIROSHI: "Mika."
+MIKA: "Déjame acabar, que ya queda poco y lo tengo ordenado. Esa persona era la única a la que yo se lo contaba todo. Todo. Desde los nueve años. Cada cosa que me ha pasado en la vida se la he contado a ella, y le he contado hasta lo que no le pasaba a nadie, y por eso llevo ocho años haciendo vídeos, porque un vídeo es contarle algo a alguien que no está. Por eso me sé la cara. La cara no es para la gente: la cara es para la cámara, y la cámara es para ella, y eso no lo sabe nadie, ni mi madre, ni las tres de esta casa, ni las doscientas cuarenta mil personas del otro lado. Ahora sí lo sabes tú."
+NARRACIÓN: Y ahí se calló, y se quedó mirando el móvil boca abajo, y estuvo un rato largo sin decir nada, con las dos manos encima del banco y los pulgares uno contra otro, y yo no dije nada, y no porque no tuviera cosas: porque en esta casa aprendí en octubre que hay frases que cuando se dicen se llevan por delante todo lo que la otra persona ha tardado ocho años en construir.
+MIKA: "Y ahora lo que te voy a pedir. Una sola cosa, y es la primera vez que le pido algo así a alguien desde los quince años: no se lo cuentes a nadie y no se te olvide."
+NARRACIÓN: Le dije que no se me iba a olvidar, y le dije además lo otro, porque era verdad y porque en esa casa las dos cosas van juntas: que no se lo iba a contar a nadie, ni a las tres, y que si algún día me preguntaban por qué callaba, iba a decir que callaba por algo que no era mío. Mika asintió despacio, con la mirada en el móvil, y después hizo una cosa que no me esperaba y que no era nada: cogió mi mano derecha por la muñeca, me la llevó hasta el banco y me la puso encima del móvil, abierta, con la palma hacia abajo y los dedos tapando la pantalla apagada.
+MIKA: "Ahí está el archivo. No se borra y no se sube. Se queda en este teléfono, y ahora hay dos personas en el mundo que saben que existe. Tú y yo. Y no hay más."
+HIROSHI: "¿Y mañana?"
+MIKA: "Mañana hago pan a las cuatro y media y abro la tienda a las siete. Y te voy a hacer una pregunta y quiero la verdad corta: ¿vas a pensar en esto mañana cuando estés amasando?"
+HIROSHI: "Sí. Y voy a amasar igual. El pan es lo único de esta casa que no se contamina con nada."
+MIKA: [Con una risa corta] "Eso es lo más de cocinero que te he oído decir. Y es verdad. A mí me ha pasado: he tenido los tres peores días de mi vida en una cocina y he sacado el mejor pan de esa cocina. Por eso sigo haciéndolo."
+NARRACIÓN: Se levantó del banco, se estiró con las dos manos en los riñones, y se quedó de pie delante de mí con el móvil ya en el bolsillo, y dijo el resumen, porque Mika no se acuesta sin resumen y lo dijo mirando el suelo, con esa manera suya de ordenar las cosas para que no se le desordenen en la noche.
+MIKA: "Resumen, y lo digo en voz alta porque lo que no se dice por la noche me despierta a las tres: esta noche te he enseñado cuatro minutos y veinte segundos que no ha visto nadie, te he dicho que tengo una hermana, no te he dicho el nombre, no te he dicho cuándo y te he pedido que no se lo cuentes a nadie. Eso es todo lo que ha pasado en este taller. Hasta aquí. Y mañana tengo el cuello como un palo, porque llevo cuarenta y un minutos de edición con los hombros subidos hasta las orejas, y eso lo noto yo y lo va a notar el que me vea."
+NARRACIÓN: Subió la escalera con la linterna apagada, porque conoce el pasillo de memoria, y yo me quedé en el taller apagando la bombilla, con la mano todavía caliente de haber estado encima de un teléfono, y me quedé un minuto entero mirando el hilo de agua caer en la pila. Un hilo de agua que llevaba cuatro días abierto para que no se helara una tubería. Eso es lo que hay en esta casa a las doce y cuarenta de la noche: agua que corre para no romperse, una masa que sube, un cuaderno con temperaturas y cuatro mujeres durmiendo en el suelo de una cocina.
+
+*Cuatro minutos y veinte segundos que no ha visto nadie y que no va a ver nadie. Una hermana sin nombre, sin fecha y sin causa, una cocina de mantequilla que no era mantequilla y cuarenta dibujos del mismo pueblo con una luz encendida en una ventana.*
+*«La cara no es para la gente: la cara es para la cámara, y la cámara es para ella.» Ahí está explicado todo lo que llevo tres meses viendo sin entenderlo: la voz alta cuando graba, el cambio de los ojos, los vídeos que sube y la cara que se pone cuando el pueblo se acerca a la puerta. Mika Nakamura trabaja para una persona que no está, y hoy, por primera vez desde los quince años, le ha enseñado a alguien los cuatro minutos que le hablan a esa persona.*
+*No me ha dicho el nombre. No me ha dicho cuándo ni cómo. Me ha pedido dos cosas que no se le piden a cualquiera: que no lo cuente y que no lo olvide. Y me ha dado una sola prueba de confianza, que es la más rara de todas: me ha puesto la mano encima del teléfono apagado, para que sepa dónde está y que está en un sitio donde no se va a mover.*
+ESCENA 9.10 - LA NUCA
+
+NARRACIÓN: El miércoles la tienda abrió a las siete con la segunda hornada del martes y con el suelo ya sin tabla: dos baldosas nuevas y brillantes en medio del pasillo, con la junta clara, y una fila de clientes esperando a que subiera la persiana, porque en Sakura-machi la noticia de que la tienda tiene pan corre más deprisa que la de que ha habido una helada. Mika vendió los seis panes de la hornada en cuarenta minutos, y a las ocho menos cuarto, con la persiana arriba y la bombilla encendida, bajó a la trastienda a por harina para el jueves y volvió a subir con la cara torcida.
+MIKA: "Tengo el cuello mal. No puedo girar a la derecha."
+HIROSHI: "¿Desde cuándo?"
+MIKA: "Desde ayer a las once, cuando llevaba cuarenta minutos de edición. Y hoy, cuando me he despertado, no podía levantar el brazo para colgar el abrigo. Yo no sabía que editar diera esto. Yo creía que editar era estar sentada."
+NARRACIÓN: La miré trabajar veinte minutos y era verdad: hacía todo el trabajo con el cuerpo torcido, y cada vez que necesitaba algo del estante de la derecha se giraba entera desde la cintura, como las personas que llevan un cuello ortopédico. En la trastienda había dos sacos de harina de veinticinco kilos, uno encima del otro, y a ella le tocaba bajarlos al suelo y abrirlos, y me dijo que ella los bajaba sola como los había bajado todos los martes de su vida, y lo dijo con la cara de la tienda puesta, tres segundos antes de intentarlo y de tener que soltarlo.
+MIKA: [Soltando el saco en el suelo] "Vale. Ayúdame, pero no me digas nada."
+NARRACIÓN: Bajé los dos sacos, los abrí por la costura con el cuchillo de la harina, llené el cubo de la amasadora de mano y lo dejé en el banco de la trastienda. Y después, cuando ella se sentó en el saco vacío con la espalda recta y la cabeza un poco ladeada, se quedó mirando la pared y dijo, sin mirarme, en voz baja, cuatro palabras que llevaban cuatro días cocinándose y que yo llevaba desde el martes por la noche esperando sin saberlo.
+MIKA: "La nuca. Hoy sí."
+NARRACIÓN: Yo no dije nada, porque en esta casa he aprendido que hay frases que van con instrucción y frases que piden una mano, y esa era de las segundas. Me puse detrás de ella, le puse las dos palmas abiertas en la nuca, encima del pelo, y ella dejó caer la cabeza hacia adelante de golpe, como se cae algo que estaba sujeto con un nudo, y yo noté en las manos dos cosas: el calor del cuello bajo el pelo y un cordón duro a cada lado, del tamaño de un dedo, que eran los músculos del cuello subidos hasta las orejas.
+MIKA: [Con la cabeza baja] "Ahí. Así. No aprietes todavía. Espera."
+NARRACIÓN: Esperé. Estuve un rato largo con las manos quietas en su nuca, sin mover los dedos, y ella respiró tres veces despacio y a la tercera se le fue el aire entero de los hombros y se le quedaron los brazos blandos encima de las rodillas. Después empezó a mover ella la cabeza, muy despacio, hacia la derecha y hacia la izquierda, empujando contra mis manos como se empuja una puerta para ver si está abierta, y a la cuarta vez ya giraba del todo y se le oyó un crujido pequeño y húmedo en la base del cráneo, y soltó un suspiro largo que no tenía nada de contento: era un suspiro de trabajo, de cuando algo vuelve a su sitio.
+MIKA: "Ya está. Cinco días llevaba. Cinco días con esto y no lo he dicho porque no quería que nadie me viera torcida."
+HIROSHI: "Mika."
+MIKA: "No he dicho que esté mal. He dicho que hoy sí, y que ayer no lo dije. Acuérdate de la diferencia, porque es la única prueba que tengo de que estoy haciendo algo bien en esta casa."
+NARRACIÓN: Y después hizo lo que no había hecho nadie en esta casa en todo el invierno: se echó hacia atrás, apoyó la parte de atrás de la cabeza contra mi pecho y se quedó así, sentada en un saco de harina vacío, con mi mano derecha todavía en su nuca y su peso repartido entre el saco y yo. Levantó el brazo izquierdo por encima del hombro y buscó mi otra mano, la encontró, y se la llevó a la clavícula, y se la dejó encima, abierta, sin apretar.
+MIKA: "Así. Un minuto. Y cuando diga ya, ya."
+NARRACIÓN: Conté el minuto, porque es lo que hago: sesenta segundos con su nuca en mis manos y su cabeza apoyada en mi pecho, y en esos sesenta segundos pasaron tres cosas y las tres fueron pequeñas. La primera: el móvil. Estaba encima del mostrador de la trastienda, boca arriba, y a los quince segundos empezó a vibrar y a encender la pantalla: una notificación, dos, tres, con la luz blanca dando en el techo de la trastienda. La segunda: ella. Levantó el brazo sin abrir los ojos, estiró la mano hasta el mostrador, cogió el teléfono y lo puso boca abajo con la mano izquierda, sin separar la cabeza de mi pecho, y no se puso la cara. Ni un poco. Ni un segundo. La tercera: yo, que me di cuenta de las dos anteriores y no dije nada, y que conté los segundos que quedaban con la precisión con la que cuento una reducción.
+MIKA: [Con los ojos cerrados] "Esa vibración son los números del vídeo. Y no lo voy a mirar ahora, porque lo que hay en ese teléfono es trabajo y lo que hay aquí es la nuca. Y hoy la nuca es de antes."
+NARRACIÓN: A los cincuenta segundos habló otra vez, bajísimo, con la voz de las noches, y habló de lo que yo no había preguntado y llevaba desde el martes con ganas de saber.
+MIKA: "Y sigue sin haber beso. Y ya no es por lo que te dije en el cuarto del calentador. Ayer te enseñé cuatro minutos y no me arrepentí, o sea que la razón de antes ya no vale. La de ahora es distinta y es mía, y no te la voy a decir hoy, y no porque no me fíe de ti: porque quiero saber yo qué es antes de decirlo. Y eso es la primera vez que me pasa con algo."
+NARRACIÓN: A los sesenta segundos no dijo «ya». Dijo «ya» a los setenta y ocho, y lo dijo sin mover la cabeza, y yo levanté las manos cuando lo dijo, y ella se quedó un segundo más apoyada antes de enderezarse, que es una cosa que hizo sin disimular y sin pedir perdón. Y en ese segundo, con la puerta de la trastienda abierta y la bombilla del mostrador encendida, se oyó la campana de la tienda y una voz de mujer mayor que llegaba desde el otro lado del pasillo.
+VOZ: "¿Mika? ¿Estás ahí, hija? Que he venido por el pan del jueves y por verte."
+NARRACIÓN: Y entonces vi el truco entero, a cuarenta centímetros, con la luz de frente y sin ninguna posibilidad de que fuera casualidad: se levantó del saco, se pasó las dos manos por el pelo y se lo sujetó con la goma en dos movimientos, se estiró el delantal de un tirón hacia abajo, levantó la barbilla, abrió los ojos y salió por la puerta de la trastienda diciendo «¡voy!» con una voz que tenía volumen y alegría y una pregunta al final. Todo eso en tres segundos. Yo me quedé de pie en la trastienda, al lado del saco de harina vacío y del cubo, y por primera vez en tres meses el truco no me dio miedo: me dio respeto, que es una cosa completamente distinta.
+MIKA: [Al volver, dos minutos después, con la cara todavía puesta] "Ya. Eso ha sido la nuca. Y esto de ahora ha sido la cara, que no es una mentira: es un uniforme. Y ahora lo digo en voz alta, porque lo digo siempre: manos en la nuca, tu pecho, mi mano en tu mano, la cabeza apoyada y setenta y ocho segundos. No hay beso. Hasta aquí."
+HIROSHI: "Hasta aquí."
+MIKA: "Bien. Ahora ponme una bolsa de pan del jueves para la señora Watanabe, que se ha ido a comprar miso y vuelve, y no me mires con esa cara, que la nuca ha sido de hoy y tú has hecho el trabajo muy bien."
+
+*Setenta y ocho segundos, dos manos en una nuca, una cabeza apoyada en un pecho, tres notificaciones y una campana. Esa es la lista completa y la escribo con la misma precisión con la que Ren apunta los grados, porque si no la escribo me la invento.*
+*En el capítulo del calentador, Mika dijo «ahí no, ahí todavía no» y le puse la palma en la oreja porque era lo que ella había pedido. Hoy ha dicho «la nuca, hoy sí» y ha dicho también por qué: porque ayer me dio cuatro minutos y no se arrepintió. Ella avanza por días, no por grados, y deja la razón escrita en voz alta antes de moverse.*
+*El teléfono ha vibrado y no le ha devuelto la cara. Eso es lo importante de la mañana y no lo otro: en la cocina del taller, hace un mes, una notificación le puso la cara de la tienda en segundo y medio. Hoy ha girado el teléfono boca abajo y ha seguido con la cabeza en mi pecho. Lo ha dicho ella: lo que hay en el teléfono es trabajo y lo que había allí era la nuca.*
+*Y sigue sin haber beso, pero ha cambiado el motivo, y me ha dicho el motivo con esta frase: «quiero saber yo qué es antes de decirlo». Desde octubre, cada vez que una de estas cuatro mujeres me ha dicho una frase así, la frase ha sido verdad. Así que el motivo nuevo existe, tiene nombre y lo tiene ella; y yo, que llevo veinte años poniéndole nombre a las cosas para que no me quemen, esta vez no voy a preguntar.*
+
+ESCENA 9.11 - EL MIÉRCOLES DE LOS NÚMEROS
+
+NARRACIÓN: A las doce y media del miércoles, con la tienda cerrada y el libro de cuentas guardado, Mika puso el móvil en el centro de la mesa del taller, boca arriba, y Ren sacó el cuaderno y el cronómetro y se sentó enfrente como se sienta un juez de paz: sin prisa y con las manos en la mesa.
+REN: "Cifras de las doce horas primeras. Visitas: seis mil novecientas cuarenta. La mitad de ellas en las tres primeras horas, o sea que el pico ya ha pasado. Comentarios: doscientos catorce. Guardados: ochocientos diez. Compartidos: ciento veinte. Y una cosa que no es una cifra y que he mirado tres veces: el tiempo medio de permanencia es de nueve minutos y veinte segundos sobre un vídeo de doce minutos y catorce. Traducido: la gente no lo abre y lo cierra. Lo ve."
+MIKA: "Nueve minutos y veinte."
+REN: "Ese número es el que vale. Los otros son ruido. Y ahora la parte que no te va a gustar: de dónde vienen. He mirado las ciudades de los comentarios y he contado una cosa. Cincuenta y ocho comentarios son de gente que dice dónde vive y no son ciudades grandes: son pueblos de menos de cinco mil habitantes. De Hokkaido, de la sierra de Nagano, de dos sitios de la costa. Eso significa que tu vídeo no lo están viendo solo desconocidos de ciudad: lo están viendo vecinos de pueblos pequeños. Y eso va a notarse, porque un pueblo de doscientos habitantes mira lo mismo que un pueblo de dos mil, y si esto crece, alguno de esos pueblos está a dos horas de aquí."
+NARRACIÓN: Mika leyó en voz alta tres comentarios, como lee el señor Kimura el periódico: el primero, el segundo y después el que le hizo parar la mano en la pantalla. El primero era de una mujer que decía que tenía una masa madre de once años y que nunca había tenido una vecina que hiciera pan. El segundo preguntaba, «de buen rollo», dónde era exactamente eso, y Mika no lo contestó: dejó el comentario sin responder, con el pulgar encima, dos segundos, y pasó al siguiente. El tercero era un mensaje privado, de un número sin foto y con un nombre guardado de dos letras, que decía nada más: «¿Dónde estás? Te busco desde marzo.»
+MIKA: [Sin abrirlo] "Este no es de este pueblo y no es de esta vida. Es de la otra, de la que dejé cerrada en la primavera. No lo abro hoy y probablemente no lo abro este mes. Lo dejo ahí porque un mensaje sin abrir no es una persona: es una puerta."
+NARRACIÓN: Guardó el teléfono en el bolsillo del delantal y nadie en la mesa preguntó nada, porque en esta casa hay un límite que respetan las cuatro y que yo aprendí el primer día: se pregunta lo que se ve y no lo que no se ha ofrecido.
+NARRACIÓN: A las cinco, Saki volvió del pueblo con el informe, y esta vez venía con dos hojas: una con lo que había oído y otra con lo que había decidido ella. Lo que había oído: que el vídeo lo había visto medio pueblo. La señora Watanabe lo vio dos veces con la tableta de su nieto y dijo, palabra suya, que «está bien para ser de una cría», que en su boca es un piropo. El señor Kimura, que no tiene teléfono con pantalla, se lo hizo poner por el cartero en la parada. La señora Ogawa lo vio entero con la tableta de la señora Watanabe y se quedó parada en el minuto de los panes cantando, y después dijo que aquel ruido lo había oído ella cuarenta años en su cocina y que nunca se le había ocurrido que hubiera que grabarlo. Y el señor Ono dijo en la parada que él ya lo sabía, que en el minuto tres se ve la sombra de la tubería en la pared.
+SAKI: "Y ahora la segunda hoja, que es la mía. Hoy el pueblo está contento: has salido en internet y no has dicho dónde. Eso lo entienden, porque un pueblo pequeño entiende perfectamente que no se diga dónde está un sitio bueno. Lo que ya ha empezado es lo otro: la señora Nakai ha preguntado esta mañana, en el mercado, por qué hay gente de fuera que quiere ver nuestra cocina. Y esa pregunta no va de ti: va de todos. Contesta una pregunta y sale otra, y eso no se acaba. Por eso te lo digo hoy y no en marzo: el día que esto se tuerza, se torcerá por ahí, y no por un vecino ofendido."
+NARRACIÓN: Y después, en la misma mesa y con el mismo tono, Saki sacó la tercera cosa, la que no era del pueblo ni del vídeo, y la puso encima del mármol como se pone un número que hay que decidir antes del viernes.
+SAKI: "Y ahora lo otro. Lo he oído en la parada, lo ha dicho el señor Kimura con el periódico abierto y lo dice la emisora cada hora: aviso de nevada grande para el sábado. Cuarenta centímetros en el valle, más arriba sesenta, viento del norte y la carretera de la montaña cortada desde el viernes por la noche. Y con la nieve, los postes de la cuesta."
+REN: [Escribiendo] "Lo tengo. Leña: setenta kilos de roble. Con la casa a dieciséis grados, cinco días. Con el taller encendido todos los días, cuatro. Harina: catorce kilos, que son cinco hornadas, o sea pan hasta el lunes. Gas: dos bombonas y un tercio, y el horno se lleva la mitad. Agua embotellada en el pasillo: sesenta litros. Y una cifra que no había apuntado hasta hoy: si se va la luz, la caldera no arranca y el taller se queda a menos cinco en una noche."
+YUKI: "Y sin taller no hay agua caliente, y sin agua caliente no hay pan, y sin pan el pueblo sube a esta puerta. Eso ya no es un problema nuestro: es un problema de todos. Lo que hay que decidir antes del viernes es una cosa sola: cuántas hogazas se hacen el sábado por la mañana, con qué horno y para quién, porque si la carretera se cierra el viernes, el sábado el pueblo come de esta casa y no del camión."
+MIKA: [Después de un silencio, mirando la mesa] "El sábado hago pan para todo el que venga."
+REN: "Anotado. Viernes: gas antes de que corten la carretera. Sábado: hornada de emergencia. Y te digo una cosa, Mika, y la digo como cumplido: tu vídeo se llama «pan a dos grados» y el sábado vas a hacer el mismo pan con el pueblo llamando a la puerta. Si sales bien de eso, no te va a hacer falta ningún vídeo para que este pueblo sepa quién eres."
+NARRACIÓN: Aquella noche cenamos sopa con el pan del miércoles y cada una se fue a lo suyo: Ren a la pizarra del pasillo con las cifras del sábado, Yuki a la despensa con el cuaderno a contar lo que había, Saki al teléfono a avisar a las tres casas viejas de que si el sábado no pueden salir, sube alguien a llevarles pan. Mika se quedó en la cocina apagando la estufa, y cuando ya estaba todo apagado y la casa en silencio me dijo lo último del día mirando el fogón, no a mí.
+MIKA: "La cara no se quita: eso ya lo sabemos desde el domingo. Pero hoy ha estado puesta todo el día y no me ha dolido, y esta noche me la quito aquí, en la cocina, sin que me vea nadie, como todos los días. Y el domingo que viene te voy a pedir otra vez que subas conmigo al banco del parque, porque el domingo pasado estuve cuarenta y cinco minutos sin ella y quiero ver si el próximo son cincuenta."
+
+*Seis mil novecientas cuarenta visitas, ochocientos diez guardados, doscientos catorce comentarios, nueve minutos y veinte segundos de permanencia, cincuenta y ocho comentarios de pueblos pequeños y una puerta de dos letras que no se ha abierto.*
+*El minuto de los panes cantando lo oyó una mujer de ochenta y un años en la tableta de su vecina y dijo que aquel ruido lo había tenido cuarenta años en su cocina y que nunca se le había ocurrido grabarlo. En esta casa, eso es lo más cerca que ha estado nadie de una patente.*
+*Y Saki ha puesto encima de la mesa las dos cosas juntas: que hoy el pueblo está contento porque has salido y no has dicho dónde, y que mañana va a molestar que haya gente mirando. «Contesta una pregunta y sale otra.» Lo ha dicho sin dramatismo, como se dice que va a nevar, y ha sido la frase más larga de la semana.*
+*Y el sábado nieva: cuarenta centímetros en el valle, sesenta arriba, la carretera de la montaña cortada desde el viernes por la noche y los postes de la cuesta a merced del viento. Setenta kilos de roble, catorce kilos de harina, dos bombonas y un tercio y sesenta litros de agua en botellas. Ren lo tiene todo escrito, Yuki lo tiene todo contado, Saki tiene avisadas a las tres casas viejas, Mika ha dicho que el sábado hace pan para todo el que venga y yo llevo tres meses esperando el invierno de verdad. Llega el sábado.*
 
 FIN DEL CAPÍTULO 9
-
-PUNTOS ACUMULADOS SEGÚN ELECCIONES: **sin elección en este capítulo.** El plan maestro solo abre elección en los capítulos de grupo (6, 8, 10 y 12) y en los cuatro N4 (14–17); el 9 es capítulo-espejo de Mika y reparte **0 puntos**. La rotación cerrada de `plan-maestro-tronco-21.md` §5 sigue intacta: Mika consolida aquí su **N2 y su N3** por vía narrativa, no por puntos.
-
-YUKI: La mentora serena del oficio. Trasciende el manual técnico y humaniza su sabiduría: enseña a Mika a desarmar la impostura comercial escribiendo su propio "punto cuatro", desnudando su propia fragilidad («Tortilla de mi madre. Si me tiembla el pulso, pedir una mano limpia»). Reconoce el valor del pan honesto y se prepara para liderar el racionamiento comunal frente al temporal.
-
-MIKA: **Consolidación de los escalones N2 («el bruto») y N3 («la nuca»).** El N2 es un acto de revelación desgarradora: comparte el material inédito sobre su hermana ausente, desvelando que sus años ante la cámara eran un grito hacia el vacío y no vanidad. El N3 es una entrega física y emocional intensa en la trastienda: entrega su nuca y su peso a Hiroshi, silenciando el teléfono y sus cifras, contenida por la inminencia del temporal y el respeto mutuo. Asume su liderazgo como panadera del valle ante la crisis que se avecina.
-
-REN: La vigía implacable y compasiva. Cronometra la voz de Mika para salvarla del artificio y planifica la logística de supervivencia de la casa con una devoción silenciosa. Refuerza los lazos de equipo sin emitir juicios hirientes.
-
-SAKI: El puente con la comunidad. Monitorea las preguntas del pueblo, exige claridad y verdad sin dobleces, y trae el aviso del frente invernal que pondrá a prueba la resistencia de la casa. Defiende a los suyos marcando los límites con el exterior.
-
-HIROSHI: El pilar silencioso. Sostiene el reflector, pone sus manos cicatrizadas en el encuadre del vídeo sin buscar protagonismo, alivia la carga física de Mika en la trastienda y guarda con lealtad inquebrantable el secreto de su hermana.
-
-Dinámicas grupales: La resaca afectiva tras la noche compartida en los futones del salón; el trabajo en equipo durante la filmación comunitaria; la bendición intergeneracional de la señora Ogawa y la señora Tanaka; la cena comunal frente a la amenaza de aislamiento por el temporal.
-
-Siembras de trama: La placa de latón de 1979 del Restaurante Yamamoto reafirma el misterio de las raíces del caserón; la advertencia del señor Ono sobre la boda de abril y las miradas del pueblo; el aviso de corte de carreteras y caída del tendido eléctrico para el Capítulo 10.
-
-PRÓXIMO: Capítulo 10 - "Tres días sin camino" (Ren: la gran nevada, el apagón general, la carretera bloqueada y la casa convertida en el refugio y panadería de emergencia de Sakura-machi; Elección 3 con trío Yuki-Ren-Saki, escalón N1 de Ren).
-
+PUNTOS ACUMULADOS SEGÚN ELECCIONES: **sin elección en este capítulo.** El plan maestro solo abre elección en los capítulos de grupo (6, 8, 10 y 12) y en los cuatro N4 (14–17); el 9 es capítulo-espejo de Mika y reparte **0 puntos**. La rotación cerrada de `plan-maestro-tronco-21.md` §5 sigue intacta: Mika acumula aquí su **N2 y su N3** por vía narrativa, no por puntos.
+YUKI: La que sostiene la casa mientras otra graba. Abre el domingo pidiendo cinco horas y media de sueño como se pide un turno, no hace una sola pregunta sobre la cara que ve en el banco, da el único veredicto que Mika necesitaba («el pan estaba bueno, no el de ayer: el del jueves») y convierte una grabación en un problema de oficio: «estás diciendo la verdad con cara de mentira». Deja su propia solución escrita —«Punto cuatro: tortilla. Yuki. Con ayuda. No sola»— y la presta, y con ello le da a Mika el método del capítulo. Sigue esperando abril con el menú en el cuaderno azul.
+MIKA: **Escalón N2 (9.9, «el bruto») y escalón N3 (9.10, «la nuca»).** El N2 no es físico: es un acto de habla. Le entrega cuatro minutos y veinte segundos que no ha visto nadie —el bruto—, dice en voz alta que tiene una hermana y **no** dice el nombre, ni cuándo ni cómo (el misterio queda intacto), explica por primera vez que la cara y la cámara existen para una persona ausente («un vídeo es contarle algo a alguien que no está») y pide dos cosas exactas: que no se lo cuente y que no se le olvide. El N3 es de cuerpo y de día: «la nuca. Hoy sí», con la razón dicha en voz alta («ayer te di cuatro minutos y no me arrepentí») y el límite revalidado por un motivo **nuevo y suyo**: «sigue sin haber beso… la razón de ahora es mía y no te la voy a decir hoy». En el 9.7–9.8 hace su trabajo delante de cuatro personas sin defenderse, escribe su propio punto cuatro y publica un vídeo honesto sin decir dónde; en el 9.3–9.5 abre la tienda con el suelo levantado, vende nueve panes, miente con una verdad para no humillar a un vecino y paga la mitad del codo con dinero del pan. Detalle de continuidad: el teléfono vibra durante el N3 y **no** le devuelve la cara (en 5.4 una notificación se la devolvía en segundo y medio).
+REN: La contable del capítulo: registra la jornada de la tienda (catorce vecinos, nueve panes, tres fiados), cronometra la voz de Mika («cambio de voz: minuto cero, treinta y ocho» / «cambios de voz: cero») y da el único número que importa del vídeo, la permanencia de nueve minutos y veinte segundos. Acepta la oferta de trabajar para otra sin cara de lástima («no tengo cara de lástima, tengo la de siempre») y deja escrita la previsión de la nevada: setenta kilos de roble, catorce de harina, dos bombonas y un tercio, sesenta litros de agua.
+SAKI: La que trae el pueblo y lo mide. Trae las tres preguntas del mercado con el número de veces que se han hecho, fija las respuestas aceptables y separa dos cosas que se confunden todos los días («contestar una pregunta no es decidir lo que vamos a ser»). Vigila la calle durante la grabación y confirma que el vídeo no identifica el pueblo, y avisa del envés: el pueblo está contento hoy y estará incómodo mañana. Su escalón llega en el 12.
+HIROSHI: No ha cruzado nada por su cuenta. Está detrás de la cámara y no delante, sostiene el reflector, da las manos en el minuto ocho y no el nombre, baja dos sacos de harina y pone la primera factura de la vida de Mika en un libro de cuentas ajeno. Pregunta una sola vez de más —quién le puso aquella cara a los quince años— y acepta el «eso no es del domingo» sin insistir. Confiesa por escrito tres segundos de celos del teléfono y decide no volver a preguntar por el motivo nuevo del «no hay beso». Buena parte del capítulo es lo que **no** hace: no abre el mensaje de dos letras, no toca la nuca antes de que se la ofrezcan y no le cuenta a las otras tres lo que sabe.
+Dinámicas grupales: el domingo sin cámara (una casa en la que nadie trabaja y en la que dos personas se quedan sin nada que hacer); el reparto de tareas de la grabación como una mise en place (Ren cronometra, Yuki verifica el contenido, Saki vigila la calle, Hiroshi sostiene la luz); el consejo de las tres preguntas del pueblo con la pizarra y las respuestas escritas; la llegada de objetos que nadie ha pedido (la balanza de la señora Ogawa, el paño de lino de su suegra, las catorce baldosas del año setenta y cuatro) y la primera factura pagada con dinero del pan; el nabe y la sopa como fondo doméstico que sostiene el capítulo por debajo del deseo.
+Siembras: la luz del ventanuco a las cinco, que el señor Ono ve desde la cuesta y el cartero pregunta (Cap. 18); la frase del señor Ono «a la que se casa en abril la van a proteger; los preguntados vais a ser vosotros» (Caps. 14–18); el aviso de nevada del sábado, la carretera de la montaña y los postes de la cuesta (Cap. 10); la permanencia de nueve minutos y veinte segundos y los cincuenta y ocho comentarios de pueblos pequeños (Caps. 15 y 18); el mensaje privado del nombre guardado con dos letras, que Mika no abre y no explica (Cap. 21, aviso); la placa de latón «RESTAURANTE YAMAMOTO. INSTALADO EN 1979», que el señor Ono lee sin resolver nada — **Misterio 006 intacto, no se resuelve ni se indaga**; el paño de lino y la balanza del año sesenta y ocho (Acto III); la frase «si algún día tienes que parar, pares tú» (Cap. 19).
+Tono: capítulo-espejo de Mika, de trabajo y de voz: dos días con cámara y un domingo sin ella. La escalada ocurre donde ella la pone —en la palabra (9.9) y en la nuca (9.10), con motivo declarado en voz alta—, el corte lo firma ella misma («hasta aquí») y lo firma el mundo (la campana de la tienda), y nada se consume. El deseo sigue contenido y la vergüenza sigue siendo de Hiroshi.
+PRÓXIMO: Capítulo 10 - "Tres días sin camino" (Ren: la nevada del sábado, la carretera cortada, la luz que se va y el pueblo comiendo de la despensa; diez escenas, Elección 3 con trío Yuki-Ren-Saki, escalón N1 de Ren)
 CORAZONES EN EBULLICIÓN
+
+
+
+
+
+
+
+
+

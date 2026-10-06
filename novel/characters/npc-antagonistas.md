@@ -19,8 +19,12 @@ Los cuatro llegan **simultáneamente a la 1:00 PM** del festival en vehículos d
 - Ex-productor de **Mika**: la busca para que vuelva ("tu audiencia te extraña", "estrella"); alega "contratos pendientes"; filma sin consentimiento y califica el drama de "contenido dorado" (21.3–21.4). `CONFIRMED`.
 - ⚠️ Colisión de nombre con **Kenji**, el mentor difunto de Hiroshi (Cap. 1.3). Personajes distintos; el texto no juega con la coincidencia. Ver `contradictions.md` (006).
 
-## Señora Matsui (mujer de negro)
-- "Mujer mayor vestida completamente de negro", auto elegante, "determinación de alguien en una misión" (Cap. 21.3). `CONFIRMED`.
-- "El chef que trabajó con tu madre antes de que muriera" (de Yuki) (21.3). `CONFIRMED`.
-- Afirma que la madre de Yuki le confesó, "la noche antes del accidente", sentimientos de decepción hacia Yuki; que le pidió que le dijera "la verdad" (21.3–21.4). **Veracidad: `UNKNOWN`** — la narración de Hiroshi dice que esas "verdades" sobre la madre "podrían ser completamente fabricadas" (21.5). También afirma que la madre le pidió cuidar de Yuki "si algo le pasaba" (21.4). `CONFIRMED` como afirmación del personaje.
-- Implica que la madre de Yuki murió en un **accidente** — único lugar del texto que lo sugiere (21.3). `CONFIRMED` como afirmación del personaje; no corroborado.
+## Señora Matsui (mujer de negro / jueza culinaria)
+- Mujer mayor vestida de luto o traje de sastre sobrio gris oscuro/negro, auto elegante, "determinación de alguien en una misión" (Cap. 21.3; Ruta Yuki 22Y–24Y). `CONFIRMED`.
+- Chef y jueza gastronómica de Tokio que trabajó con la madre de Yuki antes de su fallecimiento (21.3). (En borradores preliminares el texto fuente la refería gramaticalmente como "el chef que trabajó...", pero su identidad física femenina es constante).
+- Afirma que la madre de Yuki le confesó, "la noche antes del accidente", sentimientos de decepción hacia Yuki; que le pidió que le dijera "la verdad" (21.3–21.4). En la Ruta Yuki (22Y–24Y) se confirma que manipuló y distorsionó las notas póstumas para desestabilizarla, pero la madre de Yuki la perdonó en su lecho dejándole el recetario con la nota roja.
+- Implica que la madre de Yuki murió en un **accidente** — afirmación del personaje desmontada en la reconciliación de la Ruta Yuki.
+
+## Sawada (directivo de la agencia de medios)
+- Ejecutivo principal de la agencia de talentos de Tokio a la que pertenecía Kenji (productor); responsable corporativo de los contratos leoninos, retención de ingresos y acoso legal contra Mika (Caps. 22M, 24M, 28M, 29M). `CONFIRMED (Ruta Mika)`.
+- En el Cap. 29M ("El Fin de la Farsa"), es confrontado judicialmente por Ren Takahashi y el grupo; ante las pruebas periciales de fraude, firma la rescisión incondicional de los derechos de imagen de Mika y el pago de doce millones de yenes en indemnización.

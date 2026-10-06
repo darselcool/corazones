@@ -1,10 +1,10 @@
 # RUTA HAREM — Guion desarrollado (texto de juego)
 
-> Carpeta del guion prosificado de la Ruta Harem (Opción E de la bifurcación del Cap. 21). Cada capítulo es un archivo: `capitulo-22H.md` … `capitulo-29H.md`.
+> Carpeta del guion prosificado de la Ruta Harem (Opción E de la bifurcación del Cap. 21). Cada capítulo es un archivo: `capitulo-22H.md` … `capitulo-36H.md` (15 capítulos completos).
 > 
 > Convenciones: formato canónico (`style-guide.md`) · primera persona presente/reciente (Hiroshi) · sin sistema de puntos individuales (armonía grupal) · final unificado feliz y próspero · escenas íntimas explícitas y comunión sensorial sin censura.
 
-## Estructura de Capítulos (22H al 29H)
+## Estructura de Capítulos (22H al 36H)
 
 | Archivo | Título Original (XML) | Título Canónico Vigente | Estado | Foco / Escena Destacada |
 |---|---|---|---|---|

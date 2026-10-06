@@ -2,7 +2,7 @@
 
 Estados: `UNRESOLVED` / `PARTIALLY RESOLVED` / `RESOLVED` / `THEORY`.
 
-> **Nota por rama (actualizado 22/09/2026):** Los estados siguientes describen el canon del tronco común (caps. 1–21) y la Ruta Harem. Con el desarrollo integral de las cuatro rutas individuales (**Ruta Mika, Ruta Yuki, Ruta Ren y Ruta Saki**), cada rama cierra de forma definitiva sus respectivos cabos y traumas en su propio desarrollo narrativo (Yuki: colapso y madre; Mika: duelo por su hermana Aoi; Ren: abuelo Saburo y fraude de Tokio; Saki: deudas de Kioto, Watanabe y parentesco Yamamoto).
+> **Nota por rama (actualizado 22/09/2026):** Los estados siguientes describen el canon del tronco común (caps. 1–21) y la Ruta Harem. Con el desarrollo integral de las cuatro rutas individuales (**Ruta Mika, Ruta Yuki, Ruta Ren y Ruta Saki**), cada rama cierra de forma definitiva sus respectivos cabos y traumas en su propio desarrollo narrativo (Yuki: colapso y madre; Mika: duelo por su hermana Akari; Ren: abuelo Saburo y fraude de Tokio; Saki: deudas de Kioto, Watanabe y parentesco Yamamoto).
 
 ## Misterio 001 — El colapso público de Yuki
 - Primera aparición: Cap. 2.3 ("Tuve... un colapso. Durante una competencia. Muy público. Muy vergonzoso.").
@@ -23,8 +23,8 @@ Estados: `UNRESOLVED` / `PARTIALLY RESOLVED` / `RESOLVED` / `THEORY`.
 - Primera aparición: Cap. 3.2 (monólogo en el parque; casi dice "Mi her...").
 - Pistas: "lo construí para ti"; la hermana "solía dibujar" pueblos; "era la persona más sabia que conocí"; galletas horribles en la cocina de mamá; "Te extraño tanto que a veces me duele respirar" (3.2); "para mi hermana antes de que..." (4.4, interrumpido).
 - Conocido: existió; Mika construyó su carrera/persona para ella; la pérdida es el núcleo de su máscara.
-- Desconocido: nombre, parentesco confirmado (hermana dicho por Mika y Yuki asume), cuándo/cómo murió o desapareció — el texto nunca lo dice.
-- Estado: `UNRESOLVED`.
+- Desconocido en tronco común: en caps. 1–21 el texto no revela su nombre ni causa exacta de muerte; **RESUELTO** en canon de autor, Ruta Mika (22M–36M, epílogo E3) y 34H: se llamaba **Akari Nakamura** y falleció de enfermedad prolongada en la infancia. Ver `contradictions.md` (014).
+- Estado: `RESOLVED` en Ruta Mika y canon de autor / `UNRESOLVED` en tronco común caps. 1–21.
 
 ## Misterio 004 — La muerte del abuelo de Ren
 - Primera aparición: Cap. 21.3 ("¡Vine a confrontarte sobre lo que le hiciste al abuelo!" — Emi).

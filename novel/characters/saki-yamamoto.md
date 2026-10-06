@@ -53,7 +53,15 @@
 - **Roce del cap. 5 (autor, 15/09/2026):** en el Cap. 5.11 (la puerta de su casa) manda ella en todo: sube ella al escalón del zaguán —con él **mirando desde abajo**, la altura invertida por primera vez en toda la novela—, le pone la palma abierta en la cabeza («cuatro dedos… siempre me he preguntado cómo se veía esto desde abajo»), **declara la regla** («te quedas donde estás, yo me quedo donde estoy, y esta puerta no se abre esta noche»), **cierra el «todavía» con un plazo** («un todavía sin fecha es un no disfrazado… te voy a dar la fecha cuando la sepa») y **firma ella el final**: mete la llave en el hueco **y no la gira**, apoyando la decisión en el precedente de su tío (5.6) —«eso no es miedo. Es orden»—. Detalle-firma: **es la primera vez que miente en el tronco común**, y miente sobre un temblor propio (las llaves suenan solas: «ha sido la puerta. Está floja»), para no dejarlo expuesto. Cierra con el permiso en voz alta («la llave la giro yo. Ni el pueblo, ni las ganas, ni el sábado») y con el encargo del **bote bueno del estante alto**, eco de 5.6 y **siembra de 20.7**. No pronuncia la palabra «basta» (coherente con 20.7: *hoy no lo he dicho*).
 
 ## Presencia por capítulos
-Caps. 4–15H (ausente en Caps. 1–3). Mencionada por su apellido en Caps. 1.2/1.4 (familia Yamamoto del restaurante) — vínculo `NOT STATED`.
+Caps. 4–15H (ausente en Caps. 1–3). Mencionada por su apellido en Caps. 1.2/1.4 (familia Yamamoto del restaurante) — vínculo confirmado en Ruta Saki (Cap. 24S).
+
+## Ruta Saki (canon de autor)
+- Protagonista romántica de la **Ruta Individual A** (Opción A, Cap. 21): final "El Manantial Tranquilo".
+- Rama Saki: caps. 22S–36S (15 capítulos narrativos desarrollados al 100%).
+- Romance exclusivo Hiroshi–Saki; Ren, Mika y Yuki permanecen en el caserón comunal como socias y hermanas protectoras.
+- Hija canónica: **Mei Matsuda Yamamoto** (nacida el 15 de marzo a las 2:38 PM en el caserón comunal; mente contemplativa, paladar sagrado y autora de la *Enciclopedia Gastronómica de Sakura-machi*).
+- Escenas explícitas sin elipsis: 25S.4, 30S.4 y 33S.4 (concepción de Mei).
+- Vínculo Yamamoto confirmado: bisnieta de la rama de Kioto cuyo hermano fundó el manantial y el mesón de Shinshu (altar y campanas de plata de las tres hojas de roble). Watanabe y las deudas de Kioto anuladas de pleno derecho por los tribunales.
 ## Acto II — escalones y registro (tronco común, `USER-CANON`, 15/09/2026)
 
 - **Cap. 10 «Tres días sin camino» (sin escalón: el suyo llega en el 12).** Es la que convierte un temporal en una lista: se sienta **dos horas y media** detrás del mostrador de la señora Tanaka, en una habitación a cinco grados, con el único teléfono del pueblo, y levanta el **mapa de la despensa** de once casas con cuatro columnas por renglón —casa, quién, qué hay, cuántos días—. Entiende antes que nadie dónde está el problema real: no es la comida, es la gente que vive sola («una persona sola de setenta años no enciende un horno para doce»).

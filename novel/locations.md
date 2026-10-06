@@ -39,7 +39,8 @@
 - 15H.3: "Academia Culinaria Sakura-machi", reconocida por la Asociación de Chefs de Japón. `CONFIRMED`.
 
 ## Lugares externos
-- **Hospital de la ciudad**: lugar de los partos (15H.1). `CONFIRMED`.
+- **Caserón comunal de Sakura-machi (Ala Este y alcoba familiar)**: lugar canónico definitivo de los nacimientos (Caps. 36H, 35R, 35S, 35Y, 36M), acondicionado como sala de alumbramiento con asistencia de médicos y comadronas comarcales.
+- **Hospital de la ciudad / Clínica comarcal**: centro médico de referencia del Dr. Tanaka y Dr. Yamamoto (mencionado de forma preliminar en el borrador de 15H.1).
 - **Tokio**: origen de Hiroshi (`INFERRED`), Yuki y Mika; sede del restaurante estrella de Hiroshi y de la oferta a Ren. `CONFIRMED`.
 - **Kyoto**: destino original planeado por Ren y Saki (4.1). `CONFIRMED`.
 - **Osaka**: ciudad del restaurante famoso donde fue chef la Sra. Watanabe (3.4). `CONFIRMED`.

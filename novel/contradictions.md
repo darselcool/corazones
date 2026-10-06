@@ -223,3 +223,105 @@ LOW
 
 Status:
 RESOLVED (autor, 14/09/2026): Cerrado como **defectos de redacción de la fuente**. Regla para continuaciones: no reproducir los typos; citarlos literalmente solo si se transcribe diálogo textual, con nota.
+
+## Contradiction 014 — Nombre de la hermana fallecida de Mika (Akari vs Aoi)
+
+Chapters:
+30H, 34H, 35H, Ruta Mika (22M–36M), mysteries.md, unresolved-questions.md
+
+Conflict:
+En el borrador preliminar de 34H, mysteries.md y unresolved-questions.md se mencionó a la hermana de Mika como "Aoi". En la Ruta Mika completa (22M–36M, epílogo y validación) su nombre constante es **Akari Nakamura**. Además, en 30H y 35H "Aoi" es el nombre de una de las aprendices pasteleras residentes.
+
+Evidence:
+Ruta Mika, validación general y diseño de producción.
+
+Severity:
+MEDIUM
+
+Status:
+RESOLVED (06/10/2026): Canon = **Akari Nakamura**. Falleció hace cuatro años por enfermedad prolongada en la infancia. Su nombre fue armonizado en 34H, mysteries.md y unresolved-questions.md. La aprendiz Aoi de Nagoya mantiene su identidad separada.
+
+## Contradiction 015 — Nombre de la primogénita de Mika (Hana vs Hina)
+
+Chapters:
+15H.1 / 36H vs 33M, 35M, 36M
+
+Conflict:
+En la Ruta Harem la hija de Mika se llama "Hana" (15H.1 / 36H). En la Ruta Individual Mika se llama "Hina Matsuda Nakamura" (36M).
+
+Evidence:
+Ambas narraciones de alumbramiento.
+
+Severity:
+LOW
+
+Status:
+RESOLVED (06/10/2026): Dualidad canónica por rama. En la **Ruta Harem** es **Hana**; en la **Ruta Individual Mika** es **Hina**. Ambas nacen el 15 de marzo a las 2:23 PM. Ver `characters/hijas.md` y `characters/mika-nakamura.md`.
+
+## Contradiction 016 — Joyas nupciales e invitados de la boda Harem
+
+Chapters:
+12H vs 27H–28H, objects.md, events.md
+
+Conflict:
+En el esquema preliminar (12H) se hablaba de 115 invitados y de cinco colgantes hechos por Ren sin anillos. En la novela narrativa desarrollada (27H–28H) se viaja a Matsumoto para encargar al maestro Arai cinco alianzas de plata y alerce de Sakura-machi con cuatro ranuras complementarias, y asisten más de 120 vecinos.
+
+Evidence:
+Prosa de 27H y 28H.
+
+Severity:
+LOW
+
+Status:
+RESOLVED (06/10/2026): Canon = **alianzas de plata pura y alerce sagrado** como anillos nupciales intercambiados ante más de 120 vecinos en el patio del caserón bajo el alerce comunal, complementadas con las herramientas/emblemas forjados por Ren. Sincronizado en `objects.md` y `events.md`.
+
+## Contradiction 017 — Fecha y lugar de nacimiento de las hijas
+
+Chapters:
+15H.1, 35Y, 36M, 35R, 35S, 36H vs hijas.md, locations.md
+
+Conflict:
+15H.1 mencionaba provisionalmente el "hospital de la ciudad"; las cinco narrativas de parto se ambientan en el Caserón comunal. Además, 35Y y 36M situaban erróneamente el alumbramiento en diciembre en lugar de la fecha canónica del 15 de marzo.
+
+Evidence:
+Capítulos de alumbramiento de las 5 rutas.
+
+Severity:
+MEDIUM
+
+Status:
+RESOLVED (06/10/2026): Canon = nacidas el **15 de marzo** en el **Caserón comunal de Sakura-machi** (ala este / alcoba familiar asistida por médico comarcal y las hermanas): Kira a las 2:15 PM, Hana/Hina a las 2:23 PM, Tomo a las 2:31 PM, Mei a las 2:38 PM. 35Y y 36M fueron armonizados al 15 de marzo a sus horas exactas.
+
+## Contradiction 018 — Personal médico en los alumbramientos
+
+Chapters:
+15H.1 (fuente XML), 36H, 35Y, 35R, 35S, 36M vs npc-pueblo.md, characters.md
+
+Conflict:
+En el extracto original (15H.1) y en 35S asiste el Dr. Yamamoto (médico comarcal veterano de la clínica) con la comadrona Sasaki. En 36H y 35Y asiste el "Dr. Tanaka" (médico de fertilidad / cabecera). En 35R se describe a "la doctora Tanaka", y en 36M a "la doctora comarcal".
+
+Evidence:
+Capítulos de alumbramiento de las 5 rutas.
+
+Severity:
+LOW
+
+Status:
+RESOLVED (06/10/2026): Coexistencia médica en la comarca de Sakura-machi. El **Dr. Tanaka** (especialista en fertilidad y médico rural de cabecera) y el **Dr. Yamamoto** (veterano de la clínica comarcal) forman el equipo médico de referencia de la comunidad junto al personal comarcal de obstetricia. En los alumbramientos domiciliarios del caserón se recurre al servicio médico disponible según la rama, coordinados siempre con las hermanas del hogar.
+
+## Contradiction 019 — Cronología de edades y epílogo generacional en Ruta Harem
+
+Chapters:
+36H (escenas 36H.3 y 36H.4) vs 15H.6–15H.7, hijas.md, canon-rules.md
+
+Conflict:
+El borrador de 36H situaba la graduación y mayoría de edad de las hijas en "verano de 2039" (cuando solo tenían 12 años) y en el verano de 2042 (a los 15 años) introducía a "los primeros nietos correteando". En el canon de autor (15H.6–15H.7 y `hijas.md`), a los 12 años (2039) las hijas colaboran en la academia familiar, y es a los 17–18 años (verano de 2044) cuando alcanzan la mayoría de edad, se despiden para iniciar sus estudios superiores con sus 4 parejas (13 personas), sin que exista una tercera generación biológica de nietos prematuros.
+
+Evidence:
+15H.6–15H.7, `hijas.md`, `timeline.md`.
+
+Severity:
+MEDIUM
+
+Status:
+RESOLVED (06/10/2026): Canon = nacidas el 15 de marzo de 2027. La mayoría de edad y despedida de estudios superiores (13 personas abrazadas) ocurre en el **verano de 2044** (a los 17–18 años). El epílogo generacional de cierre transcurre en **2045** (dos décadas tras la llegada de Hiroshi), donde el bullicio y la vida del caserón provienen de las hijas maduras y de las nuevas generaciones de jóvenes aprendices culinarios que llenan el valle, eliminando la mención ilógica de nietos a los 15 años.

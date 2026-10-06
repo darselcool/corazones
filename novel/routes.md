@@ -17,7 +17,7 @@
   - OPCIÓN B: ayudar a Ren (Emi/culpa por el abuelo).
   - OPCIÓN C: ayudar a Mika (Kenji/cámaras y contratos).
   - OPCIÓN D: ayudar a Yuki (Matsui/"verdades" sobre su madre).
-  - **OPCIÓN E [solo disponible si DIFERENCIA DE PUNTOS ≤2]**: no elegir; declaración pública de amor por las cuatro y protección de la familia → **[ACTIVA RUTA HAREM - CAPÍTULOS 22H-29H]**.
+  - **OPCIÓN E [solo disponible si DIFERENCIA DE PUNTOS ≤2]**: no elegir; declaración pública de amor por las cuatro y protección de la familia → **[ACTIVA RUTA HAREM - CAPÍTULOS 22H–36H]**.
 - **Opciones A–D (Rutas Individuales):** "la escena continúa con la heroína elegida recibiendo apoyo directo, mientras las otras enfrentan sus crisis más independientemente". **Las escenas de estas rutas NO están desarrolladas en este documento.** Bloque final Cap. 21: "+5 a heroína elegida, reset otras a 0". El Cap. 22 individual sería "Nuevo Equilibrio".
 - **Opción E (Ruta Harem):** "Sistema de puntos reemplazado por nueva mecánica grupal" (bloque final Cap. 21).
 - Meta del documento (bloque final Cap. 21): "El momento más crucial de toda la visual novel ha terminado."
@@ -45,15 +45,15 @@
 | 5 | 3–6 | Momentos uno-a-uno (5.3–5.6) — **sin elección** | Escalada de tensión al límite sin consumación añadida por el autor (15/09/2026): una clave por heroína y parada propia. Las 6 elecciones del cap. 5 quedan intactas |
 | 5 | 10–11 | Cierre del mercado (5.10) y la llave sin girar (5.11) — **sin elección** | Roces de tensión interrumpida añadidos por el autor (15/09/2026): con ellos las cuatro heroínas tienen su roce dentro del cap. 5 (5.8 Yuki · 5.9 Ren · 5.10 Mika · 5.11 Saki). Sin elección y sin puntos; 20.6/20.7 siguen en el cap. 6 |
 | 5 | 6 | "¿Qué sientes tú, Hiroshi?" | A: necesito tiempo [+1 todas] / B: me importan más de lo esperaba [+2 todas] / C: me hacen replantear [+2 todas] |
-| 6 | 1 | División de responsabilidades (20.1) | A: fortalezas naturales [+2 REN,+1 SAKI,+1 YUKI] / B: equipos mixtos [+2 MIKA,+1 YUKI,+1 REN] / C: rotación semanal [+2 SAKI,+1 MIKA,+1 REN] |
-| 6 | 2 | Con qué grupo ir de compras | A: Ren y Saki [+2 REN,+1 SAKI,+1 YUKI] / B: Mika y Yuki [+2 MIKA,+1 YUKI,+1 SAKI] / C: dividir el día [+1 todas] |
-| 6 | 3 | Crisis del proveedor (20.3) | A: combinar ideas, convertir en fortaleza [+2 MIKA,+1 YUKI,+1 REN] / B: posponer 2 semanas por calidad [+2 SAKI,+1 REN,+1 YUKI] / C: dividir y conquistar [+1 todas] |
-| 6 | 4 | Cajas del almacén (20.6) — **sin elección** | Juego de tensión interrumpido, Mika (material de autor, 15/09/2026) |
-| 6 | 5 | La despensa (20.7) — **sin elección** | Juego de tensión interrumpido, Saki (material de autor, 15/09/2026) |
-| 6 | 6 | Víspera del festival | A: ya hemos ganado [+2 SAKI,+1 MIKA,+1 YUKI] / B: compartir quiénes somos [+2 YUKI,+1 MIKA,+1 REN] / C: más fuerte que el miedo [+2 REN,+1 SAKI,+1 MIKA] |
-| 6 | 7 | Confesiones nocturnas (20.9) | A: gratitud [+2 SAKI,+1 YUKI,+1 MIKA] / B: marca permanente [+2 YUKI,+1 REN,+1 MIKA] / C: vale la pena proteger [+2 REN,+1 SAKI,+1 YUKI] |
-| 8 | 1 | Conversación post-crisis | A: Yuki / B: Mika / C: Ren / D: Saki / **E [solo si se eligió Ruta Harem en Cap. 21]**: hablar todos juntos |
-| 7 | **LA ELECCIÓN CRÍTICA** | Elección forzada del festival | Ver bifurcación principal arriba |
+| 20 | 1 | División de responsabilidades (20.1) | A: fortalezas naturales [+2 REN,+1 SAKI,+1 YUKI] / B: equipos mixtos [+2 MIKA,+1 YUKI,+1 REN] / C: rotación semanal [+2 SAKI,+1 MIKA,+1 REN] |
+| 20 | 2 | Con qué grupo ir de compras | A: Ren y Saki [+2 REN,+1 SAKI,+1 YUKI] / B: Mika y Yuki [+2 MIKA,+1 YUKI,+1 SAKI] / C: dividir el día [+1 todas] |
+| 20 | 3 | Crisis del proveedor (20.3) | A: combinar ideas, convertir en fortaleza [+2 MIKA,+1 YUKI,+1 REN] / B: posponer 2 semanas por calidad [+2 SAKI,+1 REN,+1 YUKI] / C: dividir y conquistar [+1 todas] |
+| 20 | 4 | Cajas del almacén (20.6) — **sin elección** | Juego de tensión interrumpido, Mika (material de autor, 15/09/2026) |
+| 20 | 5 | La despensa (20.7) — **sin elección** | Juego de tensión interrumpido, Saki (material de autor, 15/09/2026) |
+| 20 | 6 | Víspera del festival | A: ya hemos ganado [+2 SAKI,+1 MIKA,+1 YUKI] / B: compartir quiénes somos [+2 YUKI,+1 MIKA,+1 REN] / C: más fuerte que el miedo [+2 REN,+1 SAKI,+1 MIKA] |
+| 20 | 7 | Confesiones nocturnas (20.9) | A: gratitud [+2 SAKI,+1 YUKI,+1 MIKA] / B: marca permanente [+2 YUKI,+1 REN,+1 MIKA] / C: vale la pena proteger [+2 REN,+1 SAKI,+1 YUKI] |
+| 21 | — | **LA ELECCIÓN CRÍTICA** | Elección forzada del festival (1:00 PM) | Ver bifurcación principal arriba |
+| 22 | 1 | Conversación post-crisis | A: Yuki / B: Mika / C: Ren / D: Saki / **E [solo si se eligió Ruta Harem en Cap. 21]**: hablar todos juntos |
 ## Elecciones del tronco ampliado (caps. 6–19, `USER-CANON`, 15/09/2026)
 
 > Las **8 elecciones nuevas** del Plan Maestro (`plan-maestro-tronco-21.md` §5) se reparten en los cuatro capítulos de grupo (**6, 8, 10, 12**) y en los cuatro N4 (**14–17**). Cada elección reparte `+2` a una heroína y `+1` a otras dos: la ampliación suma una constante igual a las cuatro y **no altera las diferencias relativas**, de modo que la **Opción E (≤2)** sigue siendo alcanzable igual que hoy.
@@ -109,7 +109,7 @@ El original y el guion coinciden escena por escena: **21.1–21.7 = 21.1–21.7*
 
 ### Convención de sufijos
 
-Los capítulos de Ruta Harem llevan sufijo `H` (22H–29H) y los de Ruta Mika `M` (22M–36M); ninguna rama usa enteros sin sufijo. Por eso los nuevos caps. **6–19 del tronco no colisionan** con `22H–29H` ni con `22M–36M`, y el cap. 22 («Nuevo Equilibrio») y el 22H siguen siendo posteriores a la bifurcación del cap. 21.
+Los capítulos de Ruta Harem llevan sufijo `H` (22H–36H) y los de Ruta Mika `M` (22M–36M); ninguna rama usa enteros sin sufijo. Por eso los nuevos caps. **6–19 del tronco no colisionan** con `22H–36H` ni con `22M–36M`, y el cap. 22 («Nuevo Equilibrio») y el 22H siguen siendo posteriores a la bifurcación del cap. 21.
 
 ## Escenas exclusivas de la Ruta Harem
 
@@ -120,7 +120,7 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–29H) y los de Ruta Mika `M
 - Puntos por heroína (numéricos).
 - Condición de diferencia ≤2 para desbloquear la Opción E.
 - Estado de ruta (Individual A–D / Harem) fijado en Cap. 21.
-- Cap. 22, Elección 1: la Opción E es "SOLO DISPONIBLE SI SE ELIGIÓ RUTA HAREM EN CAP. 7".
+- Cap. 22, Elección 1: la Opción E es "SOLO DISPONIBLE SI SE ELIGIÓ RUTA HAREM EN CAP. 21".
 
 ---
 
@@ -133,12 +133,12 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–29H) y los de Ruta Mika `M
 - **Bifurcación:** Cap. 21.5–21.6, LA ELECCIÓN CRÍTICA del festival (1:00 PM) → **OPCIÓN C: ayudar a Mika** (crisis con Kenji (productor): cámaras sin consentimiento y contratos pendientes, Cap. 21.3–21.4). Base `CONFIRMED`.
 - **Mecánica:** "+5 a heroína elegida, reset otras a 0" (bloque final Cap. 21, `CONFIRMED`). El sistema de puntos se abandona a partir de aquí en esta rama.
 - **Premisa de autor:** en esta ruta **Mika es la ganadora** — el romance exclusivo termina en Hiroshi–Mika como pareja. **Yuki, Ren y Saki NO se alejan**: permanecen en Sakura-machi y en la vida de Mika como familia elegida, ofreciéndole apoyo mientras desarrolla su historia propia.
-- **→ GUION COMPLETO ESCRITO:** `routes/ruta-mika/` — 7 capítulos (22M–36M), 38 escenas de trama + 12 escenas opcionales + 15 viñetas de epílogo post-créditos, ~52,700 palabras ≈ **9–10 h de juego**. El diseño de producción (mapa de fanservice con 17 CGs y **5 escenas explícitas**: 11M.4, **13M.5 la concepción de Hina**, 14M.2 + E13/E15 bonus, cierre de cabos sueltos §5, guardarraíles §6) vive en `routes/ruta-mika.md`.
+- **→ GUION COMPLETO ESCRITO:** `routes/ruta-mika/` — 15 capítulos (22M–36M), 38 escenas de trama + 12 escenas opcionales + 15 viñetas de epílogo post-créditos, ~52,700 palabras ≈ **9–10 h de juego**. El diseño de producción (mapa de fanservice con 17 CGs y **5 escenas explícitas**: 25M.4, **27M.5 la concepción de Hina**, 28M.2 + E13/E15 bonus, cierre de cabos sueltos §5, guardarraíles §6) vive en `routes/ruta-mika.md`.
 
 ## Convención de numeración
 
 - Sufijo `M` para esta rama: **Capítulo 22M: "Nuevo Equilibrio (rama Mika)"** — adapta el "Capítulo 22 'Nuevo Equilibrio'" anunciado en el bloque final del Cap. 21 (`CONFIRMED` base, ramificado).
-- Extensión propuesta: 22M–27M (6 capítulos). El autor puede ajustar el número de capítulos; la estructura de fases es lo vinculante.
+- Extensión canónica: 22M–36M (15 capítulos redactados al 100%).
 
 ## Estructura por fases (beats canónicos)
 
@@ -164,7 +164,7 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–29H) y los de Ruta Mika `M
 
 ## Reglas de continuidad de esta rama
 
-1. **Excluyente con la Ruta Harem:** los eventos 22H–29H (ceremonia de cinco, casa compartida como pareja múltiple, proyecto bebé, hijas, campus) **no ocurren** en la Ruta Mika. Ambas ramas son finales alternativos desde el mismo Cap. 22.
+1. **Excluyente con la Ruta Harem:** los eventos 22H–36H (ceremonia de cinco, casa compartida como pareja múltiple, proyecto bebé, hijas, campus) **no ocurren** en la Ruta Mika. Ambas ramas son finales alternativos desde el mismo Cap. 21.
 2. Lo canon compartido e intacto: caps. 1–21 completos, personajes, trasfondos, misterios abiertos y estilo (`style-guide.md`).
 3. Los misterios `UNRESOLVED` de `mysteries.md` siguen siéndolo en esta rama (especialmente el de la hermana de Mika).
 4. Las amenazas de los antagonistas ("esto no ha terminado") pueden pagarse o no en esta rama — decisión abierta registrada en `unresolved-questions.md`.

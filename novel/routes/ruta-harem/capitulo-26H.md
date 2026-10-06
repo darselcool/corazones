@@ -9,7 +9,7 @@ Hacia las cuatro de la tarde, cuando la luz dorada comenzaba a declinar tiñendo
 
 Estaba tendida de costado, con la cabeza apoyada en su brazo musculoso y el cabello azabache suelto cubriéndole los omóplatos. Su mano derecha, marcada por los callos nobles del manejo del hierro y el cuchillo, comenzó a descender con una lentitud deliberada por mi torso, dibujando círculos concéntricos sobre mis costillas hasta rozar la raíz de mi sexo que comenzaba a despertar de nuevo bajo su contacto.
 
-REN: [Con una mirada felina, entrecerrando los ojos grises con una picardía sensual que jamás le había visto en la cocina] "Oye, Matsuda... la contabilidad de este lecho tiene un superávit imprevisto. Creí que después de la batalla de esta mañana estarías fuera de combate hasta el lunes... pero veo que la reserva estratégica está lista para otra ronda."
+REN: [Con una mirada felina, entrecerrando los ojos oscuros con una picardía sensual que jamás le había visto en la cocina] "Oye, Matsuda... la contabilidad de este lecho tiene un superávit imprevisto. Creí que después de la batalla de esta mañana estarías fuera de combate hasta el lunes... pero veo que la reserva estratégica está lista para otra ronda."
 
 MIKA: [Asomando su rostro pecoso desde mi otro hombro, soltando una risita húmeda y deliciosa] "No lo provoques, capitana, que este hombre no sabe rendirse. Aunque... si vas a abrir fuego otra vez, exijo estar en primera fila."
 

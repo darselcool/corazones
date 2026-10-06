@@ -35,14 +35,14 @@ Fichas individuales en `characters/`. Orden por relevancia canónica.
 
 - **Kenji** — mentor difunto de Hiroshi (Cap. 1.3). Ver `hiroshi-matsuda.md` y `contradictions.md` (colisión de nombre con el productor).
 - **Madre de Yuki** — fallecida; eje del trauma de Yuki (Cap. 2.4).
-- **Hermana de Mika** — fallecida o ausente (`UNKNOWN`); eje del trauma de Mika (Caps. 3.2, 4.4).
-- **Abuelo de Ren (y de Emi)** — fallecido en un accidente atribuido a Ren (Cap. 21.3).
-- **Padre de Saki** — herencia de él financia la casa; tío de Saki manejó el restaurante familiar antes que él (Cap. 5.6, 9H.6).
-- **Dr. Tanaka** — médico de fertilidad (Cap. 14H.3). **Dr. Yamamoto** — médico del parto (Cap. 15H.1). **Melissa Thompson** — Food Network (13H.5). **Señora Yamada** — asociación de mujeres (12H.4). Ver `npc-pueblo.md`.
+- **Hermana de Mika** — **Akari Nakamura**, fallecida por enfermedad prolongada en la infancia; eje del trauma y la superación artística de Mika (Caps. 3.2, 4.4, 34H, Ruta Mika 22M–36M y epílogo E3). Ver `contradictions.md` (014).
+- **Abuelo de Ren (y de Emi)** — Saburo Takahashi, fallecido en una ventisca mientras protegía la forja; exonerada Ren de toda culpa (Caps. 21.3, 24R, 27R).
+- **Padre de Saki** — herencia de él financia la casa; tío de Saki manejó el restaurante familiar antes que él (Cap. 5.6, 9H.6 / 23H).
+- **Dr. Tanaka** — médico de fertilidad y cabecera rural (Caps. 14H.3, 34H, 36H, 35Y). **Dr. Yamamoto** — médico veterano de la clínica comarcal (Caps. 15H.1, 35S). **Melissa Thompson** — Food Network (13H.5 / 32H). **Señora Yamada** — asociación de mujeres (12H.4 / 27H). Ver `npc-pueblo.md` y `contradictions.md` (018).
 
-## Segunda generación (Cap. 15H)
+## Segunda generación (Cap. 15H / 36H y rutas individuales)
 
-- **Kira** (hija de Yuki), **Hana** (hija de Mika), **Tomo** (hija de Ren), **Mei** (hija de Saki). Nacidas el 15 de marzo. Ver `hijas.md`.
+- **Kira** (hija de Yuki), **Hana** (hija de Mika en Harem) / **Hina** (Ruta Mika), **Tomo** (hija de Ren), **Mei** (hija de Saki). Nacidas el 15 de marzo en el caserón comunal. Ver `hijas.md`.
 
 ## Nota sobre colisiones de nombres
 

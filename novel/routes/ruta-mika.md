@@ -1,6 +1,6 @@
 # RUTA MIKA — Diseño profundo: "El Corazón Auténtico"
 
-> **Estado:** `USER-CANON (autor)` — diseño de ruta autorizado por el autor (14/09/2026). Este documento ES el guion de diseño vinculante para la rama Mika. No es narrativa escrita: los capítulos 22M–28M quedan pendientes de redactar por el LLM continuador usando este documento + `canon-rules.md` + `style-guide.md`.
+> **Estado:** `USER-CANON (autor)` — diseño de ruta autorizado por el autor (14/09/2026; completada al 100% en `routes/ruta-mika/` con capítulos 22M–36M y epílogos). Este documento ES el guion de diseño y biblia vinculante para la rama Mika.
 >
 > **Excluyente con la Ruta Harem.** Comparte solo caps. 1–21 y la Opción C del Cap. 21.
 
@@ -18,8 +18,8 @@
 
 ## 1. Ficha técnica de producción
 
-- **Capítulos:** 7 (22M–28M). **Escenas:** 38 de trama (+15 viñetas de epílogo post-créditos). **Elecciones nuevas:** 6 (1M–6M).
-- **Palabras reales del guion escrito:** ~52,700 (37,400 de trama + ~3,960 de escenas opcionales + ~11,375 de epílogo post-créditos; ≈360 páginas de guion, escala superior a la Ruta Harem). **5 escenas explícitas:** 25M.4, **27M.5 (concepción de Hina)**, 28M.2 + E13 y E15 (bonus del epílogo).
+- **Capítulos:** 15 capítulos canónicos (22M–36M en `routes/ruta-mika/`, expandiendo el esquema preliminar de 7 capítulos). **Escenas:** 38 de trama (+15 viñetas de epílogo post-créditos + 12 opcionales). **Elecciones nuevas:** 6 (1M–6M).
+- **Palabras reales del guion escrito:** ~52,700 (37,400 de trama + ~3,960 de escenas opcionales + ~11,375 de epílogo post-créditos; ≈360 páginas de guion, escala superior a la Ruta Harem). **Escenas explícitas canónicas:** **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.5 (concepción de Hina)**, **35M.4** (noche de bodas) + **E13** y **E15** (bonus del epílogo).
 - **Horas de juego estimadas:** 4–5 h de primera lectura; **8–10 h** con rejugado de elecciones, galería de CGs, escenas opcionales y contenido de epílogo.
 - **CGs nuevos:** 13 (ver mapa de fanservice). **Ritmo:** capítulos de 4–6 escenas de 40–90 líneas, igual que el original.
 - **Métrica de la rama:** el sistema de puntuación **TERMINA al entrar a la ruta** (canon: bloque final Cap. 21 "+5 a la elegida, reset de las demás"; decisión de autor 14/09/2026: tampoco existe métrica interna — las elecciones 1M–6M moldean escenas y CGs, nunca números).

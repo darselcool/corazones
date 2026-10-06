@@ -50,28 +50,28 @@ Eventos canónicos con referencias. Ver `timeline.md` para el orden temporal com
 - Qué ocurre: liberación explosiva de meses de tensión; intimidad grupal completa y explícita pero "con buen gusto" (meta del propio capítulo).
 - Consecuencias: "no hay deseos secretos" desde entonces.
 
-## Evento 010 — La ceremonia de compromiso
-- Capítulo: 12H.
-- Qué ocurre: ceremonia no legal en el taller, 115 invitados, oficiada por la Sra. Tanaka; ofrendas simbólicas de cada uno; sin anillos, con cinco colgantes forjados por Ren que forman un todo.
+## Evento 010 — La ceremonia de compromiso / Boda comunal
+- Capítulo: 27H–28H (originalmente esbozado en 12H).
+- Qué ocurre: ceremonia bajo el alerce sagrado en el patio del caserón, con más de 120 invitados y vecinos del valle, oficiada por la Sra. Tanaka; rito de las cinco copas de sake, ofrendas de cada uno e intercambio de las alianzas de plata pura y alerce tallado forjadas en Matsumoto y Shinshu (con ranuras complementarias) junto a los emblemas forjados por Ren.
 - Consecuencias: compromiso público y permanente; aceptación comunitaria demostrada.
 
 ## Evento 011 — Salida a la fama
-- Capítulo: 13H.
-- Qué ocurre: artículo de Gourmet Digest (Taniguchi); decisión de ser públicos; apariciones: 3 programas de TV, libro, Food Network (documental de 6 meses + "La Mesa Familiar" con control editorial).
-- Consecuencias: campus de 4 edificios (13H.7) con 24 estudiantes, libro bestseller, documental con Emmy.
+- Capítulo: 29H–33H (originalmente resumido en 13H).
+- Qué ocurre: artículo de Gourmet Digest (Taniguchi); decisión de ser públicos; apariciones: programas de TV, libro, Food Network (documental de 6 meses + "La Mesa Familiar" con control editorial).
+- Consecuencias: campus y academia culinaria con estudiantes residentes, libro bestseller, proyección internacional.
 
 ## Evento 012 — El proyecto bebé
-- Capítulo: 14H.
-- Qué ocurre: (flashback, 8 meses atrás) Saki propone tener los cuatro hijos juntos; 3 meses de sincronización de ciclos con ayuda médica (Dr. Tanaka); noche de concepción ceremonial un "miércoles"; en el presente, cuatro embarazos de 5 meses; preparación de la nursery; nombres elegidos (que luego cambian — ver `contradictions.md` 003).
-- Consecuencias: cuatro embarazos simultáneos; partos previstos dentro de dos semanas entre sí.
+- Capítulo: 34H (originalmente 14H).
+- Qué ocurre: acuerdo mutuo y votos sagrados de concepción simultánea guiados por Saki y la salud reproductiva comarcal; noche de consagración íntima y preparación del caserón.
+- Consecuencias: cuatro embarazos simultáneos; partos previstos para mediados de marzo.
 
 ## Evento 013 — El día de los milagros
-- Capítulo: 15H.1.
-- Qué ocurre: 15 de marzo, 6:47 AM ("Ya es hora" — Saki); cuatro partos en el hospital de la ciudad; nacen Kira (2:15), Hana (2:23), Tomo (2:31), Mei (2:38).
+- Capítulo: 36H (originalmente 15H.1).
+- Qué ocurre: 15 de marzo, labor de parto en el caserón comunal; nacen Kira (2:15 PM), Hana (2:23 PM), Tomo (2:31 PM), Mei (2:38 PM).
 - Consecuencias: la familia queda completa; comienza la fase de crianza.
 
 ## Evento 014 — Legado y cierre
-- Capítulo: 15H.2–15H.7.
+- Capítulo: 36H (originalmente 15H.2–15H.7).
 - Qué ocurre: crianza; academia internacional; reconocimiento "Destino Gastronómico del Año"; las hijas eligen carreras culinarias y prometen regresar; 13 personas en la escena final.
 - Consecuencias: "FIN DE LA RUTA HAREM / FIN DE CORAZONES EN EBULLICIÓN"; logros y estadísticas finales del juego.
 ## Acto II del tronco común — eventos nuevos (material de autor, `USER-CANON`, 15/09/2026)

@@ -62,6 +62,14 @@
 
 ## Presencia por capítulos
 Caps. 2–15H (ausente en Cap. 1).
+
+## Ruta Yuki (canon de autor)
+- Protagonista romántica de la **Ruta Individual D** (Opción D, Cap. 21): final "El Sabor del Alerce y la Nieve / El Sabor Eterno".
+- Rama Yuki: caps. 22Y–36Y (15 capítulos narrativos desarrollados al 100%).
+- Romance exclusivo Hiroshi–Yuki; Mika, Ren y Saki permanecen en el caserón comunal como socias y mentoras leales.
+- Hija canónica: **Kira Hayashi Matsuda** (nacida el 15 de marzo a las 2:15 PM en el caserón comunal; prodigio técnico y culinario internacional).
+- Escenas explícitas sin elipsis: 25Y.4, 30Y.4 y 33Y.4 (concepción de Kira).
+- Cierre de arcos: Matsui y la difamación sobre su madre quedan superados; reconciliación con el recetario de la nota roja: *«Cocina sin miedo y con humildad»*.
 ## Acto II — escalones y registro (tronco común, `USER-CANON`, 15/09/2026)
 
 - **Cap. 10 «Tres días sin camino» (sin escalón: su N2/N3 fue el 7).** Es la que gobierna el agua y el fuego del temporal: tiene sesenta litros embotellados **antes** de que nadie se levante, avisa de que sin luz no hay bomba y de que el pozo del patio lleva tapado desde octubre, y sostiene la cocina del pueblo (quince hogazas del sábado y las hornadas del horno de leña, con la cuenta de que ese horno no gasta bombona).

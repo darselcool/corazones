@@ -6,7 +6,7 @@
 
 ## ESCENA 36M.1 - EL NACIMIENTO DE HINA
 
-NARRACIÓN: *El parto se desencadenó en la primera nevada de diciembre, cuando el viento del norte cubrió los tejados de alerce con un manto de silencio blanco.*
+NARRACIÓN: *El parto se desencadenó en la madrugada del quince de marzo, cuando la última brisa fría del invierno y los primeros aromas del deshielo de primavera envolvieron los tejados de alerce con un manto de quietud serena.*
 
 *El caserón comunal se transformó en un santuario de calor y vida: calderos de agua hirviendo con agujas de pino sobre el fogón, sábanas limpias de lino templadas ante las brasas y la presencia serena de la doctora comarcal junto a la anciana señora Tanaka.*
 
@@ -18,13 +18,13 @@ NARRACIÓN: *Y yo me mantuve detrás de ella, envolviéndola con mis brazos y so
 
 MIKA: [Aferrándose a los brazos de Ren y a los míos con las uñas clavadas, soltando un grito desgarrador y triunfal que retumbó en las vigas maestras] "¡¡¡AAAAAHHHHHHH!!!"
 
-NARRACIÓN: *A las tres de la madrugada, un llanto agudo, limpio y vigoroso quebró el silencio polar de la montaña.*
+NARRACIÓN: *A las dos y veintitrés minutos de la tarde (2:23 PM), tras horas de entrega heroica, un llanto agudo, limpio y vigoroso quebró la quietud de la montaña.*
 
 *La doctora cortó el cordón umbilical y limpió a la criatura antes de depositarla sobre el pecho desnudo y sudoroso de Mika. Era una niña sana, sonrosada, con una mata de cabello negro azabache y unos ojos castaños inmensos que se abrieron de golpe mirando a su madre.*
 
 MIKA: [Llorando a lágrima viva, besando la cabecita de la recién nacida con un amor que desbordaba el universo] "Hina... Mi pequeña Hina... Bienvenida a tu casa, mi vida..."
 
-SAKI: [Con lágrimas en los ojos, arrodillándose junto al lecho] "Es hermosa como un sol de invierno. Que los kami de la montaña la guarden para siempre."
+SAKI: [Con lágrimas en los ojos, arrodillándose junto al lecho] "Es hermosa como el primer brote de la primavera. Que los kami de la montaña la guarden para siempre."
 
 REN: [Frotándose los ojos con la manga del suéter para ocultar su llanto, con una sonrisa desarmada] "Mírenla nada más... tiene la misma mirada terca de su madre. Ya tenemos a la nueva capitana del caserón."
 
@@ -44,7 +44,7 @@ NARRACIÓN: *Tres años después.*
 
 MIKA: "¿Qué estás dibujando, mi flor?"
 
-HINA: [Señalando con su dedito menudo una página repleta de trazos firmes de colores vivos] "Estoy dibujando el pueblo, mami. Mira: aquí está el molino de la tía Ren, aquí está el horno grande de papá, aquí están las flores de la tía Yuki y el tejado de la abuela Saki... Para que nunca se pierdan."
+HINA: [Señalando con su dedito menudo una página repleta de trazos firmes de colores vivos] "Estoy dibujando el pueblo, mami. Mira: aquí está el molino de la tía Ren, aquí está el horno grande de papá, aquí están las flores de la tía Yuki y el tejado de la tía Saki... Para que nunca se pierdan."
 
 NARRACIÓN: *Mika se llevó la mano al pecho, conteniendo un sollozo de emoción pura. Miró hacia el cielo azul y limpio de la cordillera, sintiendo en el viento el roce invisible de su hermana sonriendo en paz.*
 

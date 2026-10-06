@@ -1,15 +1,15 @@
 # Las Hijas (segunda generación)
 
-Nacidas el **15 de marzo**, en el "hospital de la ciudad", con el Dr. Yamamoto. Cuatro niñas, en orden de nacimiento (Cap. 15H.1):
+Nacidas el **15 de marzo** en el **caserón comunal de Sakura-machi** (ala este y alcobas familiares, acondicionadas como sala de parto con asistencia médica comarcal y el apoyo incondicional de las cuatro hermanas; el borrador preliminar de 15H.1 mencionaba provisionalmente el hospital comarcal). Cuatro niñas, en orden de nacimiento (Cap. 15H.1 / 36H y rutas individuales):
 
 | Hora | Nombre | Madre |
 |---|---|---|
 | 2:15 PM | **Kira** | Yuki |
-| 2:23 PM | **Hana** | Mika |
+| 2:23 PM | **Hana** (Harem) / **Hina** (Ruta Mika) | Mika |
 | 2:31 PM | **Tomo** | Ren |
 | 2:38 PM | **Mei** | Saki |
 
-`CONFIRMED` (Caps. 15H.1–15H.2). **Resolución de Contradiction 003 (autor, 14/09/2026):** los nombres elegidos en 14H.6 (Yuki→Hana, Mika→Kento, Ren→Natsuki, Saki→Daichi) eran **provisionales**; los nombres canónicos son los de nacimiento. La coincidencia de "Hana" con el provisional de Yuki es casualidad.
+`CONFIRMED` (Caps. 15H.1–15H.2 / 36H / 35R / 35S / 35Y / 36M). **Resolución de Contradiction 003 (autor):** los nombres elegidos en 14H.6 eran provisionales; los nombres de nacimiento son los canónicos. En la Ruta Mika individual, la primogénita se llama canónicamente **Hina Matsuda Nakamura** (36M), mientras que en la Ruta Harem recibe el nombre de **Hana** (15H.1 / 36H).
 
 ## Personalidades de bebé (Cap. 15H.2) — `CONFIRMED`
 - **Kira** (de Yuki): "observa todo con fascinación intensa - especialmente los movimientos de corte y preparación". A los 2.5 años pregunta con "seriedad de una pequeña chef en formación" (15H.3).

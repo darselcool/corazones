@@ -1,4 +1,4 @@
-﻿CORAZONES EN EBULLICIÓN
+CORAZONES EN EBULLICIÓN
 CAPÍTULO 1: EL NUEVO COMIENZO
 ESCENA 1.1 - LLEGADA A SAKURA-MACHI
 NARRACIÓN: El autobús exhala un suspiro mecánico mientras se detiene frente a la única parada de Sakura-machi. A través de la ventana empañada, observo lo que será mi nuevo hogar.

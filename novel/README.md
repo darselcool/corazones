@@ -3,14 +3,16 @@
 Base de conocimiento canónica extraída **exclusivamente** del documento fuente:
 `CORAZONES EN EBULLICIÓn RUTA HAREM CHECK 1 (1).xml` (gemelo `.docx`).
 
-## Alcance de la fuente
+## Alcance del Proyecto y Estructura Canónica
 
-- **15 capítulos** narrados en primera persona por Hiroshi Matsuda:
-  - Capítulos 1–8: ruta común (con bifurcación crítica en el Cap. 21).
-  - Capítulos 9H–15H: exclusivos de la **Ruta Harem**.
-- ~80 escenas numeradas (formato `ESCENA capítulo.escena`), incluyendo flashbacks marcados (14H.2–14H.5).
-- Las escenas de las **Rutas Individuales (Opciones A–D del Cap. 21) NO están desarrolladas** en este documento; solo se referencian. Todo lo relativo a ellas se etiqueta `NOT STATED`.
-- No existen capítulos posteriores al 15H en esta fuente. Cualquier capítulo nuevo debe numerarse a continuación (p. ej. 16H si se continúa la Ruta Harem).
+- **Tronco Común (21 capítulos, 100% redactados):**
+  - Capítulos 01–21 en `routes/ruta-comun/`: desde la llegada de Hiroshi a Sakura-machi hasta la crisis múltiple del festival de primavera (Cap. 21) donde el jugador toma la decisión interactiva (Opciones A–E).
+- **Cinco Rutas Desarrolladas al 100% (15 capítulos por rama, 22 al 36):**
+  - **Ruta Saki (Opción A):** `routes/ruta-saki/` (22S–36S) — romance exclusivo, final *"El Manantial Tranquilo"*, hija Mei Yamamoto (2:38 PM).
+  - **Ruta Ren (Opción B):** `routes/ruta-ren/` (22R–36R) — romance exclusivo, final *"El Acero Templado"*, hija Tomo Takahashi (2:31 PM).
+  - **Ruta Mika (Opción C):** `routes/ruta-mika/` (22M–36M) — romance exclusivo, final *"El Corazón Auténtico"*, hija Hina Nakamura (2:23 PM), escenas opcionales y epílogo.
+  - **Ruta Yuki (Opción D):** `routes/ruta-yuki/` (22Y–36Y) — romance exclusivo, final *"El Sabor del Alerce y la Nieve"*, hija Kira Hayashi (2:15 PM).
+  - **Ruta Harem (Opción E):** `routes/ruta-harem/` (22H–36H) — unión comunal de los cinco, boda de los anillos de plata y alerce, nacimiento cuádruple el 15 de marzo y legado gastronómico a 20 años.
 
 ## Índice de archivos
 

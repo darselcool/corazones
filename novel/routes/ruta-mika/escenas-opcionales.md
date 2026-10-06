@@ -1,4 +1,4 @@
-﻿# RUTA MIKA — Escenas opcionales de vida cotidiana
+# RUTA MIKA — Escenas opcionales de vida cotidiana
 
 > Contenido **OPCIONAL** y **NO OBLIGATORIO** para la trama. Se desbloquea progresivamente en el menú "Un día en Sakura-machi" entre capítulos. Cada escena se juega cuando se quiere y no avanza el reloj narrativo principal: son viñetas de convivencia que amplían el mundo, profundizan a los personajes y suman **horas de juego** como premio por completar la ruta.
 >

@@ -1,4 +1,4 @@
-﻿# RUTA MIKA — Epílogo opcional: "La vida después del sí"
+# RUTA MIKA — Epílogo opcional: "La vida después del sí"
 
 > Contenido **POST-FINAL** (se desbloquea tras ver los créditos de la Ruta Mika). Viñetas de vida cotidiana situadas **después de la boda (28M.1)**, repartidas entre el año 1 y el año 7 del matrimonio. No alteran la trama: amplían el mundo y premian a quien completó la ruta.
 >

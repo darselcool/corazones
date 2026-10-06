@@ -1,384 +1,470 @@
 CAPÍTULO 10: TRES DÍAS SIN CAMINO
+ESCENA 10.1 - LA NIEVE A LAS CUATRO Y VEINTE
 
-ESCENA 10.1 - EL SILENCIO BLANCO DE LA MADRUGADA
+NARRACIÓN: La nieve llegó a las cuatro y veinte de la mañana y no hizo ningún ruido, y por eso me desperté. Hacía tres meses que en esta casa el ruido de fuera era el viento, y esa noche el viento se había ido y en su lugar había un silencio grueso, de lana, como el que queda en una cocina cuando alguien deja de hablar. Me quedé quieto en el futón contando y a los veinte segundos oí lo que llevaba desde el miércoles esperando oír: el golpe blando de la nieve en el cristal del pasillo, uno, otro, otro, con esa cadencia con la que cae la nieve de verdad, que no es una tormenta. Es una mudanza.
 
-NARRACIÓN: La nieve llegó mucho antes del primer clareo, y lo hizo sin un solo crujido de advertencia. Eso fue precisamente lo que me arrancó del sueño: durante meses, el rumor que mecía las vigas del viejo caserón había sido el aullido seco del viento del norte castigando las tejas de pizarra; pero aquella madrugada el viento había enmudecido de golpe. En su lugar se había instalado un silencio denso, algodonoso y pesado, una quietud casi asfixiante como la que cae sobre un comedor cuando se apagan las velas de improviso y todos se quedan sin palabras. Me incorporé despacio sobre el tatami, conteniendo la respiración en la penumbra helada, hasta percibir el rumor inconfundible contra el cristal del descansillo: un susurro blando, continuo y sordo, una caricia de copos espesos que no golpeaban como granizo, sino que se amontonaban con la parsimonia implacable de una mudanza definitiva.
+NARRACIÓN: Bajé a las cuatro y cuarenta y la cocina estaba encendida, con la puerta del pasillo cerrada y las dos lámparas puestas. Yuki llevaba el uniforme blanco desde antes que nadie y tenía el cuaderno azul abierto en el mármol, y a su lado había seis botellas de refresco llenas hasta el gollete que a las once de la noche no estaban ahí.
 
-NARRACIÓN: El suelo del salón todavía guardaba el calor residual de los cinco futones alineados, pero una de las mantas estaba apartada con pulcritud. Al deslizarme descalzo sobre el entarimado hacia la cocina descubrí la silueta de Ren en la penumbra. Estaba de rodillas junto al ventanuco del patio interior, envuelta en su suéter grueso de lana cruda sobre el pijama de algodón gris, con la barbilla casi pegada al cristal empañado y una regla metálica de medir aferrada con firmeza entre los dedos ateridos. La llama temblorosa de un candil de queroseno recortaba su perfil: las pestañas bajas, la mandíbula apretada con esa tensión nerviosa que le nacía en las sienes cuando algo escapaba a su control, y los labios entreabiertos, contando en un susurro inaudible para el mundo.
+HIROSHI: "¿Cuánta agua llevas?"
+YUKI: "Sesenta litros en botellas, los depósitos del taller llenos y las dos ollas grandes. Con la bomba municipal no cuento: la bomba municipal es de la luz."
+HIROSHI: "¿Y sin luz?"
+YUKI: "Sin luz, el pozo del patio. Y el pozo del patio lleva tapado desde octubre, porque lo tapó la señora Tanaka el día que empezó el frío. Hoy lo vamos a destapar. Y antes de que me lo preguntes: sí, sé lo que hay que hacer con un pozo tapado tres meses, y sí, lo he apuntado."
 
-REN: [Sin volverse, reconociendo el peso de mi pisada en la madera antes de que diera un paso más] "Dieciocho centímetros en el brocal del pozo. Y sigue cayendo a razón de dos por hora."
+NARRACIÓN: A las cinco y media bajó Ren con el jersey de lana encima del pijama, el cuaderno en una mano y una regla de acero de las de cortar en la otra, y sin decir buenos días salió al patio, se puso de rodillas al lado de la puerta y midió la nieve contra la raya de rotulador que hay en el marco desde la helada. Volvió a entrar con la regla mojada, la secó con el faldón del jersey y escribió la cifra antes de quitarse las botas.
 
-HIROSHI: "¿Llevas mucho levantada?"
+REN: "Treinta y un centímetros a las seis y diez, y sube dos por hora. Cuarenta en el valle, sesenta arriba. Es lo que dijo la señora Watanabe el miércoles y no se ha equivocado nunca en cuarenta años."
+HIROSHI: "¿La carretera?"
+REN: "Cerrada desde las once de la noche del viernes, en el kilómetro cuatro, donde el desmonte. El autobús de hoy no sube. Nadie entra y nadie sale hasta que suba la máquina, y la máquina sube cuando pare el viento, no cuando pare la nieve."
 
-REN: "Desde que paró el viento. Cuando el viento se calla de golpe en esta sierra, es que la masa de aire polar se ha asentado sobre el valle. No podía dormir... y en la cama le daba vueltas a la cabeza."
+NARRACIÓN: Mika bajó la última, con las manos lavadas y la coleta hecha a las seis y cuarto —que es la hora a la que se levanta una panadera aunque no haya mercado— y se puso el delantal por encima del jersey sin preguntar nada, porque llevaba desde el miércoles con una frase en la boca y la dijo mirando la puerta del taller.
 
-NARRACIÓN: Se giró despacio para mirarme desde el suelo. En sus ojos oscuros, habitualmente blindados tras una capa de cálculo y distancia metódica, brillaba una chispa de turbación contenida: el eco de la noche anterior en los futones, cuando sus dedos se habían aferrado a los míos bajo el edredón y su aliento agitado había quemado mi cuello instantes antes de que la ventisca reventara el ventanal del patio, flotaba intacto y peligroso entre los dos. Al intentar ponerse en pie, sus rodillas crujieron levemente por el entumecimiento de la guardia; vaciló al apoyar el empeine sobre la madera helada y tuve que sujetarla con rapidez por los antebrazos para que no cayera de bruces.
+MIKA: "El sábado hago pan para todo el que venga. Lo dije el miércoles delante de las tres y hoy es sábado."
+REN: "Con catorce kilos de harina."
+MIKA: "Con catorce kilos de harina."
+REN: "Anotado."
 
-NARRACIÓN: El contacto fue instantáneo y abrasador. A través del tejido basto de la lana sentí el latido desbocado que le golpeaba las muñecas y el rubor súbito que le encendió las mejillas al quedar su rostro a escasos centímetros del mío. Por una fracción de segundo, sus ojos bajaron a mis labios con una avidez involuntaria, antes de que su férrea compostura volviera a tomar el mando.
+NARRACIÓN: A las siete menos cuarto volvió Saki de la calle con el abrigo de su padre blanco hasta la cintura y las cejas cargadas de nieve, y no se sentó: dejó las llaves encima de la mesa y dio el parte como se dan los partes en este pueblo, de arriba abajo.
 
-REN: [Con la voz tomada, retirando los brazos con una lentitud calculada que desmentía su apuro] "Estoy bien. Ha sido solo un calambre por la postura... la mala circulación del frío. Yuki ya ha bajado al taller; tiene seis garrafas de agua llenas junto a la pila y ha dejado dicho que la bomba municipal va a fallar antes del mediodía."
+SAKI: "La cuesta está impracticable del tercer poste para arriba. He hablado veinte segundos con la señora Ogawa por el fijo del mercado: está bien, tiene leña hasta el jueves y no baja. La casa de los Kimura tiene la puerta abierta y el señor Kimura ya ha sacado la pala. Y el fijo del mercado es el único teléfono de este pueblo que funciona: los móviles han caído todos con el viento. Si alguien tiene que decir algo a alguien hoy, lo dice ahí, y lo dice corto, porque la línea es una y somos cuarenta y seis."
+NARRACIÓN: A las ocho y cuarto golpearon la puerta, y no era nadie que viniera a pedir pan. Era la señora Nakai con el gorro de piel, el abrigo de cuadros y los prismáticos colgados del cuello —los que dice que son para los pájaros—, y entró sin pasar del felpudo, porque hay gente que no entra en una casa ajena ni en una tormenta.
 
-HIROSHI: "¿Y la carretera?"
+SEÑORA NAKAI: "Once chimeneas, de catorce que se ven desde mi ventana. Tres no humean: la del señor Kudo, la del molino y la de arriba del todo. Y no humean porque esos tres no están: el señor Kudo se fue al pueblo de su hija el jueves y los otros dos llevan años vacíos. Diecinueve casas y cuarenta y seis vecinos, y de los cuarenta y seis, esta noche, todos van a dormir con techo y con algo caliente. Lo digo por si alguien piensa que este pueblo se ha muerto."
+HIROSHI: "¿Y usted, señora Nakai?"
+SEÑORA NAKAI: "Yo tengo prismáticos, dos mantas y una vecina que me llama por la ventana. Con eso se pasa un invierno. Vengo a decir una cosa más, y la digo porque hoy es el día de decirla: si alguien de esta casa sube la cuesta, que suba de dos en dos. Ese poste del tercero se ha caído, y el de abajo está torcido."
 
-REN: "Cortada desde medianoche en el kilómetro cuatro, en el desmonte de pizarra. El autobús no subirá. Nadie entra y nadie sale hasta que la prefectura mande la maquinaria pesada, y eso no ocurrirá mientras no amaine en los puertos altos. Estamos solos con lo que hay entre estas paredes."
+NARRACIÓN: La despedimos en el umbral, con la nieve entrando de lado, y a las nueve de la mañana el señor Kimura apareció por la esquina arrastrando la pala de hierro con la que lleva cuarenta años sacando su puerta, se paró delante del taller, se apoyó en el mango y le dijo a Saki la única cosa que en este pueblo se dice cuando empieza un temporal.
 
-NARRACIÓN: Mika y Yuki entraron desde el pasillo del taller sacudiéndose la escarcha de los delantales. Mika traía la mirada encendida de una determinación montaraz: había prometido pan para todo el vecindario si arreciaba el temporal y no pensaba retroceder aunque solo quedaran catorce kilos de harina seca en la artesa comunal. Poco después regresó Saki de la cancela exterior, con el capote de su padre blanco de escarcha hasta la cintura y las llaves de hierro tintineando en la palma enguantada.
+SEÑOR KIMURA: "Aquí la nieve de enero son tres días: uno para caer, uno para asustarse y uno para salir con la pala. Al que le cuenta cuatro, se le acaba el pan."
 
-SAKI: "La cuesta alta está perdida para cualquier vehículo. La línea soterrada del colmado de la señora Tanaka es el único hilo de cobre que respira en diez leguas a la redonda; las antenas de los teléfonos han muerto aplastadas por el hielo. El señor Kimura ya ha sacado la pala de hierro y la abuela Nakai vigila desde su buhardilla: once chimeneas humean en la ladera. Cuarenta y seis almas aisladas esperando ver quién enciende la primera lumbre para no rendirse."
+NARRACIÓN: Y yo me quedé en la puerta mirando la calle principal convertida en una sábana sin una sola pisada, con el taller detrás de mí oliendo a horno encendido y a masa, y con la cuenta que llevo tres meses esperando hacer y que hoy por fin se puede hacer: cinco personas, una casa, cuarenta y seis vecinos y cuarenta centímetros de nieve en medio.
 
-*Vine a este rincón buscando un invierno de verdad y la montaña acaba de cerrar la trampa con cerrojo de hielo.*
-*Cuarenta y seis vecinos, un único teléfono de cobre bajo la nieve y un caserón que debe sostenerlos a todos.*
-*Pero en medio de la alerta blanca, lo que me quema la memoria no es la nieve: es el temblor de las muñecas de Ren bajo mis manos en la penumbra de la cocina, y el pánico dulce de sus ojos al comprender que la tormenta exterior no es nada comparada con la que ruge dentro de nosotros.*
+*Yo vine a este pueblo pidiendo un invierno de verdad. Llevo tres meses diciéndolo por dentro, y hasta esta mañana era una frase de cocinero, de los que quieren un frío que se note para que el caldo sepa a algo.*
+*El invierno ha llegado a las cuatro y veinte y no ha llegado como un paisaje: ha llegado como una puerta que se cierra. Diecinueve casas, cuarenta y seis vecinos, una carretera cortada, un teléfono y catorce kilos de harina. Eso no es una estación. Es un servicio.*
+*Y lo que no esperaba es quién estaba ya de pie cuando yo bajé. Yuki llevaba seis botellas llenas desde antes de que empezara a nevar y Ren tenía la regla en la mano y la cifra escrita antes de desayunar. En esta casa el invierno no se recibe: se apunta.*
 
----
 
-ESCENA 10.2 - EL MAPA DE LA SUPERVIVENCIA
+ESCENA 10.2 - EL PAN DEL SÁBADO
 
-NARRACIÓN: Conforme la mañana avanzaba, la casa se transformó en un cuartel de intendencia silencioso y febril. Mientras Mika y Yuki encendían los tiros del obrador y pesaban la harina en la balanza de hierro de la señora Ogawa para amasar las primeras quince hogazas de emergencia, Ren me arrastró hacia la despensa del fondo empuñando una cuartilla cuadriculada, un lápiz de carpintero y una linterna de mano.
+NARRACIÓN: A las nueve y media Mika tenía los catorce kilos de harina pesados en la balanza de la señora Ogawa —que vive desde la semana pasada en la balda de arriba del mármol—, la masa madre despierta desde las cinco y el horno del taller a doscientos treinta grados con la puerta entreabierta, porque hay cosas que no se pueden improvisar ni en una tormenta y una de ellas es la temperatura de un horno.
 
-NARRACIÓN: No se limitaba a hacer un recuento rutinario de alacena: estaba trazando un mapa meticuloso del caserón y del pueblo entero. En el papel dividía la comarca en cuadrantes milimétricos, calculando las calorías mínimas por ración, los troncos de roble disponibles en la leñera y los litros de agua potable necesarios si la helada inutilizaba las cañerías por completo.
+MIKA: "Quince hogazas de novecientos. Doce para el que venga, tres para las casas que no pueden bajar y quinientos gramos para la masa madre, que lleva ocho años comiendo de esta casa y hoy come también."
+REN: [Escribiendo] "Quince. Anotado."
+MIKA: "Ren."
+REN: "Dime."
+MIKA: "¿Me vas a anotar todo el día delante de mí?"
+REN: "Solo lo que tiene número. Hoy casi todo tiene número."
 
-REN: [Anotando con trazo firme sobre una caja de conservas apilada] "Arroz: tres sacos empezados, unos cuarenta kilos en grano limpio. Miso de dos inviernos: cuatro tinajas de barro intactas. Legumbre seca: para dos semanas largas si se hidrata con caldo claro y no se desperdicia una gota de cocción. El problema no son los alimentos sólidos, Hiroshi. El problema crítico es el calor. Para cocer todo esto hace falta lumbre continua y gas, y las bombonas bajan de nivel con cada herval."
+NARRACIÓN: A las diez menos cuarto se abrió la puerta del taller y entró el primer vecino, que fue el chico del señor Ono: dieciséis años, la pala del abuelo apoyada en el hombro, la nieve hasta media bota y la cara colorada. Y lo primero que hizo no fue pedir pan. Fue decir dónde estaba su abuelo.
 
-HIROSHI: "Tenemos los troncos que trajo Kimura en la carretilla ayer por la tarde."
+CHICO DEL SEÑOR ONO: "El abuelo está en la casa. No puede subir la cuesta con la pala y no la va a subir: lo que hace es sentarse en la ventana y contar los coches, y hoy no ha contado ninguno. Dice que si alguien va a destapar un pozo, que le llamen, que él ha destapado pozos cuarenta veces en este pueblo y por teléfono lo explica."
+SAKI: "Dile que a las once lo llamamos por el fijo del mercado."
+CHICO DEL SEÑOR ONO: "¿Y el pan?"
+MIKA: "El pan se lo llevas tú. Y antes de que salgas te voy a decir una cosa: no corras por la cuesta con el pan caliente en la mano. Se te va a helar el sudor en la espalda y vas a estar tosiendo una semana."
 
-REN: "Roble verde en su mayoría; chisporrotea, suelta alquitrán y ahúma si no se mezcla con astilla seca de pino. Si nos quedamos sin suministro eléctrico, la caldera no bombeará a los radiadores de abajo y el frío nos arrinconará a los cinco en la cocina en cuestión de horas."
+NARRACIÓN: De las diez a la una pasaron por el taller once casas. La señora Nakai trajo dos kilos de harina de su despensa en un paño de cuadros y no aceptó pan a cambio —«yo tengo y no he venido a eso»—. El señor Kimura trajo cuatro troncos de roble en la carretilla y dejó la carretilla, porque dijo que con eso subía la cuesta más rápido. La señora Sato, Hanako, que vive a cuatro puertas y camina con bastón, mandó a su nieta con un tarro de umeboshi de los suyos y una nota de tres líneas escrita a lápiz con la letra torcida de quien ya casi no escribe: «Pan no puedo comer, que no tengo dientes. Mande algo blando si sobra. Y no se preocupe por mí, que yo he pasado cinco inviernos peores que este y ninguno de los cinco me mató.» Mika leyó la nota dos veces, la dejó en el mármol y le contestó con una hogaza de las de miga más blanda, envuelta en un trapo, sin cobrarla y sin decirlo.
 
-NARRACIÓN: El espacio de la alacena era angosto, umbrío, saturado por el aroma penetrante a madera añeja de cedro, vinagre de arroz fermentado, salitre y polvo seco de cereal. Al estirarme hacia la balda más alta para descolgar un saco de judías negras, mi cuerpo quedó encajado contra el suyo entre dos estanterías macizas. Ren no retrocedió ni un ápice. Se quedó completamente inmóvil, aprisionada entre mi pecho y los tablones pulidos, con la respiración contenida y los ojos oscuros fijos en la costura de mi camisa.
+NARRACIÓN: La señora Watanabe no vino. Mandó a su sobrino con veinte litros de gasóleo para la estufa del pasillo y un recado de dos frases que el sobrino dijo de memoria, con las cejas subidas y dejando claro que no era suyo.
 
-NARRACIÓN: La proximidad era absoluta. Podía sentir el calor concentrado que desprendía su piel a través de la lana cruda, el roce imperceptible de sus muslos contra los míos y el temblor involuntario de sus dedos aferrando la libreta contra su abdomen como si fuera su último bastión de defensa. El lápiz bailaba levemente en su mano derecha.
+SOBRINO DE LA SEÑORA WATANABE: "Dice mi tía que la nieve va a durar hasta el martes, que no es una tormenta de paso, que es un temporal asentado. Y dice también que no le mandemos pan otra vez, que el del miércoles estaba bien para ser de una cría, pero que las cosas se entregan en mano."
+NARRACIÓN: A la una y veinte, con la quinta hornada dentro, la luz se fue. No parpadeó dos veces como se va la luz en las ciudades cuando hay tormenta eléctrica: se apagó de golpe, como se apaga un interruptor, y con la luz se fueron el ruido de la nevera del taller y el ruido de la bomba. En esta casa, que lleva tres meses aprendiendo el sonido de las cosas, ese silencio se oyó como se oye una caída.
 
-HIROSHI: [En un susurro bajo, sintiendo el aire caliente de su respiración en la base del cuello] "Ren... ¿te agobio aquí dentro?"
+YUKI: "La línea está cortada en la cuesta. Se ha caído un poste, el del tercero, el que la señora Nakai dijo a las ocho y cuarto."
+REN: [Asomada a la puerta del taller] "Se ha caído con la carga de hielo y se ha llevado el de la curva. Dos. Anotado: sábado, trece veinte, corte de luz."
+HIROSHI: "¿Y el horno?"
+MIKA: "El horno es de gas, y la masa está subiendo en el cuarto del calentador, que está a veintiocho grados porque el calentador no se apaga con la luz. El taller es hoy el único sitio de este pueblo que puede seguir haciendo pan, y lo digo sin chulería: lo digo con miedo."
 
-REN: [Con la voz quebrada, tragando saliva con dificultad pero sin apartar los ojos de mi boca] "No... No me agobias. Es que... cuando estás tan cerca me cuesta sumar mentalmente. Pierdo el hilo de las cifras, Hiroshi... y yo no sé estar en una habitación si no puedo sumar."
+NARRACIÓN: Ren se pasó la tarde en la puerta con el cuaderno y contó lo que había pasado por el umbral, que es su manera de querer a la gente. Veintidós personas, once casas, de las diecinueve que tiene el pueblo. Nueve no vinieron. Y de las nueve, las tres de arriba no podían bajar y las demás no habían venido porque a las diez de la mañana todavía no había nadie que hubiera salido de su casa más allá de veinte metros. Ren lo escribió así, con esa frase, sin adornarla: «Nueve casas no saben que hay pan.»
 
-HIROSHI: "A veces no hace falta calcular nada. A veces basta con respirar y estar aquí."
+NARRACIÓN: Mika salió al patio a las tres, con la nieve hasta la rodilla, y se llevó la cámara. La vi desde la ventana del taller sacarla del maletín, sacar el trapo negro, ponerle el trapo a la lente y dejarla colgada del gancho del pasillo como se deja un abrigo. Después volvió a entrar y se lavó las manos y no dijo nada. A las cinco, cuando ya estaba todo el pan fuera y el taller olía a horno apagado, se lo pregunté yo, porque llevaba todo el día pensándolo.
 
-REN: [Con un hilo de voz cargado de un miedo antiguo] "Para mí sí hace falta. Si no cuento... si no sé exactamente qué número viene después, siento que el suelo se abre debajo de mis botas."
+HIROSHI: "¿Por qué no has grabado nada hoy?"
+MIKA: "Porque hoy no hay nada que enseñar y hay mucho que hacer. Y porque la gente que ha venido a esta puerta con nieve hasta la bota no ha venido a salir en un vídeo: ha venido a comer. Un pueblo comiendo de su despensa no es contenido, Hiroshi. Es la vida de cuarenta y seis personas."
 
-NARRACIÓN: Sus pestañas temblaron como alas heridas. Con una lentitud casi dolorosa, levantó la mano izquierda desarmada; sus yemas, ásperas y frías del relente de la madrugada, rozaron el dorso de mi muñeca, trazando una línea invisible sobre mi piel con una torpeza tan exquisita y vulnerable que me cortó el aliento. Iba a inclinarse hacia mí cuando el timbre estridente de la cancela delantera rajó el silencio de la casa.
+NARRACIÓN: Aquella noche cenamos en la cocina, con la estufa encendida y dos velas sobre la mesa porque las lámparas de gas estaban en el taller, y comimos lo que había: sopa de miso, arroz, el nabo encurtido del año pasado y media hogaza que sobró del sábado. Y en mitad de la cena Ren puso el cuaderno abierto en la mesa, con la página del sábado escrita entera, y dijo en voz alta lo que ninguna de las cuatro quería decir en voz alta.
 
-NARRACIÓN: Ren retiró la mano como si la madera hubiera ardido, recomponiendo su postura militar en un parpadeo. Era el nieto del señor Ono, que traía un mensaje urgente de su abuelo sobre cómo desatascar la polea del pozo comunal antes de que el hielo soldara la rueda de hierro. Al mediodía, vecinos de las casas más próximas llegaron batallando con la nieve hasta las corvas: traían puñados de harina de sus despensas, leña menuda y notas escritas a lápiz, como la de la anciana Sato pidiendo miga blanda para sus encías gastadas. Mika despachó las hogazas con una generosidad desarmante, mientras Ren registraba cada trueque en su libro sin levantar la vista para que nadie descubriera el fuego que le encendía las mejillas.
+REN: "El pan que había está repartido. La harina de esta casa se acabó a las cinco. El gas que queda son dos bombonas y un tercio, y con dos bombonas y un tercio se hace pan tres días o se calienta agua doce. La luz no vuelve antes del martes, si vuelve. Y hay cuarenta y seis vecinos con lo que cada uno tenga en su casa, que en tres casas es medio saco de arroz y en otras tres es un tarro de miso y cuatro patatas."
+SAKI: "Entonces lo que hay que decidir no es el pan de esta casa. Es cómo come el pueblo tres días."
+REN: "Eso es. Y eso no lo decide este cuaderno."
 
-NARRACIÓN: Y fue justo al término del reparto cuando la corriente cayó. Un chasquido seco y metálico en el cuadro de diferenciales, la nevera enmudeciendo de golpe y la casa entera sumiéndose en una penumbra glacial.
+*Quince hogazas. Doce repartidas, tres envueltas para subir la cuesta, y un pueblo entero comiendo de lo que tenía guardado. Mika ha dejado la cámara colgada del gancho con el trapo puesto, y esa es la primera vez en tres meses que la veo decidir no grabar algo que le importa.*
+*Ren ha escrito una frase en el cuaderno que no me voy a olvidar: «Nueve casas no saben que hay pan.» Es la clase de frase que no se dice en una cocina de ciudad y que aquí, esta noche, es la única noticia del día.*
+*Y yo llevo todo el día con la sensación de haber pedido algo y de que me lo hayan concedido con intereses. Yo quería un invierno de verdad. El invierno ha venido, y con el invierno ha venido la única pregunta que este pueblo lleva doscientos años contestando sin nosotros: cómo come cuarenta y seis personas cuando el camino no existe.*
 
-REN: [Mirando la bombilla apagada con el lápiz suspendido en el aire] "Se cayó la línea de la curva alta. El valle entero está a oscuras."
+ESCENA 10.3 - SIN LUZ
 
-*En la estrechez de la despensa, atrapada entre mi cuerpo y las vigas de cedro, la contable implacable confesó su mayor terror: no poder sumar cuando la tengo cerca.*
-*Sus dedos rozando mi muñeca dijeron más verdad que todas las columnas ordenadas de su libro de cuentas.*
-*La luz se ha ido en todo el valle, pero entre estas cuatro paredes el fuego que encendimos en la sombra no necesita cables para arder.*
+NARRACIÓN: El sábado por la noche el pueblo desapareció. No es una manera de hablar: desde la ventana del pasillo, a las ocho, Sakura-machi era una masa negra en la que no se distinguían ni las casas ni los tejados, y las únicas luces que había eran cuatro velas y una linterna en este taller y, muy abajo, en el valle, la línea de la carretera general, que estaba encendida y que parecía, vista desde aquí arriba, la frontera de otro país.
 
----
+NARRACIÓN: La señora Tanaka apareció a las ocho y media por la puerta de atrás, con un farol de mano y el abrigo encima del camisón, y lo primero que dijo no fue nada de la nieve.
 
-ESCENA 10.3 - LA CONVERSACIÓN EN EL DESVÁN Y EL ORIGEN DE LAS CIFRAS
+SEÑORA TANAKA: "El fijo del mercado funciona y va a funcionar mientras la central tenga batería, y la central tiene para tres días. Vengo a deciros dos cosas: la primera, que las llaves del mercado las tienes tú, Mika, desde octubre, y que el teléfono de este pueblo es hoy de esta casa. La segunda, que yo he vivido setenta años aquí y he visto cuatro temporales como este, y en los cuatro, la lista de lo que había en cada casa la hizo una mujer con un cuaderno y un teléfono. No la hizo el ayuntamiento, porque el ayuntamiento está en el valle y el valle no sube."
+SAKI: "¿A qué hora se puede llamar a la cuesta sin despertar a nadie?"
+SEÑORA TANAKA: "A la cuesta, a las nueve y cuarto, que el señor Ono se acuesta con las gallinas. A las casas de abajo, a las nueve. Y a la señora Ogawa, a cualquier hora, porque a la señora Ogawa no la despierta nadie: lleva cuarenta años durmiendo cuatro horas."
+SAKI: "Entonces a las nueve y cuarto, con la lista delante."
 
-NARRACIÓN: Al anochecer, con el pueblo convertido en una mancha negra e informe bajo la ventisca que aullaba en los barrancos, Saki bajó a la trastienda del colmado para censar a las familias mediante el teléfono de baquelita, mientras Yuki y Mika aseguraban los tiros del obrador con faroles de aceite. Aproveché la calma tensa para subir al desván superior con una lámpara de carburo y un caldero de cinc, buscando las posibles filtraciones de nieve que la ventisca pudiera colar bajo las tejas del alero norte.
+NARRACIÓN: Y así se hizo la lista de la despensa de Sakura-machi. Saki se fue al mercado con el abrigo de su padre, un farol y un cuaderno, y se sentó detrás del mostrador de la señora Tanaka en una habitación a cinco grados, y durante dos horas y media este pueblo tuvo teléfono, que es una cosa que hoy nadie valora y que aquella noche era lo único que había. Yo la acompañé en la primera llamada, de pie, a un metro, sin hablar, y oí cómo se habla en un pueblo cuando se habla de comida.
 
-NARRACIÓN: Al empujar la trampilla de madera me detuve en seco: en el rincón más resguardado, sentada sobre un arcón viejo de mantas y arropada con un chaquetón de aviador forrado de borreguillo, estaba Ren. Tenía las piernas cruzadas sobre el entablado polvoriento, una pequeña linterna encendida entre los muslos y las manos metidas en los bolsillos para espantar el sabañón. La estancia estaba a varios grados bajo cero; el vaho de su respiración formaba volutas densas y blancas que se disolvían contra las vigas oscuras de la techumbre.
+SAKI: [Al teléfono] "Señora Ogawa, soy Saki. No, no ha pasado nada. Le llamo para apuntar. Sí. Arroz, sí. ¿Cuántos kilos? ... Miso, ¿un tarro o dos? ... La leña no me la cuente, la leña ya la sabemos. ¿Y el horno? El horno no. Bien. Sí, mañana sube alguien. Sí. Buenas noches, señora Ogawa."
 
-HIROSHI: "¿Qué haces aquí arriba con este frío polar, Ren? Te vas a congelar viva."
+NARRACIÓN: Colgó, escribió tres renglones y se quedó un segundo con el bolígrafo en el aire, mirando lo que había escrito, y después me dijo la primera cosa del capítulo que me dejó sin respuesta.
 
-REN: [Sin sobresaltarse, con la mirada clavada en las rendijas del alero por donde se filtraba el polvo blanco] "Vigilo las vigas maestras. El peso de la nieve sobre la vertiente norte supera ya la media tonelada por tramo. Si una cuaderna cede por la fatiga, se oye crujir aquí arriba instantes antes de que el techo se venga abajo sobre las habitaciones."
+SAKI: "La señora Ogawa tiene arroz para veinte días, miso para quince, patatas para seis y un horno de leña que no ha encendido en tres inviernos. Y me lo ha contado sin pedirme nada y sin quejarse, que es como se cuenta la comida en este pueblo: en voz baja, como si fuera un defecto."
 
-HIROSHI: "La madera de esta casa es roble viejo de montaña, Ren; ha aguantado temporales peores durante cien años."
+NARRACIÓN: Llamó a once casas en dos horas y media. A las nueve y cuarto, al señor Ono, que dijo que su casa tenía arroz y miso y que el problema de su casa no era la comida sino la escalera; a las nueve y veinte, a la señora Nakai, que dijo que tenía dos kilos de harina, cincuenta de arroz y la despensa llena de tarros, y que no pensaba comer nada de eso sola; a las nueve y media, al señor Kimura, que contestó con una sola frase —«yo tengo, y tengo pala»— y colgó. A las diez llamó a la casa del Kudo, que está vacía, y a las diez y cuarto a la señora Sato, que tardó cuatro minutos en llegar al teléfono y que dijo, con la voz de alguien que lleva sesenta años dando órdenes, que ella tenía conservas para un mes y que lo que no tenía era quien le acercara el agua a la cocina. A las once ya había once renglones en el cuaderno, y cada renglón tenía cuatro columnas: casa, quién, qué hay, cuántos días.
 
-REN: "Las cosas aguantan... hasta el segundo exacto en que dejan de aguantar. Los cálculos de resistencia de materiales no perdonan los excesos de confianza, Hiroshi."
+NARRACIÓN: A las once y media volvimos al taller y Ren pasó los once renglones a la pizarra del pasillo con tiza, y entonces el pueblo entero cupo en un metro de pared. Veintidós personas en once casas con comida para entre cuatro y veinte días. Lo que no había era camino, ni luz, ni una sola forma de que la comida de una casa llegara a otra casa, y lo que había era un pueblo de gente mayor en el que cuatro de los cuarenta y seis no pueden subir una cuesta y dos no pueden bajar una escalera.
 
-NARRACIÓN: Me senté en el entarimado a su lado, dejando el farol de carburo entre los dos. El resplandor dorado iluminó su rostro lívido y puro: tenía la punta de la nariz enrojecida por el relente y los ojos cargados de un cansancio hondo que no venía de palear nieve, sino de años de insomnio acumulado. Me quité los guantes de cuero, tomé sus dos manos rígidas y las cubrí con las mías, acercándomelas a los labios para templarlas con mi aliento. Sentí cómo un estremecimiento profundo le recorría los hombros al contacto de mi piel tibia.
+REN: "Arroz para once días si comemos lo que hay. Miso para nueve. Patatas para cuatro, nabos para seis, conservas para doce y encurtidos para el invierno entero. O sea: comida. Lo que no hay es camino. Y lo que no hay tampoco es alguien que cocine en nueve de esas casas, porque en nueve de esas casas vive una persona sola, y una persona sola de setenta años no enciende un horno para ella."
+YUKI: "Enciende el horno para ella todas las noches. Lo que no enciende es el horno para doce."
+REN: "Eso. Exacto. Eso."
+SAKI: "Entonces esta noche no vamos a decidir el pan. Vamos a decidir cómo come este pueblo tres días."
 
-HIROSHI: "¿Por qué necesitas medirlo todo, Ren? ¿Por qué te refugias detrás de cada cifra como si fuera una muralla de hierro?"
+NARRACIÓN: Antes de eso hubo una hora de agua. El señor Ono explicó por teléfono cómo se destapa un pozo que lleva tapado desde octubre, y lo explicó con una precisión que me hizo entender por qué este hombre lleva cuarenta años siendo el fontanero de un pueblo donde ya no queda nadie que sepa nada: la tapa se levanta de un lado y no del centro, el pozo se deja abierto una hora antes de sacar el primer cubo para que el aire cambie, el primer cubo se tira porque trae el polvo de tres meses, y a partir del segundo el agua es la misma de siempre. Yuki lo apuntó todo y luego hizo su propia lista, que es la misma lista con las palabras de Yuki: qué se tira, qué se hierve y qué se guarda.
 
-NARRACIÓN: Ren bajó la vista hacia nuestras manos entrelazadas. Durante un largo minuto, el único sonido fue el azote rítmico del viento helado contra el entablado del tejado. Cuando habló, su voz sonó despojada de cualquier suficiencia, vulnerable, desnuda y transparente como el hielo fino que cubre los arroyos.
+NARRACIÓN: Entre Yuki y yo sacamos veintitrés cubos aquella noche, con la linterna apoyada en el brocal y el viento de la cuesta metiéndose por el patio, y cada cubo iba a los depósitos del taller y a las botellas. Mika trabajaba dentro, encendiendo la estufa y alimentando la masa madre como todos los días de su vida, incluido el día de la nevada, y Saki volvía del mercado a las doce y media con el cuaderno y las llaves, y Ren apuntaba el agua en la página del sábado y en la columna de la derecha, la que abrió en octubre y que se llama «Lo que aprendimos».
 
-REN: "Porque cuando tenía nueve años... en Tokio, el mundo entero de mi familia se desmoronó en una sola tarde de invierno. Mi padre era director financiero en una corporación textil importante; vivíamos en una torre de cristal en Minato, rodeados de números prósperos, colegios privados y promesas de futuro impecables. Un martes cualquiera de noviembre, un desfase contable que nadie quiso auditar a tiempo reventó la empresa desde dentro. En cuestión de tres días nos embargaron el piso, las cuentas bancarias, los coches... hasta los muebles del salón."
+*El señor Ono ha explicado por teléfono cómo se destapa un pozo y yo he sacado veintitrés cubos con las manos y con el viento, y a las doce y media de la noche me he dado cuenta de que esta es la primera vez en tres meses que he hecho algo con las manos que no sea cocinar. En una cocina siempre hay un plato delante. Aquí, esta noche, no había plato: había agua, y la casa entera dependía de que el agua llegara arriba.*
+*Saki ha escrito once renglones en un cuaderno a cinco grados y cada renglón es una casa de este pueblo, y ninguno de los once me ha preguntado a mí qué iba a hacer yo con eso. Llevan doscientos años haciéndolo solos. Lo que están preguntando, sin decirlo, es si alguien de fuera va a ser capaz de no estorbar.*
+*Y yo, que vine aquí a cocinar bien, me he pasado el día pesando harina que no era mía, subiendo cubos que no pedí y mirando una pizarra con el nombre de once casas. Mañana, cuando me levante, hay una decisión esperando en la cocina. Y por primera vez desde octubre no la va a tomar el cocinero.*
 
-HIROSHI: "Ren..."
+ESCENA 10.4 - LO QUE HAY EN LAS CASAS
 
-REN: [Con la voz trémula, apretando mis dedos con una fuerza desesperada] "Recuerdo a dos hombres de traje oscuro entrando en mi habitación con rollos de precinto rojo. Le pusieron una pegatina roja a mi piano vertical, a mi escritorio y a mi cartera del colegio. Mi madre lloraba tirada en el linóleo de la cocina vacía mientras se llevaban las cortinas, y mi padre se encerró en el baño sin atreverse a mirarme a los ojos... jamás volvió a ser el mismo. Aquella noche, tirada en una colchoneta prestada en un suburbio húmedo de Saitama, empecé a contar las baldosas agrietadas del pasillo. Luego conté los segundos exactos entre los trenes de cercanías que hacían temblar las ventanas. Luego las monedas de diez yenes que nos quedaban en una taza rota de porcelana. Y descubrí una verdad atroz, Hiroshi: la gente te promete amor, lealtad y futuro con palabras hermosas que se las lleva el viento al primer tropiezo; pero las cifras jamás mienten. Si sabes exactamente cuánto tienes y cuánto necesitas, nadie puede desahuciarte por sorpresa."
+NARRACIÓN: El domingo a las siete de la mañana la pizarra del pasillo estaba en la cocina, apoyada en la pared del mármol, con los once renglones de anoche todavía puestos y dos nuevos escritos debajo con tiza de otro color, que eran los de la casa del Kudo y la del molino, las dos vacías, apuntadas por Ren porque a Ren le molesta un pueblo con agujeros. Y las cuatro estaban sentadas o de pie alrededor de la mesa sin que nadie hubiera convocado nada, porque en esta casa las cosas serias se convocan solas: basta con que una se siente y no encienda la radio.
 
-NARRACIÓN: Las lágrimas contenidas brillaron en sus ojos oscuros sin llegar a derramarse, desafiando el frío atroz con un orgullo indomable que me encogió el corazón.
+HIROSHI: "Hay comida para once días y camino para ninguno. Hay nueve casas con una persona sola dentro y un taller con horno y gas. Vamos a elegir cómo come este pueblo tres días, y lo vamos a elegir de una manera que no haya que cambiar el martes."
+REN: "El que decide, lo anota. Y lo que se anota se cumple."
+SAKI: "Y se dice delante de quien lo va a cumplir, que aquí es como se ha hecho siempre."
 
-REN: "Llegué a este caserón creyendo que podía rehacer mi vida como quien audita una empresa en quiebra: con balances fríos, reglas claras y límites estrictos. Pero desde que dormimos juntos en ese suelo... desde que tus manos me tocaron la otra noche bajo la manta... siento que hay cosas que no entran en ninguna ecuación matemática. Y eso me aterra, Hiroshi. Me aterra mil veces más que la quiebra de todos los bancos de Japón."
+ELECCIÓN 3:
+OPCIÓN A: "Un cuadro en la puerta del taller: qué se cuece cada día, en qué horno, a qué hora y quién sube a la cuesta. El pueblo lo lee al bajar y cumple su turno. Lo que no esté en el cuadro, no se hace, y lo que esté, se hace."
+[+2 YUKI, +1 REN, +1 SAKI - Enfoque en orden y método]
+OPCIÓN B: "Pesar todo lo que hay con la balanza de la señora Ogawa y apuntarlo en el libro de cuentas: gramos por persona, por casa y por día. Se reparte en seco el domingo y cada casa cuece lo suyo. No se promete sopa caliente a quien no se le puede llevar sopa caliente."
+[+2 REN, +1 YUKI, +1 SAKI - Enfoque en cuenta exacta y reparto]
+OPCIÓN C: "Abrir la puerta y poner la mesa larga: una olla grande cada día en el taller, y cada casa que baje con lo que tenga. El que pueda venir, come aquí, y el que no pueda venir recibe la comida en su puerta. Como se ha hecho en este pueblo doscientos inviernos."
+[+2 SAKI, +1 YUKI, +1 REN - Enfoque en comunidad y memoria]
+NARRACIÓN: Si he dicho abrir la puerta, Saki coge las llaves del mercado y las del taller, las junta en el aro grande y las cuelga del clavo de la entrada, y a las diez de la mañana el taller tiene la puerta abierta y la mesa larga montada con las sillas que estaban cubiertas con sábanas desde antes de que yo llegara. La primera olla la pone Yuki con lo que había en esta casa: arroz, miso, nabo y las espinas del pescado seco que guardaba la señora Tanaka debajo del mostrador. A la una hay nueve personas sentadas, a las dos hay catorce, y a las tres hay un vecino que no conocía, el de la casa del molino, con una caja de patatas en los brazos y una frase de disculpa. Los que no bajan reciben su parte en la puerta: el chico del señor Ono sube la cuesta tres veces con dos ollas tapadas con trapos y una cesta, y la señora Ogawa recibe la suya y devuelve la olla vacía con el trapo doblado, porque la señora Ogawa no devuelve nunca una cosa sin doblarla.
 
-HIROSHI: [Acariciándole la mejilla con las yemas tibias, retirándole un mechón oscuro que se le pegaba a la frente] "El calor de verdad no se puede auditar, Ren. No hay balance que resista la vida. Solo se puede compartir a manos llenas... o resignarse a morir de frío a solas."
+NARRACIÓN: Y en los tres casos, al caer la tarde del domingo, pasó lo mismo: que el pueblo supo antes de la noche cómo iba a comer, y lo supo por una puerta y no por un aviso, y que en esta casa nadie cenó sin haber trabajado antes. Ren escribió al pie de la página del domingo las dos cifras que resumen el día: **cuarenta y una raciones repartidas** y **tres casas que han contestado al teléfono sin que las llamáramos**. Y a las once de la noche, cuando ya estaba todo apagado y la nieve seguía cayendo sobre la cuesta con la misma calma del sábado, yo apagué la estufa y me quedé un rato de pie en el pasillo, delante de la pizarra, mirando los once renglones con tiza y la rejilla del lunes.
 
-NARRACIÓN: Ren cerró los ojos con un sollozo ahogado. Inclinó la cabeza despacio hacia mi palma abierta, buscando el calor de mi piel con una entrega que me estremeció las entrañas. Nos quedamos así, cobijados en el desván helado mientras el temporal rugía sobre nuestras cabezas, sellando una tregua silenciosa en la que los números por fin bajaron las armas.
+*Lo que hemos decidido hoy no es comida. La comida ya estaba: estaba en once despensas de este pueblo y llevaba ahí desde noviembre, puesta por gente que no sabe vivir sin tener algo guardado. Lo que hemos decidido es si se mueve por un camino que no existe y por un teléfono que va a aguantar tres días.*
+*Y lo he decidido con cuatro mujeres alrededor de una pizarra, y por primera vez desde que abrí el taller, la decisión no la ha tomado el cocinero. Yo he dicho la pregunta y me he callado. En una cocina de Tokio eso no se hace: el que manda pregunta para saber cómo va a mandar. Aquí, el que pregunta de verdad se queda esperando a ver quién contesta.*
+*Han contestado las tres a la vez y cada una por lo suyo, y esa es la cosa que llevo todo el día sin saber cómo contar: que en esta casa una decisión de cuarenta y seis personas la decide un cuadro colgado de dos clavos, o una balanza, o una puerta abierta, y que las tres maneras son verdad, y que las tres maneras se parecen a la mujer que las ha firmado.*
 
-*En el desván helado, bajo el crujido de las vigas cargadas de nieve, Ren desnudó la herida que la convirtió en una máquina de calcular.*
-*Nueve años, un embargo fulminante en la capital y el terror infantil a quedarse sin suelo bajo los pies.*
-*Al apoyar su mejilla sobre mi mano en la sombra, comprendí que su obsesión por las cuentas no era avaricia ni manía: era su forma desesperada de pedir que nadie la vuelva a dejar a la intemperie.*
+[+2 SAKI, +1 YUKI, +1 REN - Enfoque en comunidad y memoria]
 
----
+NARRACIÓN: Lo que digo se queda un segundo en el aire y luego cada una lo firma a su manera.
 
-ESCENA 10.4 - LA ASAMBLEA Y LA MESA LARGA
+NARRACIÓN: Si he dicho el cuadro de la puerta, Yuki se va al taller, vuelve con la tabla de cortar pequeña y un rotulador, y en once minutos dibuja una rejilla de cinco columnas —día, qué se cuece, horno, hora, quién sube— y en la casilla del lunes escribe su nombre antes que nadie. Ren copia la rejilla en el cuaderno con regla y escribe debajo la letra pequeña, que es donde vive todo lo que importa: qué pasa si un horno falla, qué pasa si alguien no abre la puerta, qué pasa si la cuesta se cierra. Mika se lleva la tabla a la puerta y la clava ella misma con dos clavos y el martillo del taller, y le pone al lado un lápiz colgado de un cordel, y esa noche hay tres vecinos que han bajado a leerla con la linterna y uno que ha escrito su nombre en un turno sin que nadie se lo pidiera.
 
-NARRACIÓN: El domingo amaneció con la nieve cubriendo hasta media altura las celosías de la planta baja. La gran pizarra del pasillo estaba instalada en el centro de la cocina, presidida por la lista de los once hogares y sus reservas censadas por Saki. Las cuatro mujeres se congregaron en torno a la mesa de madera con semblantes graves y tazas de té humeante entre las manos.
+NARRACIÓN: Si he dicho pesar y repartir, Ren se lleva la balanza de la señora Ogawa al mercado, y Saki el libro de cuentas, y las dos se sientan en la trastienda a las nueve con once listas delante: arroz, miso, patatas, nabos, conservas, encurtidos, harina. Pesa, apunta, divide, y a las cuatro de la tarde tiene once paquetes hechos con papel del mercado y un renglón por casa con la ración de tres días y el nombre del que lo va a llevar en la mano. Mika pone en cada paquete un papel escrito por ella, que no es una receta sino una frase —«el arroz es para tres días, la sopa la pone quien tenga leña»—, y el chico del señor Ono hace cuatro viajes a la cuesta con los paquetes en la carretilla del señor Kimura. La cuenta está cerrada a las seis, con la casa del Kudo incluida y sin prometer a nadie una sopa caliente que no se le pueda llevar. Ren no sonríe en todo el día. Ren, cuando cuadra una cuenta, se queda tranquila, y esa tranquilidad, en ella, se parece mucho a la felicidad.
 
-HIROSHI: "Hay víveres en las alacenas pero no hay caminos transitables en leguas a la redonda. Tenemos un taller con fuego encendido y nueve casas dispersas donde la soledad pesa más que el propio temporal. Hay que decidir cómo administramos el sustento estos días sin improvisar sobre la marcha."
+ESCENA 10.5 - LA CUESTA
 
-REN: "Lo que se acuerde hoy, se cumple a rajatabla. No hay margen para desajustes."
+NARRACIÓN: El lunes a las ocho y cuarto salimos Saki, Ren y yo con dos palas, la carretilla del señor Kimura y una cesta con tres hogazas, dos ollas tapadas con trapos y cuatro botellas de agua, y salimos por la puerta de atrás para no pisar la sábana de la calle principal, que a esas horas sólo tenía las huellas del chico del señor Ono, que había subido y bajado ya dos veces. La cuesta de Sakura-machi tiene seiscientos metros y siete curvas, y en verano se sube charlando. El lunes se subía en cuarenta minutos, de lado, metiendo la pala y sacando el pie, y en la cuarta curva nos encontramos el poste caído atravesado en el camino, con el cable partido en dos y las dos puntas colgando en el aire, y entendí del todo por qué este pueblo se había quedado sin luz y por qué no la iba a recuperar hasta que alguien del valle subiera con una grúa.
 
-SAKI: "Y se comunica a la cara, como siempre se ha hecho en estas laderas cuando aprieta el invierno."
+SAKI: "Por aquí no pasa la carretilla."
+REN: [Dejando la carretilla en la nieve] "Entonces se sube a mano. Yo llevo las ollas y tiro del cable hacia el lado del muro. Tú la cesta, Saki. Y tú las botellas, Hiroshi, y no las pongas en el suelo, que se hielan por el gollete."
+HIROSHI: "¿Y el poste?"
+REN: "El poste no es nuestro. El poste es del valle. Lo apuntamos y se lo decimos a quien venga. Lo que sí es nuestro es que este camino tiene que estar abierto esta tarde para que el chico del señor Ono suba con las ollas, así que a la vuelta lo movemos entre los dos y lo dejamos arrimado al muro."
 
-NARRACIÓN: Las tres propuestas quedaron sobre la mesa, cada una reflejando el carácter, la herida y el orgullo de quien la defendía.
+NARRACIÓN: Subimos de lado, uno detrás de otro, y en la última curva se ve la casa del señor Ono, que es la más alta del pueblo y la que más viento recibe, y estaba con la ventana abierta veinte centímetros y el señor Ono detrás del cristal, sentado, con la camisa de trabajo azul y la manta en las piernas, mirando la cuesta como se mira un río que va a crecer. Nos vio llegar y no se levantó: nos hizo señas de que entráramos y nos esperó dentro. Su casa estaba a catorce grados y tenía la estufa encendida, y allí dentro olía a la sopa de miso que su nieto le había hecho antes de bajar, y ese olor, en una casa a la que no ha llegado la luz, es un olor que yo no había vuelto a encontrar desde octubre.
 
-ELECCIÓN 3: ¿CÓMO ORGANIZAR EL SUSTENTO DEL PUEBLO DURANTE EL AISLAMIENTO?
+SEÑOR ONO: "No ha subido nadie con la máquina y no va a subir hoy ni mañana. He oído la radio a las seis: están despejando primero las del valle, que son cuatro, y después las de arriba, que somos tres. Y esas tres somos: la mía, la de la señora Ogawa y la del señor Kimura. Así que nos toca el miércoles, si no cambia el viento."
+HIROSHI: "¿Y el teléfono?"
+SEÑOR ONO: "El teléfono va por el cable de abajo, y el cable de abajo es el que no se ha caído. Funciona mientras la central tenga corriente. Yo lo he usado cuarenta años y nunca lo he visto fallar en un temporal. Lo que se cae es la luz, no la palabra."
+REN: "Anotado: la palabra aguanta más que la luz."
+SEÑOR ONO: [Riéndose con los tres dedos torcidos sobre la manta] "Eso lo digo yo desde el año setenta y nueve. Ponlo en tu cuaderno tal cual, chica, que ahí va a estar bien puesto."
 
-OPCIÓN A: El cuadro de turnos y método (Yuki)
-"Fijar un cuadrante estricto en la cancela del taller: qué se cuece cada jornada, en qué horno y quién sube la cuesta. El pueblo lee su turno y lo cumple con disciplina. Sin desorden ni improvisaciones."
-[+2 YUKI, +1 REN, +1 SAKI - Enfoque en orden, rigor y método]
+NARRACIÓN: La casa de la señora Ogawa está cien metros más arriba que la del señor Ono, con la puerta de la cocina mirando al sur y un cobertizo de leña en el que caben dos inviernos. Nos abrió con el abrigo puesto encima del delantal de faena y la muñequera de farmacia en la mano derecha, y lo primero que hizo fue mirarnos los pies a los tres, uno detrás de otro, y dar su diagnóstico.
 
-OPCIÓN B: El pesaje y reparto en seco (Ren)
-"Pesar todas las existencias con la balanza de la señora Ogawa y registrarlas en el libro: ración exacta por persona, hogar y día. Se reparte en seco el domingo y cada casa administra su propio fogón. No se promete sopa caliente a quien no se le pueda garantizar."
-[+2 REN, +1 YUKI, +1 SAKI - Enfoque en cálculo exacto y equidad]
+SEÑORA OGAWA: "Bien. Habéis subido con la nieve y no habéis subido mojados. El que sube mojado sube dos veces. Pasad, y dejad las botas en la estera, que el suelo es de mi madre y no lo voy a fregar hoy."
+SAKI: "Le traemos tres hogazas, dos ollas y agua. Y la señora Tanaka dice que le subamos lo que necesite mañana."
+SEÑORA OGAWA: "La señora Tanaka dice bien. Yo tengo arroz, tengo miso y tengo leña hasta el jueves, así que lo que necesito no es comida. Lo que necesito es una cosa que no se puede subir por la cuesta y ya os la diré."
 
-OPCIÓN C (Ruta canónica): Abrir las puertas y tender la gran mesa comunal (Saki)
-"Descolgar las llaves del viejo Restaurante Yamamoto, retirar los cerrojos y tender la gran mesa comunal. Una olla al fuego cada día y que cada vecino baje con lo que tenga. Quien pueda venir, come en hermandad junto a la lumbre; quien quede aislado en las laderas, recibe su puchero caliente en mano. Como se hizo en este valle durante doscientos inviernos."
-[+2 SAKI, +1 YUKI, +1 REN - Enfoque en comunidad, hospitalidad y memoria]
+NARRACIÓN: Nos hizo pasar a la cocina y allí estaba la razón por la que Saki y yo habíamos subido andando seiscientos metros con nieve hasta la rodilla. En la pared del fondo, ocupando tres metros y medio, había un horno de ladrillo refractario de los años cincuenta, con la boca de hierro, la bóveda baja y una grieta en la esquina derecha que lleva ahí, según ella, desde antes de que ella llegara a esta casa. Estaba frío. Estaba frío de tres inviernos, con la ceniza del último pan todavía dentro y un trapo doblado encima de la boca de hierro.
 
-NARRACIÓN: Fue la voz de Saki la que inclinó la balanza de la memoria colectiva: descolgó las llaves del viejo Restaurante Yamamoto del aro grande de hierro forjado, retiró el pesado cerrojo del gran salón y desnudó la mesa comunal de madera maciza, apartando de un tirón las sábanas de lienzo que la cubrían desde hacía cuatro décadas. Una nube de polvo blanco y aroma a cedro dormido inundó el espacio.
+SEÑORA OGAWA: "Cuarenta y un inviernos haciendo pan en esa boca. Los últimos tres, no. El último invierno que lo encendí tenía setenta y ocho años y me quedé dormida esperando la segunda hornada y me desperté con el pan quemado y con la mano así. [Levantó la muñequera] Me dolió tres semanas. Y yo, que he amasado con cuarenta grados de fiebre, entendí el mensaje: el horno no se acabó, me acabé yo."
+REN: "¿Por qué no lo enciende su nieta de Tokio?"
+SEÑORA OGAWA: "Porque mi nieta de Tokio no va a subir una cuesta de seiscientos metros a encender un horno que no entiende. Sentaros, que os voy a decir lo que sí entiendo yo."
+NARRACIÓN: Se sentó en el banco de la cocina, se puso las dos manos en las rodillas y habló durante veinte minutos, y Yuki no estaba allí para oírlo, lo que es una lástima, porque lo que dijo era técnica y era verdad y era gratis.
+SEÑORA OGAWA: "Ese horno no necesita luz. Eso es lo primero. Un horno de leña no sabe nada de la luz: sabe de la leña y de la mano. Leña de encina abajo, roble en medio, y la carga cuando la bóveda está blanca, no cuando el hierro está caliente, que el hierro miente. Se enciende a las tres y se carga a las cuatro y media, y entre las tres y las cuatro y media esa cocina se pone a cuarenta grados y hay que dejar la puerta abierta, o te marea. Nueve hogazas por hornada, ni una más, ni una menos. Y hay que quedarse delante, porque ese horno no tiene termómetro y el pan no perdona: el pan de este pueblo se ha hecho siempre mirando. Si venís mañana a las tres, os enseño a encenderlo. A la chica del pan le hace más falta que a vosotras, así que traedla."
+SAKI: "¿Y quién lo enciende? Porque usted ha dicho que no."
+SEÑORA OGAWA: "Yo lo dirijo desde esta silla. El que lo enciende es el que va a hacer el pan del invierno, sea quien sea. Y si se raja, se raja con pan dentro y con gente mirando, que es como se han rajado las cosas en esta casa toda la vida."
+SEÑORA OGAWA: "Y una cosa más, que es la que habéis venido a buscar sin saberlo. En el arcón de mi despensa hay cuarenta kilos de harina de fuerza que compré en octubre para un invierno que no pensaba hacer. Esa harina no la voy a gastar yo, porque yo ya no amaso. Se gasta, se apunta en un papel y se devuelve cuando la cooperativa suba; y si no se puede devolver, se devuelve en pan. Eso lo digo ahora delante de tres testigos para que nadie tenga que agradecérmelo mañana."
+SAKI: "Señora Ogawa, eso son cuarenta kilos."
+SEÑORA OGAWA: "Cuarenta kilos y ochenta y un años. Es lo que tengo, y lo que tengo se gasta o se pone malo. Prefiero que se gaste."
 
-NARRACIÓN: Al filo del mediodía el viejo comedor volvió a respirar. Yuki puso al fuego una olla monumental con caldo de verduras de raíz, algas secas y el miso que los vecinos habían ido aportando en cuencos de barro; Mika rebanó las hogazas crujientes y Ren organizó las cestas para los repartos a las casas más altas.
+NARRACIÓN: Antes de que nos fuéramos, y ya con las botas puestas y la puerta abierta, la señora Ogawa dijo la última cosa, y la dijo mirando a Saki y no a mí, con esa costumbre que tiene este pueblo de decir lo importante a la persona que va a tener que aguantarlo.
 
-NARRACIÓN: Pasado el mediodía, cuando el sol era apenas un disco lechoso tras la cellisca, llegaron los primeros comensales: viejos campesinos con las manos ateridas y las cejas pobladas de escarcha que se sentaban con timidez en los bancos de madera, frotándose las rodillas junto al tiro rugiente de la chimenea. A media tarde éramos casi una veintena compartiendo el mismo humo, la misma sopa reconfortante y ese silencio cálido que solo conocen quienes han burlado juntos a la intemperie.
+SEÑORA OGAWA: "Una cosa más, y esta no es de cocina. En este pueblo, cuando pasa un invierno como este, en abril se pregunta una cosa: quién lo pasó contigo. No lo pregunta el ayuntamiento ni lo pregunta el periódico: lo pregunta la gente, en la puerta, mirándote a la cara. A mí me lo preguntaron cuarenta y un años seguidos y siempre contesté lo mismo, que el pan se hace todos los días. Vosotros id pensando la respuesta, porque la vais a necesitar y no se puede improvisar."
 
-NARRACIÓN: Para los ancianos que no podían salvar los ventisqueros de la cuesta, el nieto del señor Ono y yo subimos recipientes humeantes envueltos en mantas gruesas de franela. La señora Ogawa recibió su cuenco en el quicio de su puerta de madera, devolviendo el recipiente del día anterior impecablemente limpio y con el trapo doblado con primor.
+NARRACIÓN: Bajamos por la misma cuesta, con las ollas vacías y la pala, y en la cuarta curva estaba el poste atravesado donde lo habíamos dejado, y Ren se paró delante sin decir nada, lo miró como se mira un problema de aritmética y me dijo lo único que hacía falta decir.
 
-*La mesa que llevaba cuarenta años dormida bajo sábanas de polvo volvió a llenarse de alientos y cucharas de madera.*
-*No fue un acto de caridad: fue la restitución de un pacto comunal que el tiempo y la despoblación habían sepultado.*
-*Ren anotó al pie de la jornada: «Cuarenta y una raciones servidas; tres vecinos llamaron solo para saber si estábamos bien». Hay números que abrigan más que una estufa de leña.*
+REN: "Entre los dos. Yo tiro de la punta del cable y tú levantas la base. Y no lo tires de golpe: las puntas están vivas hasta que la central corte, así que el cable no se toca con las manos mojadas."
+NARRACIÓN: Se agachó a levantar el poste con las dos manos, flexionó las rodillas y no la espalda, se lo cargó al hombro y volvió a subir el cuerpo entero sin apoyarse en la pala ni en el muro, con el peso repartido en las dos piernas y la bota de atrás clavada en la nieve. Llevaba el gorro bajo, la mandíbula apretada y las dos manos ocupadas, y yo me quedé un segundo de más mirándola: la pantorrilla dura por encima del borde de la bota, el peso bajándole a la corva cada vez que ajustaba el hombro, el jadeo corto y contado, sin una queja y sin una palabra de más. Y no corrigió la postura. No se giró para que la viera mejor y no se giró para que dejara de verla: siguió levantando el poste como si no hubiera nadie en la cuesta, y eso, en ella, es exactamente lo que hace cuando está trabajando.
 
----
+REN: [Sin mirarme, con el poste al hombro] "Llevas cuatro minutos mirándome las botas. Si vas a mirar, mira. Si vas a subir, sube. Lo que no vale es quedarse en medio."
+HIROSHI: "No estaba..."
+REN: "Hiroshi. Aquí lo único que no sirve es decirlo con la boca. Yo ya me lo he apuntado. Tú apúntate lo que quieras y luego lo revisas."
 
-ESCENA 10.5 - LA CUESTA Y EL POSTE CAÍDO
+NARRACIÓN: Dejamos el poste arrimado al muro y el camino abierto para la carretilla, bajamos los últimos doscientos metros sin hablar, y a la una y diez estábamos en el taller con las ollas vacías y con la nieve derritiéndose en el felpudo. Mika estaba amasando en el mármol con las mangas subidas y nos vio entrar y no preguntó por el horno: preguntó por la señora Ogawa.
 
-NARRACIÓN: El lunes a primera hora salimos Saki, Ren y yo cargados con calderos calientes protegidos bajo sayales, dos palas de hierro y una carretilla para coronar los hogares del repecho superior. La senda de Sakura-machi, que en verano se recorre en un paseo liviano bajo los cerezos, era ahora una trampa blanca y cegadora donde cada paso exigía hundir la rodilla y palear la costra helada para abrir una huella precaria.
+MIKA: "¿Cómo está?"
+SAKI: "Está bien. Está mejor que nosotros tres."
+MIKA: "¿Y ha dicho algo de mí?"
+SAKI: "Ha dicho que mañana a las tres hay que subir a encender su horno, y que la que lo encienda seas tú, y que no es un favor: es una prueba. Y ha dicho una cosa más, en voz baja y sin mirarme: que en el arcón de su despensa hay cuarenta kilos de harina de octubre que ella no va a gastar, porque ya no amasa."
+NARRACIÓN: Mika dejó las manos en la masa, se quedó quieta dos segundos con la vista en el mármol y luego siguió amasando con la misma calma de siempre, que es la única cosa que en ella no se puede fingir.
 
-NARRACIÓN: En la cuarta revuelta del camino nos topamos con el obstáculo que temíamos: el poste de madera del tendido eléctrico yacía atravesado en mitad de la vereda, quebrado limpiamente por la base bajo el peso de una costra inmensa de hielo, con los cables sueltos silbando al viento como látigos inertes sobre la nieve.
-
-SAKI: "La carretilla no salva este madero ni en sueños. Me adelantaré campo a través para llevarle el caldo caliente al señor Ono antes de que se enfríe; vosotros despejad la traza o no podremos bajar las cestas vacías."
-
-NARRACIÓN: Nos quedamos Ren y yo solos frente al tronco helado en mitad del ventisquero. Ren soltó la pala con un golpe seco, se quitó las manoplas para afianzar el agarre en la madera resbaladiza y se plantó frente al poste con las botas bien asentadas en la nieve apisonada.
-
-REN: "Entre los dos. Si hacemos palanca coordinada con los hombros y las piernas, el centro de gravedad basculará hacia la cuneta de piedra. A la de tres, Hiroshi."
-
-NARRACIÓN: Nos colocamos hombro con hombro bajo el madero carcomido por la escarcha. El esfuerzo fue titánico: el tronco pesaba más de cien kilos y la madera empapada de aguanieve resbalaba entre los dedos ateridos. Al segundo empuje vigoroso, la bota de Ren perdió tracción en una placa de hielo vivo oculta bajo el manto de nieve polvo; su cuerpo resbaló hacia atrás y se precipitó contra el talud de nieve virgen, arrastrándome consigo en la caída al intentar sujetarla por la cintura.
-
-NARRACIÓN: Caímos juntos en el ventisquero hondo, fuera de la vereda. Quedé tendido sobre ella, amortiguado por la espesura mullida de la nieve, con mis codos hundidos a ambos lados de su cabeza para no aplastarla con todo mi peso.
-
-NARRACIÓN: El mundo entero se detuvo en un instante suspendido. Alrededor solo existía la blancura inmaculada de los abetos cargados de nieve y el susurro apagado del viento en la espesura. El gorro de lana de Ren se le había deslizado hacia atrás, dejando al descubierto su cabello oscuro esparcido sobre la nieve limpia como un abanico de seda negra. Su pecho subía y bajaba con violencia bajo el suéter, chocando contra el mío a cada jadeo entrecortado; sus mejillas, encendidas por el esfuerzo y por el sofoco repentino, ardían en contraste con la palidez espectral de la sierra. Tenía los ojos desorbitados, fijos en mi boca, y sus labios entreabiertos soltaban nubecillas de vaho caliente que me acariciaban la barbilla.
-
-REN: [Con la voz rota por el vértigo y el galope salvaje de su pulso] "Hiroshi..."
-
-HIROSHI: "¿Te has hecho daño en el tobillo al caer?"
-
-REN: "No... El tobillo no me duele nada. Pero tú... no te muevas. No te levantes todavía."
-
-NARRACIÓN: Sus manos desnudas, enrojecidas por el contacto brutal con la nieve, subieron despacio por mis costados hasta aferrarse con una fuerza desesperada a las solapas de mi abrigo de paño. Me atrajo hacia abajo apenas dos centímetros, los suficientes para que la punta de su nariz rozara la mía y sintiera el temblor involuntario que le recorría los muslos atrapados bajo mis piernas. El frío polar del bosque desapareció por completo: entre nuestros cuerpos aprisionados en el hueco de la nieve ardía una llamarada salvaje, espesa y dulce que nos quemaba la piel.
-
-REN: [En un susurro entrecortado, con las pupilas dilatadas de deseo y un rastro de pánico lúcido] "En el desván... te dije que los números eran mi trinchera... Pero ahora mismo... si me pides que cuente los latidos que me están estallando en la boca... no llego ni a tres. Bésame, Hiroshi. Bésame antes de que me acuerde de que tengo que levantarme."
-
-NARRACIÓN: No hubo vacilación. Mis labios encontraron los suyos en un beso hambriento, desesperado y caliente que derritió al instante la escarcha de nuestras bocas. Ren soltó un gemido hondo, húmedo y tembloroso, entregándose con una pasión visceral que jamás habría imaginado bajo su coraza de ordenanzas y cuentas frías. Me rodeó el cuello con los brazos desnudos, pegando su cuerpo al mío con una necesidad febril mientras la nieve nos envolvía en un capullo blanco, silencioso y ajeno al universo entero.
-
-NARRACIÓN: Fueron segundos eternos de ardor suspendido en mitad de la ladera helada. Cuando finalmente nos separamos, jadeantes y con los labios encendidos por el fuego de la boca, Ren apoyó la frente contra mi clavícula, respirando con dificultad mientras una risa breve, trémula y desarmada le nacía del fondo del pecho.
-
-REN: "Madre mía... Esto no figuraba en ningún presupuesto de la jornada."
-
-HIROSHI: [Sonriendo, acariciándole el cabello empapado y ayudándola a incorporarse despacio] "Hay partidas imprevistas que salvan el balance entero, contable."
-
-NARRACIÓN: Nos sacudimos la nieve de las ropas con una complicidad radiante y nueva. Volvimos al poste caído con las fuerzas multiplicadas y, con un empuje coordinado, firme y limpio, rodamos el tronco hasta encajarlo contra el muro de piedra seca, dejando la vereda franca para el resto del invierno.
-
-*En mitad del ventisquero, sepultados bajo la nieve blanda, la contable implacable me pidió que la besara antes de que la razón volviera a gobernarla.*
-*Su boca sabía a escarcha y a fuego reprimido durante años.*
-*El madero rodó hacia la cuneta, pero el peso que se nos cayó de encima no era de roble: era la mentira de creer que podíamos seguir siendo dos extraños.*
-
----
+*Hay cuarenta y un inviernos de pan en esa casa y yo llevo tres meses en este pueblo. Eso es lo que he pensado todo el camino de bajada: que yo no he venido a traer el pan a Sakura-machi. He venido a un pueblo que sabe hacer pan desde antes de que naciera mi madre y que este año, por una mano que ya no responde y una luz que se ha caído, necesita que alguien más lo haga.*
+*Y en la cuesta, con el poste al hombro, he visto a Ren hacer lo que hace siempre: levantar peso sin pedir permiso, con las manos ocupadas y la postura sin corregir. Me ha pillado mirándola y no se ha ofendido ni se ha hecho la tonta: me ha puntuado. «Si vas a mirar, mira.» Cuatro palabras y me ha dejado sin respuesta mejor que cualquier frase larga que yo haya dicho en un servicio.*
+*Mañana a las tres se enciende un horno que lleva tres inviernos apagado, y lo va a encender la que lleva ocho años delante de una cámara. Hay cosas que no se pueden preparar. Esta es una.*
 
 ESCENA 10.6 - EL HORNO DE LA CASA VIEJA
 
-NARRACIÓN: En lo alto del repecho nos aguardaba la casa vieja de la señora Ogawa. Mika y Yuki llegaron poco después cargando las cestas de mimbre donde reposaba la masa madre fermentada al amor del fuego del taller, junto a la pala de madera de mango largo. El viento azotaba con fuerza las tapias exteriores, pero la cocina de la anciana era un santuario de calor venerable que olía a resina, levadura viva y hollín de roble centenario.
+NARRACIÓN: El lunes a las tres de la tarde subimos la cuesta Mika, Yuki y yo con la cesta de la masa, dos cajas de harina y la pala de horno de mango largo que estaba colgada en el taller desde antes de que yo llegara y que no habíamos usado ni una vez. La harina no era nuestra: eran dieciocho kilos de cinco casas —ocho del señor Kimura, cuatro de la trastienda de la señora Tanaka, dos de la señora Nakai, dos de la señora Sato y dos de la casa del molino, que los había dejado el vecino en la puerta del taller sin decir su nombre—. Mika hizo la cuenta en voz alta mientras subíamos, porque subir contando cansa menos.
 
-NARRACIÓN: La señora Ogawa no se levantó de su sitial de mimbre arrimado al fogón de piedra. Dirigió la liturgia del fuego con la parsimonia y la autoridad de una generala sabia: ordenar la leña menuda de pino en cruz para que el tiro respirara con holgura, apilar los troncos gruesos de roble y aguardar con paciencia infinita hasta que la bóveda de ladrillos del horno mudara su color oscuro y tiznado por un blanco calizo impecable.
+MIKA: "Dieciocho kilos. Veinte hogazas de novecientos: nueve en la primera hornada, nueve en la segunda y dos pequeñas con el resto, que son para la señora Sato, que no tiene dientes. Y los cuarenta kilos del arcón los apunto aparte, en una hoja con la fecha, para devolverlos en harina o en pan, que es lo que ha dicho ella."
+YUKI: "La señora Ogawa ha dicho nueve por hornada."
+MIKA: "Nueve por hornada."
+YUKI: "Y ha dicho que la bóveda no perdona. Yo me he criado con un horno de convección, Mika. Un horno de convección es un aparato. Esto es una pared que lleva caliente desde el año cincuenta y uno y que va a hacer lo que quiera. Hoy no vamos a hacer pan de nuestra manera. Vamos a hacer pan de la suya."
+MIKA: "Lo sé. Por eso he traído la masa madre en una caja y no en un cubo: si se me cae, la recojo."
 
-SEÑORA OGAWA: "El hierro miente cuando se calienta, niñas; la piedra viva, jamás. Cuando la bóveda blanquea por el calor concentrado, el fuego ha alcanzado su punto justo. Meted las hogazas al fondo, donde el tiro aprieta con furia, y dejad la última en la boca para templar la entrada del aire."
+NARRACIÓN: La señora Ogawa nos esperaba sentada en el banco de la cocina con la puerta abierta y un vaso de agua, y tenía ya preparada la leña en tres montones distintos al lado de la boca del horno: encina abajo, roble en medio, y una tercera pila de ramas finas que era, según ella, lo único que sirve para empezar un fuego sin humo. No se levantó en toda la tarde. Dirigió desde la silla, con la voz baja y sin repetir nada dos veces, y cada vez que Mika dudaba, esperaba tres segundos antes de hablar, que es lo que hace un maestro de verdad: deja que el otro se equivoque primero.
 
-NARRACIÓN: Mika cargó las piezas con movimientos seguros y fluidos. Al manipular la compuerta pesada, el hierro candente rozó su antebrazo provocándole una quemadura breve; la muchacha ahogó un grito sordo, hundió el brazo entero en la nieve acumulada en el alféizar durante diez segundos y regresó al tajo sin soltar la pala.
+SEÑORA OGAWA: "La leña fina en el centro, en cruz. No, en cruz, que el aire tiene que entrar por los cuatro lados. Ahora la encina encima, no debajo, que la encina aguanta y el roble da. Bien. Ahora cierra la boca hasta la mitad y no la abras hasta que la bóveda se ponga blanca. El hierro miente: el hierro se pone negro y tú crees que ya está, y no está."
+MIKA: "¿Y cuánto tarda?"
+SEÑORA OGAWA: "Hoy, con la casa a dos grados, una hora y media. En verano una hora. Se enciende a las tres y se carga a las cuatro y media, y esa hora y media es la que ninguna receta te cuenta, porque en las recetas nunca dice cuánto tarda una casa en calentarse."
+NARRACIÓN: Y a la hora y veinte la bóveda estaba blanca y la cocina a cuarenta grados, con la puerta abierta y la nieve entrando en vapor por el marco, y Mika, con las mangas subidas y el pelo pegado a las sienes, empezó a cargar hogazas con la pala de mango largo, nueve, una detrás de otra, en el orden que le iba dictando la señora Ogawa, que no miraba el horno: miraba la nuca de Mika para saber si iba demasiado rápido.
+SEÑORA OGAWA: "Al fondo las tres primeras, que allí pega más. Ahora las de en medio. Y la última la dejas a la boca, que la boca se come el pan de la última siempre. Cierra. Y apunta la hora en tu cabeza, porque de aquí a cuarenta minutos no hay nada que hacer y el pan no espera a nadie."
+NARRACIÓN: A los treinta y cinco minutos Mika abrió la boca y se quemó el antebrazo con el hierro, un centímetro, sin decir nada, y la señora Ogawa lo vio desde la silla y no se levantó.
+SEÑORA OGAWA: "Nieve. Fuera hay mucha. Eso se llama aprender y no se aprende en ningún sitio. Vuelve en cuatro minutos, que la hornada no se para por un brazo."
 
-SEÑORA OGAWA: "Así se aprende el oficio de alimentar, muchacha. La masa no espera por un raspón de la piel."
+NARRACIÓN: La primera hornada salió a las cinco y veinte: nueve hogazas con la corteza más oscura de un lado, porque la bóveda no está igual de caliente en todas partes, y con ese olor que llenó la cocina, el pasillo y la escalera de la casa de la señora Ogawa hasta arriba. Yuki se puso delante del banco con las nueve hogazas puestas en fila, las miró una por una, les dio la vuelta a dos, les golpeó la base con los nudillos y no dijo nada. Mika esperaba el veredicto de pie, con la quemadura en la nieve y las manos todavía llenas de harina.
 
-NARRACIÓN: Ren observaba la faena arrimada al quicio de la puerta, fascinada por un proceso elemental donde no intervenían termómetros digitales, cronómetros de cocina ni básculas de precisión: el pan de la sierra nacía del ojo entrenado, del tacto del aire húmedo y del crujido sordo de las brasas.
+YUKI: "La tercera y la séptima están un minuto de más por abajo. Las demás, no. Y la corteza del lado del muro es la corteza de este pueblo: yo no la he visto nunca en Tokio y es la que va a querer la gente que venga a la clase de abril."
+MIKA: "¿Eso es un sí?"
+YUKI: "Es un sí con dos panes para repasar."
+NARRACIÓN: La señora Ogawa se levantó por primera vez en tres horas, con las dos manos en los riñones, se acercó al banco y partió un trozo de la hogaza de la boca, la que siempre se come el horno. La probó sin prisa, con la mandíbula despacio, mirando la pared, y luego dejó el pan en el banco y habló mirando a Mika.
 
-REN: [En voz baja, dirigiéndose a la anciana mientras contemplaba el resplandor de la bóveda] "¿Cómo sabe usted con tanta certeza cuándo abrir la puerta si no mira un reloj, señora Ogawa? Un minuto de más y la corteza se amarga; un minuto de menos y el corazón queda crudo."
+SEÑORA OGAWA: "Está bueno. No está como el mío: está bueno. Y eso es la primera cosa que tienes que aprender de esta casa, chica: un horno no hace tu pan, hace el pan del que lo enciende. El mío era el mío porque yo lo encendía cuarenta años. Este, a partir de hoy, es de quien lo encienda. Y hoy lo has encendido tú."
+MIKA: [Con la voz un poco ronca] "Entonces mañana lo vuelvo a encender."
+SEÑORA OGAWA: "Mañana y el miércoles. Y el jueves también, que la carretera no va a estar para camiones hasta la semana que viene y estas casas comen pan. Y cuando llegue abril, y alguien te pregunte qué habéis hecho este invierno, tú vas a poder decir una cosa que casi nadie puede decir: que este invierno has dado pan a este pueblo con el horno de una vieja. A mí eso me deja tranquila. No hay muchas cosas que me dejen tranquila."
 
-SEÑORA OGAWA: [Mirando a Ren a través del humo tenue con una sonrisa pícara y compasiva] "Las cosas vivas no admiten regla de cálculo, niña. O te quemas un poco al arrimarte, o el pan se queda muerto por dentro. Hay que fiarse del rescoldo y dejar que el calor haga su trabajo sin estar encima con el látigo."
+NARRACIÓN: Bajamos con la segunda hornada a las siete y cuarto, dieciocho hogazas en dos cestas y dos panecillos pequeños envueltos aparte, con la linterna en la mano de Mika y la pala al hombro, y dejamos a la señora Ogawa en su cocina a cuarenta grados con la puerta abierta, sentada en el banco, mirando el horno que llevaba tres inviernos frío y que acababa de hacer dieciocho hogazas en una tarde. Bajamos despacio, porque el pan caliente y la cuesta no se llevan bien, y en la primera curva Mika se paró, apoyó la cesta en el muro y se quedó mirando el pueblo desde arriba, con la nieve hasta la rodilla y las luces del valle al fondo.
 
-NARRACIÓN: Ren cruzó su mirada con la mía sobre las brasas ardientes, asimilando en silencio una lección que no figuraba en ningún manual universitario. La primera hornada salió al declinar la tarde: nueve piezas monumentales, con una corteza dorada y crujiente que desprendía un aroma a trigo tostado y madera vieja que inundó la estancia entera con una bendición de calor.
+MIKA: "No he grabado nada. Ni el horno, ni a la señora Ogawa, ni las hogazas saliendo. Llevo dos años grabando todo lo que hago y hoy ha pasado la mejor cosa del invierno y no tengo ni un plano. Y no sé si me arrepiento o si es la primera vez en dos años que hago algo que no tiene que servir para nada."
+YUKI: "Es la primera vez en dos años que haces algo que sirve para comer. No es lo mismo, y no se parece, y no hace falta grabarlo."
+MIKA: "¿Puedo decir una cosa cursi?"
+YUKI: "Por favor."
+MIKA: "El horno de esa mujer llevaba tres inviernos apagado y esta tarde ha hecho pan para un pueblo que se está quedando sin camino. Yo he estado tres meses creyendo que venía aquí a que se me quitara la cara. Y resulta que lo que se me ha quitado esta tarde es la cámara."
 
-SEÑORA OGAWA: [Partiendo un mendrugo humeante y saboreándolo despacio con los ojos entornados] "Este horno ya no me pertenece, Mika. Un horno pertenece a las manos jóvenes que lo encienden. A partir de hoy, este fuego es vuestro."
+*Dieciocho hogazas de cinco casas, cocidas en el horno de ladrillo de una mujer de ochenta y un años que no se ha levantado de la silla en tres horas. Eso no es una escena de invierno: es lo que este pueblo lleva haciendo desde antes de que ninguno de nosotros naciera, y hoy ha vuelto a funcionar porque alguien ha dicho a qué hora se enciende.*
+*Y yo he estado hoy detrás de la pala y detrás de la linterna, y he visto a Yuki corregir dos panes con un nudillo y a Mika quemarse un centímetro el antebrazo sin soltar la pala. En una cocina de Tokio, esa quemadura la habría mandado a casa el primer día. Aquí se llama aprender y se cura con nieve.*
+*Queda una casa sin luz, cuarenta y seis vecinos, un poste en el suelo y dos bombonas y un tercio de gas. Y queda el agua, que es lo único que no se puede comprar y que hay que sacar con las manos. Eso es lo que queda para esta noche.*
 
-*Nueve hogazas nacidas de un horno que llevaba tres inviernos muerto.*
-*Ren aprendió que la exactitud más bella no nace de una hoja de cálculo, sino de la paciencia de una piedra centenaria.*
-*Bajamos la cuesta al anochecer con el pan cantando en las cestas y una lumbre encendida en las miradas que ningún temporal podrá apagar.*
+ESCENA 10.7 - EL POZO
 
----
+NARRACIÓN: El lunes por la noche me desperté a las once y veinticinco con el ruido de una cuerda. No era un ruido de casa: era un ruido de patio, seco, con el chirrido corto que hace el cáñamo cuando alguien tira de él contra un brocal de piedra, y llevo tres meses durmiendo en esta casa como para saber que aquí nadie saca agua a las once y veinticinco de la noche. Miré los cuatro futones del suelo de la cocina: Yuki dormida boca arriba con los brazos fuera de la manta, Saki de lado con el moño suelto, Mika hecha un ovillo con el pie fuera. El cuarto futón estaba vacío y doblado por la mitad.
 
-ESCENA 10.7 - EL POZO Y LA NOCHE DE LOS CUARENTA SEGUNDOS
+NARRACIÓN: Salí al patio con la linterna apagada y la encontré de espaldas, al lado del pozo, con el jersey de lana, las mangas subidas hasta el codo, las botas plantadas en la nieve apisonada y las dos manos en la cuerda. En el brocal había un cubo lleno y otro a medias y la nieve alrededor estaba pisada en un círculo, que es lo que hace una persona que lleva un rato en el mismo sitio haciendo lo mismo.
 
-NARRACIÓN: En lo más hondo y desamparado de la noche del lunes, un chasquido rítmico y sordo me arrancó del letargo. No provenía del interior del salón donde Yuki, Mika y Saki dormían al amor de la estufa de fundición, sino del patio helado: el chirrido metálico de la carrucha y el cáñamo frotando con aspereza la piedra viva del brocal. Miré la hilera de mantas: el lecho de Ren estaba vacío.
+REN: [Sin girarse] "Nueve."
+HIROSHI: "¿Nueve?"
+REN: "Nueve cubos. Van nueve. El depósito grande está a media carga desde el sábado, y mañana hay que subir agua a la cuesta además de las ollas, así que esta noche son doce cubos y mañana los que hagan falta."
+NARRACIÓN: Tiró de la cuerda, sacó el cubo lleno con las dos manos, lo dejó en el suelo sin derramar una gota y volvió a bajar el cubo vacío por el brocal, todo con la misma cadencia, sin pararse y sin mirarme, con el vaho saliéndole por la boca a cada tirón y la mandíbula apretada. El termómetro del marco marcaba menos doce.
+HIROSHI: "¿Por qué tú?"
+REN: "Porque se me da bien contar. Y porque si me acuesto sin hacer esto, me quedo despierta tres horas haciendo el cálculo mental de lo que hay, y lo hago mal, y a las tres de la mañana me levanto. Lo sé por experiencia: la primera semana que dormí aquí no dormí. Ahora, si hago algo con las manos antes de dormir, duermo. Tú coge la cuerda cuando yo suelte, que el agua de arriba pesa."
+NARRACIÓN: Sacamos los tres cubos que faltaban entre los dos: yo tiraba de la cuerda y ella la guiaba en el brocal para que el cubo no tocara la piedra, y en la tercera subida nuestras manos se juntaron encima del cáñamo y ninguna de las dos se apartó, y sé exactamente cuánto duró eso porque lo contó ella.
 
-NARRACIÓN: Salí al exterior en silencio, sin encender lámparas. La noche había caído a doce grados bajo cero, con una luna gélida recortando los riscos afilados de la sierra sobre un manto de nieve azulada. Junto al brocal de piedra, con las mangas del suéter arremangadas hasta los codos y las botas clavadas en la nieve apisonada, Ren tiraba de la soga con un ritmo metódico, tenaz y desesperado. Tenía ya dos cubos colmados de agua gélida a sus pies y el vapor brotaba de su boca en jadeos densos.
+NARRACIÓN: Al vaciar el último cubo en el depósito, Ren dejó el cubo en el suelo, se quedó de pie con las manos abiertas delante del pecho y las miró como se mira una herramienta que ha fallado. Las tenía blancas de la muñeca a la punta, con los nudillos partidos por el frío y por el agua de fregar de estos días, y en la base del pulgar derecho se le había abierto un corte de la cuerda que llevaba abierto desde por lo menos una hora. No llevaba guantes. Los tenía en el bolsillo del jersey.
 
-REN: [Sin volverse, con la voz quebrada por el esfuerzo descomunal y el relente] "Nueve cubos van... El aljibe grande necesita doce para aguantar la cocción comunal de mañana. Si no lo lleno ahora, me paso la noche contando en la oscuridad y no consigo pegar ojo."
+HIROSHI: "¿Y los guantes?"
+REN: "Los guantes estorban para contar. Con los guantes no sé por dónde va el cubo y tengo que mirar. Sin guantes, lo sé."
+HIROSHI: "Tienes un corte."
+REN: "Es un corte de cuerda. Llevo con cortes de cuerda desde los catorce años. Se me curan."
+NARRACIÓN: Le cogí las manos sin preguntar, que es la primera vez que hago eso con ella desde octubre, y fueron las dos las que se movieron: la derecha se cerró un segundo sobre mi muñeca, con la misma firmeza con la que sujeta un mango, y después se dejó. No dijo que no. Dijo la otra cosa, la que dice ella cuando una cosa le importa de verdad, y la dijo con la voz intacta, sin un milímetro de voz blanda, mirándome a la cara.
 
-HIROSHI: "Estás helada, Ren. Suelta la soga ahora mismo."
+REN: "Esto tiene reglas, como todo lo que yo hago con las manos. Cuarenta segundos. Y los cuento yo."
+HIROSHI: "¿Y si a los cuarenta sigo?"
+REN: "Entonces ganas. Y si a los cuarenta me sueltas, empatamos. Mira, Hiroshi: yo no pierdo nunca en estas cosas, así que si quieres ganar, aguanta y no digas nada."
 
-NARRACIÓN: Izamos los últimos tres cubos juntos. Mis manos se cerraron sobre las suyas en el cáñamo empapado; su piel estaba rígida como el mármol y en la base del pulgar derecho un corte vivo de la cuerda manchaba de carmesí la fibra blanca. No llevaba guantes.
+NARRACIÓN: Metí sus dos manos debajo de mi jersey, contra el pecho, y ella no las retiró. Se quedó con las botas plantadas en la nieve, las dos piernas sin cruzar y el peso repartido como cuando corta, con el cuerpo quieto y la corva tensa, y empezó a contar en voz baja, con la misma cadencia con la que cuenta cubos, sin acelerar y sin mirarme a los ojos, mirándome la clavícula. A los veinte segundos una ráfaga de viento le cruzó la espalda y ella no se movió. A los treinta apoyó la frente en mi hombro, sin decir nada, como se apoya un pan en un banco, y siguió contando.
 
-HIROSHI: "Mírate las manos, Ren. Tienes los nudillos partidos por el hielo y estás sangrando."
+REN: "Treinta y ocho. Treinta y nueve. Cuarenta."
+NARRACIÓN: Se apartó un paso, se subió las mangas, se sopló las manos y no se disculpó, porque Ren no se disculpa por nada que haya decidido hacer. Sacó el cuaderno del bolsillo del jersey, que estaba seco porque el jersey tiene dos bolsillos y ella el cuaderno lo lleva en el de dentro, y escribió dos renglones de pie, con la linterna en la boca, sin apoyarse en nada.
 
-REN: "Los guantes me entorpecen el tacto... No sé cuántos metros baja el cubo si no siento la aspereza de la cuerda en la carne."
+REN: "Doce cubos, once cuarenta de la noche. Depósito: veintitrés del sábado más doce de hoy, treinta y cinco. Y mañana once más, hasta cuarenta y seis, que es lo que aguanta el depósito grande antes de rebosar. Cuarenta y seis, igual que el pueblo. No me hace gracia ni creo en casualidades: lo apunto y ya está."
+HIROSHI: "Ren."
+REN: "Habla."
+HIROSHI: "¿Qué ha sido esto?"
+REN: "Esto ha sido que tenía las manos muertas y tú estabas aquí. No lo conviertas en otra cosa, que te lo digo por tu bien: yo no tengo explicaciones que dar por tener las manos en algo. Nunca las he tenido que dar y no las voy a empezar a dar a los veintiún años."
 
-NARRACIÓN: Sin pedirle permiso, le arrebaté la soga de las manos, aseguré el cubo en el brocal y la arrastré con firmeza hacia el cobertizo techado del leñero, a resguardo del viento cortante del patio. El leñero era un refugio oscuro y seco, saturado por el aroma a resina de pino, virutas de roble y madera seca acumulada durante el verano. Tomé sus dos manos congeladas entre las mías. Su primer impulso fue de resistencia física, tensando las muñecas con la rigidez instintiva de quien teme perder el control sobre sí misma; pero el frío atroz que la atenazaba y la memoria viva del beso en la nieve pudieron más que su orgullo.
+NARRACIÓN: Y luego dijo lo último, con la linterna apagada y las dos manos delante de la cara, mirándolas a contraluz de la nieve, y lo dijo bajando la voz por primera vez en los tres días que llevábamos de temporal.
 
-REN: [Mirándome fijamente a los ojos en la penumbra con una mezcla desgarradora de desafío, entrega y pánico lúcido] "Cuarenta segundos. Ni uno más. Los cuento yo."
+REN: "Me tiemblan. Nunca me han temblado. Se me han quemado, se me han cortado, se me han hinchado de amasar ocho horas seguidas, y nunca me han temblado. Hoy me tiemblan y no es el frío, porque el frío las deja duras como piedras. Es por dentro. Eso lo has visto tú, y no lo apuntes en el cuaderno, no se lo cuentes a nadie y no me lo repitas mañana. No lo he dicho para que se sepa. Lo he dicho para que lo sepas, que no es lo mismo."
+HIROSHI: "¿Y el jueves?"
+REN: "El jueves hay clase, como todos los jueves. Y desde el jueves, contigo, manos ocupadas. Todo lo que yo tenga que decirte lo voy a decir con las manos en algo, y tú vas a hacer lo mismo, y en esta casa se va a trabajar mientras se habla. Es la única manera que tengo de decir la verdad sin que después tenga que desdecirme. Lo he pensado esta tarde en la cuesta y lo he decidido esta noche sacando agua: a mí la boca me sirve para dar órdenes, y tú no necesitas órdenes. Ahora entra, que hay doce grados bajo cero y el miércoles hay que abrir una carretera con las manos."
+NARRACIÓN: Entramos, y ella volvió a poner el cubo debajo del grifo de la pila, se secó las manos en el trapo del taller —no en el de la cocina, nunca en el de la cocina— y se sentó en la mesa con el cuaderno abierto y la linterna de pie, a escribir el lunes con la letra pequeña que usa para las cifras. Yo me acosté en el futón y la oí escribir veinte minutos, y después oí el bolígrafo parar, y después la casa entera se quedó en silencio, que es lo único que esta casa hace a la una y veinte de la madrugada con tres días de temporal encima.
 
-HIROSHI: "Los que tú mandes, Ren."
+*Me ha contado cuarenta segundos y no ha dejado de contar ni cuando ha apoyado la frente. Y a los cuarenta se ha apartado un paso, sin disculparse, y ha sacado el cuaderno y ha apuntado doce cubos. Con ella no hay manera de saber si el paso que has dado es un paso o es un número, y aun así es la única de las cuatro con la que estoy seguro de no haber dado ninguno que no me haya autorizado ella.*
+*Las tres se paran a sí mismas, cada una en su idioma. Yuki se para cuando le tiembla un dedo. A Mika la para un teléfono. Ren se para contando, y encima me cuenta a mí, y encima me da la regla para los próximos tres meses: manos ocupadas. Esta noche he entendido por qué me fui de Tokio. En Tokio nadie me ponía reglas: me ponían plazos.*
+*Y mañana se cumple el cuarto día, aunque el señor Kimura diga que la nieve de enero son tres. En este pueblo la cuenta la lleva la nieve, no el refranero, y a la nieve le da igual que tú tengas una opinión.*
 
-NARRACIÓN: Desabroché los botones de mi chaquetón de paño, aparté la lana de mi camisa y deslicé sus manos heladas directamente contra la piel desnuda y ardiente de mi pecho.
+ESCENA 10.8 - EL CUARTO DÍA
 
-NARRACIÓN: El impacto fue un latigazo brutal. Ren soltó un gemido trémulo, doloroso y profundo que le rasgó la garganta; un estremecimiento violento le sacudió la espina dorsal al sentir el choque salvaje de temperaturas. Sus dedos entumecidos, ásperos y lacerados se abrieron de golpe contra mi torso, buscando con una desesperación instintiva el calor de mi carne, aferrándose a mi piel con la fuerza de quien se ahoga en mitad de un lago helado.
+NARRACIÓN: El martes amaneció con el viento parado y con la nieve quieta encima de la nieve, que es lo que pasa cuando un temporal ha terminado de caer y todavía no ha empezado a irse. A las seis, Ren encendió la radio de la cocina —la suya, la pequeña, la de las pilas— y oímos las tres frases que llevábamos tres días esperando y que no decían lo que queríamos oír: que la máquina había terminado el valle, que las carreteras de arriba se abrirían a lo largo del miércoles si el viento aguantaba parado, y que la prefectura pedía a los núcleos de menos de cien habitantes que no salieran con vehículos propios «hasta la normalización de las vías».
 
-NARRACIÓN: Comenzó a contar en voz baja, con un hilo de voz quebrado que perdía el compás a cada latido:
+REN: [Apagando la radio] "Miércoles. Y ha dicho «a lo largo del miércoles», que en el idioma de la radio significa el miércoles por la tarde."
+YUKI: "Entonces hoy es el cuarto día."
+REN: "Hoy es el cuarto día."
+MIKA: "El señor Kimura dijo que al que le cuenta cuatro se le acaba el pan."
+SAKI: "Y el señor Kimura dijo eso porque es un refrán, y los refranes los inventa gente que no tiene despensa. Llevamos cuatro días y a nadie de este pueblo se le ha acabado el pan. Se le ha acabado otra cosa: se le ha acabado la costumbre de estar solo."
+NARRACIÓN: Mika se quedó un segundo con la cafetera en la mano, mirando a Saki, y después dijo la frase que se quedó en el capítulo entero, y la dijo sin coleta y sin cámara y sin nadie a quien caerle bien.
 
-REN: "Uno... dos... tres... siete..."
+MIKA: "Este pueblo come de la despensa. Lo he estado pensando estos cuatro días: en la ciudad, si se corta el camino, la gente baja al supermercado y el supermercado tiene tres días de existencias. Aquí cada casa tiene veinte días de arroz, cuatro tarros de miso y una vecina que llama por la ventana. La despensa no es ahorro, es una manera de vivir."
+SAKI: "Y por eso nadie ha venido a esta puerta a pedir. Han venido a traer. El señor Kimura con la carretilla, la señora Nakai con dos kilos de harina que no le sobraban, la señora Sato con su tarro de umeboshi. Nadie ha pedido nada en cuatro días."
+REN: "En cuatro días he apuntado catorce entradas en el libro y once son de cosas que han traído."
 
-NARRACIÓN: Al llegar al número quince, la muralla lógica que había construido durante toda su vida se vino abajo sin remedio. Su voz se quebró en un sollozo seco. Dejó caer la frente contra el hueco de mi cuello, apoyando todo su peso contra mí en mitad de la noche gélida. Sentí el galope desbocado de su corazón martilleando contra mis costillas, el calor ardiente de sus lágrimas silenciosas empapando mi clavícula y el temblor incontrolable de sus hombros bajo el suéter.
+NARRACIÓN: El martes el taller tuvo la mesa larga montada desde las once de la mañana, y a la una había siete personas comiendo, y a las dos había doce, y a las tres llegó la carretilla con la señora Sato dentro, tapada hasta la barbilla con una manta, traída por el chico del señor Ono y el vecino del molino, que la subieron y la bajaron como se baja un horno de pan. La señora Sato se sentó en la cabecera de la mesa porque nadie se atrevió a sentarse allí delante de ella, comió sopa con pan blando de los dos panecillos pequeños, no dio las gracias, y a los veinte minutos dijo la única frase que dijo en todo el día, mirando la mesa llena.
 
-HIROSHI: "Ren..."
+SEÑORA SATO: "Cuarenta años llevo yo viendo esta mesa vacía. En el año ochenta y dos cenamos aquí diecinueve. No me acuerdo de lo que comimos. Me acuerdo de que éramos diecinueve."
+NARRACIÓN: A la tarde Mika y Yuki subieron a la casa de la señora Ogawa con la masa del día, porque el horno de leña no gasta gas y porque en el arcón de la despensa de la señora Ogawa había cuarenta kilos de harina de octubre con los que se podía cocer pan para el pueblo sin tocar las bombonas, y esa decisión la tomó Yuki en voz alta delante de las otras tres por la mañana, con dos números: con dos bombonas y un tercio se hace pan tres días o se calienta agua doce horas, y el horno de la casa vieja no necesita ni una bombona. Mientras las dos subían, Saki se fue al mercado a poner el teléfono y a colgar en la puerta la lista del miércoles, y Ren se quedó en la mesa larga con el cuaderno, haciendo la única cuenta que en cuatro días no había hecho nadie: la cuenta de lo que va a hacer falta cuando la carretera se abra.
 
-REN: [Con los labios pegados a mi cuello, temblando de pies a cabeza] "Me tiemblan... Hiroshi. Nunca me habían temblado las manos... Jamás en mi vida. Ni cuando me examinaba en la universidad, ni cuando quebró mi padre y entraron los embargadores... Siempre sabía qué cifra venía después. Y ahora... ahora no sé calcular nada de lo que me pasa contigo. Me da miedo... Me da un miedo atroz quererte... porque si te quiero, ya no tengo adónde volver si esto se cae."
+NARRACIÓN: A las seis de la tarde la pizarra del pasillo tenía tres cosas escritas con tiza, y ninguna era de comida. En la primera columna, los cuatro días: sábado, domingo, lunes, martes. En la segunda, lo que el pueblo había puesto encima de la mesa: dieciocho kilos de harina de cinco casas, cuatro troncos de roble, un tarro de umeboshi, veinte litros de gasóleo, dos kilos de harina de la señora Nakai, una caja de patatas del molino, una carretilla y una pala. En la tercera, lo que había hecho falta del taller: cuarenta y seis cubos de agua sacados a mano, dieciocho hogazas cocidas en un horno de ladrillo, dos ollas grandes, la balanza de la señora Ogawa, el libro de cuentas y un teléfono. Ren lo repasó en voz alta delante de Saki y de mí, y al llegar al final se quedó un momento con la tiza en la mano.
 
-NARRACIÓN: No la dejé retroceder ni un milímetro. Pasé mis brazos con firmeza alrededor de su cintura, alzándola levemente contra la pared de madera del leñero y resguardándola con mi propio cuerpo del aire glacial. Mi boca buscó la suya en la penumbra en un beso largo, hondo y húmedo que devoró sus lágrimas, su miedo y su armadura. Ren gimió contra mis labios, abriendo la boca con una entrega total, mientras sus manos, ya cálidas por el fuego de mi pecho, se deslizaban hacia mi nuca, enredando sus dedos en mi pelo con una urgencia que borró cualquier vestigio de cálculo.
+REN: "Y debajo de todo esto hay una cosa que no he apuntado, porque no sé cómo se apunta. El sábado este pueblo tenía diecinueve casas y cuarenta y seis vecinos y en cuatro días han pasado por esta puerta todas menos tres. He contado veintidós personas el sábado, doce el domingo, catorce el lunes y diecinueve hoy en la mesa. Estamos en el cuarto día y este pueblo se ha movido más que en todo el mes de enero."
+SAKI: "Apúntalo como se apunta todo: con una raya y el día. Y mañana abren la carretera y volverá el camión, y el camión traerá harina, y la harina se pagará, y todo el mundo va a volver a su casa a comer lo suyo. Lo que no va a volver es esta mesa, que lleva doscientos años desmontada."
+REN: "Entonces lo apunto así: «Cuarto día: la mesa larga. No estaba en ningún plan.»"
 
-NARRACIÓN: El consentimiento fue absoluto, ciego y visceral. En el rincón oscuro del cobertizo, rodeados por el aroma denso de la leña y con la nieve cayendo a copos lentos a escasos pasos de nuestros pies, nos entregamos a una caricia ardiente que quemó hasta el último rescoldo de duda. Sus ropas cedieron a la urgencia de mis manos y mi abrigo la envolvió por completo mientras su piel desnuda buscaba la mía en un compás febril, íntimo y secreto...
+NARRACIÓN: Aquella noche, cuando ya estaba todo recogido, Yuki sacó el cuaderno azul y se sentó en la mesa con el menú de abril abierto por la página de los martes, y estuvo veinte minutos con el bolígrafo quieto. Cuando le pregunté, no me contestó lo que le había preguntado.
 
-...
+YUKI: "La clase de los martes la he dado dos veces este invierno y las dos veces han venido cuatro señoras y han aprendido a hacer un caldo. Hoy no ha venido nadie porque no hay camino, y me he dado cuenta de una cosa: yo había entendido este pueblo como una clase. Y este pueblo no es una clase. Este pueblo es una despensa y una pala."
+HIROSHI: "¿Y qué vas a hacer con el menú de abril?"
+YUKI: "El menú de abril no cambia. Lo que hoy he escrito aquí debajo es lo que va antes del menú de abril, y lo he escrito con mi letra porque va a ser la primera vez que escriba algo en este cuaderno que no sea técnica: «Punto cinco: la despensa. Lo que un pueblo guarda dice lo que un pueblo es.» Yo no he guardado nada en mi vida, Hiroshi. En Tokio tenía una nevera con dos cosas y una agenda. Aquí he visto once despensas en cuatro días y no he sabido qué decir delante de ninguna."
 
-NARRACIÓN: El silencio que siguió al ardor fue un bálsamo espeso en la noche polar. Ren permanecía recostada contra mi pecho en el refugio del leñero, con la respiración acompasándose despacio y la cabeza apoyada bajo mi barbilla. Le abroché con cuidado el suéter, acariciándole las sienes húmedas antes de que el aire helado pudiera alcanzarla.
+*Cuatro días. Cuarenta y seis cubos de agua, cincuenta y cinco hogazas, una carretilla, dos postes, dos bombonas y un tercio de gas que se han quedado en dos y un cuarto, y un pueblo que ha comido de lo que tenía.*
+*Y lo que más me va a costar contar de este capítulo no son los números: es la mesa. Un pueblo que se ha pasado doscientos años comiendo cada casa por su cuenta ha venido cuatro días seguidos a esta puerta, y ha venido a traer, y ha venido sin pedir, y hoy se han sentado diecinueve personas a una mesa larga que la señora Tanaka tenía cubierta con una sábana el día que yo entré a ver el local.*
+*Yo vine a Sakura-machi a cocinar para gente que no conocía y me he pasado cuatro días sacando agua de un pozo y moviendo un poste. Esta noche, cuando se ha ido el último vecino, me he quedado en el taller con las manos en los bolsillos, y por primera vez en tres meses no he pensado en el festival.*
 
-REN: [En un susurro abrasador, con los ojos cerrados y una sonrisa de paz infinita dibujada en la boca] "Treinta y nueve... cuarenta. Se acabó el tiempo del mundo."
+ESCENA 10.9 - LA LUZ QUE VUELVE
 
-HIROSHI: "¿Y ahora qué hacemos con la cuenta, Ren?"
+NARRACIÓN: El martes a las ocho y veinte de la noche se oyó un motor en la cuesta, y en este pueblo un motor en la cuesta a las ocho y veinte de la noche de un temporal es un acontecimiento: salimos los cuatro a la puerta con las linternas y desde el taller se veía, tres curvas más arriba, la luz de un camión de la prefectura parado en el sitio donde nosotros habíamos movido el poste por la mañana. Eran dos hombres con un generador portátil, un rollo de cable y un cabrestante, y subieron los dos postes en cuarenta minutos con la luz larga del camión encendida y con la nieve hasta la rodilla.
 
-REN: [Abriendo los ojos despacio, mirándome con una ternura desarmante que jamás le había visto] "Ahora nada. La cuenta se ha roto... y por primera vez en mi vida, me alegro de que no cuadre."
+NARRACIÓN: El señor Ono bajó de su casa andando despacio, con la camisa azul, los tres dedos torcidos y un bastón que no había usado en todo el invierno, y se quedó de pie en la cuneta mirando a los dos hombres trabajar, sin decir nada, con las manos en la espalda, durante veinte minutos. Yo subí con él porque no se me ocurrió qué otra cosa hacer, y a la mitad de la maniobra el señor Ono habló, bajito, como se habla en la cuneta.
 
-NARRACIÓN: Se apartó un paso, alisándose la ropa con ademán sereno. Sus mejillas ardían con un rubor que nada tenía que ver con la escarcha.
+SEÑOR ONO: "Ese poste lo levanté yo en el año ochenta y uno, con dos caballos y cuatro hombres del pueblo. Dos días nos costó. Estos lo suben en cuarenta minutos y se van a dormir al valle."
+HIROSHI: "Es un camión."
+SEÑOR ONO: "Es un camión, sí. Y también es que en el año ochenta y uno el pueblo tenía catorce hombres para levantar un poste y hoy tiene dos, y uno soy yo con sesenta y ocho años. No te estoy diciendo que esto esté mal, Hiroshi. Te estoy diciendo por qué a veces las cosas tardan."
+NARRACIÓN: Los dos hombres de la prefectura no quisieron entrar en la casa: tenían otras tres instalaciones en el valle y una hora de camino. Aceptaron un termo de café con leche y dos hogazas de la hornada de la señora Ogawa, y uno de ellos, el más joven, se quedó un segundo mirando la hogaza antes de guardarla, con las dos manos, como se sostiene un objeto que no se esperaba.
 
-REN: "Pero escucha bien, Hiroshi: a partir del jueves... manos ocupadas. Todo lo que tengamos que decirnos de aquí en adelante lo diremos trabajando en la tabla de cortar, picando verdura y atizando el fogón. Es la única forma de que no se me desmonte el alma antes de abril."
+TRABAJADOR DE LA PREFECTURA: "Esto huele a horno de leña."
+MIKA: "Es de un horno de leña de verdad, de una casa de aquí arriba."
+TRABAJADOR DE LA PREFECTURA: "Mi abuela hacía pan en uno de esos. En casa no se ha vuelto a encender."
+MIKA: "Si pasa por aquí el miércoles, le doy otra. Y si vuelve en abril, le enseño el horno."
 
-*Ren contó los segundos para entregarse y rompió el cronómetro para siempre.*
-*Sus manos sangraban por la soga y ardieron sobre mi pecho desnudo en la noche más fría del invierno.*
-*«Manos ocupadas», ha pedido como salvaguarda. Pero los dos sabemos que hay fuegos que no se apagan por más que se empuñe un cuchillo.*
+NARRACIÓN: La luz volvió a las nueve y veinticinco de la noche. No hubo aplausos ni gritos: volvió como vuelve la luz, con un chasquido en el cuadro del pasillo, la nevera del taller arrancando sola, la caldera ronroneando detrás de la pared del cuarto y la bomba del depósito llenando lo que llevábamos cuatro días sacando a mano con un cubo y una cuerda. Nos quedamos los cuatro de pie en el pasillo mirando las bombillas como se mira algo que no se esperaba, y a los diez segundos Yuki dijo la frase más práctica del temporal.
 
----
+YUKI: "Cuatro días sin agua caliente. El agua de la caldera tarda cuarenta minutos en estar a temperatura, así que el que quiera ducharse esta noche tiene cuarenta minutos para decidir el orden. Y os aviso de una cosa: con el agua del depósito ha subido toda la arena del pozo, así que el que se duche primero se ducha en agua marrón."
+REN: "Entonces yo."
+YUKI: "¿Por qué tú?"
+REN: "Porque yo no me voy a quejar de que el agua esté marrón. Y vosotras sí, todas, y con razón."
+NARRACIÓN: Se duchó ella la primera, con el agua turbia del pozo, y salió a los veinte minutos con el pelo mojado, la camiseta limpia y las manos con las grietas cubiertas de crema, que es la primera vez en cuatro días que le he visto hacer un gesto de cuidado propio. Después se duchó Mika —casi media hora, cantando bajo, con el agua ya clara— y después Yuki y después Saki, y a las once y cuarto la casa olía a jabón, a caldera encendida y a pan del lunes, y todo eso junto es lo que huele una casa cuando vuelve a ser una casa.
 
-ESCENA 10.8 - EL CUARTO DÍA Y LA MESA COMUNAL
+NARRACIÓN: A las once y veinte volvieron los teléfonos. No con un aviso, no con una señal que aparece: volvieron como vuelven, con cuatro pantallas encendiéndose a la vez encima del mármol y un zumbido durante cuarenta segundos seguidos que parecía una cafetera. Saki cogió el suyo, lo miró con los ojos entrecerrados y dijo en voz alta lo que tenía, porque Saki no oculta los suyos: la asociación de mujeres preguntando por las clases, la señora Tanaka desde su casa dos calles más abajo preguntando si había vuelto la luz, y un número del valle que no conocía. Yuki miró el suyo, no tenía nada y no dijo nada, y se puso a secar los vasos. Mika, que tenía cuarenta y un avisos, los pasó uno por uno con el pulgar sin abrir ninguno y se detuvo un segundo en uno que llevaba ahí desde antes del temporal y que sigue ahí: el mensaje privado de un nombre guardado con dos letras, sin abrir, sin borrar y sin comentar. Lo dejó pasar con el pulgar y siguió bajando, y ninguna de las tres preguntó qué era, porque en esta casa hay cosas que no se preguntan.
 
-NARRACIÓN: El martes amaneció con el viento en calma chicha y el cielo despejado en un azul cobalto purísimo que hería la vista sobre el blanco resplandeciente del valle. En la pequeña radio a pilas de Ren, las noticias de la prefectura confirmaron que la quitanieves de gran tonelaje abría ya los últimos tramos del valle medio hacia Sakura-machi.
+NARRACIÓN: Ren cogió el suyo el último. Se quedó de pie con la pantalla encendida delante de la cara, mirándola, y yo estaba a metro y medio y no pude evitar verla porque estaba de frente: cinco llamadas perdidas, todas del mismo número, todas de Tokio, ninguna con nombre guardado y ninguna con mensaje, apuntadas por la red mientras el teléfono llevaba cuatro días sin cobertura, tres del lunes por la noche y dos del martes por la tarde. Tres segundos. Guardó el teléfono en el bolsillo de dentro, boca abajo, y siguió secándose el pelo con la toalla como si no hubiera visto nada.
 
-NARRACIÓN: Aquel mediodía, el viejo restaurante vivió su momento más luminoso y entrañable. Diecinueve vecinos compartieron el almuerzo sentados hombro con hombro en la gran mesa comunal del Restaurante Yamamoto. La anciana señora Sato, trasladada en una carretilla acolchada con mantas por dos muchachos jóvenes del pueblo, presidió la cabecera saboreando la sopa tibia con pan blando.
+HIROSHI: "¿Algo importante?"
+REN: "Nada."
+NARRACIÓN: Y no dijo nada más, y yo no insistí, porque no llevo ni tres meses aquí como para saber qué preguntas se hacen en esta casa a las once y media de la noche del cuarto día de un temporal. Pero lo apunté, como apunto yo las cosas: cinco llamadas de Tokio a un teléfono que lleva cuatro días apagado, y una palabra, «nada», dicha con la voz un poco más baja de lo que la dice ella normalmente.
 
-SEÑORA SATO: "Hacía cuarenta años que no veía esta tabla llena de platos humeantes. En el ochenta y dos nos sentamos aquí diecinueve almas para celebrar la cosecha de arroz tras una sequía dura. Hoy somos otros, pero el calor que brota de la madera es exactamente el mismo."
+NARRACIÓN: Mika se fue al taller a las once y veinticinco con la cámara y volvió a los diez minutos con la cámara y un plano. Grabó cuarenta segundos desde el ventanuco de arriba, con la ventana abierta y el frío entrándole en la cara, y lo que grabó no fue el pueblo: fue la nieve cayendo despacio sobre la cuesta, la soga del pozo, el poste nuevo de la prefectura con el cable colgando y el humo de catorce chimeneas subiendo recto en la noche. Ni una cara, ni una casa identificable, ni un nombre, ni un cartel. Lo subió a las once y cuarenta y dos con tres palabras de título —«cuarenta centímetros»— y bajó a la cocina a decirlo delante de las otras tres, sin mirar el teléfono, con las dos manos en la taza.
 
-NARRACIÓN: Mientras Mika y Yuki horneaban una nueva tanda en la casa vieja con la harina cedida por la anciana Ogawa, Ren contemplaba el bullicio del comedor con el cuaderno sobre las rodillas.
+MIKA: "He subido cuarenta segundos de nieve. Ni una cara, ni una casa, ni un nombre. Por si alguien pregunta dónde es, no contesto, como el otro día."
+SAKI: "¿Por qué lo has subido?"
+MIKA: "Porque llevo dos años grabando lo que hago y estos cuatro días no he grabado nada, y esta noche me he dado cuenta de que no grababa por vergüenza, y la vergüenza ya la tengo bastante trabajada. Un vídeo de nieve no le hace daño a nadie. Un vídeo de la señora Ogawa encendiendo su horno sí, porque la señora Ogawa no ha dicho que sí."
+REN: "Anotado: permiso. Y si sale bien, en abril preguntamos a los demás."
 
-REN: "Diecinueve personas almorzando juntas. Casi todo el pueblo ha cruzado este umbral en cuatro jornadas de temporal. Esta mesa no figuraba en ningún presupuesto, pero ha salvado más vidas que una farmacia entera."
+NARRACIÓN: La última decisión del martes la tomó Yuki con dos números y sin consultar a nadie, y la tomó delante de las otras tres, que es como se toman las decisiones en esta casa desde el primer día.
 
-YUKI: [Anotando con trazo rápido en su libreta azul al regresar del horno] "Punto cinco para el menú de abril: «La despensa. Lo que un pueblo guarda en el invierno revela lo que ese pueblo es de verdad». Llevo años creyendo que la cocina era un alarde de técnica académica; hoy sé que es un refugio compartido contra la muerte."
+YUKI: "El horno de la señora Ogawa se queda encendido todos los días que dure el invierno. Necesita tres cargas de leña al día para dos hornadas; el señor Kimura ha dicho que tiene leña de sobra y el del molino también. Con eso el pueblo come pan sin gastar una bombona, y las dos bombonas que quedan son para el agua caliente y para la masa madre. Y yo lo apunto aquí, en el libro: a partir del miércoles, el pan de Sakura-machi se hace en el horno de la casa de la señora Ogawa."
+MIKA: "¿Y ella lo sabe?"
+YUKI: "Ella lo ha dicho antes que yo. Se lo he dicho por teléfono a las nueve y ha dicho dos cosas: que sí, y que el que enciende un horno ajeno responde del horno."
 
-*El aislamiento forzoso ha desenterrado la hermandad dormida de Sakura-machi.*
-*La señora Sato recordó banquetes de otra época mientras comía de la cuchara que le tendió Mika.*
-*Yuki aprendió que el menú de primavera no se escribe con recetarios franceses, sino con la sabiduría humilde de quienes saben resistir juntos.*
+*La luz ha vuelto a las nueve y veinticinco y no ha celebrado nada nadie. En una ciudad, cuatro días sin luz son una incomodidad que se cuenta. Aquí han sido un trabajo, y cuando ha vuelto, la única reacción de esta casa ha sido organizar el orden de las duchas.*
+*Cinco llamadas de Tokio a un número sin nombre, y Ren dice «nada» y se seca el pelo. Sé lo que es eso, porque yo también tuve un teléfono que sonaba con un nombre que no quería leer, y también contesté «nada» durante meses. Lo que no sé es si en esa palabra cabe un abuelo o una madre, y no lo voy a saber hasta que ella quiera, y puede que no quiera nunca.*
+*Y en medio de todo esto, Mika ha subido cuarenta segundos de nieve. Cuarenta segundos de nada: la cuesta, la soga, el humo de catorce chimeneas. Es el vídeo más honesto que le he visto hacer desde octubre, y no tiene ni una cara. Mañana vuelve el mundo por la carretera, con sus camiones y su harina, y este pueblo va a tener que decidir qué hace con la mesa larga que lleva doscientos años desmontada.*
 
----
+ESCENA 10.10 - EL CAMINO
 
-ESCENA 10.9 - LA LUZ QUE VUELVE Y LAS SOMBRAS DE TOKIO
+NARRACIÓN: La máquina subió a las ocho y veinte de la mañana del miércoles: una pala amarilla del tamaño de una casa, con las cadenas puestas y las luces encendidas, abriendo la cuesta en cuatro pasadas y dejando a los lados dos paredes de nieve de un metro veinte. No vino a socorrer a nadie: vino a abrir una vía, y abrió la vía como se abre una carretera que no es de nadie, empujando la nieve hacia el lado del muro y hacia el lado del barranco sin mirar qué había detrás. El pueblo entero la vio pasar. El señor Ono desde su ventana con la manta en las piernas, el chico del señor Ono desde la puerta con la pala al hombro, la señora Nakai desde la suya con los prismáticos, el señor Kimura desde la esquina con las manos en la cintura. Y en la puerta del taller, los cinco.
 
-NARRACIÓN: Al anochecer del martes, el rugido potente de un motor diésel rompió la quietud secular de la cuesta. Dos operarios de la prefectura con una grúa todoterreno levantaron los dos postes caídos en una maniobra limpia bajo la luz de potentes focos halógenos. El señor Ono contempló la faena apoyado en su bastón de cerezo, asintiendo con una mezcla de orgullo campesino y melancolía.
+NARRACIÓN: A las once y cuarenta estuvo abierta. A las once y cuarenta y cinco subió el primer vehículo por la cuesta, y no fue un camión de la capital ni un coche de la prefectura: fue el tractor del señor Kudo, que volvía del pueblo de su hija con dos palas nuevas en el remolque y media carga de leña de encina, y que se paró delante del taller, bajó del tractor, saludó al pueblo entero con la mano y dijo dos frases que en este pueblo son un discurso.
 
-NARRACIÓN: Bien entrada la noche, cuando la penumbra parecía ya la condición natural del mundo, la luz regresó.
+SEÑOR KUDO: "Buenos días. ¿Ha pasado algo aquí?"
+SAKI: "Nada. Se ha comido."
+SEÑOR KUDO: "Entonces no ha pasado nada. Voy a dejar la leña en la puerta de la señora Ogawa, que me lo ha pedido su vecino por teléfono, y luego bajo a la mía a encender la estufa. Y os digo una cosa: he tardado dos días en volver por la nieve y en el camino me han preguntado tres veces por este pueblo. No he sabido qué contestar, porque yo tampoco sabía qué había aquí."
+NARRACIÓN: A las dos y diez de la tarde subió el camión de la harina, que es el camión de la cooperativa del valle que abastece el mercado de la señora Tanaka desde hace treinta años, y el conductor se quedó parado delante del taller con el motor encendido, mirando la puerta abierta, la mesa larga y la pizarra del pasillo con las tres columnas de tiza, sin bajarse del camión durante quince segundos.
 
-NARRACIÓN: Fue un chasquido seco en el cuadro de diferenciales, seguido por el despertar gozoso de los electrodomésticos, el murmullo de la bomba llenando el aljibe y el rugido de la caldera calentando el circuito. El agua caliente volvió a brotar de los grifos con vapor reconfortante.
+CAMIONERO: "Yo venía a decir que no podía subir hasta el viernes."
+REN: "La carretera ha abierto a las once y cuarenta."
+CAMIONERO: "Ya veo que sí. Y veo más cosas. ¿Vosotros sois los del taller de cocina, los que hicieron el pan del jueves?"
+MIKA: "Somos los que han hecho el pan de esta semana, que no es lo mismo."
+CAMIONERO: "Pues baja mi jefe en cuanto pueda. Tengo dos sacos de harina que no eran para vosotros y os los dejo, y luego me explicáis a quién le cobro esto, porque yo llevo treinta años subiendo a este pueblo y nunca me había pasado."
 
-YUKI: "Cuatro días de mugre, sudor y hollín encima. Turnos de baño rigurosos. Quien entre primero lidia con los posos del pozo."
+NARRACIÓN: A las tres y cuarto de la tarde subió el cartero. Sube lunes, miércoles y viernes con la moto y la bolsa de cuero, y llevaba cuatro días sin subir, así que traía la correspondencia de cuatro días y la cara de quien ha subido seiscientos metros de cuesta por una vía recién abierta. Dejó la bolsa en la mesa larga, sacó los sobres uno por uno, los fue poniendo por montones de casa, y cuando terminó se quedó de pie mirando la pizarra del pasillo y las sillas que ya no estaban cubiertas por ninguna sábana.
 
-REN: "Yo primero. No tengo tiempo para remilgos ni esperas."
+CARTERO: "¿Qué es esto? Porque yo llevo catorce años subiendo a este pueblo y lo que veo hoy no lo he visto nunca. La puerta abierta, la mesa montada, la pizarra con tres columnas y el pan de la señora Ogawa en tres casas."
+SAKI: "Es el cuarto día de temporal. Se ha comido aquí y se ha repartido arriba."
+CARTERO: "¿Y eso quién lo ha decidido?"
+SAKI: "Lo decidimos el domingo por la mañana, delante de una pizarra, con las casas contadas. Y te voy a contestar lo que te interesa y no lo que preguntas: si alguien del valle pregunta qué hacemos aquí, puedes decir lo que has visto. Lo que no vas a decir es lo que no has visto."
+CARTERO: "Yo no pregunto por el valle. Yo pregunto por mí, que llevo catorce años subiendo con dos cartas y una revista. Y os digo una cosa gratis: en el valle ya se ha corrido la voz de que aquí hay gente nueva que no ha venido a poner un restaurante. Lo dijo el del bar de la gasolinera el lunes, y el del bar no ha subido a este pueblo en nueve años."
+SAKI: "Entonces ya lo saben antes que nosotros."
+CARTERO: "En este valle siempre se sabe antes. Lo que no se sabe nunca es qué va a pasar después."
 
-NARRACIÓN: El vapor del baño limpió las fatigas de cuatro jornadas de brega sin tregua. Cuando la casa volvía a oler a jabón fresco, a madera limpia y a sábanas tendidas, los teléfonos móviles cobraron vida sobre el aparador en una cascada frenética de pitidos, tonos y vibraciones acumuladas.
+NARRACIÓN: A las cinco de la tarde, con la correspondencia repartida, el tractor del señor Kudo en su casa, el camión de la harina bajando y los dos sacos apilados en la despensa del taller, Ren se sentó en la mesa larga con el cuaderno abierto por la página del miércoles y leyó en voz alta el resumen de los cuatro días, porque lleva tres meses diciendo que una cosa que no se cuenta dos veces no se ha hecho bien, y nadie en esta casa le ha discutido nunca eso.
 
-NARRACIÓN: Saki atendió recados pendientes de la cooperativa agrícola; Mika revisó decenas de avisos de sus canales de cocina, deteniéndose un instante con semblante pensativo ante aquel mensaje privado con dos iniciales que seguía esperando respuesta en la bandeja; y Ren se quedó inmóvil ante su pantalla iluminada.
+REN: "Cuatro días sin camino. Cincuenta y cinco hogazas: quince del taller el sábado, veinte en el horno de la señora Ogawa el lunes y veinte hoy. Cuarenta y seis cubos de agua a mano. Dos postes caídos y dos postes nuevos puestos por la prefectura, y el de la primera curva, el que ya estaba torcido antes del temporal, sigue torcido. Cincuenta y seis horas sin luz. Dos bombonas y un cuarto de gas al final, o sea que hemos gastado menos de un octavo de bombona, y eso es porque el pan lo ha hecho un horno de leña de mil novecientos cincuenta. Cuarenta y seis raciones repartidas el domingo, diecinueve personas en esta mesa ayer, siete casas que no conocíamos de nada y que ahora tienen nuestro teléfono en la pared de la cocina. Y en la columna de «Lo que aprendimos» hay tres cosas escritas: que una despensa es una manera de vivir, que un horno de leña no necesita luz y que este pueblo, cuando se queda sin camino, no pide: trae."
+MIKA: "Léelo otra vez."
+REN: "¿Cuál?"
+MIKA: "El final."
+REN: "«Este pueblo, cuando se queda sin camino, no pide: trae.»"
 
-NARRACIÓN: Cinco llamadas perdidas del mismo número de Tokio. Sin nombre asignado. Tres de la noche del lunes y dos de la tarde del martes.
+NARRACIÓN: A las seis y media Mika llamó a la señora Ogawa desde el fijo del mercado, con Saki de pie al lado y yo sentado en el escalón de la trastienda, y yo no oí más que la mitad de la conversación, que es lo que se oye cuando alguien habla con la señora Ogawa: la mitad, y la mitad buena.
 
-HIROSHI: "¿Malas noticias de la capital, Ren?"
+MIKA: "Señora Ogawa, soy Mika, la del pan. Le llamo por dos cosas. La primera: mañana se vuelve a encender, si le parece. ... ¿El jueves y el viernes y el sábado? Bien. ... Sí, yo. ... Sí, con la pala de mango largo. ... ¿Y la harina? ... ¿Cuarenta kilos? ¿En el arcón desde octubre? ... Señora Ogawa, eso no lo podemos gastar. ... Ya, pero es suyo. ... Bueno. Sí. Sí, está bien. Se lo apunto y mañana se lo llevo yo, con la cuenta escrita, que la harina se devuelve aunque no se cobre. Y la segunda cosa: ¿puedo grabar el horno? No a usted: el horno. Un plano, con el fuego dentro. ... ¿En abril? ... Sí. Sí, entiendo. Sí. Buenas tardes, señora Ogawa."
+SAKI: "¿Qué ha dicho del vídeo?"
+MIKA: "Que cuando haya hecho el pan de un invierno entero, se lo pida otra vez. Y que a las cosas que se enseñan hay que llegar con las manos sucias, no con la cámara limpia."
+SAKI: "Ha dicho eso exactamente así."
+MIKA: "La señora Ogawa no dice las cosas dos veces. Lo que no sé es si me ha negado el plano o me ha dado la fecha."
 
-REN: [Apagando la pantalla de golpe con un movimiento seco, con los ojos vidriosos pero la voz extraordinariamente firme] "Es la consultora de auditoría donde trabajaba antes de colapsar en Tokio. Quieren que vuelva para la campaña fiscal de primavera con un sueldo que duplicaría el de cualquier socio joven de la firma."
+NARRACIÓN: Y esa noche, cuando ya estaba todo recogido y la casa con luz y con agua caliente y la nieve quieta en la calle por primera vez en cinco días, Ren se quedó en el taller con la pizarra del pasillo y el trapo de borrar en la mano, y antes de borrar los cuatro días escribió una línea nueva debajo de las tres columnas, con letra pequeña, y después borró todo lo de arriba y dejó solo esa línea. Yo la leí de pie, con el abrigo puesto y la puerta abierta, y ella la leyó en voz alta a la vez que yo, sin girarse.
 
-HIROSHI: "¿Y qué vas a hacer?"
+REN: "«Jueves: clase. Manos ocupadas. Todas.» He pensado que después de cuatro días con las manos en el agua, en la leña y en la nieve, una clase normal no tiene sentido. Así que el jueves los seis platos de la clase los vamos a hacer de la única manera que yo sé hacer las cosas."
+HIROSHI: "¿Y yo?"
+REN: "Tú te pones a mi lado y no sueltas la tabla de cortar en toda la clase. Y cuando tengas algo que decirme, lo dices con las manos en algo. Y yo voy a hacer lo mismo: tengo una cosa que hablarte, y te la voy a decir el jueves con las manos ocupadas, porque con las manos libres no me sale y con las manos ocupadas no me puedo desdecir. Eso es todo. Ya está anotado y no se cambia."
 
-REN: [Guardando el móvil en el fondo del bolsillo de su pantalón y mirándome directamente a los ojos] "Dejar que suene hasta que se cansen de marcar. En Tokio me pagaban para contar el dinero ajeno mientras me moría de frío por dentro. Aquí he aprendido a calentarme las manos en el pecho de un cocinero. La cuenta está saldada para siempre."
+NARRACIÓN: Apagó la luz del taller, cerró la puerta del pasillo y se fue a dormir, y yo me quedé un rato más de pie en el pasillo, delante de la pizarra, con la línea nueva escrita en tiza y las casillas de los cuatro días ya borradas, que es exactamente lo que va a quedar de este capítulo cuando la nieve se derrita: una raya de tiza en un pasillo y siete casas que ahora tienen el teléfono de este taller en la pared de la cocina.
 
-NARRACIÓN: Antes de retirarse a descansar, Mika subió al descansillo alto, abrió el ventanuco y grabó cuarenta segundos de pura noche: la nieve azulada bajo la luna, el humo blanco de las chimeneas y el pozo descansando en el patio. Subió el archivo a su red bajo el escueto título de «Cuarenta centímetros», sin etiquetas de lugar ni rostros ajenos.
-
-MIKA: "Un vídeo de nieve limpia no compromete a nadie. El pan y el sufrimiento de este pueblo se quedan aquí dentro."
-
-*La luz eléctrica devolvió la comodidad moderna, pero trajo de vuelta las sombras del pasado.*
-*Ren miró a la cara la oferta dorada de Tokio y eligió el frío fértil de Sakura-machi.*
-*Mika compartió la belleza del silencio sin vender la intimidad de sus vecinos. La casa ha aprendido a protegerse.*
-
----
-
-ESCENA 10.10 - EL CAMINO ABIERTO Y EL PACTO DE LAS MANOS OCUPADAS
-
-NARRACIÓN: El miércoles a media mañana una pala quitanieves de enormes dimensiones abrió la carretera del valle en cuatro pasadas majestuosas, levantando murallas de nieve a ambos lados del firme. Con la calzada despejada subió el tractor del señor Kudo cargado de leña fresca, el camión de la harina de la cooperativa y la motocicleta del cartero rural con sacas abarrotadas de correspondencia.
-
-CARTERO: [Mirando la mesa comunal montada y la pizarra repleta de números en el zaguán] "Catorce años llevo subiendo a esta loma y jamás vi este caserón con las puertas abiertas de par en par. En el valle abajo no se habla de otra cosa: dicen que los nuevos no han venido a montar un negocio, sino a echar raíces hondas."
-
-SAKI: "Diles que aquí simplemente se ha comido cuando no había camino."
-
-NARRACIÓN: Por la tarde, Ren se situó frente a la pizarra del pasillo. Con un paño húmedo borró las cifras de los cuatro días de temporal —las cincuenta y cinco hogazas, los cuarenta y seis cubos de agua y las diecinueve almas de la mesa larga— y escribió una única línea en el encerado limpio: «Jueves: clase de cocina. Manos ocupadas. Todas».
-
-REN: [Mirándome de frente, con una firmeza serena y una luz nueva y desafiante en la mirada] "El jueves te colocas a mi lado en la tabla de cortar. Todo lo que tengamos que decirnos se dirá con el cuchillo en la mano y el fuego encendido. No admito rodeos."
-
-HIROSHI: "Allí estaré, Ren. Con las manos en la tabla."
-
-*Cuatro días sin camino han transformado este caserón en el corazón latente de Sakura-machi.*
-*El pueblo no vino a pedir; vino a traer lo que guardaba en su despensa.*
-*Mañana es jueves y Ren ha fijado las condiciones de nuestro encuentro: manos ocupadas para no dejar escapar la verdad que quema.*
-
----
+*Cuatro días sin camino. Cuarenta centímetros en el valle, sesenta arriba, dos postes, cincuenta y cinco hogazas y cuarenta y seis cubos de agua. Yo entré en este pueblo hace tres meses con un cuchillo y una culpa y lo que ha pasado esta semana es que el pueblo ha entrado en esta casa.*
+*La señora Ogawa ha dicho que el pan de este invierno se hace en su horno, que la harina la pone ella y que la mano la ponemos nosotros. El señor Ono ha dicho que el teléfono aguanta más que la luz. La señora Sato ha dicho que en el año ochenta y dos cenaron diecinueve. El cartero ha dicho que en el valle ya saben que aquí hay gente nueva. Y el señor Kimura ha dicho que la nieve de enero son tres días, y el señor Kimura es el único de los cinco que se ha equivocado.*
+*Es miércoles por la noche y mañana es jueves, y el jueves hay clase. Ren ha escrito en la pizarra tres palabras que no entiendo del todo y que llevo tres horas sin saber cómo se hacen: manos ocupadas. Con las manos en algo no se puede esconder nada, y por eso las he visto a las cuatro trabajar toda la semana. Pero una clase con las manos ocupadas y una frase que hay que decir no es una clase. Y ni ella ni yo lo vamos a admitir hasta el jueves.*
+*Y lo que más me molesta de este capítulo no es la nieve. Es que la única decisión que yo he tomado en cuatro días ha sido preguntar en voz alta, y que la respuesta que ha dado este pueblo no ha sido una: han sido tres, cada una de una mujer distinta, y las tres cabían en la misma pizarra.*
 
 FIN DEL CAPÍTULO 10
-
 PUNTOS ACUMULADOS SEGÚN ELECCIONES:
-Elegida la OPCIÓN A (el cuadro en la puerta del taller: método y turnos): +2 YUKI, +1 REN, +1 SAKI.
-Elegida la OPCIÓN B (pesar con la balanza y reparto en seco): +2 REN, +1 YUKI, +1 SAKI.
-Elegida la OPCIÓN C (abrir la puerta y mesa larga comunal): +2 SAKI, +1 YUKI, +1 REN.
+Elegida la OPCIÓN A (el cuadro en la puerta del taller: qué se cuece, en qué horno, a qué hora y quién sube): +2 YUKI, +1 REN, +1 SAKI.
+Elegida la OPCIÓN B (pesar todo con la balanza de la señora Ogawa y repartir en seco por casa y por día): +2 REN, +1 YUKI, +1 SAKI.
+Elegida la OPCIÓN C (abrir la puerta y poner la mesa larga: una olla al día y cada casa baja con lo que tenga): +2 SAKI, +1 YUKI, +1 REN.
+La elección se firma en la misma escena (10.4) y no se vuelve a mencionar; en los tres casos el pueblo come de su despensa, el taller abre al pueblo y el pan del invierno se cuece en el horno de leña de la señora Ogawa.
+YUKI: La que gobierna el agua y el fuego de los cuatro días. Empieza el sábado con sesenta litros embotellados antes de que nadie se levante, avisa de que sin luz no hay bomba y de que el pozo del patio lleva tapado desde octubre, y acaba dictando la decisión que sostiene la semana: el horno de leña no gasta bombona, así que el pan del pueblo se hace en la casa de la señora Ogawa y el gas se guarda para el agua y la masa madre. Escribe su propio punto cinco en el cuaderno azul —«la despensa: lo que un pueblo guarda dice lo que un pueblo es»— y no da ninguna clase en toda la semana, que es la primera vez que ocurre desde octubre. No tiene escalón en este capítulo (su N2/N3 fue el 7).
+MIKA: La panadera de la emergencia. Reparte quince hogazas el sábado, decide sola el reparto de los catorce kilos y contesta por teléfono a la señora Ogawa asumiendo la harina del arcón con la cuenta escrita. En este capítulo cuelga la cámara del gancho con el trapo puesto y no graba nada en cuatro días, enciende el horno de la señora Ogawa el lunes con la pala de mango largo, se quema un centímetro el antebrazo y no suelta la pala, y acaba subiendo cuarenta segundos de nieve sin una sola cara. Pide permiso para grabar el horno y se le aplaza a abril con una razón de oficio: «a las cosas que se enseñan hay que llegar con las manos sucias». No tiene escalón en este capítulo (su N2/N3 fue el 9).
+REN: **Escalón N1 (10.7, «el pozo»).** Nace del trabajo y del frío y no de una pose: doce cubos de agua a mano, un corte de cuerda en el pulgar, los guantes en el bolsillo porque «los guantes estorban para contar» y una conversión de la primera ayuda en duelo, que es su idioma: «cuarenta segundos. Y los cuento yo.» Se queda con las botas plantadas, sin corregir la postura, apoya la frente en el hombro y a los cuarenta se aparta un paso sin disculparse, y escribe dos renglones con la linterna en la boca. Su grieta es de registro y no de cuerpo: «me tiemblan las manos y nunca me han temblado», dicho para que lo sepa uno y no para que se sepa. Deja puesta la regla del capítulo 11 —«contigo, manos ocupadas»— y anota en la pizarra del jueves la única clase que va a dar de otra manera. Es la contable de los cuatro días: veintidós, doce, catorce y diecinueve personas, catorce entradas en el libro, once de cosas que han traído, y la frase que resume el capítulo: «este pueblo, cuando se queda sin camino, no pide: trae».
 
-YUKI: La custodia del agua y la leña. Administra los recursos con rigor espartano y comprende que el verdadero aprendizaje culinario no reside en la técnica académica, sino en la sabiduría humilde de la despensa compartida.
-
-MIKA: La panadera del temporal. Renuncia al afán de protagonismo digital, enciende el horno comunal de 1950 bajo la tutela de la señora Ogawa y asume su deber de alimentar a la comarca con las manos marcadas por el fuego.
-
-REN: **Protagonista del capítulo y consolidación de su escalón N1 (10.5, 10.7).** Desnuda su trauma infantil (la quiebra y desahucio familiar que la empujó al refugio de los números); experimenta la atracción física incontrolable al caer en la nieve en la cuesta (10.5); y quiebra definitivamente su coraza en la noche del pozo (10.7), entregándose a un beso apasionado y a una intimidad febril bajo el chaquetón de Hiroshi. Rechaza la oferta laboral de Tokio para apostar por su arraigo en el caserón y sella el pacto de «manos ocupadas» para el Capítulo 11.
-
-SAKI: La guardiana comunitaria. Articula el censo de la despensa a través del único teléfono del valle, abre la mesa comunal del Restaurante Yamamoto y defiende la dignidad del pueblo ante los extraños.
-
-HIROSHI: El apoyo infatigable. Despierta el deseo y la vulnerabilidad de Ren, sostiene el esfuerzo del temporal y guarda lealtad inquebrantable a las cuatro mujeres de la casa.
-
-Dinámicas grupales: La reactivación de la mesa comunal de 1982; la solidaridad intergeneracional con la señora Ogawa y los ancianos del valle; la prueba de fuego de la supervivencia sin electricidad ni comunicaciones modernas.
-
-Siembras de trama: El horno de ladrillo de 1950 y la harina de la señora Ogawa; el rechazo consciente de Ren a su pasado en Tokio; la advertencia del cartero sobre la fama del taller en el valle; el pacto de «manos ocupadas» que detonará en el Capítulo 11.
-
-PRÓXIMO: Capítulo 11 - "Las manos ocupadas" (Ren: la clase del jueves con las manos en la tabla, el duelo reprimido que no se puede confesar con palabras y la consolidación de su vínculo con Hiroshi; escalones N2 y N3 de Ren).
-
+SAKI: La que convierte un temporal en una lista. Llama a once casas desde el fijo del mercado a cinco grados durante dos horas y media con cuatro columnas por renglón —casa, quién, qué hay, cuántos días—, entiende antes que nadie que el problema no es la comida sino la gente que vive sola, y contesta el refrán del señor Kimura con la tesis del capítulo: «los refranes los inventa gente que no tiene despensa». Separa lo que se puede contar de lo que no —«contestamos lo que hemos visto, no lo que no hemos visto»— delante del cartero, y avisa de que la mesa larga lleva doscientos años desmontada y no va a volver a montarse sola. Su escalón llega en el 12.
+HIROSHI: No ha tomado una sola decisión en cuatro días y lo escribe. Sube la cuesta tres veces, saca veintitrés cubos de agua el sábado y doce el lunes, mueve un poste entre dos, sostiene la pala del horno sin cargarlo, y su único acto propio es preguntar en voz alta cómo come un pueblo de cuarenta y seis vecinos. Transgrede una sola vez y lo hace con las manos: coge las manos de Ren sin pedirlas (la primera vez desde octubre) y acepta la regla que ella le pone encima. Ve cinco llamadas de Tokio en un teléfono sin nombre, no pregunta, y escribe esa palabra —«nada»— con la misma letra con la que apunta temperaturas. Su culpa de origen —haber pedido un invierno de verdad— se cobra la semana entera y no se la cobra a nadie.
+Dinámicas grupales: la nevada y la comunidad de la despensa como economía real (cada casa guarda, cada casa trae); el taller como único sitio con horno de gas y la casa de la señora Ogawa como único sitio con horno de leña; la mesa larga montada con las sillas que llevaban sábanas encima desde antes de que Hiroshi llegara; el reparto de la cuesta a pie con carretilla, ollas tapadas con trapos y botellas que no se apoyan en el suelo; el fijo del mercado como único teléfono del pueblo y las llamadas cortas de las nueve y cuarto; el pan repartido por tres casas y la señora Sato bajada en carretilla para comer en la cabecera; y el agua, que es lo único que no se puede comprar y que se saca con las manos.
+Siembras: el horno de ladrillo refractario de 1950 y los cuarenta kilos de harina del arcón de la señora Ogawa, que quedan encendidos y a deber para el Acto III (Caps. 12–15); la frase de la señora Ogawa «en abril este pueblo pregunta quién pasó el invierno contigo, e id pensando la respuesta» (Caps. 14–18); las cinco llamadas de Tokio al teléfono de Ren, sin nombre guardado y sin mensaje, que ella no contesta y no explica (Caps. 16 y 21.3, aviso); el cartero y la voz corrida por el valle —«aquí hay gente nueva que no ha venido a poner un restaurante»—, primera vez que el pueblo mira desde fuera (Cap. 18); los dos sacos de harina que no eran para nosotros y el jefe de la cooperativa que quiere subir a preguntar (Cap. 12); la mesa larga y la pizarra del pasillo como centro del pueblo (Cap. 12); la regla de Ren «manos ocupadas» y la clase del jueves (Cap. 11); el mensaje privado del nombre guardado con dos letras, que sigue sin abrirse y sin comentarse (Cap. 21, aviso); el poste de la primera curva, torcido desde antes del temporal y todavía sin arreglar (Acto III); «el pueblo come de la despensa», que es la tesis económica del invierno entero.
+Tono: capítulo coral de crisis y de trabajo, con la nieve como puerta cerrada y no como paisaje: cuatro días sin camino, sin luz y sin teléfono móvil. El deseo sigue contenido y la vergüenza sigue siendo de Hiroshi; el único contacto del capítulo son las manos de Ren dentro del jersey de Hiroshi, contadas y autorizadas por ella, por encima de la ropa y sin beso, y el único escalón es el N1 de Ren. El capítulo no reparte heroísmo: reparte tareas, y la única heroicidad que aparece es la de un pueblo que, cuando se queda sin camino, no pide: trae.
+PRÓXIMO: Capítulo 11 - "Las manos ocupadas" (Ren: la clase del jueves con las manos en algo, el duelo que no se puede decir con la boca, la oferta de Tokio y el invierno que sigue; once escenas, sin elección, escalones N2 y N3 de Ren)
 CORAZONES EN EBULLICIÓN
+

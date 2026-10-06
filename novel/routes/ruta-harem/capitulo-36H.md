@@ -3,20 +3,20 @@
 **Ruta Harem — Opción E (Capítulo 15 de la Ruta / 36 de la Novela — Clímax y Epílogo Definitivo)**
 **Punto de Vista:** Hiroshi Matsuda  
 **Lugar:** Caserón de los Matsuda, Valle de Nagano (Sakura-machi)  
-**Fecha:** Febrero de 2027 – Verano de 2042 (15 años de epílogo generacional)  
+**Fecha:** 15 de marzo de 2027 – Verano de 2042 (15 años de epílogo generacional)  
 **Personajes:** Hiroshi, Yuki Hayashi, Mika Nakamura, Ren Takahashi, Saki Yamamoto; Dr. Tanaka, Sr. Kimura; Hijas: Kira (Yuki), Hana (Mika), Tomo (Ren), Mei (Saki) y sus respectivas compañeras.
 
 ---
 
 ### ESCENA 36H.1: EL DÍA DE LOS CUATRO MILAGROS
 
-La madrugada del 26 de enero de 2027 no fue de caos ni de alarma; fue una danza sagrada de serenidad y calor en medio de la ventisca blanca de Nagano.
+La tarde del 15 de marzo de 2027 no fue de caos ni de alarma; fue una danza sagrada de serenidad y calor en el umbral entre el invierno y la primavera de Nagano.
 
 El ala este del caserón se convirtió en una sala de alumbramiento comunal. El doctor Tanaka, con bata esterilizada y expresión de concentración suprema, dirigía el dispositivo médico con el apoyo de las señoras Sato y Honda. Habían hervido calderos de agua pura del manantial en la cocina y preparado toallas de lino tibio sobre las cuatro cunas de alerce ensambladas en semicírculo.
 
 En los cuatro futones unidos, el parto fue un acontecimiento sincronizado que desafió cualquier precedente clínico:
 
-A las 5:15 AM, Yuki fue la primera en coronar. Entre respiraciones largas y hondas, sostenida por la espalda por Ren mientras Mika y yo apretábamos sus manos, un llanto cristalino y potente rompió el silencio de la nieve.
+A las dos y quince minutos de la tarde (2:15 PM), Yuki fue la primera en coronar. Entre respiraciones largas y hondas, sostenida por la espalda por Ren mientras Mika y yo apretábamos sus manos, un llanto cristalino y potente rompió el silencio de la estancia.
 
 **DR. TANAKA:**  
 *(Elevando a la pequeña recién nacida, limpiándola con suavidad antes de depositarla directamente sobre el pecho desnudo y cálido de Yuki)*  
@@ -24,9 +24,9 @@ Una niña sana, robusta, de tres kilos doscientos. Respira con fuerza de roble.
 
 **YUKI:**  
 *(Acariciando la espalda húmeda de su hija con lágrimas de gratitud suprema, mirándome con ojos resplandecientes)*  
-Es Kira... Hiroshi... Mira sus ojos oscuros, tan atentos... Ya está buscando el calor de la casa.
+Es Kira... Hiroshi... Mira sus ojos azules límpidos, tan atentos... Ya está buscando el calor de la casa.
 
-Apenas doce minutos después, a las 5:27 AM, Mika sintió la contracción expulsiva definitiva. Fiel a su fuego interior, Mika no emitió un solo grito de debilidad: clavó sus uñas en mis hombros, apretó los dientes en una sonrisa de combate gozoso y empujó con todo el poder de sus entrañas.
+Apenas ocho minutos después, a las dos y veintitrés de la tarde (2:23 PM), Mika sintió la contracción expulsiva definitiva. Fiel a su fuego interior, Mika no emitió un solo grito de debilidad: clavó sus uñas en mis hombros, apretó los dientes en una sonrisa de combate gozoso y empujó con todo el poder de sus entrañas.
 
 **MIKA:**  
 *(Jadeando de triunfo mientras la señora Sato recibía a su pequeña)*  
@@ -34,13 +34,13 @@ Apenas doce minutos después, a las 5:27 AM, Mika sintió la contracción expuls
 
 Hana fue colocada de inmediato junto a Kira, y para asombro de los presentes, las dos recién nacidas cesaron de llorar en el instante en que sus bracitos se rozaron en el lecho.
 
-A las 5:41 AM, le correspondió a Ren. Con una elegancia estoica que conmovió al anciano médico, Ren exhaló un suspiro prolongado mientras el cuello de su útero se abría en perfecta elasticidad. Nació Tomo, una niña de piel marfileña y dedos largos y aristocráticos que se aferraron con fuerza férrea al dedo meñique de su madre.
+A las dos y treinta y un minutos de la tarde (2:31 PM), le correspondió a Ren. Con una elegancia estoica que conmovió al anciano médico, Ren exhaló un suspiro prolongado mientras el cuello de su útero se abría en perfecta elasticidad. Nació Tomo, una niña de piel marfileña y dedos largos y aristocráticos que se aferraron con fuerza férrea al dedo meñique de su madre.
 
 **REN:**  
 *(Besando la coronilla de su hija, con la voz rota de emoción)*  
 Tomo... Mi pequeña sabia... Nunca tendrás que pedir permiso para ser libre.
 
-Y finalmente, a las 5:55 AM, cuando las primeras luces doradas del alba se reflejaban en la nieve de los ventanales, Saki cerró el círculo. Su parto fue rápido, suave y colmado de ternura; su cuerpo blando y generoso entregó a Mei sin un solo desgarro.
+Y finalmente, a las dos y treinta y ocho de la tarde (2:38 PM), cuando los rayos dorados del sol acariciaban las celosías de la estancia, Saki cerró el círculo. Su parto fue rápido, suave y colmado de ternura; su cuerpo blando y generoso entregó a Mei sin un solo desgarro.
 
 **SAKI:**  
 *(Riendo y llorando a la vez, abrazando a Mei contra su pecho colmado de calostro)*  
@@ -51,7 +51,7 @@ Cuatro niñas. Cuatro hijas. Cuatro milagros de la misma simiente y de cuatro vi
 El doctor Tanaka se sentó en un banquito de madera, quitándose los guantes con manos temblorosas de asombro y devoción médica.
 
 **DR. TANAKA:**  
-En medio siglo de profesión, jamás veré nada semejante. Cuarenta minutos. Cuatro partos naturales impecables. Las cuatro madres están pletóricas y las cuatro pequeñas tienen un índice de vitalidad insuperable. Hiroshi Matsuda... este valle te debe una generación entera de orgullo.
+En medio siglo de profesión, jamás veré nada semejante. Veintitrés minutos exactos. Cuatro partos naturales impecables. Las cuatro madres están pletóricas y las cuatro pequeñas tienen un índice de vitalidad insuperable. Hiroshi Matsuda... este valle te debe una generación entera de orgullo.
 
 Esa tarde, las cuatro cunas de alerce forjadas por Kimura fueron unidas en el centro de la nursery con sus celosías abiertas: Kira, Hana, Tomo y Mei dormían juntas, meciéndose al compás de la misma respiración familiar.
 
@@ -84,7 +84,7 @@ Para ellas esto no es un trabajo ni una disciplina impuesta. Es el lenguaje con 
 
 ### ESCENA 36H.3: EL VUELO Y EL REGRESO
 
-Diez años después, en el verano de 2039, las cuatro muchachas celebraron su fiesta de mayoría de edad en los jardines del caserón.
+Diecisiete años después, en el verano de 2044, las cuatro muchachas celebraron su fiesta de mayoría de edad en los jardines del caserón.
 
 El restaurante de la Casa Matsuda era ya un monumento nacional y la Escuela Comunal de Nagano graduaba anualmente a decenas de artesanos culinarios que se dispersaban por todo el archipiélago.
 
@@ -112,13 +112,13 @@ Nos enseñaron que una familia no se define por los moldes rígidos del mundo ex
 
 ---
 
-### ESCENA 36H.4: EL EPÍLOGO ETERNO: QUINCE AÑOS DE BENDICIÓN
+### ESCENA 36H.4: EL EPÍLOGO ETERNO: DOS DÉCADAS DE BENDICIÓN
 
-Verano de 2042.
+Otoño de 2045.
 
-Han pasado quince años desde aquella nevada luminosa en que nacieron nuestras hijas, y casi dos décadas desde que crucé por primera vez la cancela de este valle, herido por el desamor tokiota y buscando un rincón donde morir en silencio.
+Han pasado dieciocho años desde aquel luminoso quince de marzo en que nacieron nuestras hijas, y más de dos décadas desde que crucé por primera vez la cancela de este valle, herido por el desamor tokiota y buscando un rincón donde morir en silencio.
 
-El sol de la tarde dora los alerces centenarios. El restaurante está cerrado por descanso semanal, pero el gran patio empedrado rebosa de risas infantiles: los primeros nietos corretean entre los bancales de hortalizas, supervisados por Mei y Hana, mientras las ollas humean en el porche exterior con caldos perfumados de ciruela y alga kombu.
+El sol de la tarde dora los alerces centenarios. El restaurante está cerrado por descanso semanal, pero el gran patio empedrado rebosa de risas y vitalidad: los nuevos aprendices de la academia y las jóvenes generaciones de artesanos culinarios conviven y aprenden entre los bancales de hortalizas, supervisados con cariño por Mei y Hana, mientras las ollas humean en el porche exterior con caldos perfumados de ciruela y alga kombu.
 
 Yuki, Mika, Ren y Saki están sentadas conmigo bajo el alero de cedro. 
 
@@ -140,7 +140,7 @@ El mundo cree que la lealtad es estrecha y que el amor se agota al dividirse. Ja
 *(Acurrucándose contra mi costado, besando mi mejilla con la misma ternura radiante de su juventud)*  
 Tuvimos el coraje de no elegir a una sola, sino de elegirnos todos. Y miren a nuestro alrededor: el manantial jamás se secó.
 
-Miro al jardín. Las risas de nuestras hijas y nietos resuenan en la madera del caserón. El aire huele a leña de roble, arroz recién cocido y bosque de montaña.
+Miro al jardín. Las risas de nuestras hijas y de las nuevas generaciones resuenan en la madera del caserón. El aire huele a leña de roble, arroz recién cocido y bosque de montaña.
 
 No hay deudas con el pasado ni sombras en el porvenir. 
 

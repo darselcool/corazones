@@ -2,11 +2,11 @@
 ## RUTA YUKI — CAPÍTULO 36Y: El Sabor Eterno (Gran Final — Opción D)
 
 ### ESCENA 36Y.1: Doce Años Después en el Caserón de Sakura-machi
-El sol dorado del mediodía iluminaba los amplios ventanales del caserón Matsuda en Sakura-machi. Los doce años transcurridos desde aquella gélida madrugada de diciembre en que nació Kira no habían hecho más que afianzar la belleza, la prosperidad y la paz de nuestro hogar.
+El sol dorado del mediodía iluminaba los amplios ventanales del caserón Matsuda en Sakura-machi. Los doce años transcurridos desde aquel quince de marzo en que nació Kira no habían hecho más que afianzar la belleza, la prosperidad y la paz de nuestro hogar.
 
 El caserón comunal se había transformado en el corazón palpitante de la comarca entera: la Escuela Tradicional de Cocina y Panadería de Montaña Yuki Hayashi-Matsuda era ahora un referente pedagógico indiscutible en todo Japón, atrayendo a jóvenes aprendices de Tokio, Kioto y Sapporo que buscaban aprender los secretos de la fermentación natural de masa madre viva, los cortes milimétricos tradicionales y la cocina con identidad de montaña.
 
-Saki Yamamoto, con más de setenta y tres años y una cabellera blanca como la nieve de los picos recogida en un moño aristocrático impecable, continuaba al frente de la administración del patrimonio comunal y presidía la Fundación de Becas Rurales de Nagano con una lucidez intacta. Ren dirigía la red de aserraderos sostenibles y molinos hidráulicos del valle medio con su energía incombustible, convertida en la maestra forjadora más respetada de la región; mientras que Mika, consagrada como productora de contenidos de gastronomía tradicional y viajes culturales, encabezaba la red de distribución de nuestras hogazas y productos curados en las mejores posadas de montaña del país.
+Saki Yamamoto, a sus treinta y ocho años, con su porte majestuoso de emperatriz serena y su cabello negro azabache recogido en un moño tradicional impecable, continuaba al frente de la administración del patrimonio comunal y presidía la Fundación de Becas Rurales de Nagano con una lucidez intacta. Ren dirigía la red de aserraderos sostenibles y molinos hidráulicos del valle medio con su energía incombustible, convertida en la maestra forjadora más respetada de la región; mientras que Mika, consagrada como productora de contenidos de gastronomía tradicional y viajes culturales, encabezaba la red de distribución de nuestras hogazas y productos curados en las mejores posadas de montaña del país.
 
 Pero en el taller de cocina y junto a los hornos de basalto, el fuego nunca había cambiado de dueños.
 

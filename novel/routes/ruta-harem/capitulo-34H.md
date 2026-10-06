@@ -57,7 +57,7 @@ Antes de entregarnos a la sangre y la simiente, acordamos sellar una promesa por
 «Para el primer latido que germine de mi carne: la serenidad de quien cocina sin miedo, la humildad que cura las manos, y la certeza de que nunca habrá orfandad en esta casa, porque tendrá cuatro madres protegiendo sus pasos».
 
 **MIKA:**  
-*(Tomando el pincel con pulso firme y ojos brillantes, pensando en el dibujo soñado de su hermana Aoi y en su verdad despojada de cámaras)*  
+*(Tomando el pincel con pulso firme y ojos brillantes, pensando en el dibujo soñado de su hermana Akari y en su verdad despojada de cámaras)*  
 «Para mi retoño: el coraje del fuego que forja la lealtad y la franqueza. Que sepa mirar de frente a quien ama, reír sin máscaras y defender la mesa familiar con la cabeza alta».
 
 **REN:**  

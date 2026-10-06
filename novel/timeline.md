@@ -78,36 +78,42 @@ Tramo nuevo `USER-CANON` (Plan Maestro: `plan-maestro-tronco-21.md`). Entre los 
 | Martes y miércoles previos | 20.4–20.7 | Taller: almacén de suministros, despensa | Hiroshi, Mika, Saki (+ Yuki, Ren y Mika al interrumpir) | **Juego de tensión interrumpido** (material de autor, 15/09/2026) tras la crisis del proveedor: contacto por encima de la ropa, reglas dichas en voz alta y corte en el pico de la escena | Las reglas del juego quedan establecidas; nada se consuma; la culpa sigue siendo de Hiroshi |
 | Viernes previo | 20.8–20.11 | Taller | Los cinco, Sra. Tanaka | Nervios; confesiones nocturnas (2 AM); madrugada de preparativos; entrega de las campanas de plata | Ritual de las campanas Yamamoto |
 | **Sábado: día del festival** | 21.1–21.7 | Taller | Los cinco, pueblo, 100+ visitantes, 4 antagonistas | Éxito (50 espera 9:45; 100+ al mediodía) → 1:00 PM llegada simultánea de Watanabe, Emi, Kenji (productor), Matsui → **elección forzada** | Opción E (harem) o A–D (individual); antagonistas se retiran con amenazas |
-| Domingo | 8.1–8.6H | Taller | Los cinco, Sra. Tanaka | Confesión mutua de sentimientos; nace "la familia poliamorosa"; primeras reglas; aceptación de Tanaka | Comienza la Ruta Harem canónica |
+| Domingo | 22H (8.1–8.6H) | Taller | Los cinco, Sra. Tanaka | Confesión mutua de sentimientos; nace "la familia poliamorosa"; primeras reglas; aceptación de Tanaka | Comienza la Ruta Harem canónica |
 
 ## Año 1 — Consolidación de la familia
 
-| Cuando | Cap./Escena | Lugar | Evento | Consecuencias |
+| Cuando | Cap./Escena (Novela / XML) | Lugar | Evento | Consecuencias |
 |---|---|---|---|---|
-| ~1 semana después | 9H.1–9H.6 | Taller | Celos iniciales; límites ("el contrato familiar"); primer beso grupal (3 semanas tras límites); plan de comprar casa | Financiamiento: ahorros de Mika y Ren, venta del apartamento de la madre de Yuki, herencia del padre de Saki |
-| +2 semanas (decisión casa) | 10H.1–10H.2 | Casa tradicional, afueras | Mudanza; descubrimientos de convivencia | Habitaciones que gravitan hacia la de Hiroshi |
-| +3 semanas en la casa | 10H.3–10H.6 | Casa | "Demasiado bueno para ser verdad"; crisis con la Sra. Takahashi; primera noche durmiendo todos juntos | Ren rompe con las expectativas de su madre |
-| ~2 meses de convivencia | 11H.1–11H.7 | Casa | Liberación de la tensión sexual acumulada; intimidad grupal completa | Nueva normalidad íntima de cinco |
-| Post-11H (+2 semanas) | 12H.1–12H.7 | Casa y taller | Ceremonia propia (115 invitados); oficiada por Sra. Tanaka; sin anillos, con cinco colgantes hechos por Ren | Compromiso formal ante la comunidad |
+| ~1 semana después | 23H (9H.1–9H.6) | Taller | Celos iniciales; límites ("el contrato familiar"); primer beso grupal (3 semanas tras límites); plan de comprar casa | Financiamiento: ahorros de Mika y Ren, venta del apartamento de la madre de Yuki, herencia del padre de Saki |
+| +2 semanas (decisión casa) | 24H (10H.1–10H.2) | Casa tradicional, afueras | Mudanza; descubrimientos de convivencia | Habitaciones que gravitan hacia la de Hiroshi |
+| +3 semanas en la casa | 24H (10H.3–10H.6) | Casa | "Demasiado bueno para ser verdad"; crisis con la Sra. Takahashi; primera noche durmiendo todos juntos | Ren rompe con las expectativas de su madre |
+| ~2 meses de convivencia | 25H–26H (11H.1–11H.7) | Casa | Liberación de la tensión sexual acumulada; intimidad grupal completa | Nueva normalidad íntima de cinco |
+| Post-consumación (+2 semanas) | 27H–28H (12H.1–12H.7) | Casa y taller | Ceremonia propia (más de 120 vecinos e invitados); oficiada por Sra. Tanaka; intercambio de alianzas de plata pura y alerce sagrado junto a los emblemas forjados por Ren | Compromiso formal ante la comunidad |
 
 ## Años 2–5 — Imperio y maternidad
 
-| Cuando | Cap./Escena | Evento | Consecuencias |
+| Cuando | Cap./Escena (Novela / XML) | Evento | Consecuencias |
 |---|---|---|---|
-| +6 meses tras ceremonia | 13H.1–13H.3 | Estudiantes internos; oferta de Gourmet Digest (Taniguchi); decisión de ser públicos; entrevista | Fama inminente |
-| +1 mes | 13H.4 | Expansión por fases: piloto de 6 meses, máx. 8 estudiantes | Nace el legado institucional |
-| Publicación | 13H.5 | Artículo de Gourmet Digest; 3 programas de TV; oferta de libro; llamada de Melissa Thompson (Food Network) | Trato: documental de 6 meses + "La Mesa Familiar", control editorial total |
-| +1 año tras el artículo | 13H.7 | Campus de 4 edificios, 24 estudiantes en residencia, lista de espera de 1 año; libro "Cinco Corazones, Una Cocina"; documental "La Familia Nakamura" gana Emmy (17 idiomas); programa en 2ª temporada | El clan se vuelve "un movimiento" |
-| "Tres años" tras la decisión de ruta | 14H.1–14H.7 | Cuatro mujeres embarazadas de 5 meses; flashback de 8 meses atrás: propuesta de Saki, 3 meses de sincronización (Dr. Tanaka), noche de concepción un "miércoles"; nursery con cuatro cunas; nombres elegidos | Embarazos múltiples sincronizados |
-| **15 de marzo** | 15H.1 | Nacimientos: Kira 2:15 PM, Hana 2:23 PM, Tomo 2:31 PM, Mei 2:38 PM | Cuatro hijas |
+| +6 meses tras ceremonia | 29H–30H (13H.1–13H.3) | Estudiantes internos; oferta de Gourmet Digest (Taniguchi); decisión de ser públicos; entrevista | Fama inminente |
+| +1 mes | 31H (13H.4) | Expansión por fases: piloto de 6 meses, máx. 8 estudiantes | Nace el legado institucional |
+| Publicación | 32H (13H.5) | Artículo de Gourmet Digest; 3 programas de TV; oferta de libro; llamada de Melissa Thompson (Food Network) | Trato: documental de 6 meses + "La Mesa Familiar", control editorial total |
+| +1 año tras el artículo | 33H (13H.7) | Campus de 4 edificios, 24 estudiantes en residencia, lista de espera de 1 año; libro "Cinco Corazones, Una Cocina"; documental "La Familia Nakamura" gana Emmy (17 idiomas); programa en 2ª temporada | El clan se vuelve "un movimiento" |
+| "Tres años" tras la decisión de ruta | 34H–35H (14H.1–14H.7) | Cuatro mujeres embarazadas de 5 meses; flashback de 8 meses atrás: propuesta de Saki, 3 meses de sincronización (Dr. Tanaka), noche de concepción un "miércoles"; nursery con cuatro cunas; nombres elegidos | Embarazos múltiples sincronizados |
+| **15 de marzo** | 36H (15H.1) | Nacimientos: Kira 2:15 PM, Hana 2:23 PM, Tomo 2:31 PM, Mei 2:38 PM en el caserón comunal | Cuatro hijas |
 
 ## Años 5–20 — Legado
 
-| Cuando | Cap./Escena | Evento |
+| Cuando | Cap./Escena (Novela / XML) | Evento |
 |---|---|---|
-| +3 meses tras partos | 15H.2 | Caos hermoso; personalidades culinarias emergen |
-| +2 años | 15H.3 | "Academia Culinaria Sakura-machi"; "Centro de Excelencia" (Asociación de Chefs de Japón) |
-| +5 años (≈10 desde llegada) | 15H.4–15H.5 | Pueblo próspero; "Destino Gastronómico del Año" (Festival Gastronómico de Japón, audiencia 3,000) |
-| +15 años tras nacimientos (≈20 desde llegada) | 15H.6–15H.7 | Hijas de 17 años; Kira→París, Hana→comunicación, Tomo→administración/agricultura, Mei→enciclopedia; 13 personas en la escena final; "FIN DE LA RUTA HAREM" |
+| +3 meses tras partos | 36H (15H.2) | Caos hermoso; personalidades culinarias emergen |
+| +2 años | 36H (15H.3) | "Academia Culinaria Sakura-machi"; "Centro de Excelencia" (Asociación de Chefs de Japón) |
+| +5 años (≈10 desde llegada) | 36H (15H.4–15H.5) | Pueblo próspero; "Destino Gastronómico del Año" (Festival Gastronómico de Japón, audiencia 3,000) |
+| +17 años tras nacimientos (≈20 desde llegada) | 36H (15H.6–15H.7) | Hijas de 17–18 años; Kira→París, Hana→comunicación, Tomo→administración/agricultura, Mei→enciclopedia; 13 personas en la escena final; epílogo generacional de dos décadas; "FIN DE LA RUTA HAREM" |
 
-Estadísticas finales del juego (bloque final Cap. 15H): 20 años transcurridos; 4 hijas criadas; 200+ restaurantes inspirados; 50,000+ visitantes anuales; 30+ países; 3 libros culinarios; 2 generaciones de chefs formadas.
+Estadísticas finales del juego (bloque final Cap. 15H / 36H): 20 años transcurridos; 4 hijas criadas; 200+ restaurantes inspirados; 50,000+ visitantes anuales; 30+ países; 3 libros culinarios; 2 generaciones de chefs formadas.
+
+## Cronología paralela de las Rutas Individuales (Caps. 22–36)
+- **Ruta Yuki (22Y–36Y):** Matrimonio en el santuario (30Y), alumbramiento de **Kira Hayashi Matsuda** el 15 de marzo a las 2:15 PM (35Y), epílogo a los 12 años con Kira a cargo del yanagiba familiar (36Y).
+- **Ruta Mika (22M–36M):** Matrimonio comunal (29M–30M), nacimiento de **Hina Matsuda Nakamura** el 15 de marzo a las 2:23 PM (36M), epílogos a los 3 años (cuaderno de Akari) y a los 10 años (panadería tradicional consolidada).
+- **Ruta Ren (22R–36R):** Forja del cuchillo de compromiso y boda (28R), nacimiento de **Tomo Matsuda Takahashi** el 15 de marzo a las 2:31 PM (35R), epílogo generacional a los 12 años con Tomo forjando junto a sus padres (36R).
+- **Ruta Saki (22S–36S):** Boda tradicional con uchikake (30S), nacimiento de **Mei Matsuda Yamamoto** el 15 de marzo a las 2:38 PM (35S), epílogo a los 12 años con la presentación de la *Enciclopedia Gastronómica de Sakura-machi* (36S).
