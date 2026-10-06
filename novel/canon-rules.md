@@ -32,9 +32,8 @@
 - La Opción E del Cap. 21 solo está disponible si la **diferencia de puntos** entre heroínas es ≤2 (Cap. 21, Escena 21.5).
 - Si se elige Ruta Individual (A–D): +5 a la heroína elegida, reset a 0 de las demás (Cap. 21, bloque final).
 - Si se elige Ruta Harem (E): "Sistema de puntos reemplazado por nueva mecánica grupal" (Cap. 21, bloque final).
-- El festivo gastronómico tradicional de Sakura-machi se celebraba **en primavera** (Caps. 1.2, 1.4).
-- Única fecha calendario explícita de toda la obra: **15 de marzo** — nacimiento de las cuatro hijas (Cap. 15H.1).
-- Convención de numeración: capítulos de Ruta Harem llevan sufijo `H` a partir del 9H; las escenas de Ruta Harem dentro del Cap. 8 usan subíndices `8.3H`, `8.5H`, `8.6H` (no existe `8.4H` en el texto — ver `contradictions.md`, Contradiction 005).
+- Única fecha calendario explícita del **XML original**: **15 de marzo** — nacimiento de las cuatro hijas (Cap. 15H.1 / 36H). En el **tronco común ampliado (caps. 1–21)** y la cronología autorizada por el autor se registran fechas calendario explícitas entre febrero y abril de 2026 (semanas 8 a 14, ver `timeline.md`).
+- Convención de numeración: en el esquema XML los capítulos de Ruta Harem llevan sufijo `H` a partir del 9H (con subíndices `8.3H`, `8.5H`, `8.6H` en el Cap. 8); en la novela completa desarrollada corresponden a los capítulos **22H al 36H**.
 
 ## Prohibiciones
 

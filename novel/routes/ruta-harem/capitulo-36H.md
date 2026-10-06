@@ -3,7 +3,7 @@
 **Ruta Harem — Opción E (Capítulo 15 de la Ruta / 36 de la Novela — Clímax y Epílogo Definitivo)**
 **Punto de Vista:** Hiroshi Matsuda  
 **Lugar:** Caserón de los Matsuda, Valle de Nagano (Sakura-machi)  
-**Fecha:** 15 de marzo de 2027 – Verano de 2042 (15 años de epílogo generacional)  
+**Fecha:** 15 de marzo de 2027 – Otoño de 2045 (Epílogo generacional de dos décadas)  
 **Personajes:** Hiroshi, Yuki Hayashi, Mika Nakamura, Ren Takahashi, Saki Yamamoto; Dr. Tanaka, Sr. Kimura; Hijas: Kira (Yuki), Hana (Mika), Tomo (Ren), Mei (Saki) y sus respectivas compañeras.
 
 ---

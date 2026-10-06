@@ -6,7 +6,7 @@
 
 | Rama | Carpeta / archivo | Cobertura | Estado |
 |---|---|---|---|
-| **Ruta Común** (tronco) | `ruta-comun/` | Caps. 1–21 (llegada de Hiroshi → bifurcación del Cap. 21) | **Completa** (31,083 palabras) |
+| **Ruta Común** (tronco) | `ruta-comun/` | Caps. 1–21 (llegada de Hiroshi → bifurcación del Cap. 21) | **Completa** (~319,000 palabras) |
 | **Ruta Harem** (Opción E) | `ruta-harem/` | Caps. 22H–36H (Nuevo Equilibrio → Epílogo Generacional) | **Completa** (15 capítulos) |
 | **Ruta Mika** (Individual C) | `ruta-mika/` | Caps. 22M–36M + opcionales + epílogo | **Completa** (15 capítulos, ~52,700 palabras) |
 | **Ruta Yuki** (Individual D) | `ruta-yuki/` | Caps. 22Y–36Y (El Brote Temprano → El Sabor Eterno) | **Completa** (15 capítulos) |
@@ -21,9 +21,9 @@
 
 ## Reglas aplicadas al guion
 
-- **Fidelidad al canon**: la ruta común reproduce el texto original; no se inventó material narrativo.
+- **Fidelidad al canon**: la ruta común reproduce el texto original ampliado con el material autorizado por el autor.
 - **Voz narrativa**: narración siempre en **primera persona desde la mente del protagonista** (Hiroshi Matsuda); sin vocativos meta-narrativos.
 - **El sistema de puntos termina al entrar en cualquier ruta** (decisión de autor, 14/09/2026).
-- Los diseños de las ramas A/B/D están pendientes de definición de autor (cada una con final único feliz y mínimo 2 escenas explícitas).
+- **Cinco ramas desarrolladas al 100%**: Las rutas A (Saki), B (Ren), C (Mika), D (Yuki) y E (Harem) cuentan cada una con sus 15 capítulos desarrollados íntegramente (22 al 36), finales felices individuales o poliamorosos y escenas explícitas canónicas.
 
 Ver `../canon-rules.md` para las reglas de canon y etiquetas de certeza.

@@ -126,7 +126,7 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–36H) y los de Ruta Mika `M
 
 # RUTA MIKA (Ruta Individual C) — canon de autor
 
-> **Fuente:** definida por el autor (14/09/2026) fuera del texto original. Etiqueta global: `USER-CANON (autor)`. Esta sección es **estructura de ruta**, no narrativa escrita: los capítulos 8M+ son material pendiente de redactar por un LLM continuador usando esta bible. Nada de lo aquí definido modifica los caps. 1–21 ni la Ruta Harem.
+> **Fuente:** definida por el autor (14/09/2026) y desarrollada íntegramente en `routes/ruta-mika/` (15 capítulos, 22M–36M, con escenas explícitas y epílogos). Etiqueta global: `USER-CANON (autor)`. Nada de lo aquí definido modifica los caps. 1–21 ni la Ruta Harem.
 
 ## Punto de entrada
 
@@ -149,25 +149,25 @@ Los capítulos de Ruta Harem llevan sufijo `H` (22H–36H) y los de Ruta Mika `M
 
 ### Fase 2 — La historia de Mika (Caps. 23M–25M)
 - Reconstrucción de la identidad de Mika sin la máscara: "no sé cómo ser yo misma sin tener que actuar feliz" (Cap. 3.2, `CONFIRMED` base) — la ruta la lleva a responder esa pregunta.
-- Relación sana con la cámara: crea contenido de nuevo, esta vez con consentimiento y a nombre propio (inversión directa del abuso de Kenji, Cap. 21.3). Proyecto sugerido por coherencia con su instinto documental (`INFERRED` desde 13H.3/14H.3 de la Ruta Harem): un documental/canal comunitario sobre Sakura-machi y sus ancianos.
-- Su hermana: presencia emocional continua (3.2), pero el misterio de su pérdida **permanece `UNRESOLVED`** — la ruta puede explorar el duelo, nunca inventar la causa.
+- Relación sana con la cámara: crea contenido de nuevo, esta vez con consentimiento y a nombre propio (inversión directa del abuso de Kenji, Cap. 21.3). Proyecto comunitario sobre Sakura-machi y sus ancianos.
+- Su hermana: presencia emocional continua (3.2); confirmada en esta ruta como **Akari Nakamura**, fallecida por enfermedad prolongada en la infancia (canon de autor, epílogo E3, 34H y Contradicción 014).
 - Las otras tres como apoyo: Yuki (técnica y disciplina), Ren (oficio y lealtad), Saki (sabiduría y comunidad) — cada una con arcos propios de cierre personal, sin romance con Hiroshi.
 
 ### Fase 3 — Confesión y decisión (Cap. 26M)
 - Romance Hiroshi–Mika se vuelve explícito y exclusivo.
-- Canon de autor: la escena clave de esta fase es la conversación con Yuki, Ren y Saki — ellas procesan sus propios sentimientos (eco individual de los celos de 9H.1, sin la resolución grupal) y eligen quedarse como familia: "le ofrecen su apoyo mientras desarrolla su historia".
-- Sra. Tanaka y el pueblo como testigos (eco del rol de Tanaka en 8.6H y 12H, en clave individual).
+- Canon de autor: la escena clave de esta fase es la conversación con Yuki, Ren y Saki — ellas procesan sus propios sentimientos y eligen quedarse como familia elegida: "le ofrecen su apoyo mientras desarrolla su historia".
+- Sra. Tanaka y el pueblo como testigos.
 
-### Fase 4 — Final (Caps. 27M–28M)
-- Epílogo: pareja Hiroshi–Mika consolidada en Sakura-machi; las cuatro mujeres siguen vinculadas al taller y entre sí.
+### Fase 4 — Compromiso, boda, legado y epílogo (Caps. 27M–36M)
+- Epílogo: pareja Hiroshi–Mika consolidada en Sakura-machi, boda tradicional (35M), alumbramiento de Hina Matsuda Nakamura el 15 de marzo a las 2:23 PM (36M), y epílogos a los 3 y 10 años.
 - Ver `endings.md` → "El Corazón Auténtico".
 
 ## Reglas de continuidad de esta rama
 
-1. **Excluyente con la Ruta Harem:** los eventos 22H–36H (ceremonia de cinco, casa compartida como pareja múltiple, proyecto bebé, hijas, campus) **no ocurren** en la Ruta Mika. Ambas ramas son finales alternativos desde el mismo Cap. 21.
+1. **Excluyente con la Ruta Harem:** los eventos 22H–36H (ceremonia de cinco, casa compartida como pareja múltiple, proyecto bebé, hijas múltiples, campus poliamoroso) **no ocurren** en la Ruta Mika. Ambas ramas son finales alternativos desde el mismo Cap. 21.
 2. Lo canon compartido e intacto: caps. 1–21 completos, personajes, trasfondos, misterios abiertos y estilo (`style-guide.md`).
-3. Los misterios `UNRESOLVED` de `mysteries.md` siguen siéndolo en esta rama (especialmente el de la hermana de Mika).
-4. Las amenazas de los antagonistas ("esto no ha terminado") pueden pagarse o no en esta rama — decisión abierta registrada en `unresolved-questions.md`.
+3. Los misterios explorados y resueltos en esta rama (como la identidad y pérdida de Akari Nakamura, y la anulación de los contratos de Kenji) quedan consolidados en su narrativa.
+4. Las amenazas de los antagonistas ("esto no ha terminado") quedan neutralizadas y resueltas definitivamente en el desarrollo de la rama.
 
 ---
 
