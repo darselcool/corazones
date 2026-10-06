@@ -36,9 +36,9 @@ NARRACIÓN: *Nadie me avisó de que Sakura-machi cierra en enero.*
 
 *No es una metáfora. Cierra. El autobús pasa dos veces por semana en vez de cuatro. El mercado abre de once a dos. La carretera de la montaña se corta con la primera nevada grande y no se vuelve a abrir hasta que el ayuntamiento encuentra a alguien con una pala y paciencia.*
 
-*Nuestro primer invierno como marido y mujer lo pasamos encerrados con doscientos kilos de arroz, un arcón de verduras encurtidas, una mujer que descubre, en la tercera semana, que no sabe estar quieta, y una niña de diez meses que se pasa la vida entera decidiendo si el mundo le parece bien o no.*
+*Nuestro primer invierno como marido y mujer lo pasamos encerrados con doscientos kilos de arroz, un arcón de verduras encurtidas, y una mujer que descubre, en la tercera semana, que no sabe estar quieta con su vientre de siete meses esperando el deshielo de marzo.*
 
-*Hina cumple su primer invierno durmiendo entre las dos cocinas, la de verdad y la de juguete que le trajo Yuki, y he descubierto que a mí me sirve igual que a Mika: un bebé en una habitación hace que la habitación deje de ser un sitio y empiece a ser una casa.*
+*Hina se hace notar desde dentro con pataditas constantes mientras la nieve cubre el tejado, moviéndose cada vez que el fuego del horno chisporrotea, y he descubierto que a mí me sirve igual que a Mika: la dulce espera en una habitación hace que la habitación deje de ser un sitio y empiece a ser un hogar.*
 
 MIKA: "¿Cuánto llevamos sin ver a nadie?"
 

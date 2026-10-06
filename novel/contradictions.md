@@ -345,5 +345,6 @@ RESOLVED (06/10/2026): Armonización biológica y estacional a 9 meses de gestac
 1. **Concepción (33M.4):** Mediados de junio (noche de compromiso).
 2. **Confirmación médica (34M):** Finales de julio (seis semanas de gestación). La doctora comarcal pronostica el parto para finales del invierno / umbral de la primavera (marzo).
 3. **Boda comunal en el santuario (35M):** Equinoccio de otoño (finales de septiembre), con Mika en su segundo trimestre (~tres meses y medio de gestación), adaptándose el shiromuku a su vientre redondeado incipiente.
-4. **Alumbramiento (36M):** 15 de marzo a las 2:23 PM (exactamente 9 meses / 39 semanas de gestación a término).
+4. **Epílogo E1 (enero de Año 1):** Transcurre 4 meses después de la boda de otoño y 2 meses antes del parto, con Mika en su séptimo mes de embarazo esperando el deshielo de marzo y Hina haciéndose notar desde el vientre.
+5. **Alumbramiento (36M):** 15 de marzo a las 2:23 PM (exactamente 9 meses / 39 semanas de gestación a término).
 
