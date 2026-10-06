@@ -1,10 +1,10 @@
 # RUTA MIKA — Epílogo opcional: "La vida después del sí"
 
-> Contenido **POST-FINAL** (se desbloquea tras ver los créditos de la Ruta Mika). Viñetas de vida cotidiana situadas **después de la boda (28M.1)**, repartidas entre el año 1 y el año 7 del matrimonio. No alteran la trama: amplían el mundo y premian a quien completó la ruta.
+> Contenido **POST-FINAL** (se desbloquea tras ver los créditos de la Ruta Mika). Viñetas de vida cotidiana situadas **después de la boda (35M)** y el desenlace canónico (**36M**), repartidas entre el año 1 y el año 10 del matrimonio. No alteran la trama: amplían el mundo y premian a quien completó la ruta.
 >
-> Reglas: canon intacto (`canon-rules.md`) · formato del original (`style-guide.md`) · primera persona presente (Hiroshi) · **sin puntuación** · coherencia con el "estado del mundo" de 28M.3 · sin contradicciones.
+> Reglas: canon intacto (`canon-rules.md`) · formato del original (`style-guide.md`) · primera persona presente (Hiroshi) · **sin puntuación** · coherencia con el "estado del mundo" del Cap. 36M · sin contradicciones.
 >
-> **Contiene 2 escenas explícitas BONUS** (E13 · E15), claramente marcadas y separadas: son el cuarto y el quinto premio explícito y siguen la regla de escritura del §4 de `../ruta-mika.md` (adultos, consentimiento explícito, sin elipsis, sin degradación).
+> **Contiene 2 escenas explícitas BONUS** (E13 · E15), claramente marcadas y separadas: son el quinto y el sexto premio explícito de la ruta (tras las cuatro de la trama principal en 26M.4, 30M.4, 33M.4 y 35M.4) y siguen la regla de escritura del §4 de `../ruta-mika.md` (adultos, consentimiento explícito, sin elipsis, sin degradación).
 
 ## Índice
 
@@ -36,7 +36,7 @@ NARRACIÓN: *Nadie me avisó de que Sakura-machi cierra en enero.*
 
 *No es una metáfora. Cierra. El autobús pasa dos veces por semana en vez de cuatro. El mercado abre de once a dos. La carretera de la montaña se corta con la primera nevada grande y no se vuelve a abrir hasta que el ayuntamiento encuentra a alguien con una pala y paciencia.*
 
-*Nuestro primer invierno como marido y mujer lo pasamos encerrados con doscientos kilos de arroz, un arcón de verduras encurtidas, una mujer que descubre, en la tercera semana, que no sabe estar quieta, y una niña de cuatro meses que se pasa la vida entera decidiendo si el mundo le parece bien o no.*
+*Nuestro primer invierno como marido y mujer lo pasamos encerrados con doscientos kilos de arroz, un arcón de verduras encurtidas, una mujer que descubre, en la tercera semana, que no sabe estar quieta, y una niña de diez meses que se pasa la vida entera decidiendo si el mundo le parece bien o no.*
 
 *Hina cumple su primer invierno durmiendo entre las dos cocinas, la de verdad y la de juguete que le trajo Yuki, y he descubierto que a mí me sirve igual que a Mika: un bebé en una habitación hace que la habitación deje de ser un sitio y empiece a ser una casa.*
 

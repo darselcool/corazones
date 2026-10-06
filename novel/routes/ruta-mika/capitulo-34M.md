@@ -6,7 +6,7 @@
 
 ## ESCENA 34M.1 - LAS NÁUSEAS DEL ALBA
 
-NARRACIÓN: *Sucedió seis semanas después de la noche del mirador, en los primeros soles templados de junio.*
+NARRACIÓN: *Sucedió seis semanas después de la noche del mirador, en los días luminosos y templados de julio.*
 
 *A las cinco de la mañana, mientras encendía el tiro del horno comunal, escuché unos pasos apresurados en la escalera. La puerta del lavadero se abrió de golpe y un sonido de arcadas secas rompió el silencio de la casa.*
 
@@ -24,7 +24,7 @@ NARRACIÓN: *A las nueve de la mañana, la doctora comarcal de la clínica del v
 
 *Cuando la doctora bajó la escalera y se quitó el estetoscopio frente al kotatsu donde Saki, Ren y Yuki aguardaban inmóviles, sus palabras resonaron como una bendición celestial:*
 
-DOCTORA COMARCAL: "Felicidades, señor Matsuda. La señorita Nakamura tiene seis semanas de gestación. El útero está cerrado, firme y el latido embrionario es fuerte como el pulso de un potro de montaña. Van a ser padres a principios del invierno."
+DOCTORA COMARCAL: "Felicidades, señor Matsuda. La señorita Nakamura tiene seis semanas de gestación. El útero está cerrado, firme y el latido embrionario es fuerte como el pulso de un potro de montaña. Van a ser padres a finales del invierno, en el umbral de la primavera (hacia mediados de marzo)."
 
 NARRACIÓN: *Un grito ahogado de júbilo estalló en el salón. Yuki saltó de su cojín llevándose las manos a las mejillas con lágrimas de felicidad pura; Saki soltó una carcajada señorial y se persignó con la mano en el pecho; y Ren, por primera vez desde que la conocí, dejó caer su cuaderno de cuentas sobre el tatami y se secó una lágrima furtiva tras las gafas con una sonrisa inmensa.*
 

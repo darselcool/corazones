@@ -10,7 +10,7 @@ NARRACIÓN: *La boda se celebró en el equinoccio de otoño, cuando los bosques 
 
 *El santuario sintoísta de la colina estaba engalanado con ramas de cedro sagrado y cuerdas trenzadas de paja de arroz nueva. El anciano sacerdote del templo de Hiei presidió la ceremonia del «san-san-kudo», el intercambio de tres copas de sake ritual que consagraba la unión ante los kami del bosque.*
 
-*Mika lucía deslumbrante. Vestía un shiromuku tradicional de seda blanca inmaculada que Saki y Yuki habían adaptado con primor para acomodar con holgura y elegancia su vientre de casi seis meses de embarazo. Caminaba con paso sereno, con la belleza majestuosa y redonda de la maternidad plena, mirándome con unos ojos que iluminaban el altar.*
+*Mika lucía deslumbrante. Vestía un shiromuku tradicional de seda blanca inmaculada que Saki y Yuki habían adaptado con primor para acomodar con holgura y elegancia su vientre de poco más de tres meses de embarazo, en pleno segundo trimestre. Caminaba con paso sereno, con la belleza majestuosa y redonda de la maternidad incipiente, mirándome con unos ojos que iluminaban el altar.*
 
 ---
 
@@ -44,7 +44,7 @@ HIROSHI: [Arrodillándome frente a ella, apoyando mi oreja contra su vientre tib
 
 NARRACIÓN: *Desvestí a mi esposa con una devoción lenta y reverente. Cada capa de seda que resbalaba sobre el tatami dejaba al descubierto la transformación sublime de su cuerpo:*
 
-*A sus casi seis meses de gestación, Mika irradiaba una voluptuosidad sagrada. Sus senos habían crecido, pesados y firmes, con las venas azuladas marcadas bajo la piel translúcida y pezones grandes y oscurecidos; su vientre era una cúpula redonda, tersa y perfecta donde latía la vida de nuestra hija; sus caderas se habían ensanchado con esa plenitud nutricia de las diosas antiguas.*
+*En su segundo trimestre de gestación, Mika irradiaba una voluptuosidad sagrada. Sus senos habían crecido, pesados y firmes, con las venas azuladas marcadas bajo la piel translúcida y pezones grandes y oscurecidos; su vientre dibujaba una curva redondeada, tersa y hermosa donde latía la vida de nuestra hija; sus caderas se habían ensanchado con esa plenitud nutricia de las diosas antiguas.*
 
 MIKA: [Mirándose el cuerpo con timidez dulce, posando sus manos sobre la curva de su vientre] "¿Te sigo gustando así... tan redonda y pesada?"
 

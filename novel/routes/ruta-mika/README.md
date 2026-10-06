@@ -24,7 +24,7 @@
 | `capitulo-32M.md` | Las Campanas y la Promesa | **ESCRITO** | Forja del anillo de plata y alerce; petición de mano en el mirador de los cerezos |
 | `capitulo-33M.md` | La Semilla | **ESCRITO** | **33M.4 EXPLÍCITA**: Noche de compromiso, ciclo fértil y concepción de Hina (33M.5 retención sagrada) |
 | `capitulo-34M.md` | El Latido en la Masa | **ESCRITO** | Confirmación del embarazo; Yuki, Saki y Ren cuidando a la futura madre |
-| `capitulo-35M.md` | La Boda del Pueblo | **ESCRITO** | Boda sintoísta con Mika grávida (6 meses), 5ª campana; **35M.4 EXPLÍCITA (nupcial)** |
+| `capitulo-35M.md` | La Boda del Pueblo | **ESCRITO** | Boda sintoísta con Mika grávida (segundo trimestre), 5ª campana; **35M.4 EXPLÍCITA (nupcial)** |
 | `capitulo-36M.md` | El Corazón Auténtico | **ESCRITO** | **GRAN FINAL**: Nacimiento de Hina, Hina dibuja el pueblo, 10 años después |
 
 ---
@@ -45,6 +45,6 @@
 | 1 | **26M.4 — La Primera Noche** | 26M | Entrega devota y sanación del trauma de Roppongi en el futón de madera |
 | 2 | **30M.4 — Fuego en el Obrador** | 30M | Pasión desinhibida sobre la mesa de amasar celebrando la victoria judicial |
 | 3 | **33M.4 — La Noche del Compromiso (CONCEPCIÓN DE HINA)** | 33M | Concepción consciente, ventana fértil, eyaculación interna profunda y retención (seguida de 33M.5) |
-| 4 | **35M.4 — Noche de Bodas** | 35M | Amor conyugal pleno con Mika a 6 meses de embarazo; veneración a la maternidad |
+| 4 | **35M.4 — Noche de Bodas** | 35M | Amor conyugal pleno con Mika en su segundo trimestre de gestación; veneración a la maternidad |
 | 5 | **E13 — El Séptimo Aniversario (BONUS)** | Epílogo | Celebración íntima en el aniversario de bodas |
 | 6 | **E15 — El Segundo (BONUS)** | Epílogo | Concepción del segundo hijo, cerrando el ciclo generacional |

@@ -248,8 +248,8 @@ La escalera de intimidad replica la del original (suave → medio → explícito
 | 12 | 31M — estreno del documental, lágrimas y risa | Suave | CG 11 | Catarsis colectiva ("Las Manos de Sakura-machi") |
 | 13 | 32M — propuesta y anillo de plata y alerce | Medio | CG 12 | Petición formal en el mirador de los cerezos |
 | 14 | **33M.4 (esquema preliminar 27M.5) — noche de compromiso / concepción de Hina (EXPLÍCITA)** | **Explícito** | CG 12b | Fecundación consciente y entrega fértil (33M.5 retención) |
-| 15 | 35M — la boda del pueblo (boda comunal con 5ª campana) | Medio | CG 13 | Matrimonio tradicional con Mika grávida de 6 meses |
-| 16 | **35M.4 (esquema preliminar 28M.2) — noche de bodas (EXPLÍCITA)** | **Explícito** | CG 14 | Cierre de la escalera: amor conyugal pleno con Mika a 6 meses de embarazo |
+| 15 | 35M — la boda del pueblo (boda comunal con 5ª campana) | Medio | CG 13 | Matrimonio tradicional con Mika grávida en su segundo trimestre |
+| 16 | **35M.4 (esquema preliminar 28M.2) — noche de bodas (EXPLÍCITA)** | **Explícito** | CG 14 | Cierre de la escalera: amor conyugal pleno con Mika en su segundo trimestre de gestación |
 | 17 | 36M / post-créditos — alumbramiento de Hina y foto familiar | Suave | CG FINAL | Nacimiento el 15 de marzo a las 2:23 PM y epílogos a 3 y 10 años |
 
 **Regla de autor (14/09/2026) — mínimos de premio explícito por final independiente:** todo final de ruta independiente debe incluir **al menos DOS (2) escenas de sexo explícitas** escritas sin elipsis (el premio al jugador; ver regla de escritura abajo). La **Ruta Harem queda como está** (su canon del texto original no se toca). En el guion definitivo de 15 capítulos, esta ruta las cumple con **4 escenas explícitas principales de trama**: **26M.4** (primera noche), **30M.4** (fuego en el obrador), **33M.4** (concepción de Hina) y **35M.4** (noche de bodas), más **2 escenas bonus en el epílogo** (E13 y E15), totalizando **6 escenas explícitas**.

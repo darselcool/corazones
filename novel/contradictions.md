@@ -325,3 +325,25 @@ MEDIUM
 
 Status:
 RESOLVED (06/10/2026): Canon = nacidas el 15 de marzo de 2027. La mayoría de edad y despedida de estudios superiores (13 personas abrazadas) ocurre en el **verano de 2044** (a los 17–18 años). El epílogo generacional de cierre transcurre en **2045** (dos décadas tras la llegada de Hiroshi), donde el bullicio y la vida del caserón provienen de las hijas maduras y de las nuevas generaciones de jóvenes aprendices culinarios que llenan el valle, eliminando la mención ilógica de nietos a los 15 años.
+
+## Contradiction 020 — Cronología gestacional y boda en Ruta Mika
+
+Chapters:
+33M.4, 34M.1–34M.2, 35M.1–35M.4, 36M.1 vs timeline.md, validation-report.md
+
+Conflict:
+En borradores preliminares donde el parto de Mika se situaba en septiembre (tras boda en junio a casi seis meses de gestación), persistían restos en 34M ("primeros soles de junio", "padres a principios del invierno") y 35M ("vientre de casi seis meses de embarazo en el equinoccio de otoño"). Al fijarse el canon universal de alumbramiento el 15 de marzo (36M.1), concebir en junio y situar la boda en el equinoccio de otoño (septiembre) resultaba incompatible con un embarazo de 6 meses o síntomas en junio.
+
+Evidence:
+33M.4, 34M, 35M, 36M.1.
+
+Severity:
+MEDIUM
+
+Status:
+RESOLVED (06/10/2026): Armonización biológica y estacional a 9 meses de gestación:
+1. **Concepción (33M.4):** Mediados de junio (noche de compromiso).
+2. **Confirmación médica (34M):** Finales de julio (seis semanas de gestación). La doctora comarcal pronostica el parto para finales del invierno / umbral de la primavera (marzo).
+3. **Boda comunal en el santuario (35M):** Equinoccio de otoño (finales de septiembre), con Mika en su segundo trimestre (~tres meses y medio de gestación), adaptándose el shiromuku a su vientre redondeado incipiente.
+4. **Alumbramiento (36M):** 15 de marzo a las 2:23 PM (exactamente 9 meses / 39 semanas de gestación a término).
+
