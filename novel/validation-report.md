@@ -606,20 +606,20 @@ Registro histórico y certificación final de verificación de la Story Bible y 
 
 ## 40ª adenda — Pasada editorial de muletillas y typos en caps. 1–5 del tronco común (06/10/2026)
 
-**Motivo.** Pasada editorial de corrección de estilo (no canónica: no altera hechos, diálogos de fondo ni elecciones) solicitada por el autor tras revisión externa de los caps. 1–5. Backup previo: `novel/_backups/ruta-comun-pre-editorial-2026-10-06/` (capitulo-01…05.md).
+**Motivo y alcance.** Pasada editorial de corrección de estilo, poda de muletillas y ajuste consciente de matiz narrativo en la evolución de apertura de Mika respecto al duelo de su hermana (caps. 1–5), solicitada por el autor tras revisión externa. Las elecciones y bifurcaciones estructurales se mantienen intactas. Backup previo: `novel/_backups/ruta-comun-pre-editorial-2026-10-06/` (capitulo-01…05.md).
 
 **Correcciones aplicadas (18 sustituciones en caps. 2, 3, 4 y 5):**
 
-1. **`capitulo-02.md` (2.3):** typo de palabra partida —«¿No está muy madre\nado?»→ «¿No está muy madrado?».
+1. **`capitulo-02.md` (2.3):** corrección de errata partida («¿No está muy madre\nado?» / «¿No está muy madrado?») y clarificación del sentido culinario del caldo: «¿No quedó demasiado salado? Siento que tal vez usé demasiado miso...».
 2. **`capitulo-05.md` (5.2):** «harmoniosamente» → «armoniosamente».
 3. **`capitulo-05.md` (bloque final):** «românticas» (portuguesismo heredado) → «románticas». Es el único carácter no español del tronco que venía del original; se corrige por ser bloque de metadatos, no voz del original.
 4. **Escalera de muletilla «Dos/Tres/Cuatro mujeres extraordinarias» + cierres repetidos (cap. 5, 9 apariciones; cap. 4, 3):** reducida a 2 usos totales (la opción de diálogo de 5.3 y la de diálogo de 5.6, que son voz del jugador y no muletilla del narrador). El resto reescrito con variantes («cuatro mujeres que lo han cambiado todo sin pedir permiso», «comparten esta cocina», etc.).
-5. **Interruptor de escena duplicado:** en 5.4, «suena el timer» → «una farola de la calle se enciende y su luz entra sesgada por la ventana» (el timer queda solo en 5.3, como quiere la regla del corte firmado por el mundo).
+5. **Interruptor de escena y señal sensorial en 5.4:** en lugar del duplicado literal con 5.3 («suena el timer del horno»), se reformula a «el timbre del temporizador repica desde el horno junto a un cálido aroma a mantequilla tostada, y el momento se rompe», preservando tanto la señal acústica como el estímulo aromático que detona y justifica la frase inmediata de Mika («Las galletas están listas») sin calcar la frase de 5.3 ni emplear anglicismos.
 6. **«me doy cuenta» (7 apariciones en caps. 3–5):** 4 reescritas en el cap. 5 («la verdad me cae encima», «sé, con la taza todavía tibia…», etc.).
 7. **«Algo más profundo y más complicado» (5x caps. 3 y 5):** variado en ambas apariciones del cap. 5; las del cap. 3 se dejan (primera instalación del motivo).
-8. **Diálogos duplicados cross-capítulo (3):** el cierre del cap. 3 («la única manera de hacerlo realmente» + «Ella asiente, como si…») reescrito para que el eco del cap. 5 sea único; «Tal vez... tal vez algún día. Cuando esté lista.» de Mika variado en caps. 3 y 4.
+8. **Ajuste de matiz narrativo y eliminación de eco cross-capítulo (diálogo de Mika sobre su hermana):** la respuesta idéntica y evasiva de Mika («Tal vez... tal vez algún día. Cuando esté lista») en caps. 3 y 4 se diferenció conscientemente para reflejar una progresión en su apertura hacia Hiroshi y el grupo. En 3.4 promete hablar cuando esté lista («Cuando esté lista. Te lo prometo»), y en 4.4 expresa el anhelo activo de que sea pronto («Tal vez... cuando esté lista. Que sea pronto»), sembrando su disposición emocional antes de la catarsis de las galletas en 5.4. Asimismo, el cierre reflexivo de 3.5 se reescribió para evitar el calco idéntico con 5.4.
 
-**Verificación post-edición (automatizada):** 0 apariciones restantes de los patrones corregidos; duplicados literales inter-capítulo >40 chars = 0; UTF-8 sin BOM en los 5 archivos; 0 mojibake; recuento de líneas de capítulo intacto (214/358/328/424/918); elecciones, opciones y bifurcación A–E sin tocar; `_source-extract.md` sin modificar (regla 1 de `canon-rules.md`).
+**Verificación post-edición (automatizada):** 0 apariciones restantes de los patrones corregidos; duplicados literales inter-capítulo >40 chars = 0; UTF-8 sin BOM en los 5 archivos; 0 mojibake; recuento de líneas verificado tras unificar el salto de línea huérfano de 2.3 (214 / 358 [ajustado desde 359] / 328 / 424 / 918); elecciones, opciones y bifurcación A–E sin tocar; `_source-extract.md` sin modificar (regla 1 de `canon-rules.md`).
 
 ## Conclusión
 

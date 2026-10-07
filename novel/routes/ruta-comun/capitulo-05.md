@@ -317,7 +317,7 @@ Hay algo en la forma en que me mira que sugiere sentimientos más profundos de l
 MIKA: "Durante tanto tiempo, sentí que había perdido la capacidad de conectar genuinamente con alguien. Pero aquí, contigo, con todos... se siente posible otra vez."
 HIROSHI: "Siempre ha sido posible, Mika. Solo necesitabas el espacio seguro para intentarlo."
 Se acerca más, y por un momento, siento la misma tensión romántica que sentí con Yuki.
-Pero entonces una farola de la calle se enciende y su luz entra sesgada por la ventana, y el momento se rompe.
+Pero entonces el timbre del temporizador repica desde el horno junto a un cálido aroma a mantequilla tostada, y el momento se rompe.
 MIKA: "Las galletas están listas."
 Cuando las sacamos del horno, están perfectas. Doradas, aromáticas, exactamente como las que haría una hermana mayor con amor.
 MIKA: "Perfectas. Ella habría aprobado."
