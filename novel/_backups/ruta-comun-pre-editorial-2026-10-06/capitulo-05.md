@@ -60,7 +60,7 @@ SAKI: "Un poco de terapia no le hace daño a nadie, Ren."
 Se ríe, pero puedo ver que la idea en realidad le atrae.
 HIROSHI: "¿Entonces estamos de acuerdo? ¿Tiempo individual además de nuestro trabajo grupal?"
 TODOS: "Sí."
-Y así, sin saber completamente lo que estoy iniciando, abro la puerta a un territorio del que no voy a poder volver entero.
+Y así, sin saber completamente lo que estoy iniciando, abro la puerta a algo más profundo y más complicado.
 Conexiones personales que van más allá de la amistad.
 Pero por ahora, en este momento perfecto de la mañana, simplemente disfrutamos de la rutina que hemos construido juntos.
 ESCENA 5.2 - CLASES DE TÉCNICA
@@ -118,7 +118,7 @@ Al final de la lección, todas han mejorado no solo en técnica, sino en confian
 YUKI: "Me encanta enseñar. Nunca pensé que me gustaría."
 REN: "Y me encanta aprender sin sentir que voy a ser juzgada duramente por cada error."
 MIKA: "¡Y me encanta que celebremos los pequeños éxitos!"
-SAKI: "Y me encanta ver cómo diferentes enfoques pueden coexistir armoniosamente."
+SAKI: "Y me encanta ver cómo diferentes enfoques pueden coexistir harmoniosamente."
 Es el tipo de educación culinaria que el mundo necesita más.
 Basada en respeto, paciencia y comprensión mutua.
 Mientras limpiamos las estaciones, hay una sensación de logro compartido que va más allá de las técnicas aprendidas.
@@ -237,8 +237,8 @@ Se lava las manos con una calma que no le conozco, se seca los dedos uno a uno y
 Y en ese momento, sé que algo fundamental ha cambiado entre Yuki y yo.
 No solo amistad.
 No solo mentora y estudiante.
-Algo más profundo y más complicado que la amistad.
-Algo que tendré que navegar cuidadosamente para no lastimar a las otras mujeres que comparten esta cocina.
+Algo más profundo y más complicado.
+Algo que tendré que navegar cuidadosamente para no lastimar a las otras mujeres extraordinarias en mi vida.
 ESCENA 5.4 - MOMENTO UNO-A-UNO: MIKA
 NARRACIÓN: Al día siguiente, es Mika quien se queda conmigo después del horario normal. Las otras han salido a sus actividades vespertinas, y ella está sentada en el área de estar del taller, mirando su teléfono con una expresión que no puedo descifrar.
 HIROSHI: "¿Todo bien?"
@@ -317,7 +317,7 @@ Hay algo en la forma en que me mira que sugiere sentimientos más profundos de l
 MIKA: "Durante tanto tiempo, sentí que había perdido la capacidad de conectar genuinamente con alguien. Pero aquí, contigo, con todos... se siente posible otra vez."
 HIROSHI: "Siempre ha sido posible, Mika. Solo necesitabas el espacio seguro para intentarlo."
 Se acerca más, y por un momento, siento la misma tensión romántica que sentí con Yuki.
-Pero entonces una farola de la calle se enciende y su luz entra sesgada por la ventana, y el momento se rompe.
+Pero entonces suena el timer, y el momento se rompe.
 MIKA: "Las galletas están listas."
 Cuando las sacamos del horno, están perfectas. Doradas, aromáticas, exactamente como las que haría una hermana mayor con amor.
 MIKA: "Perfectas. Ella habría aprobado."
@@ -364,8 +364,8 @@ MIKA: "Bájala despacio. Si la quitas de golpe me echo a reír y no quiero reír
 HIROSHI: "No lo voy a contar."
 MIKA: "Ya lo sé. Por eso estás aquí."
 Me mira con una calidez que sugiere más de lo que dice directamente.
-Y mientras limpiamos juntos, la verdad me cae encima: mi situación se está volviendo más complicada.
-Dos mujeres.
+Y mientras limpiamos juntos, me doy cuenta de que mi situación se está volviendo más complicada.
+Dos mujeres extraordinarias.
 Dos conexiones profundas y significativas.
 Y yo, navegando aguas emocionales que no esperaba cuando decidí esconderme en este pequeño pueblo.
 ESCENA 5.5 - MOMENTO UNO-A-UNO: REN
@@ -494,8 +494,8 @@ Se aparta un paso, coge el estropajo y se pone a fregar la placa como si la plac
 
 La forma en que me mira sugiere que esos "cambios" van más allá de la simple amistad.
 Mientras limpiamos nuestro experimento culinario desastroso, hay una nueva intimidad entre nosotros.
-Y la verdad no cambia por mirarla al fregadero: mi situación se ha vuelto aún más complicada.
-Tres mujeres.
+Y me doy cuenta de que mi situación se ha vuelto aún más complicada.
+Tres mujeres extraordinarias.
 Tres conexiones profundas.
 Y yo, completamente sin idea de cómo manejar los sentimientos que están desarrollándose.
 ESCENA 5.6 - MOMENTO UNO-A-UNO: SAKI
@@ -587,7 +587,7 @@ SAKI: "Quiero construir algo hermoso y duradero. Quiero usar mi experiencia para
 HIROSHI: "¿Y eso incluye romance?"
 SAKI: "Incluye la posibilidad de romance. Pero también incluye amistad profunda, respeto mutuo, y propósito compartido."
 Es una respuesta madura que refleja exactamente quien es Saki.
-HIROSHI: "Eres una mujer asombrosa."
+HIROSHI: "Eres una mujer extraordinaria."
 SAKI: "Y tú eres un hombre bueno navegando una situación complicada lo mejor que puedes."
 Terminamos el té y ella se levanta a guardar la tetera en el estante alto. Yo me levanto con ella, porque el bote del té está todavía más arriba y yo llego sin esfuerzo, y me pongo detrás con los brazos levantados. Es la postura más parecida a un abrazo que existe sin serlo.
 No me aparto. Ella tampoco. Se queda de puntillas con las dos manos en el estante y, en lugar de bajar los brazos, los deja arriba, y así nos quedamos una respiración entera, y otra.
@@ -614,10 +614,10 @@ SAKI: "Y una cosa más, Hiroshi, y esta la quiero dicha en voz alta. No es un no
 HIROSHI: "¿Y qué hago con el todavía?"
 SAKI: "Nada. Esperar no es hacer. Mañana cenamos los cinco y en esa mesa lo digo yo. No es una amenaza: es un orden del día."
 Terminamos nuestro té en silencio confortable.
-Y Saki ha hecho, una vez más, exactamente lo que hace mejor: proporcionar sabiduría y perspectiva cuando más las necesito.
-Pero también sé, con la taza todavía tibia en las manos, que mi situación acaba de volverse aún más compleja.
-Cuatro mujeres.
-Cuatro conexiones que ya no puedo seguir contando como si fueran puntos en una balanza.
+Y me doy cuenta de que Saki ha hecho exactamente lo que hace mejor: proporcionar sabiduría y perspectiva cuando más las necesito.
+Pero también me doy cuenta de que mi situación acaba de volverse aún más compleja.
+Cuatro mujeres extraordinarias.
+Cuatro conexiones profundas y significativas.
 Y yo, necesitando desesperadamente encontrar una manera de ser honesto sin destruir la familia que hemos construido juntos.
 ESCENA 5.7 - PLANIFICACIÓN GRUPAL
 NARRACIÓN: Esa noche, todos nos reunimos para nuestra cena grupal habitual. Pero hay algo diferente en el aire. Una tensión sutil que sugiere que las conversaciones individuales han cambiado las dinámicas.
@@ -641,7 +641,7 @@ HIROSHI: "En el sentido de que creo que hay sentimientos románticos desarrollá
 El silencio que sigue es cargado pero no incómodo.
 REN: "¿De parte de quién hacia quién?"
 HIROSHI: "Esa es la parte complicada."
-Miro alrededor de la mesa a estas cuatro mujeres que lo han cambiado todo sin pedir permiso.
+Miro alrededor de la mesa a estas cuatro mujeres extraordinarias.
 
 *Y las veo a las cuatro con la luz baja de la cena, y por primera vez me permito verlas de verdad.*
 *Yuki, con la nuca al aire y los hombros hacia dentro, como si aún no supiera ocupar su sitio. Mika, que se ha sentado con las piernas cruzadas y mueve el pie sin parar y no se da cuenta de que la coleta le cae por dentro del escote. Ren, que se ha quitado la chaqueta y tiene los antebrazos apoyados en la mesa, redondos y firmes, con una mancha de harina en la mandíbula que no se ha limpiado. Saki, que nos mira a todos con el moño medio caído y una media sonrisa de quien ya ha hecho las cuentas.*
@@ -688,7 +688,7 @@ Los sentimientos están en la mesa.
 Los límites están establecidos.
 Y todos estamos comprometidos a proteger lo que hemos construido juntos.
 Pero también sé que las decisiones difíciles se acercan.
-Y que mi corazón, que pensé que estaba protegido, ahora está completamente vulnerable a cuatro mujeres que han cambiado mi vida para siempre.
+Y que mi corazón, que pensé que estaba protegido, ahora está completamente vulnerable a cuatro mujeres extraordinarias que han cambiado mi vida para siempre.
 
 *Apago las luces una a una y el taller queda en silencio, y yo me quedo de pie en medio, con el olor de la cena todavía en el aire y el eco de sus pasos alejándose por la calle.*
 *Cuatro mujeres. Y no quiero renunciar a ninguna.*
@@ -912,7 +912,7 @@ MIKA: Desarrollo profundo de su lucha con autenticidad, memoria de su hermana, e
 REN: Crecimiento mayor en autocompasión, cuestionamiento de valores competitivos
 SAKI: Establecida como mentora sabia, conexión madura y estable
 HIROSHI: Crecimiento como facilitador emocional, honestidad sobre sentimientos complejos
-Dinámicas grupales: Establecimiento maduro de expectativas románticas sin drama destructivo
+Dinámicas grupales: Establecimiento maduro de expectativas românticas sin drama destructivo
 Tono: Equilibrio perfecto entre intimidad romántica y respeto mutuo
 PRÓXIMO: Capítulo 6 - "La mesa de las cuatro" (Comienza el invierno: los meses de la cocina. Primera mesa de los cinco y primer encuentro a solas del tramo nuevo — Yuki. La elección forzada sigue fijada en el Capítulo 21)
 CORAZONES EN EBULLICIÓN

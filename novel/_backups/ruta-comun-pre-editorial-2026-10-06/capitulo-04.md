@@ -292,7 +292,7 @@ SAKI: "¿Fingiendo para quién?"
 MIKA: "Para mi audiencia. Para mi familia. Para mi hermana antes de que..." Se detiene.
 Es la primera vez que menciona directamente a su hermana.
 YUKI: "¿Quieres hablar de ella?"
-MIKA: "Tal vez... cuando esté lista. Que sea pronto."
+MIKA: "Tal vez... tal vez algún día. Cuando esté lista."
 REN: "No hay presión. Todos tenemos cosas de las que no estamos listos para hablar."
 Es un momento de gracia sorprendente viniendo de Ren.
 HIROSHI: "¿Saben qué me gusta de esto?"
@@ -315,7 +315,7 @@ MIKA: "Define 'demasiado emocional'."
 REN: "Llorar está bien. Abrazos grupales obligatorios no."
 Todos nos reímos.
 HIROSHI: "Estoy de acuerdo. Empezaré."
-Miro alrededor de la mesa a estas cuatro mujeres que han aparecido en mi vida.
+Miro alrededor de la mesa a estas cuatro mujeres extraordinarias que han aparecido en mi vida.
 
 *Cuatro mujeres alrededor de mi mesa, con el sol poniéndose por la ventana del taller, y a mí me cuesta horriblemente concentrarme en el juego de la gratitud.*
 *Mika se ha sentado encima de una pierna y la coleta le cuelga sobre el plato. Se ha dejado las zapatillas junto a la puerta, con el resto de los zapatos, y desde aquí solo veo la punta de los calcetines y los cordones dibujados. Esas zapatillas las pinta ella: no lo ha dicho, pero hay rotulador en sus manos cuando llega y los dibujos cambian cada pocos días. Y son siempre casitas —tejado a dos aguas, una ventana, un árbol al lado—. Igual estoy inventándome el motivo; solo digo lo que veo. Los pies son la única parte de Mika que no se coloca sola delante de una cámara: son los que se sientan encima de la otra pierna cuando está cansada, los que se enfrían porque se quita los zapatos antes que nadie. Y no es deseo lo que me dan. Es algo con peor sitio todavía en mi lista de prioridades: me dan ganas de que se quede. Ren ha dejado la chaqueta en el respaldo y apoya los antebrazos desnudos en la madera. Yuki come con la espalda recta y la nuca al aire. Y Saki nos mira a todas con media sonrisa y el moño algo torcido, como si supiera exactamente lo que estoy pensando y estuviera esperando a que lo diga en voz alta.*
@@ -353,7 +353,7 @@ HIROSHI: "Comunidad real. Personas que entienden que sanar es un proceso, no un 
 YUKI: "Y que está bien tomar el tiempo que necesites."
 REN: "Sin juicio."
 SAKI: "Sin presión para ser alguien que no eres."
-Estas mujeres... cada una única a su manera.
+Estas mujeres... cada una es extraordinaria a su manera.
 Yuki con su búsqueda silenciosa de perfección equilibrada con amor.
 Mika con su determinación de encontrar alegría auténtica después de una pérdida profunda.
 Ren con su lucha por equilibrar excelencia con humanidad.
@@ -387,7 +387,7 @@ SAKI: "Sanar juntas. Crecer juntas. Y tal vez, si tenemos suerte, encontrar feli
 *Ren, a su lado, se ha quitado el uniforme y lo lleva atado a la cintura. Debajo tiene una camiseta que le marca la espalda y los omóplatos cada vez que se inclina sobre la mesa.*
 *Dos mujeres que ya no son visitas. Dos mujeres que han decidido quedarse.*
 *Y yo, que llevo tres semanas sin ser consciente de mi propio cuerpo, de pronto lo soy otra vez. Todo el rato.*
-Miro alrededor del círculo una vez más. Estas mujeres que han aparecido en mi vida cuando más las necesitaba.
+Miro alrededor del círculo una vez más. Estas mujeres extraordinarias que han aparecido en mi vida cuando más las necesitaba.
 
 *Y las miro a las cuatro y no puedo evitar hacer el inventario.*
 *Yuki, sentada recta, las manos en el regazo, el cuello largo y la clavícula marcada donde la camiseta se le ha movido. Mika, medio derrumbada sobre la mesa, el pelo suelto cayéndole por la cara y el hombro al aire. Ren, con los brazos cruzados, la mandíbula cuadrada y el uniforme desabrochado en el cuello, la piel brillante de un día entero de trabajo, ese cuerpo atlético que no parece de una mujer que pasa el día sobre una tabla de cortar. Saki, la espalda apoyada y las piernas estiradas bajo la mesa, ese cuerpo maduro que sabe sentarse y sabe esperar.*

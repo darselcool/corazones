@@ -166,7 +166,8 @@ Asiente agradecida.
 Tomo una cuchara y pruebo el caldo. Está perfecto - bien equilibrado, con la profundidad exacta de sabor que debe tener.
 HIROSHI: "Está excelente."
 Pero cuando Yuki lo prueba, su rostro se contrae con preocupación.
-YUKI: "¿No está muy madrado? Siento que tal vez usé demasiado miso..."
+YUKI: "¿No está muy madre
+ado? Siento que tal vez usé demasiado miso..."
 HIROSHI: "¿Puedo probarlo otra vez?"
 Lo pruebo de nuevo. Sigue estando perfecto.
 HIROSHI: "Yuki, está perfectamente sazonado."

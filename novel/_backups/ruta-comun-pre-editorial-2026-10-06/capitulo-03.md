@@ -243,7 +243,7 @@ Se limpia los ojos rápidamente.
 MIKA: "Sí, mi hermana. Era la persona más sabia que conocí. Le habría encantado este lugar."
 El tiempo pasado no pasa desapercibido.
 HIROSHI: "¿Le gustaría hablar de ella?"
-MIKA: "Cuando esté lista. Te lo prometo."
+MIKA: "Tal vez... tal vez algún día. Cuando esté lista."
 Asiente, comprendiendo que hay historia dolorosa allí que aún no está preparada para compartir.
 MIKA: "Pero por ahora, me gusta estar aquí con ustedes. Me gusta sentir que pertenezco a algún lugar otra vez."
 Y en ese momento, su máscara cae completamente. Lo que veo es vulnerabilidad pura, soledad profunda, y un deseo desesperado de conexión genuina.
@@ -303,8 +303,8 @@ Mientras cerramos el taller por la noche, Mika se queda un momento más.
 MIKA: "Hiroshi?"
 HIROSHI: "¿Sí?"
 MIKA: "¿Crees que es posible construir una nueva vida sobre las cenizas de la anterior?"
-HIROSHI: "Creo que sobre las cenizas solo se puede construir de verdad. Lo demás es decoración."
-Ella asiente despacio, guardándose la frase como quien guarda una receta.
+HIROSHI: "Creo que es la única manera de hacerlo realmente."
+Ella asiente, como si esa respuesta fuera exactamente lo que necesitaba escuchar.
 MIKA: "Buenas noches. Y gracias. Por todo."
 Mientras la veo caminar hacia el mercado bajo las estrellas, siento que Sakura-machi está empezando a transformarse de un refugio en algo más.
 

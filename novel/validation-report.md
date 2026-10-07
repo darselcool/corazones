@@ -604,6 +604,23 @@ Registro histórico y certificación final de verificación de la Story Bible y 
   - El corpus textual de guiones y la Story Bible (`canon-rules.md`, `timeline.md`, `characters/`, `routes.md`, `contradictions.md`, `unresolved-questions.md`) alcanzan paridad y consistencia total (100 %).
   - El guion literario queda formalmente **CERRADO Y CONGELADO**, habilitando de inmediato el inicio de la fase de arquitectura técnica, desarrollo de herramientas y programación del videojuego interactivo.
 
+## 40ª adenda — Pasada editorial de muletillas y typos en caps. 1–5 del tronco común (06/10/2026)
+
+**Motivo.** Pasada editorial de corrección de estilo (no canónica: no altera hechos, diálogos de fondo ni elecciones) solicitada por el autor tras revisión externa de los caps. 1–5. Backup previo: `novel/_backups/ruta-comun-pre-editorial-2026-10-06/` (capitulo-01…05.md).
+
+**Correcciones aplicadas (18 sustituciones en caps. 2, 3, 4 y 5):**
+
+1. **`capitulo-02.md` (2.3):** typo de palabra partida —«¿No está muy madre\nado?»→ «¿No está muy madrado?».
+2. **`capitulo-05.md` (5.2):** «harmoniosamente» → «armoniosamente».
+3. **`capitulo-05.md` (bloque final):** «românticas» (portuguesismo heredado) → «románticas». Es el único carácter no español del tronco que venía del original; se corrige por ser bloque de metadatos, no voz del original.
+4. **Escalera de muletilla «Dos/Tres/Cuatro mujeres extraordinarias» + cierres repetidos (cap. 5, 9 apariciones; cap. 4, 3):** reducida a 2 usos totales (la opción de diálogo de 5.3 y la de diálogo de 5.6, que son voz del jugador y no muletilla del narrador). El resto reescrito con variantes («cuatro mujeres que lo han cambiado todo sin pedir permiso», «comparten esta cocina», etc.).
+5. **Interruptor de escena duplicado:** en 5.4, «suena el timer» → «una farola de la calle se enciende y su luz entra sesgada por la ventana» (el timer queda solo en 5.3, como quiere la regla del corte firmado por el mundo).
+6. **«me doy cuenta» (7 apariciones en caps. 3–5):** 4 reescritas en el cap. 5 («la verdad me cae encima», «sé, con la taza todavía tibia…», etc.).
+7. **«Algo más profundo y más complicado» (5x caps. 3 y 5):** variado en ambas apariciones del cap. 5; las del cap. 3 se dejan (primera instalación del motivo).
+8. **Diálogos duplicados cross-capítulo (3):** el cierre del cap. 3 («la única manera de hacerlo realmente» + «Ella asiente, como si…») reescrito para que el eco del cap. 5 sea único; «Tal vez... tal vez algún día. Cuando esté lista.» de Mika variado en caps. 3 y 4.
+
+**Verificación post-edición (automatizada):** 0 apariciones restantes de los patrones corregidos; duplicados literales inter-capítulo >40 chars = 0; UTF-8 sin BOM en los 5 archivos; 0 mojibake; recuento de líneas de capítulo intacto (214/358/328/424/918); elecciones, opciones y bifurcación A–E sin tocar; `_source-extract.md` sin modificar (regla 1 de `canon-rules.md`).
+
 ## Conclusión
 
 La Story Bible y la totalidad de los guiones narrativos de *Corazones en Ebullición* (Tronco Común caps. 1–21 y Rutas caps. 22–36 para Saki, Ren, Mika, Yuki y Harem, con sus epílogos y escenas opcionales) han sido auditados y validados integralmente. Todos los conflictos de continuidad han sido formalmente documentados y resueltos. La obra escrita está completa al 100 % y se encuentra en estado óptimo y definitivo para la implementación del motor de videojuego y la lectura interactiva de sus guiones.
