@@ -1,11 +1,12 @@
 # RUTA COMÚN — Guion desarrollado (caps. 1–21)
 
-> Guion del **tronco común** de *Corazones en Ebullición*: desde la llegada de Hiroshi a Sakura-machi hasta la **bifurcación de rutas** del Capítulo 21. Es el material previo a cualquier rama (Ruta Harem, Ruta Mika y futuras rutas A/B/D).
+> Guion del **tronco común** de *Corazones en Ebullición*: desde la llegada de Hiroshi a Sakura-machi hasta la **bifurcación de rutas** del Capítulo 21. Es el material previo a cualquiera de las cinco ramas desarrolladas (Ruta Saki [A], Ruta Ren [B], Ruta Mika [C], Ruta Yuki [D] y Ruta Harem [E], todas 100 % escritas y vigentes).
 
 ## Naturaleza de estos archivos
 
-- **Base canónica del original**, reproducida de forma fiel desde `_source-extract.md` (que a su vez refleja `CORAZONES EN EBULLICIÓN RUTA HAREM CHECK 1 (1).xml`). **No se alteró ni se reescribió el texto original**: hechos, diálogos y estructura de escenas son los del original.
-- Sobre esa base se ha añadido **material nuevo de autor** (`USER-CANON`): bloques de monólogo interior de Hiroshi (en cursiva, `*…*`) que no sustituyen ni modifican el original, solo lo amplían (ver más abajo). Desde el 15/09/2026 se admite además **narración de escena añadida** en primera persona (acciones de las heroínas descritas por Hiroshi), también `USER-CANON`, sin alterar hechos, diálogos ni elecciones.
+- **Texto canónico definitivo para el juego:** La fuente oficial, aprobada y congelada para la programación e implementación del videojuego son los archivos de guion vigentes en esta carpeta (`capitulo-01.md` … `capitulo-21.md`) y en las cinco carpetas de ruta (`ruta-saki/`, `ruta-ren/`, `ruta-mika/`, `ruta-yuki/` y `ruta-harem/`).
+- **Relación con el texto original (`_source-extract.md`):** La estructura de escenas, elecciones y la base dramática derivan de la fuente original (`CORAZONES EN EBULLICIÓN RUTA HAREM CHECK 1 (1).xml`). No obstante, los archivos actuales incorporan formalmente las correcciones editoriales y los ajustes conscientes de matiz narrativo autorizados (registrados en la 40ª adenda de `validation-report.md`, incluyendo la evolución de los diálogos de Mika en caps. 3.4 y 4.4 sobre su hermana, la corrección de erratas en cap. 2 y los refinamientos sensoriales en cap. 5). Ante cualquier discrepancia entre `_source-extract.md` y los archivos `.md` de `routes/`, la versión definitiva a implementar en el motor es **siempre la de los capítulos actuales**.
+- Sobre esa base se consolida el **material nuevo de autor** (`USER-CANON`): bloques de monólogo interior de Hiroshi (en cursiva, `*…*`) y narración de escena en primera persona, manteniendo la perspectiva íntima del protagonista.
 - Formato de guion de visual novel: prosa en primera persona del protagonista (Hiroshi Matsuda) + líneas `PERSONAJE: "diálogo"` + bloques `ELECCIÓN` con sus consecuencias de puntos.
 - Narración **siempre en primera persona, desde la mente de Hiroshi**. No hay narración dirigida al exterior ni intervenciones meta.
 
@@ -159,16 +160,26 @@
 - **Continuidad del cap. 15 (registrada en esta pasada):** la **semana 10** es **lunes 9 → domingo 15 de marzo**, con la **junta del valle el jueves 12** (punto cuatro del orden del día), la **lista de los catorce el sábado 14**, la **fecha del viernes 20** como vencimiento de la hoja de la asociación y el **sábado de abril** como fecha de la clase de las catorce en casa de la señora Ogawa. **Todo lo que pasa al cap. 16:** el **sobre con membrete** de la cooperativa sigue **cerrado** en el centro de la mesa larga (con la hoja de colaboración doblada al lado) y no se abre hasta que haya respuesta de dentro de la casa; la **cámara de Mika** sigue colgada del gancho con el trapo puesto; los **dos sacos del molino** están en el almacén con el nombre de la señora escrito con tiza y **el precio todavía sin escribir**; la **norma de los nombres** acaba firmada por la asociación del valle y se va a leer en voz alta a las catorce antes de abril; la **foto de abril** sigue pendiente, con permiso pedido uno por uno; el **carné de manipuladora categoría 2** de Ren queda en la carpeta roja; el **hijo de la señora del molino** entra por la puerta como uno más los jueves; y la **señora del abrigo bueno (Kodama Toshiko, 59)** queda como la única de las catorce a la que no hay que mirar dándole a entender lo que va a elegir.
 - **Canon nuevo pendiente de fichas (para la pasada de sincronización):** la **señora Ogawa** (ochenta y un años confirmados en el texto, la última casa del pueblo —la del tejado naranja—, el horno de ladrillo de tres metros, la romana de gancho y la cocina en la que «en el ochenta cenaron diecinueve»); la **señora del molino** (viuda desde hace dos años, alumna de la clase de los jueves, dueña del molino parado y de la libreta de su marido) y su **hijo** (treinta y cuatro años, fábrica de envases en la ciudad, un fin de semana de cada tres, molinero de un día con el manual del padre sobre la piedra); la **señora Yamada** (la junta del valle, la letra mala y a lápiz, «yo no voy a llevar desprecio a la junta»); la **del abrigo bueno** (Kodama Toshiko, cincuenta y nueve, la que pregunta si esto es una academia o una casa); la **nieta Mai** (diez años, la balanza) y su abuela **Ueda Chiyo** (ochenta y uno); la **señora Yoshida Harumi** (treinta y siete, en espera, con el curso de los martes como amenaza dicha en voz alta); y la **cuenta de la cuarentena**: la casa cobra **300 yens** la barra entera los jueves y **nada** por las clases, el curso del centro social cuesta **47 euros** por cuatro martes.
 
-- **Pendiente relacionado:** pasada de paridad de 20.6/20.7 respecto a 20.4/20.5 (≈ 1,8× más cortas) y las decisiones de autor abiertas (Modo A/B, N6 «La entrega», gramática sensual en rutas individuales, «su garganta» de 3.1), más la **desviación de extensión** ya declarada en los caps. 6–13 (decisión de autor entre aceptar los capítulos largos o podar) y la **datación de la estancia en el pueblo** (los caps. 8–12 dicen «tres meses» y el 13 dice «cuatro meses»; ver 32ª adenda).
+- **Estado definitivo de decisiones de autor y continuidad (Cerrado para programación):**
+  1. **Modo A / Modo B (presión de antagonistas):** `RESUELTO Y ACEPTADO`. El guion vigente (caps. 18–21) consolida la combinación canónica: la sospecha comunal/administrativa en el pueblo y valle (inspecciones, ayuntamiento, listas) que culmina en el asedio simultáneo de los cuatro antagonistas durante el festival (Elección 10).
+  2. **Escalón N6 «La entrega»:** `RESUELTO`. El escalón N6 de entrega sexual plena sin elipsis se reservó a las rutas individuales y la ruta Harem (caps. 25S, 25R, 26M, 26Y, 28H+); en el tronco común el techo se mantuvo estrictamente en N5 (capítulo 19) bajo la segunda regla del invierno.
+  3. **Extensión de capítulos 6–19 (desviación de longitud):** `ACEPTADO`. Se aprobó la versión extendida de los capítulos (~319.000 palabras en el tronco común); se descarta cualquier poda para preservar la ambientación, los oficios y el desarrollo coral.
+  4. **Datación de la estancia en el pueblo:** `RESUELTO Y ARMONIZADO`. La mención de «tres meses» en caps. 8–12 frente a «cuatro meses» en el 13 y «cinco meses» en 17–19 refleja la percepción cronológica natural de Hiroshi a medida que avanza el calendario desde el otoño de 2025 hasta la primavera de 2026 (semanas 1 a 14 en `timeline.md`).
+  5. **Paridad de escenas 20.6 / 20.7:** `RESUELTO Y ACEPTADO` con el cierre formal del Acto III y el clímax del festival en el cap. 21.
+  6. **«Su garganta» (3.1) y gramática sensual:** `RESUELTO`, integrado en las fichas de personajes y en las escenas íntimas canónicas de las rutas individuales.
 
 ## Punto de bifurcación (final del Cap. 21)
 
 Escena 21.5 — *El Momento de la Elección Forzada*:
 
-- **A** → Saki y Watanabe · **B** → Ren y Emi · **C** → Mika y las cámaras · **D** → Yuki y Matsui · **E** → declaración a las cuatro (**solo si la diferencia de puntos ≤ 2**).
-- Si A–D: `+5` a la heroína elegida, reset a `0` de las demás (**el sistema de puntos termina aquí**).
-- Si E: pasa a la Ruta Harem (caps. `9H`+).
-- Destino de cada rama: `../routes.md` · Ruta Mika: `../ruta-mika/README.md`.
+- **A** → Saki y Watanabe (`routes/ruta-saki/capitulo-22S.md` a `36S`)
+- **B** → Ren y Emi (`routes/ruta-ren/capitulo-22R.md` a `36R`)
+- **C** → Mika y las cámaras (`routes/ruta-mika/capitulo-22M.md` a `36M`)
+- **D** → Yuki y Matsui (`routes/ruta-yuki/capitulo-22Y.md` a `36Y`)
+- **E** → Declaración a las cuatro (**desbloqueo condicional: $\max(P) - \min(P) \le 2$ entre las cuatro heroínas en la Elección 10**) → `routes/ruta-harem/capitulo-22H.md` a `36H`.
+- Si A–D: `+5` a la heroína elegida, reset a `0` de las demás (**el sistema de puntos acumulativos del tronco cesa aquí**).
+- Si E: pasa a la Ruta Harem (caps. `22H–36H` / orig. `8H–15H`).
+- Destino de cada rama: ver `../routes.md` y los índices individuales en `../ruta-saki/`, `../ruta-ren/`, `../ruta-mika/`, `../ruta-yuki/` y `../ruta-harem/`.
 
 ## Aviso de continuidad
 

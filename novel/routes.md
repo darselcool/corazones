@@ -13,14 +13,22 @@
 ## Bifurcación principal (Cap. 21.5–21.6)
 
 - **LA ELECCIÓN CRÍTICA** del festival (1:00 PM):
-  - OPCIÓN A: ayudar a Saki (Watanabe/venta del pueblo).
-  - OPCIÓN B: ayudar a Ren (Emi/culpa por el abuelo).
-  - OPCIÓN C: ayudar a Mika (Kenji/cámaras y contratos).
-  - OPCIÓN D: ayudar a Yuki (Matsui/"verdades" sobre su madre).
-  - **OPCIÓN E [solo disponible si DIFERENCIA DE PUNTOS ≤2]**: no elegir; declaración pública de amor por las cuatro y protección de la familia → **[ACTIVA RUTA HAREM - CAPÍTULOS 22H–36H]**.
-- **Opciones A–D (Rutas Individuales):** "la escena continúa con la heroína elegida recibiendo apoyo directo, mientras las otras enfrentan sus crisis más independientemente". **Las escenas de estas rutas NO están desarrolladas en este documento.** Bloque final Cap. 21: "+5 a heroína elegida, reset otras a 0". El Cap. 22 individual sería "Nuevo Equilibrio".
-- **Opción E (Ruta Harem):** "Sistema de puntos reemplazado por nueva mecánica grupal" (bloque final Cap. 21).
-- Meta del documento (bloque final Cap. 21): "El momento más crucial de toda la visual novel ha terminado."
+  - OPCIÓN A: ayudar a Saki (Watanabe/venta del pueblo) → **[ACTIVA RUTA SAKI: 22S–36S]**.
+  - OPCIÓN B: ayudar a Ren (Emi/culpa por el abuelo) → **[ACTIVA RUTA REN: 22R–36R]**.
+  - OPCIÓN C: ayudar a Mika (Kenji/cámaras y contratos) → **[ACTIVA RUTA MIKA: 22M–36M]**.
+  - OPCIÓN D: ayudar a Yuki (Matsui/"verdades" sobre su madre) → **[ACTIVA RUTA YUKI: 22Y–36Y]**.
+  - **OPCIÓN E [Desbloqueo condicional: $\max(P) - \min(P) \le 2$]**: no elegir; declaración pública de amor por las cuatro y protección de la familia → **[ACTIVA RUTA HAREM: 22H–36H]**.
+
+### Especificación técnica para programación (Desbloqueo de Opción E)
+- **Momento exacto de evaluación:** Se evalúa en tiempo de ejecución al alcanzar la `ELECCIÓN 10` del Capítulo 21 (Escena 21.5), justo antes de renderizar el menú interactivo de opciones.
+- **Valores evaluados:** Los cuatro acumuladores enteros de afinidad de las heroínas acumulados en el tronco común (Caps. 1 al 20): $P_{\text{Yuki}}, P_{\text{Mika}}, P_{\text{Ren}}, P_{\text{Saki}}$.
+- **Fórmula canónica única:**
+  $$\Delta = \max(P_{\text{Yuki}}, P_{\text{Mika}}, P_{\text{Ren}}, P_{\text{Saki}}) - \min(P_{\text{Yuki}}, P_{\text{Mika}}, P_{\text{Ren}}, P_{\text{Saki}})$$
+  $$\text{Desbloqueo Opción E} \iff \Delta \le 2$$
+- **Comportamiento en UI / Motor:** Si $\Delta \le 2$, la Opción E se presenta desbloqueada y seleccionable. Si $\Delta > 2$, la Opción E permanece bloqueada/deshabilitada (o invisible), forzando una elección monógama (A, B, C o D).
+- **Transición y gestión de estado tras la elección:**
+  - Si se elige **Ruta Individual (A, B, C o D)**: Se suma `+5` a la heroína escogida y se resetean las otras a `0`. Se carga el archivo correspondiente (`22S`, `22R`, `22M` o `22Y`) y el sistema de puntos acumulativos del tronco cesa, dando paso a las mecánicas específicas de la ruta.
+  - Si se elige **Ruta Harem (E)**: Se carga `22H`. El sistema de puntos numérico se sustituye por la mecánica de armonía grupal y flags de eventos compartidos.
 
 ## Inventario de elecciones (caps. 1–21)
 

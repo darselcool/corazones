@@ -29,9 +29,9 @@
 ## Reglas de continuidad establecidas por el propio texto
 
 - Sistema de puntos por heroína (Yuki, Mika, Ren, Saki) sumado en cada `ELECCIÓN` (ver `routes.md`).
-- La Opción E del Cap. 21 solo está disponible si la **diferencia de puntos** entre heroínas es ≤2 (Cap. 21, Escena 21.5).
-- Si se elige Ruta Individual (A–D): +5 a la heroína elegida, reset a 0 de las demás (Cap. 21, bloque final).
-- Si se elige Ruta Harem (E): "Sistema de puntos reemplazado por nueva mecánica grupal" (Cap. 21, bloque final).
+- La Opción E del Cap. 21 (Escena 21.5, Elección 10) solo se desbloquea si la diferencia entre el puntaje mayor y el menor de las cuatro heroínas es menor o igual a dos: $\max(P_{\text{Yuki}}, P_{\text{Mika}}, P_{\text{Ren}}, P_{\text{Saki}}) - \min(P_{\text{Yuki}}, P_{\text{Mika}}, P_{\text{Ren}}, P_{\text{Saki}}) \le 2$.
+- Si se elige Ruta Individual (A–D): +5 a la heroína elegida, reset a 0 de las demás (Cap. 21, bloque final), cargando el cap. 22 respectivo (22S, 22R, 22M o 22Y).
+- Si se elige Ruta Harem (E): Sistema de puntos reemplazado por mecánica de armonía grupal (Cap. 21, bloque final), cargando `capitulo-22H.md`.
 - Única fecha calendario explícita del **XML original**: **15 de marzo** — nacimiento de las cuatro hijas (Cap. 15H.1 / 36H). En el **tronco común ampliado (caps. 1–21)** y la cronología autorizada por el autor se registran fechas calendario explícitas entre febrero y abril de 2026 (semanas 8 a 14, ver `timeline.md`).
 - Convención de numeración: en el esquema XML los capítulos de Ruta Harem llevan sufijo `H` a partir del 9H (con subíndices `8.3H`, `8.5H`, `8.6H` en el Cap. 8); en la novela completa desarrollada corresponden a los capítulos **22H al 36H**.
 

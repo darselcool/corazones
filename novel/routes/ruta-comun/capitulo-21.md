@@ -219,7 +219,7 @@ OPCIÓN C: Me dirijo hacia Mika y las cámaras.
 "Mika está entrando en pánico por ser filmada sin consentimiento. Esto podría deshacer años de progreso en su sanación."
 OPCIÓN D: Voy directamente hacia Yuki y Matsui.
 "Yuki está siendo atacada con información que podría destruir su imagen de su madre para siempre. Necesita saber que no está sola."
-OPCIÓN E: [SOLO DISPONIBLE SI DIFERENCIA DE PUNTOS ≤2] No puedo elegir. Ustedes cuatro significan demasiado para mí. Tiene que haber otra manera.
+OPCIÓN E: [SOLO DISPONIBLE SI max(puntos) - min(puntos) ≤ 2 ENTRE LAS CUATRO HEROÍNAS] No puedo elegir. Ustedes cuatro significan demasiado para mí. Tiene que haber otra manera.
 "He desarrollado conexiones profundas con cada una de ustedes. No puedo abandonar a ninguna en su momento de mayor necesidad."
 NARRACIÓN: El tiempo se ralentiza mientras considero mis opciones.
 Cada elección significa dejar a tres mujeres extraordinarias enfrentar sus demonios solas.
@@ -297,7 +297,7 @@ HIROSHI: "¿Estarían dispuestas a explorar esa posibilidad?"
 Las cuatro se miran entre sí. Hay una comunicación silenciosa que pasa entre ellas.
 Entonces, simultáneamente, asienten.
 TODAS: "Sí."
-[ACTIVA RUTA HAREM - CAPÍTULOS 8H-15H]
+[ACTIVA RUTA HAREM - CAPÍTULOS 22H–36H (orig. 8H–15H)]
 SI SE ELIGIÓ OPCIÓN A-D (RUTAS INDIVIDUALES):
 [La escena continúa con la heroína elegida recibiendo apoyo directo, mientras las otras enfrentan sus crisis más independientemente. Esto establece la ruta romántica individual con la heroína ayudada.]
 ESCENA 21.7 - DESPUÉS DE LA TORMENTA
@@ -334,7 +334,7 @@ Crisis del pasado enfrentadas y superadas (con ayuda)
 Declaración pública de sentimientos/intenciones
 Nuevo status quo establecido para las fases siguientes
 PRÓXIMO:
-Si Ruta Individual: Capítulo 8 - "Nuevo Equilibrio"
-Si Ruta Harem: Capítulo 8H - "Nueva Realidad"
+Si Ruta Individual: Capítulos 22S, 22R, 22M o 22Y (según elección A, B, C o D; orig. Cap. 8)
+Si Ruta Harem: Capítulo 22H (orig. Cap. 8H)
 El momento más crucial de toda la visual novel ha terminado. Las decisiones están hechas. El futuro está determinado.
 CORAZONES EN EBULLICIÓN

@@ -22,4 +22,4 @@
 | `capitulo-33H.md` | Cap. 14H: El Pacto de la Semilla | **La Semilla de la Casa** | **ESCRITO** | Planificación médica y biológica, nursery de Kimura, sincronía de ciclos, dictamen del Dr. Tanaka y cita para la luna de mayo |
 | `capitulo-34H.md` | Cap. 14H: La Noche Fértil | **Fecundidad** | **ESCRITO** | **EXPLÍCITA DE CONCEPCIÓN**: Noches dedicadas y comunión para engendrar a la nueva generación |
 | `capitulo-35H.md` | Cap. 14H / 15H: La Dulce Espera | **El Latido de la Primavera** | **ESCRITO** | Los cuatro embarazos entrelazados, cuidado comunal y preparativos de la nursery |
-| `capitulo-36H.md` | Cap. 15H: Para Siempre Juntos | **Para Siempre Juntos (GRAN FINAL)** | **ESCRITO** | Nacimientos, primeras chefs en entrenamiento y epílogo generacional a 10 años |
+| `capitulo-36H.md` | Cap. 15H: Para Siempre Juntos | **Para Siempre Juntos (GRAN FINAL)** | **ESCRITO** | Nacimientos, primeras chefs en entrenamiento y epílogo generacional a dos décadas (otoño de 2045) |
