@@ -285,8 +285,8 @@ YUKI: "Gracias por recordarme que está bien reírse mientras cocino."
 HIROSHI: "Y gracias a ambas por recordarme por qué empecé a cocinar en primer lugar."
 Nos quedamos así por un momento - tres heridos ayudándose mutuamente a sanar.
 ELECCIÓN 3:
-OPCIÓN A: "Tal vez podamos hacer de esto algo más permanente. No solo clases de cocina, sino una familia elegida."
-[+2 MIKA, +2 YUKI, +1 SAKI - Enfoque en familia y pertenencia]
+OPCIÓN A: "Tal vez podamos hacer de esto un refugio permanente de apoyo mutuo. No solo clases de cocina, sino un espacio donde cuidarnos sin máscaras."
+[+2 MIKA, +2 YUKI, +1 SAKI - Enfoque en pertenencia y refugio seguro]
 OPCIÓN B: "Propongo que nos comprometamos a ser honestos unos con otros. Sin máscaras, sin actuaciones."
 [+3 YUKI, +2 REN - Enfoque en autenticidad y vulnerabilidad]
 OPCIÓN C: "Construyamos algo hermoso juntos. Algo que honre de donde venimos pero mire hacia el futuro."
@@ -294,11 +294,11 @@ OPCIÓN C: "Construyamos algo hermoso juntos. Algo que honre de donde venimos pe
 Las tres opciones resuenan con algo profundo en cada uno de nosotros.
 MIKA: "Me gusta eso. Sea lo que sea que construyamos juntos."
 YUKI: "Por primera vez en meses, siento esperanza real."
-HIROSHI: "Entonces estamos de acuerdo. Vamos a intentar esto. Juntos."
+HIROSHI: "Entonces estamos de acuerdo. Nos cuidaremos aquí. Los tres."
 Mientras limpiamos la mesa y apagamos las luces, hay una sensación de que algo importante ha comenzado.
 No solo un taller de cocina.
-No solo amistad.
-Algo más profundo. Una alianza de almas heridas que han decidido sanar juntas.
+No solo compañía casual.
+Una complicidad genuina entre tres personas que han decidido no esconderse más.
 Mientras cerramos el taller por la noche, Mika se queda un momento más.
 MIKA: "¿Hiroshi?"
 HIROSHI: "¿Sí?"

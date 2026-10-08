@@ -293,30 +293,30 @@ MIKA: "¿No es peligroso?"
 HIROSHI: "Vivir sin pequeños riesgos también es peligroso."
 Toma un pequeño bocado de masa y sonríe con los ojos cerrados.
 MIKA: "Sabe exactamente como la recuerdo."
-Mientras las galletas se hornean, nos sentamos juntos en la mesa.
-MIKA: "Hiroshi..."
-HIROSHI: "¿Sí?"
-MIKA: "Creo que me estoy ilusionando de verdad."
+Mientras las galletas se hornean, nos sentamos juntos en la mesa. Mika se queda mirando sus manos cubiertas de harina, con una seriedad que casi nunca le he visto.
+MIKA: "Tengo miedo, Hiroshi."
+HIROSHI: "¿De qué?"
+MIKA: "De que si me acostumbro a estar aquí contigo, ya no voy a saber cómo ponerme la coraza otra vez."
 Mi corazón se acelera.
-HIROSHI: "¿Con qué?"
-MIKA: "Con la posibilidad de ser feliz otra vez. De este lugar. De..." Se detiene, como si fuera a decir algo más personal.
+MIKA: "Llevo tres años sonriendo para miles de personas sin sentir nada por dentro. Y hoy, haciendo galletas contigo y hablando de mi hermana... sentí que se me abría el pecho. Sentí algo de verdad. Hacia este lugar... y hacia ti."
+Se detiene, como si haberlo dicho en voz alta la desarmara por completo.
 
 *Se ha acercado tanto que puedo olerla: azúcar, mantequilla y ese champú dulzón que usa. Tiene una pestaña pegada en la mejilla, una miga de masa en el borde del labio, y yo estoy mirando ese borde de labio como si fuera lo único que existe en el pueblo.*
 *Si levanto la mano y se la quito, se acaba. Lo que sea que es esto, se acaba, porque no habría vuelta atrás. No levanto la mano. Pero tampoco aparto los ojos.*
 *Y ella lo nota. Y no se aparta.*
 ELECCIÓN 3:
-OPCIÓN A: "¿De qué más? Puedes decírmelo."
+OPCIÓN A: "No tienes que ponerte ninguna coraza aquí. Puedes decirme lo que sientes."
 [+2 MIKA, +1 YUKI, +1 SAKI - Enfoque en apertura y confianza]
-OPCIÓN B: "Toma tu tiempo. No hay prisa."
+OPCIÓN B: "Toma tu tiempo. Las emociones reales asustan cuando llevas mucho tiempo sin sentirlas."
 [+2 YUKI, +1 MIKA, +1 SAKI - Enfoque en paciencia y respeto]
-OPCIÓN C: "Sea lo que sea, me alegra que estés encontrando felicidad aquí."
+OPCIÓN C: "Lo que sea que sientas, es tuyo. Me alegra que estés encontrando un espacio donde sentirlo."
 [+2 SAKI, +1 MIKA, +1 REN - Enfoque en validación de su proceso]
-Hay un momento cargado donde parece que va a decir algo más íntimo, pero luego se retrae ligeramente.
-MIKA: "De las personas que me ven realmente. Como tú."
+Hay un momento cargado donde parece que va a decir algo aún más íntimo, pero luego se retrae ligeramente.
+MIKA: "Por primera vez en años no siento que deba actuar para merecer que alguien se quede a mi lado. Me ves a mí... y no te apartas."
 Hay algo en la forma en que me mira que sugiere sentimientos más profundos de los que expresan sus palabras.
 MIKA: "Durante tanto tiempo, sentí que había perdido la capacidad de conectar genuinamente con alguien. Pero aquí, contigo, con todos... se siente posible otra vez."
 HIROSHI: "Siempre ha sido posible, Mika. Solo necesitabas el espacio seguro para intentarlo."
-Se acerca más, y por un momento, siento la misma tensión romántica que sentí con Yuki.
+Se acerca más, y por un momento, siento la tensión palpable en el aire entre los dos.
 Pero entonces el timbre del temporizador repica desde el horno junto a un cálido aroma a mantequilla tostada, y el momento se rompe.
 MIKA: "Las galletas están listas."
 Cuando las sacamos del horno, están perfectas. Doradas, aromáticas, exactamente como las que haría una hermana mayor con amor.
@@ -467,7 +467,7 @@ Mientras recogemos el desastre, me pongo al fregadero con ella. A los dos minuto
 REN: "Tienes el codo abierto."
 HIROSHI: "¿Y eso importa para fregar?"
 REN: "Para fregar no. Para cortar, sí."
-Toma el cuchillo del tablero, lo pasa bajo el agua, lo seca con el trapo, me lo pone en la mano derecha y me coloca delante de la tabla, con la media cebolla que se quedó a medias.
+Toma el cuchillo del tablero, lo pasa bajo el agua, lo seca con el trapo, me lo pone en la mano derecha y me coloca delante de la tabla, con la media cebolla que está a medias.
 REN: "Vas a cortar. Muñeca recta, codo quieto, y no aprietes, que el cuchillo no es un timón."
 Me pone la palma encima del dorso de la mano y me la aprieta contra el mango. Noto los callos y noto toda la fuerza que no está gastando.
 
@@ -480,7 +480,7 @@ REN: "Esa la tienes libre. Ponla donde no estorbe."
 Estoy entre ella y la tabla, con las dos manos ocupadas por decisión suya, su cadera contra la mía por encima del uniforme, y la respiración contándonos los golpes a los dos. La cocina entera se queda en el ruido del agua.
 Y entonces se para. No se aparta: se para, con el cuchillo todavía mirando la tabla y la mano encima de la mía, y yo entiendo que en algún sitio de su cabeza acaba de cerrarse una cuenta.
 REN: "Has soltado el cuchillo."
-Miro mi mano derecha. Es verdad: se me ha abierto sola y el cuchillo está donde ella lo dejó.
+Miro mi mano derecha. Es verdad: se me ha abierto sola y el cuchillo está donde ella lo suelta.
 REN: "Yo no."
 HIROSHI: "Ren..."
 REN: "Basta."

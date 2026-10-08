@@ -250,7 +250,7 @@ YUKI: "Y a apoyarnos cuando las cosas se pongan difíciles."
 SAKI: "Y a recordar que todos estamos aquí porque necesitamos sanar algo."
 Son condiciones sabias.
 HIROSHI: "Estoy de acuerdo con todo eso."
-Miro alrededor del círculo de rostros. Cinco personas que hace una semana eran extraños, ahora considerando formar una familia elegida.
+Miro alrededor del círculo de rostros. Cinco personas que hace unas horas eran extrañas, ahora considerando comprometerse a trabajar codo a codo en una misma cocina.
 REN: "Está bien. Pero si hacemos esto, lo hacemos bien."
 MIKA: "Definamos 'bien'."
 REN: "Compromiso real. No abandonar cuando las cosas se pongan difíciles."
@@ -259,11 +259,11 @@ YUKI: "Respeto mutuo, incluso cuando no entendamos las perspectivas de las otras
 HIROSHI: "Y espacio para crecer y cambiar."
 Son fundamentos sólidos para lo que sea que estamos construyendo.
 MIKA: "Entonces, ¿es oficial? ¿Somos un... qué? ¿Un colectivo culinario?"
-REN: "Suena pretencioso."
-SAKI: "¿Una familia de cocina?"
-YUKI: "Me gusta eso."
+REN: "Un equipo de cocina con estándares claros y sin rodeos."
+SAKI: "Una brigada de aprendizaje mutuo."
+YUKI: "Me gusta cómo suena eso."
 HIROSHI: "A mí también."
-Y así, sobre una comida que aún estamos preparando, nace oficialmente nuestra pequeña familia no convencional.
+Y así, sobre una comida que aún estamos preparando, queda sellado nuestro compromiso de trabajar como una verdadera brigada.
 ESCENA 4.4 - PRIMERA CENA GRUPAL
 NARRACIÓN: La comida que finalmente preparamos juntos es simple pero hermosa: caldo de alga marina con verduras cortadas perfectamente, arroz preparado con la técnica tradicional de Yuki, y pequeños acompañamientos que cada una contribuyó.
 Pero lo que la hace especial no son los ingredientes o las técnicas. Es la sensación de haber creado algo juntos.
