@@ -16,7 +16,7 @@ VOZ FEMENINA 1: "¿Oportunidades? ¡Esto parece un pueblo fantasma!"
 Mika se acerca a la ventana con curiosidad.
 MIKA: "Hay dos mujeres afuera. Una parece muy molesta, la otra está pagando al conductor del taxi."
 A través del cristal, vemos a dos figuras contrastantes.
-La primera es claramente joven —tal vez veintiún años—, con un corte Wolf Cut moderno y desfilado en capas en tono castaño espresso que acaricia su nuca y su cuello atlético, y una postura que grita confianza enérgica y decidida. Viste un top negro ajustado de tirantes acanalado bajo un delantal de cuero marrón ceñido con firmeza, pantalones entallados verde oliva y botines de cuero negro con cordones, cargando una mochila que obviamente contiene herramientas de forja y cocina.
+La primera es claramente joven —tal vez veintiún años—, con un corte Wolf Cut moderno y desfilado en capas en tono castaño espresso que acaricia su nuca y su cuello atlético, y una postura que grita confianza enérgica y decidida. Viste una chaqueta ligera de cocina sobre un top negro ajustado de tirantes acanalado bajo un delantal de cuero marrón ceñido con firmeza, pantalones entallados verde oliva y botines de cuero negro con cordones, cargando una mochila que obviamente contiene herramientas de forja y cocina.
 La segunda es una mujer joven de veintiséis años, de belleza serena y porte señorial, con su sedoso cabello negro recogido en un elegante moño bajo sujeto con una horquilla tradicional kanzashi de madera pulida. Viste una camisa tradicional teñida en azul añil sobre una falda casual cómoda y fluida, y lleva una maleta sobria junto con una bolsa de lona que parece contener equipos de cocina más ceremoniales.
 Lo más interesante es la dinámica entre ellas. La joven está claramente agitada, mientras que la mayor mantiene una calma que sugiere años de experiencia manejando situaciones difíciles.
 VOZ JOVEN: "Saki, esto es ridículo. Deberíamos haber ido a Kyoto como planeamos originalmente."
@@ -56,7 +56,7 @@ Es exactamente el tipo de pregunta que esperaba de alguien con su actitud.
 ELECCIÓN 1:
 OPCIÓN A: "Mis credenciales no son tan importantes como mi compromiso de ayudar a cada estudiante a encontrar su propia voz culinaria."
 [+2 MIKA, +1 YUKI, +1 SAKI - Enfoque en individualidad y crecimiento personal]
-OPCIÓN B: "Trabajé en restaurantes de primera línea en Tokyo, pero estoy más interesado en técnicas fundamentales que en prestigio."
+OPCIÓN B: "Trabajé en restaurantes de primera línea en Tokio, pero estoy más interesado en técnicas fundamentales que en prestigio."
 [+2 REN, +1 SAKI, +1 YUKI - Respeto por experiencia profesional y fundamentos]
 OPCIÓN C: "Creo que las mejores lecciones vienen de cocinar juntos, aprendiendo unos de otros sin importar el nivel de experiencia."
 [+1 a todas - Enfoque colaborativo e inclusivo]
@@ -126,7 +126,7 @@ Ren se hace cargo naturalmente de la estación principal, organizando todo con e
 REN: "Yuki, necesito que cortes las verduras en juliana de tres milímetros. Mika, puedes encargarte de... algo que no requiera precisión."
 El comentario es casual, pero el insulto es claro.
 MIKA: "¿Disculpa?"
-REN: "No es personal. Solo que vi tus cortes ayer y... bueno, la consistencia no es tu fuerte."
+REN: "No es personal. Solo que vi cómo cortabas hace un rato y... bueno, la consistencia no es tu fuerte."
 El ambiente en la cocina cambia instantáneamente.
 SAKI: "Ren, tal vez podrías ser un poco más..."
 REN: "¿Honesta? Pensé que eso era lo que queríamos aquí."
@@ -158,7 +158,7 @@ Ren mira a Mika con una expresión que no puedo descifrar. Sorpresa, tal vez. O 
 *Ren con la camiseta pegada de sudor y la mandíbula apretada. Mika con la coleta medio deshecha y las mejillas rojas. Yuki, que casi nunca habla, diciendo "también requiere respeto" con la voz muy baja. Saki mirándolas como quien mira a dos hijas pelear por el mismo cuchillo. Y yo, el dueño del sitio, sin saber qué decir.*
 
 ELECCIÓN 2:
-OPCIÓN A: "Tal vez todas tenemos diferentes formas de lidiar con la presión. Lo importante es encontrar maneras de trabajar juntas."
+OPCIÓN A: "Tal vez todos tenemos diferentes formas de lidiar con la presión. Lo importante es encontrar maneras de trabajar juntos."
 [+2 SAKI, +1 YUKI, +1 REN - Enfoque en mediación y colaboración]
 OPCIÓN B: "Ren, tus habilidades son impresionantes, pero Mika también tiene valor que aportar. ¿Podemos encontrar una manera de usar las fortalezas de cada una?"
 [+2 REN, +2 MIKA - Validación de ambas perspectivas]
@@ -185,7 +185,7 @@ SAKI: "¿Entonces... intentamos esto otra vez? Con más compasión esta vez?"
 REN: "Sí. Pero mantengo que el caldo necesita más tiempo."
 MIKA: "Y yo mantengo que la alegría es un ingrediente válido."
 YUKI: "Tal vez ambas tienen razón."
-Y así, con las defensas ligeramente bajadas, empezamos a cocinar realmente juntas.
+Y así, con las defensas ligeramente bajadas, empezamos a cocinar realmente juntos.
 ESCENA 4.3 - TERRITORIOS EN LA COCINA
 NARRACIÓN: Con las tensiones iniciales resueltas, observo cómo cada una encuentra naturalmente su lugar en la cocina.
 Ren toma el liderazgo en técnicas que requieren precisión y timing. Su experiencia es evidente en la forma en que maneja el cuchillo, en cómo evalúa la temperatura del aceite con solo escuchar el sonido.
@@ -232,7 +232,7 @@ OPCIÓN A: "¿Qué dirían si hiciéramos esto más permanente? No solo clases o
 [+2 SAKI, +2 MIKA, +1 YUKI - Enfoque en comunidad y colaboración a largo plazo]
 OPCIÓN B: "Cada una tiene habilidades únicas. Podríamos enseñarnos mutuamente, convertir esto en un intercambio de conocimiento."
 [+2 REN, +1 YUKI, +1 SAKI - Enfoque en aprendizaje mutuo y respeto por experticia]
-OPCIÓN C: "Siento que hemos encontrado algo que ninguna de nosotras tenía antes: un lugar donde podemos ser nosotras mismas sin juicio."
+OPCIÓN C: "Siento que hemos encontrado algo que ninguno de nosotros tenía antes: un lugar donde podemos ser nosotros mismos sin juicio."
 [+2 YUKI, +2 MIKA, +1 REN - Enfoque en aceptación y autenticidad]
 La sugerencia resuena con todas de diferentes maneras.
 REN: "No voy a mentir, la idea me asusta un poco."
@@ -265,8 +265,8 @@ YUKI: "Me gusta eso."
 HIROSHI: "A mí también."
 Y así, sobre una comida que aún estamos preparando, nace oficialmente nuestra pequeña familia no convencional.
 ESCENA 4.4 - PRIMERA CENA GRUPAL
-NARRACIÓN: La comida que finalmente preparamos juntas es simple pero hermosa: caldo de alga marina con verduras cortadas perfectamente, arroz preparado con la técnica tradicional de Yuki, y pequeños acompañamientos que cada una contribuyó.
-Pero lo que la hace especial no son los ingredientes o las técnicas. Es la sensación de haber creado algo juntas.
+NARRACIÓN: La comida que finalmente preparamos juntos es simple pero hermosa: caldo de alga marina con verduras cortadas perfectamente, arroz preparado con la técnica tradicional de Yuki, y pequeños acompañamientos que cada una contribuyó.
+Pero lo que la hace especial no son los ingredientes o las técnicas. Es la sensación de haber creado algo juntos.
 Nos sentamos alrededor de la mesa grande del taller mientras el sol se pone afuera, dando al espacio una luz dorada y cálida.
 SAKI: "¿Saben? Hace mucho que no comparto una comida que se sintiera tan... significativa."
 REN: "¿En qué sentido?"
@@ -274,8 +274,8 @@ SAKI: "En el sentido de que fue hecha con intención. Con propósito."
 MIKA: "Y con amistad."
 YUKI: "Es diferente cuando cocinas para personas que se preocupan por ti."
 REN: "¿Tan obvio es que nos preocupamos unas por otras?"
-HIROSHI: "Considerando que ninguna de nosotras tenía que estar aquí, diría que sí."
-Es verdad. Cada una de nosotras eligió quedarse, elegió intentar esto.
+HIROSHI: "Considerando que ninguno de nosotros tenía que estar aquí, diría que sí."
+Es verdad. Cada uno de nosotros eligió quedarse, elegió intentar esto.
 MIKA: "¿Puedo hacer una pregunta personal?"
 SAKI: "Adelante."
 MIKA: "¿Qué esperan sacar de esto? De... esto." Gesticula alrededor de la mesa.
@@ -290,7 +290,7 @@ Sus ojos se humedecen ligeramente.
 MIKA: "He estado fingiendo durante tanto tiempo que casi había olvidado cómo se siente la alegría real."
 SAKI: "¿Fingiendo para quién?"
 MIKA: "Para mi audiencia. Para mi familia. Para mi hermana antes de que..." Se detiene.
-Es la primera vez que menciona directamente a su hermana.
+Es la primera vez que menciona directamente a su hermana delante de Ren y Saki.
 YUKI: "¿Quieres hablar de ella?"
 MIKA: "Tal vez... cuando esté lista. Que sea pronto."
 REN: "No hay presión. Todos tenemos cosas de las que no estamos listos para hablar."
@@ -318,19 +318,19 @@ HIROSHI: "Estoy de acuerdo. Empezaré."
 Miro alrededor de la mesa a estas cuatro mujeres que han aparecido en mi vida.
 
 *Cuatro mujeres alrededor de mi mesa, con el sol poniéndose por la ventana del taller, y a mí me cuesta horriblemente concentrarme en el juego de la gratitud.*
-*Mika se ha sentado encima de una pierna y la coleta le cuelga sobre el plato. Se ha dejado las zapatillas junto a la puerta, con el resto de los zapatos, y desde aquí solo veo la punta de los calcetines y los cordones dibujados. Esas zapatillas las pinta ella: no lo ha dicho, pero hay rotulador en sus manos cuando llega y los dibujos cambian cada pocos días. Y son siempre casitas —tejado a dos aguas, una ventana, un árbol al lado—. Igual estoy inventándome el motivo; solo digo lo que veo. Los pies son la única parte de Mika que no se coloca sola delante de una cámara: son los que se sientan encima de la otra pierna cuando está cansada, los que se enfrían porque se quita los zapatos antes que nadie. Y no es deseo lo que me dan. Es algo con peor sitio todavía en mi lista de prioridades: me dan ganas de que se quede. Ren ha dejado la chaqueta en el respaldo y apoya los antebrazos desnudos en la madera. Yuki come con la espalda recta y la nuca al aire. Y Saki nos mira a todas con media sonrisa y el moño algo torcido, como si supiera exactamente lo que estoy pensando y estuviera esperando a que lo diga en voz alta.*
+*Mika se ha sentado encima de una pierna y la coleta le cuelga sobre el plato. Se ha dejado las zapatillas junto a la puerta, con el resto del calzado en el genkan; desde aquí distingo las casitas con tejado a dos aguas y árboles que les dibuja con rotulador, mientras que debajo de la mesa solo veo la punta de sus calcetines coloridos. Los pies son la única parte de Mika que no se coloca sola delante de una cámara: son los que se sientan encima de la otra pierna cuando está cansada, los que se enfrían porque se quita los zapatos antes que nadie. Y no es deseo lo que me dan. Es algo con peor sitio todavía en mi lista de prioridades: me dan ganas de que se quede. Ren ha dejado la chaqueta en el respaldo y apoya los antebrazos desnudos en la madera. Yuki come con la espalda recta y la nuca al aire. Y Saki nos mira a todas con media sonrisa y el moño algo torcido, como si supiera exactamente lo que estoy pensando y estuviera esperando a que lo diga en voz alta.*
 
-HIROSHI: "Estoy agradecido por encontrar personas que entienden que la sanación no es linear. Y espero aprender a perdonarme por los errores del pasado."
+HIROSHI: "Estoy agradecido por encontrar personas que entienden que la sanación no es lineal. Y espero aprender a perdonarme por los errores del pasado."
 YUKI: "Estoy agradecida por encontrar un lugar donde puedo cometer errores sin castigo. Y espero honrar la memoria de mi madre cocinando con amor otra vez."
 MIKA: "Estoy agradecida por encontrar personas que me ven cuando no estoy actuando. Y espero aprender qué me hace genuinamente feliz."
 REN: "Estoy agradecida por... por no sentirme sola en mi perfeccionismo. Y espero aprender que está bien necesitar ayuda."
 SAKI: "Estoy agradecida por encontrar un propósito que se siente auténtico. Y espero construir algo duradero y hermoso con todas ustedes."
 El silencio que sigue es cargado de emoción positiva.
 MIKA: "¿Saben qué? Creo que esta va a ser una tradición hermosa."
-Y mientras limpiamos la mesa juntas, hay una sensación de que algo importante ha comenzado.
+Y mientras limpiamos la mesa juntos, hay una sensación de que algo importante ha comenzado.
 No solo un taller de cocina.
 No solo amistad.
-Familia.
+Un hogar compartido.
 ESCENA 4.5 - REFLEXIÓN GRUPAL
 NARRACIÓN: Después de limpiar, ninguno de nosotros parece listo para que termine el día. En lugar de dispersarnos, nos encontramos reunidos en el área de estar del taller, tomando té y simplemente... existiendo juntos.
 Es la primera vez que el espacio se siente completamente lleno. No solo físicamente, sino emocionalmente.
@@ -344,7 +344,7 @@ YUKI: "Es extraño cómo las personas correctas pueden aparecer en el momento co
 MIKA: "¿Creen en el destino?"
 REN: "Creo en las decisiones. Cada uno de nosotros eligió quedarse."
 HIROSHI: "Ambas cosas pueden ser verdad."
-Miro alrededor del círculo. En menos de una semana, mi refugio solitario se ha convertido en algo completamente diferente.
+Miro alrededor del círculo. En apenas dos semanas, mi refugio solitario se ha convertido en algo completamente diferente.
 HIROSHI: "¿Saben lo que más me sorprende de todo esto?"
 SAKI: "¿Qué?"
 HIROSHI: "Que viniendo aquí para esconderme del mundo, terminé encontrando exactamente lo que necesitaba del mundo."
@@ -358,8 +358,8 @@ Yuki con su búsqueda silenciosa de perfección equilibrada con amor.
 Mika con su determinación de encontrar alegría auténtica después de una pérdida profunda.
 Ren con su lucha por equilibrar excelencia con humanidad.
 Saki con su sabiduría natural y su deseo de construir algo significativo.
-Y todas nosotras, de alguna manera, necesitándonos mutuamente.
-MIKA: "¿Pueden creer que hace una semana no nos conocíamos?"
+Y todos nosotros, de alguna manera, necesitándonos mutuamente.
+MIKA: "¿Pueden creer que hasta hace poco ni nos conocíamos?"
 REN: "Honestamente, no. Se siente como si los hubiera conocido por mucho más tiempo."
 YUKI: "Es porque nos vimos realmente desde el principio. Sin pretensiones."
 SAKI: "Eso es raro en el mundo real."
@@ -384,13 +384,13 @@ HIROSHI: "¿Cuál es ese propósito?"
 SAKI: "Sanar juntas. Crecer juntas. Y tal vez, si tenemos suerte, encontrar felicidad genuina en el proceso."
 
 *Lo dice y la luz de la lámpara le cae de lleno en la cara, y la veo de verdad: los pómulos altos, la línea del cuello, la blusa que se le ha arrugado con las horas y que ya no le queda tan ordenada como al llegar. Se la estira con dos dedos, sin pensarlo, y yo aparto los ojos justo un segundo tarde.*
-*Ren, a su lado, se ha quitado el uniforme y lo lleva atado a la cintura. Debajo tiene una camiseta que le marca la espalda y los omóplatos cada vez que se inclina sobre la mesa.*
+*Ren, a su lado, se ha quitado la chaqueta de cocina y la lleva atada a la cintura. Debajo tiene la camiseta sin mangas que le marca la espalda y los omóplatos cada vez que se inclina sobre la mesa.*
 *Dos mujeres que ya no son visitas. Dos mujeres que han decidido quedarse.*
 *Y yo, que llevo tres semanas sin ser consciente de mi propio cuerpo, de pronto lo soy otra vez. Todo el rato.*
 Miro alrededor del círculo una vez más. Estas mujeres que han aparecido en mi vida cuando más las necesitaba.
 
 *Y las miro a las cuatro y no puedo evitar hacer el inventario.*
-*Yuki, sentada recta, las manos en el regazo, el cuello largo y la clavícula marcada donde la camiseta se le ha movido. Mika, medio derrumbada sobre la mesa, el pelo suelto cayéndole por la cara y el hombro al aire. Ren, con los brazos cruzados, la mandíbula cuadrada y el uniforme desabrochado en el cuello, la piel brillante de un día entero de trabajo, ese cuerpo atlético que no parece de una mujer que pasa el día sobre una tabla de cortar. Saki, la espalda apoyada y las piernas estiradas bajo la mesa, ese cuerpo maduro que sabe sentarse y sabe esperar.*
+*Yuki, sentada recta, las manos en el regazo, el cuello largo y la clavícula marcada donde la camiseta se le ha movido. Mika, medio derrumbada sobre la mesa, el pelo suelto cayéndole por la cara y el hombro al aire. Ren, con los brazos cruzados, la mandíbula cuadrada y la camiseta sin mangas dejando al descubierto sus hombros y la piel brillante de un día entero de trabajo, ese cuerpo atlético que no parece de una mujer que pasa el día sobre una tabla de cortar. Saki, la espalda apoyada y las piernas estiradas bajo la mesa, ese cuerpo maduro que sabe sentarse y sabe esperar.*
 *Cuatro mujeres que me han pedido un sitio. Y yo, que llevaba años sin que nadie me pidiera nada, les he dicho que sí.*
 *Que alguien me ayude. Porque sé perfectamente lo que estoy mirando, y hace mucho que dejó de ser profesional.*
 Cada una enfrentando sus propios demonios.
@@ -409,7 +409,7 @@ El comienzo de algo hermoso.
 Mientras finalmente nos preparamos para terminar la noche, hay una sensación de completitud que ninguno de nosotros había sentido en mucho tiempo.
 El grupo está completo.
 La familia está formada.
-Y mañana, comenzamos realmente a construir algo juntas.
+Y mañana, comenzamos realmente a construir algo juntos.
 FIN DEL CAPÍTULO 4
 PUNTOS ACUMULADOS SEGÚN ELECCIONES:
 Sistema balanceado - Todas las rutas siguen siendo viables según las decisiones tomadas

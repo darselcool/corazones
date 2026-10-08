@@ -15,7 +15,7 @@ Camino hacia la entrada y abro la puerta.
 Frente a mí hay una joven empapada por la lluvia. Su cabello negro azulado está peinado en una delicada trenza lateral que cae sobre su hombro, con un flequillo fino y ligero a pesar del clima que deja al descubierto la blancura de su nuca, y sus llamativos ojos azul zafiro me evalúan con una intensidad que me sorprende. Lleva una chaqueta blanca cruzada de chef profesional debajo de un abrigo ligero - ambos completamente mojados.
 Pero lo que más me llama la atención es su postura. Está parada perfectamente erguida, como si cada músculo hubiera sido colocado con precisión milimétrica. Es el tipo de compostura que solo viene de años de entrenamiento riguroso.
 O de años de esconder algo.
-La lluvia ha hecho su trabajo: el abrigo se le ha quedado pegado al cuerpo y se le ha abierto de par en par sobre el blanco del uniforme. Y el blanco, empapado, ya no esconde nada. Se le ha vuelto un papel de cristal sobre el pecho, y debajo se le marca la lencería: el sujetador —encaje blanco, flores rojas, el borde asomando por el escote de la chaqueta blanca cruzada de chef—, con el mismo estampado que se le adivina más abajo, a través del pantalón blanco mojado, tan pegado a las piernas que dibuja la línea entera de la cadera. Braga y sujetador a juego, la lencería entera: un conjunto comprado en la misma tienda, el mismo día, y yo aquí, con la mano todavía en el pomo de mi propia puerta, mirándolo como si tuviera derecho a mirarlo.
+La lluvia ha hecho su trabajo: el abrigo se le ha quedado pegado al cuerpo y se le ha abierto de par en par sobre el blanco del uniforme. Y el blanco, empapado, ya no esconde nada. Se le ha vuelto un papel de cristal sobre el pecho, y debajo se le marca la ropa interior: el sostén —encaje blanco, flores rojas, el borde asomando por el escote de la chaqueta blanca cruzada de chef—, con el mismo estampado que se le adivina más abajo, a través del pantalón blanco mojado, tan pegado a las piernas que dibuja la línea entera de la cadera. Ropa interior a juego: un conjunto comprado en la misma tienda, el mismo día, y yo aquí, con la mano todavía en el pomo de mi propia puerta, mirándola como si tuviera derecho a mirarla.
 Y ella no lo sabe. Está en mi umbral, calada hasta los huesos, con los brazos pegados al cuerpo y la barbilla alta, esperando a que yo diga algo, sin la menor idea de que el uniforme que se ha puesto esta mañana le está contando a un desconocido qué ropa lleva debajo. Nada en su cara sugiere que lo haga a propósito: tiene frío, está incómoda y quiere entrar. Esa es toda la historia, y no hay en ella nada que me disculpe.
 
 YUKI: "Disculpe..." Su voz es suave pero clara. "¿Este es el taller de cocina?"
@@ -25,7 +25,7 @@ YUKI: "Gracias." Se quita el abrigo y lo cuelga meticulosamente en el gancho jun
 HIROSHI: "Hiroshi Matsuda. Bienvenida."
 Mientras se quita la chaqueta, noto que sus movimientos son precisos pero tensos. Como si cada acción requiriera una concentración consciente.
 Ya sin el abrigo, se lleva las dos manos a los puños de la chaqueta y los escurre uno y otro, primero el derecho, después el izquierdo, inclinándose sobre el felpudo para que el agua no se le acumule en el suelo. No apoya las manos en nada y mantiene la espalda recta incluso agachada, y no tiene ni puede tener la menor idea de lo que ese gesto hace desde donde yo estoy. El pantalón blanco del uniforme, empapado, se le tensa de golpe sobre las caderas y se le mete entre las piernas, y el trasero se le dibuja entero: pequeño, redondo, en forma de corazón, partido por la costura central del pantalón como si alguien lo hubiera calcado. Cuento hasta tres, que es lo que hago siempre antes de decidir que no he visto nada.
-Se incorpora, se lleva las dos manos al cuello de la chaqueta y la separa del pecho para que le circule el aire. Y en el medio segundo que tarda en abrir y volver a cerrar los dedos, el blanco mojado se vuelve cristal otra vez: la lencería blanca con las flores rojas se le marca entera debajo, las copas del sujetador, el borde de la braga, la costura que une el conjunto, todo apretado contra la tela empapada cada vez que respira. No mira hacia mí ni una vez. No hace nada de esto para que yo lo vea: está calada hasta los huesos y tiene frío, y el que está haciendo algo sucio aquí soy yo.
+Se incorpora, se lleva las dos manos al cuello de la chaqueta y la separa del pecho para que le circule el aire. Y en el medio segundo que tarda en abrir y volver a cerrar los dedos, el blanco mojado se vuelve cristal otra vez: la ropa interior blanca con las flores rojas se le marca entera debajo, las copas del sostén, el borde del calzón, la costura que une el conjunto, todo apretado contra la tela empapada cada vez que respira. No mira hacia mí ni una vez. No hace nada de esto para que yo lo vea: está calada hasta los huesos y tiene frío, y el que está haciendo algo sucio aquí soy yo.
 
 *Lo que me descoloca no es lo que he visto, sino cómo lo ha hecho: sin mirarme, sin mirarse, sin darle ninguna importancia. Se ha inclinado como se inclina cualquiera en su propia casa. Yuki Hayashi no está posando: está mojada, tiene frío y quiere secarse, y esa naturalidad es exactamente lo que me ha dejado sin argumentos.*
 *Y yo aquí de pie, con el corazón golpeándome las costillas, calculando una forma que no me pertenece y archivando un estampado que tampoco. Qué rápido se me olvida a qué he venido a este pueblo.*
@@ -35,6 +35,13 @@ YUKI: "¿Podría... podría usar su baño para secarme un poco?"
 HIROSHI: "Por supuesto. Está al final del pasillo. También hay toallas limpias en el armario."
 Mientras se dirige hacia el baño, observo cómo evalúa cada detalle del taller. Sus ojos se detienen en la organización de mis herramientas, en la limpieza de las superficies, en la disposición de los ingredientes.
 Es el tipo de inspección que solo hace alguien que sabe exactamente qué buscar.
+
+*Se va por el pasillo hasta el baño y yo me quedo mirando esa puerta como un idiota.*
+*Se ha quitado el abrigo, y debajo llevaba la chaqueta de chef: empapada, pegada a la espalda y a los hombros. Empapada y pegada a todo lo demás también. No es algo que haya decidido mirar; es algo que se ha quedado en la retina como se queda la luz de un fogonazo.*
+*Yuki Hayashi tiene la figura de alguien que se ha pasado la vida de pie, con los hombros atrás y la espalda recta. La chaqueta mojada se lo ha contado todo al género, y el género me lo ha contado a mí.*
+*Bajo la mirada al fregadero y abro el grifo. El agua fría me devuelve el sitio.*
+*Muy bien. Tienes una alumna, no una mujer. Y hoy en esta cocina solo se va a cocinar.*
+
 Regresa algunos minutos después, con el cabello parcialmente seco y una compostura renovada. Pero puedo ver que sigue nerviosa - sus manos tiemblan ligeramente cuando se las cruza frente al pecho.
 NARRACIÓN: El baño le devuelve parte del orden, pero no todo. Su trenza lateral suave, aún húmeda y oscura, le cae sobre la clavícula dejando la curva blanca de la nuca al descubierto, y la chaqueta blanca de chef, sin el abrigo encima, le dibuja los hombros de una manera que hasta ahora no había visto. Es delgada, pero no frágil: hay fuerza en la línea de su espalda, en el modo en que se sostiene.
 *No debería estar mirándola así. Lleva aquí diez minutos y ya la estoy mirando como un hombre, no como un cocinero.*
@@ -45,7 +52,7 @@ HIROSHI: "¿Le gustaría una taza de té caliente? Tengo té verde fresco."
 YUKI: "Eso sería... eso sería muy amable."
 Mientras preparo el té, puedo sentir que me observa. No es una observación casual - es el análisis de un profesional evaluando a otro profesional.
 HIROSHI: "¿Ha venido de lejos?"
-YUKI: "De Tokyo." Pausa. "Estaba... estaba viajando y vi el letrero de su taller."
+YUKI: "De Tokio." Pausa. "Estaba... estaba viajando y vi el letrero de su taller."
 Hay algo en la forma en que dice "viajando" que me hace pensar que no es casual. Nadie viene a Sakura-machi por accidente.
 HIROSHI: "¿Es chef?"
 Sus ojos se abren ligeramente, sorprendida de que lo haya notado.
@@ -55,7 +62,7 @@ El rubor le sube de pronto desde la base de la garganta hasta las mejillas, ence
 Por primera vez, una sonrisa muy pequeña y tímida aparece en su rostro.
 YUKI: "Era chef. Ahora... ahora no estoy segura de qué soy."
 Hay dolor en esas palabras. Un dolor profundo y personal.
-*Ha gobernado cocinas enteras, sabe los grados del agua al tacto y el corte exacto de una hoja... pero le rozas los dedos al darle una taza y se queda paralizada, como una niña a la que han pillado en falta. Yuki Hayashi no tiene ni la menor idea de cómo estar frente a un hombre sin un cuchillo en la mano.*
+*Ha gobernado cocinas enteras, sabe los grados del agua al tacto y el corte exacto de una hoja... pero le rozas los dedos al darle una taza y se queda paralizada, como una niña a la que han atrapado en falta. Yuki Hayashi no tiene ni la menor idea de cómo estar frente a un hombre sin un cuchillo en la mano.*
 ELECCIÓN 1:
 OPCIÓN A: "A veces necesitamos alejarnos de lo que éramos para encontrar lo que podemos ser."
 [+2 YUKI, +1 MIKA, +1 REN - Enfoque en transformación personal y nuevos comienzos]
@@ -73,11 +80,7 @@ Algo cambia en su expresión. Una vulnerabilidad que no estaba allí antes.
 YUKI: "¿Y si alguien ya no recuerda por qué empezó?"
 La pregunta cuelga en el aire entre nosotros, cargada de significado personal.
 HIROSHI: "Entonces tal vez ese sea el lugar perfecto para comenzar de nuevo."
-*Se va por el pasillo hasta el baño y yo me quedo mirando esa puerta como un idiota.*
-*Se ha quitado el abrigo, y debajo llevaba la chaqueta de chef: empapada, pegada a la espalda y a los hombros. Empapada y pegada a todo lo demás también. No es algo que haya decidido mirar; es algo que se ha quedado en la retina como se queda la luz de un fogonazo.*
-*Yuki Hayashi tiene la figura de alguien que se ha pasado la vida de pie, con los hombros atrás y la espalda recta. La chaqueta mojada se lo ha contado todo al género, y el género me lo ha contado a mí.*
-*Bajo la mirada al fregadero y abro el grifo. El agua fría me devuelve el sitio.*
-*Muy bien. Tienes una alumna, no una mujer. Y hoy en esta cocina solo se va a cocinar.*
+
 
 
 ESCENA 2.2 - OBSERVANDO DESDE LEJOS
@@ -126,7 +129,7 @@ Después de un momento de duda interna claramente visible, asiente.
 Tomo uno de mis cuchillos favoritos - un cuchillo japonés bien equilibrado - y se lo ofrezco con el mango hacia ella.
 Cuando sus dedos tocan el mango, algo cambia en su rostro. Sus hombros se relajan ligeramente, y por un momento, parece más como la chef profesional que claramente era.
 YUKI: "Está perfectamente equilibrado." Su voz es suave, casi reverente. "¿Cuánto tiempo ha tenido este?"
-HIROSHI: "Unos diez años. Era de mi mentor."
+HIROSHI: "Lo heredé de mi mentor hace unos meses; él lo cuidó y usó por más de diez años."
 Me devuelve el cuchillo con cuidado extremo.
 YUKI: "Debe haber sido muy importante para usted."
 HIROSHI: "Lo era."
@@ -135,14 +138,11 @@ YUKI: "Señor Matsuda... ¿puedo preguntarle algo?"
 HIROSHI: "Por supuesto."
 YUKI: "¿Alguna vez ha tenido miedo de tocar un cuchillo?"
 La pregunta me golpea como un puñetazo. No es lo que esperaba, pero la honestidad en su voz merece una respuesta igualmente honesta.
-HIROSHI: "Sí. Después de... después de que dejé mi último trabajo. Hubo semanas donde no pude siquiera mirar mi kit de cuchillos."
+HIROSHI: "Sí. Después de... después de que dejé mi último trabajo. Hubo cuatro meses en los que no pude siquiera mirar mi kit de cuchillos."
 Sus ojos se llenan de alivio.
 YUKI: "No soy la única entonces."
 HIROSHI: "Definitivamente no es la única."
-*Le paso el delantal y las manos se me quedan un segundo de más cerca de su cintura.*
-*Es un delantal de trabajo: tela gruesa, cordones largos, nada que ver con lo que estoy pensando. Ella se lo ata por delante, con dos vueltas limpias, y el nudo le queda justo debajo del pecho.*
-*Cuando se inclina sobre la tabla, el cuello de la chaqueta se abre un par de centímetros. Nada escandaloso. Nada que un cliente no viera en cualquier cocina del mundo. Y aun así me obligo a contar hasta tres antes de volver a hablar.*
-*Hace años que no me pasaba. O hace años que no me lo permitía.*
+
 
 
 ESCENA 2.3 - EL PRIMER DESAFÍO CULINARIO
@@ -153,6 +153,13 @@ HIROSHI: "¿Qué tenía en mente?"
 YUKI: "Algo simple. Sopa de miso básica. Nada complicado."
 La elección es interesante. Sopa de miso es fundamental - algo que cualquier cocinero japonés debería poder hacer con los ojos cerrados. Pero también es algo donde cada detalle importa.
 HIROSHI: "Excelente elección. Los ingredientes están en la despensa."
+Le paso un delantal limpio antes de comenzar a preparar la estación.
+
+*Le paso el delantal y las manos se me quedan un segundo de más cerca de su cintura.*
+*Es un delantal de trabajo: tela gruesa, cordones largos, nada que ver con lo que estoy pensando. Ella se lo ata por delante, con dos vueltas limpias, y el nudo le queda justo debajo del pecho.*
+*Cuando se inclina sobre la tabla, el cuello de la chaqueta se abre un par de centímetros. Nada escandaloso. Nada que un cliente no viera en cualquier cocina del mundo. Y aun así me obligo a contar hasta tres antes de volver a hablar.*
+*Hace años que no me pasaba. O hace años que no me lo permitía.*
+
 Mientras ella reúne los ingredientes, observo sus movimientos. Son precisos pero rígidos. Cada acción parece requerir una decisión consciente.
 Toma las algas marinas y las examina como si estuviera buscando fallas imperceptibles.
 YUKI: "¿Estas algas están bien? Se ven un poco..."
@@ -182,7 +189,7 @@ OPCIÓN C: "La perfección no existe en la cocina. Solo existe la comida que se 
 Sus ojos se llenan de lágrimas que trata de ocultar volteándose hacia la estufa.
 YUKI: "Es solo que... solía ser mejor en esto."
 HIROSHI: "¿Mejor en qué? Su técnica es impecable."
-YUKI: "En confiar en mi paladar. En saber cuando algo está bien." Su voz se quiebra ligeramente. "Ahora todo me sabe... incorrecto."
+YUKI: "En confiar en mi paladar. En saber cuándo algo está bien." Su voz se quiebra ligeramente. "Ahora todo me sabe... incorrecto."
 Hay algo más aquí. Algo que va más allá de la simple pérdida de confianza.
 HIROSHI: "¿Cuánto tiempo ha pasado desde que cocinó regularmente?"
 YUKI: "Seis meses." Pausa. "Tal vez siete."
@@ -207,13 +214,12 @@ NARRACIÓN: La puerta queda entreabierta y por el hueco entra la lluvia, y tambi
 HIROSHI: "Su sopa está deliciosa. Y su técnica es hermosa. Quienquiera que esté en su cabeza diciéndole lo contrario está equivocado."
 Sus hombros se tensan, pero asiente una vez antes de salir.
 *Por la noche el local es otro sitio.*
-*Sin luz de día, la cocina se vuelve una habitación, y la alumna se vuelve una mujer sentada a un metro de mí con una taza entre las manos. El vapor le sube por la cara y le empaña un poco las pestañas.*
-*Habla de su madre y yo la escucho con una atención que ya no es solo profesional. Le miro las manos, que son bonitas. Le miro la boca cuando duda. Le miro el modo en que se muerde el labio antes de decir algo que le cuesta.*
-*Es una mala idea. Todo esto es una mala idea. Y sin embargo llevo tres días esperando la hora del té como un chaval.*
-*Esta noche no pienso en la sopa. Pienso en el modo en que se llevó la cuchara a la boca, en la curva de su cuello cuando tragó, en la gota de caldo que le quedó en el labio y que se limpió con el pulgar sin darse cuenta.*
-*Pienso en sus manos. Son bonitas, y tiemblan, y yo querría cubrírselas con las mías hasta que dejaran de hacerlo.*
-*Pienso en el hueco que dejó en la silla, todavía tibio. En que hace una hora ese hueco era de nadie y ahora es de ella.*
-*Nadie me advirtió que un taller vacío pudiera llenarse tan rápido. Ni que una mujer empapada pudiera oler a lluvia y a miso y a algo que no tiene nombre.*
+*Sin luz de día, la cocina se vuelve más grande y silenciosa, pero todavía flota en el aire el aroma del caldo que preparamos juntos.*
+*Hay algo en su mirada que no me deja en paz: esa voz que la paraliza, ese peso invisible que arrastra cada vez que se acerca a una estufa. Sé lo que es eso; sé exactamente lo que se siente dudar de cada movimiento.*
+*Pienso en el modo en que se llevó la cuchara a la boca, en la curva de su cuello cuando tragó, en la gota de caldo que le quedó en el labio y que se limpió con el pulgar sin darse cuenta.*
+*Pienso en sus manos. Son precisas, hermosas, y tiemblan de una manera que me desarma. Y yo querría cubrírselas con las mías hasta que dejaran de hacerlo.*
+*Pienso en el hueco que dejó frente a la estufa, todavía tibio. En que hace unas horas este taller era solo silencio y ahora no puedo dejar de buscarla en cada rincón.*
+*Nadie me advirtió que un taller vacío pudiera llenarse tan rápido de la ausencia de alguien.*
 
 
 
@@ -257,7 +263,7 @@ OPCIÓN B: "Algunos días mejor que otros. Pero he aprendido que castigarme no a
 OPCIÓN C: "Aún estoy aprendiendo. Por eso estoy aquí, tratando de encontrar una manera de hacer algo bueno."
 [+1 a todas - Enfoque en crecimiento continuo y búsqueda de propósito]
 Yuki permanece en silencio por un largo momento, procesando mi respuesta.
-YUKI: "Mi madre murió tres dias después de mi última conversación con ella."
+YUKI: "Mi madre murió tres días después de mi última conversación con ella."
 Las palabras salen tan suavemente que casi las pierdo.
 YUKI: "Tuvimos una discusión. Sobre mi cocina. Sobre..." Su voz se quiebra. "Sobre cosas estúpidas que no importaban."
 Mi corazón se aprieta. Ahora entiendo el dolor en sus ojos.
@@ -277,7 +283,7 @@ YUKI: "¿Puedo... puedo volver mañana? Para intentar otra vez?"
 HIROSHI: "Puede venir cuando quiera. La puerta está siempre abierta."
 YUKI: "Gracias." Se pone de pie. "Por escuchar. Por no juzgar."
 HIROSHI: "Todos necesitamos un lugar seguro para sanar."
-Mientras la veo alejarse en la noche, siento algo que no había sentido en meses: la sensación de que tal vez, solo tal vez, puedo ayudar a alguien de la manera que no pude ayudar antes.
+Mientras la veo alejarse en la noche, una certeza silenciosa se instala en mi pecho: tal vez, solo tal vez, puedo ayudar a alguien de la manera que no pude ayudar antes.
 *La veo marchar por la calle principal y me quedo en la puerta más tiempo del que hace falta para despedirse.*
 *Desde atrás tiene la misma compostura de siempre: la espalda recta, los pasos medidos, el pelo negro recogido con una precisión casi cruel. Pero ya sé lo que hay debajo de esa línea recta. Sé que le tiemblan las manos, que cocina mejor cuando se olvida de sí misma y que, cuando sonríe de verdad, se le forma un hoyuelo en la mejilla izquierda.*
 *Ese hoyuelo es un problema. Un problema pequeño, tonto, que me va a costar más de lo que debería.*
@@ -300,12 +306,12 @@ HIROSHI: "Es una excelente elección."
 Mientras reúne los ingredientes, noto que se mueve con más fluidez que ayer. Sigue siendo precisa, pero menos rígida.
 YUKI: "¿Puedo preguntarle algo mientras cocino?"
 HIROSHI: "Por supuesto."
-YUKI: "¿Cómo sabe cuando algo está 'suficientemente bueno'? No perfecto, solo... suficientemente bueno?"
+YUKI: "¿Cómo sabe cuándo algo está 'suficientemente bueno'? No perfecto, solo... suficientemente bueno?"
 Es una pregunta profunda viniendo de alguien que claramente ha luchado contra el perfeccionismo toda su vida.
 HIROSHI: "Creo que 'suficientemente bueno' es cuando el amor supera a la técnica."
 Comienza a batir los huevos con movimientos suaves y controlados.
 YUKI: "¿Qué significa eso?"
-HIROSHI: "Significa que si pone amor en el plato - amor por el proceso, amor por la persona que lo va a comer, amor por la memoria que representa - entonces los pequeños imperfectos técnicos no importan."
+HIROSHI: "Significa que si pone amor en el plato - amor por el proceso, amor por la persona que lo va a comer, amor por la memoria que representa - entonces las pequeñas imperfecciones técnicas no importan."
 Vierte la primera capa de huevo en la sartén. Su técnica es hermosa - controlada pero no tensa.
 YUKI: "Mi madre siempre decía que la comida hecha con amor sabe mejor que la comida hecha con perfección."
 HIROSHI: "Su madre sonaba como una mujer sabia."
@@ -329,8 +335,8 @@ YUKI: "¿Qué?"
 HIROSHI: "Significa que todavía lleva su amor con usted. En sus manos, en su técnica, en su corazón."
 Se limpia las lágrimas y sonríe - la primera sonrisa genuina que le he visto.
 YUKI: "Señor Matsuda... ¿puedo quedarme en el pueblo por un tiempo? ¿Tal vez tomar clases regulares?"
-HIROSHI: "Me encantaría tenerla aquí."
-YUKI: "Y tal vez... tal vez pueda ayudar con el taller. Si necesita ayuda."
+HIROSHI: "Me encantaría tenerla aquí. La Señora Tanaka tiene una habitación de huéspedes en una de las casas tranquilas de la calle principal que seguro puede alquilarle."
+YUKI: "Se lo agradecería mucho. Y tal vez... tal vez pueda ayudar con el taller. Si necesita ayuda."
 HIROSHI: "Siempre puedo usar un par de manos expertas."
 Mientras limpiamos juntos, hay una sensación de paz en el espacio que no estaba allí antes. Como si algo que había estado roto empezara a sanar.
 YUKI: "Señor Matsuda?"
@@ -340,8 +346,8 @@ HIROSHI: "Gracias por ser la primera persona en darle una oportunidad a este lug
 Mientras organiza sus cosas, noto que se mueve con una gracia que no había visto antes. Todavía precisa, todavía cuidadosa, pero sin la rigidez del miedo.
 YUKI: "¿Mañana a la misma hora?"
 HIROSHI: "Estaré aquí."
-Mientras la veo alejarse por la calle principal, siento algo que no había sentido en mucho tiempo: esperanza real.
-No solo esperanza de que el taller funcione, sino esperanza de que tal vez, después de todo, puedo ayudar a las personas a sanar.
+Mientras la veo alejarse por la calle principal, una convicción nueva y luminosa despierta en mí: el taller no es solo un refugio para mí, sino un lugar donde otros pueden sanar.
+No solo la satisfacción de que el taller funcione, sino la certeza de que tal vez, después de todo, puedo ayudar a las personas a reencontrarse consigo mismas.
 Una persona a la vez.
 Un plato a la vez.
 Yuki Hayashi fue la primera. Pero algo me dice que no será la última.
@@ -352,7 +358,7 @@ YUKI: Desarrollo significativo de su trasfondo y trauma, primera conexión real 
 MIKA: Puntos por enfoque colaborativo y emocional
 REN: Puntos por comprensión de perdón propio y segundas oportunidades
 SAKI: Puntos por valorar tradición y amor sobre técnica perfecta
-Establecido: Yuki como primera residente permanente del "santuario" de Hiroshi
+Establecido: Yuki como primera alumna regular del "santuario" de Hiroshi (quedándose en el pueblo)
 Tono: Equilibrio perfecto entre dolor y sanación, desesperanza y esperanza
 PRÓXIMO: Capítulo 3 - "Energía Nueva" (Llegada de Mika con contraste de personalidad)
 CORAZONES EN EBULLICIÓN

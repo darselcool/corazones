@@ -30,7 +30,7 @@ HIROSHI: "Sí. Estoy buscando alquilar un local para abrir un pequeño taller de
 La anciana me estudia por un momento largo, como si tratara de resolver un acertijo.
 ANCIANA: "Un taller de cocina..." murmura. "Hace mucho que nadie viene aquí con planes. Soy Hanako Sato. Mi familia ha vivido en este pueblo por cuatro generaciones."
 HIROSHI: "Es un placer conocerla, Señora Sato."
-HANAKO: "La Señora Tanaka maneja el único negocio que queda abierto - el pequeño mercado. Ella sabría sobre locales disponibles." Señala hacia una estructura de madera al final de la calle. "Aunque debo advertirle... este pueblo no es lo que era antes."
+HANAKO: "La Señora Tanaka maneja el mercado general, prácticamente el único negocio de abarrotes que queda abierto aquí —aparte de mi pequeño puesto de dulces—. Ella sabría sobre locales disponibles." Señala hacia una estructura de madera al final de la calle. "Aunque debo advertirle... este pueblo no es lo que era antes."
 Miro alrededor, observando las ventanas cerradas y los letreros descoloridos.
 ELECCIÓN 1:
 OPCIÓN A: "Todo lugar merece una segunda oportunidad, ¿no cree?"
@@ -69,7 +69,7 @@ Se dirige hacia una caja registradora antigua y saca un juego de llaves.
 SEÑORA TANAKA: "¿Le gustaría verlo?"
 HIROSHI: "Me encantaría."
 Cruzamos la calle vacía. La Señora Tanaka forcejea con la cerradura por un momento antes de que la puerta se abra con un gemido.
-SEÑORA TANAKA: "Perdone el polvo. No ha entrado nadie en meses."
+SEÑORA TANAKA: "Perdone el polvo. Lleva años cerrado y hace meses que ni abro las contraventanas."
 El interior es mejor de lo que esperaba. El espacio principal tiene mesas y sillas cubiertas con sábanas blancas, como fantasmas de comidas pasadas. Pero hay algo hermoso en la distribución - ventanas grandes que permiten mucha luz natural, pisos de madera que solo necesitan pulirse.
 SEÑORA TANAKA: "La cocina está por aquí."
 Me lleva a través de una puerta batiente hacia la cocina. Es espaciosa, con estufas industriales, un horno grande, y amplias superficies de trabajo. Todo está cubierto de polvo, pero la infraestructura básica está intacta.
@@ -182,7 +182,7 @@ HIROSHI: [En voz baja] "Bueno, viejo amigo. Aquí estamos."
 *El cuchillo pesa más de lo que debería. Hoja de acero al carbono, mango de madera oscura gastado por dos manos: la suya y la mía. Kenji decía que un cuchillo bien cuidado era la única prueba de que un cocinero respetaba su oficio.*
 *Lo dejo en el soporte con las dos manos. Como se deja una reliquia. Como se deja a alguien.*
 *Si estuviera aquí, se reiría de mí. «Un taller de cocina en un pueblo muerto, Hiroshi. ¿Y tú te crees que vas a llenar eso?» Se reiría. Y después se pondría el delantal y empezaría a mover las cosas de sitio sin pedir permiso.*
-*Le echo de menos de una forma que no tiene nada que ver con la cocina.*
+*Lo extraño de una forma que no tiene nada que ver con la cocina.*
 Por primera vez en meses, puedo imaginar un futuro donde cocinar trae alegría en lugar de estrés.
 Tal vez nadie venga mañana. O la próxima semana. Tal vez este experimento fracasará completamente.
 Pero por ahora, en este momento silencioso, siento algo que no había sentido en mucho tiempo.

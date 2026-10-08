@@ -7,7 +7,7 @@
 
 ## El mundo culinario externo
 
-- **Tokio**: capital gastronómica del trasfondo. Hiroshi tuvo carrera con "estrellas Michelin, críticas, expectativas, presión" (Cap. 1.3). Ren recibió oferta de sous chef en "uno de los restaurantes más prestigiosos de Tokyo" (Cap. 5.5). Yuki y Mika vienen de Tokio (Caps. 2.1, 3.1).
+- **Tokio**: capital gastronómica del trasfondo. Hiroshi tuvo carrera con "estrellas Michelin, críticas, expectativas, presión" (Cap. 1.3). Ren recibió oferta de sous chef en "uno de los restaurantes más prestigiosos de Tokio" (Cap. 5.5). Yuki y Mika vienen de Tokio (Caps. 2.1, 3.1).
 - **Industria corrupta**: Hiroshi expuso "explotación laboral y fraude"; los inversores corruptos son poderosos (Cap. 1.3).
 - **Medios y fama**: productores, programas de TV, revistas (Gourmet Digest), Food Network americano (Caps. 21, 13H). La tensión fama/autenticidad es un conflicto recurrente de Mika.
 - **Festival Gastronómico de Japón**: evento prestigioso con audiencia de 3,000 personas; nombró a Sakura-machi "Destino Gastronómico del Año" (Cap. 15H.5).

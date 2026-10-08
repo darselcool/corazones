@@ -3,19 +3,22 @@ ESCENA 5.1 - MAÑANA TÍPICA
 NARRACIÓN: Tres semanas han pasado desde que se formó nuestro grupo, y lo que una vez fue caos experimental se ha convertido en algo que se siente sorprendentemente natural.
 Son las siete y media de la mañana, y el taller ya está cobrando vida.
 Yuki llega primera, como siempre, con su precisión temporal característica. Sus pasos son suaves pero decididos mientras abre las ventanas para dejar entrar el aire fresco de la mañana.
-Mika aparece diez minutos después, con una energía que ha aprendido a modular pero que nunca pierde su calidez genuina. Trae consigo el aroma de pan fresco que compró en la panadería que la Señora Tanaka abastece.
+Mika aparece diez minutos después, con una energía que ha aprendido a modular pero que nunca pierde su calidez genuina. Trae consigo el aroma de pan fresco que compró en el mercado de la Señora Tanaka.
 Ren llega exactamente a las ocho, cargando una caja de ingredientes que ordenó especialmente. Su puntualidad es militar, pero su sonrisa matutina se ha vuelto más frecuente.
 Saki es la última en llegar, no por tardanza sino porque siempre se detiene a charlar con los ancianos del pueblo que salen a sus caminatas matutinas. Entra con historias y chismes locales que mantienen a todos conectados con la comunidad.
 
 *Las miro trabajar y caigo en la cuenta de que ya no las veo como clientas.*
-*Veo la nuca de Yuki cuando se inclina sobre la tabla de cortar: esa franja de piel pálida que el pelo recogido deja al descubierto, el tendón fino que se le tensa al girar el cuello. Veo los antebrazos de Ren, duros y seguros, con esa vena que le marca el esfuerzo de amasar y que hace que una se pregunte cosas que no debería preguntarse a las siete y media de la mañana. Y está el momento de hace diez minutos, que no me ha soltado: cuando ha dejado en el suelo la caja de ingredientes que traía, se ha agachado con las rodillas y la espalda recta —como quien aprendió a levantar peso antes que a cocinar—, la ha apoyado con las dos manos y ha vuelto a subir sin agarrarse a nada. En esos dos segundos las piernas de Ren Takahashi han quedado a la vista entera: el gemelo duro por encima de la bota, el muslo ancho, la parte interna en tensión, la línea que sube hasta la cadera y se pierde donde el pantalón se arruga. No son piernas de gimnasio; son piernas de cargar cajas entre el mercado y la cocina, y eso es exactamente lo que las hace peligrosas. Ha tardado un segundo de más en incorporarse, sabiendo que la estaba mirando, sin corregir nada, sin apartarme los ojos de encima. El único cuerpo de esta casa que no se disculpa por existir es el suyo. Veo a Mika quitarse la sudadera porque dice que hace calor y quedarse con la camiseta pegada a la espalda, y el modo en que la tela se le ciñe cuando estira el brazo hacia el estante alto. Veo a Saki servir el té con esa calma de quien sabe que la están mirando y no le importa: la cinta del delantal cruzándole el pecho por debajo del busto y el primer botón de la blusa aguantando el peso con una dignidad que no le corresponde. Las cuatro me llegan por sitios distintos, y eso es lo que me tiene mal: a Yuki la veo, a Ren la siento, a Mika la oigo y a Saki la escucho. Y de Saki, además, hay una parte que entra por los ojos y que no sé cómo devolver. Cuatro sentidos y ninguno de ellos es neutral.*
+*Veo la nuca de Yuki cuando se inclina sobre la tabla de cortar: esa franja de piel pálida que el pelo recogido deja al descubierto, el tendón fino que se le tensa al girar el cuello. Veo los antebrazos de Ren, duros y seguros, con esa vena que le marca el esfuerzo de amasar y que hace que uno se pregunte cosas que no debería preguntarse a las siete y media de la mañana. Y está el momento de hace diez minutos, que no me ha soltado: cuando ha dejado en el suelo la caja de ingredientes que traía, se ha agachado con las rodillas y la espalda recta —como quien aprendió a levantar peso antes que a cocinar—, la ha apoyado con las dos manos y ha vuelto a subir sin agarrarse a nada. En esos dos segundos las piernas de Ren Takahashi han quedado a la vista entera: el gemelo duro por encima de la bota, el muslo ancho, la parte interna en tensión, la línea que sube hasta la cadera y se pierde donde el pantalón se arruga. No son piernas de gimnasio; son piernas de cargar cajas entre el mercado y la cocina, y eso es exactamente lo que las hace peligrosas. Ha tardado un segundo de más en incorporarse, sabiendo que la estaba mirando, sin corregir nada, sin apartarme los ojos de encima. El único cuerpo de esta casa que no se disculpa por existir es el suyo. Veo a Mika quitarse la sudadera porque dice que hace calor y quedarse con la camiseta pegada a la espalda, y el modo en que la tela se le ciñe cuando estira el brazo hacia el estante alto. Veo a Saki servir el té con esa calma de quien sabe que la están mirando y no le importa: la cinta del delantal cruzándole el pecho por debajo del busto y el primer botón de la blusa aguantando el peso con una dignidad que no le corresponde. Las cuatro me llegan por sitios distintos, y eso es lo que me tiene mal: a Yuki la veo, a Ren la siento, a Mika la oigo y a Saki la escucho. Y de Saki, además, hay una parte que entra por los ojos y que no sé cómo devolver. Cuatro sentidos y ninguno de ellos es neutral.*
 *Cuatro cuerpos que conozco en delantal. Cuatro mujeres que no conozco sin él.*
 *Y una parte de mí, la peor parte de mí, lleva semanas preguntándose por la segunda versión.*
 MIKA: "¡Buenos días, familia culinaria!"
 Es un saludo que empezó como broma pero que ahora se siente completamente natural.
 YUKI: "Buenos días. El té está listo."
 REN: "Y yo traje esos hongos especiales que mencioné ayer."
-SAKI: "La Señora Watanabe dice que va a llover esta tarde. Deberíamos planear algo que vaya bien con clima lluvioso."
+SAKI: "La Señora Tanaka y los ancianos del pueblo me preguntaron esta mañana si podríamos organizar una degustación comunitaria del taller para el festival este sábado. Quieren ver lo que este grupo puede ofrecer."
+HIROSHI: "¿Un servicio para el festival del pueblo? Sería una gran prueba, y una forma hermosa de agradecerles el espacio."
+REN: "Un servicio completo requiere disciplina y ritmo. Tendremos que planificar bien las recetas y los tiempos."
+SAKI: "Exacto. Y además la Señora Watanabe dice que va a llover esta tarde. Deberíamos planear algo que vaya bien con clima lluvioso mientras organizamos el menú del sábado."
 Es fascinante cómo cada una ha encontrado su rol natural en esta rutina matutina.
 Yuki se encarga de las preparaciones básicas - té, organización del espacio, revisión de ingredientes.
 Mika mantiene el ambiente alegre y asegura que todos nos sintamos incluidos en las conversaciones.
@@ -46,25 +49,25 @@ SAKI: "Y como si confiáramos unos en otros sin necesidad de probarnos constante
 YUKI: "Es la primera vez que algo se siente... permanente. En el buen sentido."
 Es exactamente eso. Hemos creado un espacio donde la imperfección no solo es aceptable, sino valorada.
 ELECCIÓN 1:
-OPCIÓN A: "Creo que deberíamos pasar tiempo individual juntos también. Conocernos más profundamente como personas, no solo como cocineros."
+OPCIÓN A: "Creo que deberíamos alternar tiempo individual además del trabajo grupal. Conocernos más profundamente en la cocina, uno a uno."
 [+2 a la heroína con quien se pase tiempo primero - Enfoque en conexiones personales profundas]
-OPCIÓN B: "¿Qué tal si cada una de nosotros toma turnos liderando un día? Así podemos aprender de los diferentes estilos de enseñanza."
+OPCIÓN B: "¿Qué tal si cada uno de nosotros toma turnos liderando las mañanas? Así aprenderemos de los diferentes estilos de todos."
 [+1 a todas - Enfoque en liderazgo compartido y aprendizaje mutuo]
-OPCIÓN C: "Deberíamos documentar lo que estamos haciendo aquí. No para publicarlo, sino para recordar este viaje de sanación."
+OPCIÓN C: "Deberíamos combinar ambas cosas: clases matutinas donde compartamos el liderazgo y tardes de práctica individual."
 [+2 YUKI, +1 SAKI, +1 MIKA - Enfoque en reflexión y preservación de memorias]
 La sugerencia resuena de diferentes maneras con cada una.
-MIKA: "Me gusta la primera idea. A veces siento que conozco sus técnicas de cocina mejor que sus historias personales."
-YUKI: "Sí, podríamos aprender mucho unos de otros fuera del contexto grupal."
-REN: "Siempre y cuando no se vuelva demasiado... terapéutico."
-SAKI: "Un poco de terapia no le hace daño a nadie, Ren."
+MIKA: "Me parece una gran idea. A veces siento que entre el grupo nos perdemos los detalles personales y los estilos de cada uno."
+YUKI: "Sí, podríamos aprender mucho tanto al compartir la enseñanza en las mañanas como al trabajar en parejas por la tarde."
+REN: "Siempre y cuando no se vuelva demasiado... disperso. Manteniendo la disciplina en la cocina."
+SAKI: "La disciplina y la cercanía no están peleadas, Ren."
 Se ríe, pero puedo ver que la idea en realidad le atrae.
-HIROSHI: "¿Entonces estamos de acuerdo? ¿Tiempo individual además de nuestro trabajo grupal?"
+HIROSHI: "¿Entonces estamos de acuerdo? Rotaremos el liderazgo en las mañanas técnicas y dedicaremos tiempo individual en las tardes."
 TODOS: "Sí."
 Y así, sin saber completamente lo que estoy iniciando, abro la puerta a un territorio del que no voy a poder volver entero.
 Conexiones personales que van más allá de la amistad.
 Pero por ahora, en este momento perfecto de la mañana, simplemente disfrutamos de la rutina que hemos construido juntos.
 ESCENA 5.2 - CLASES DE TÉCNICA
-NARRACIÓN: La parte formal de nuestro día comienza cuando todos estamos instalados y hemos planificado el menú. Hoy me toca a mí liderar, y he decidido enfocarme en técnicas de corte avanzadas.
+NARRACIÓN: La parte formal de nuestro día comienza cuando todos estamos instalados y hemos planificado el menú. Hoy me toca a mí abrir la rotación de liderazgo, y he decidido enfocarme en técnicas de corte avanzadas.
 Es fascinante observar cómo cada una aborda el aprendizaje de manera diferente.
 HIROSHI: "Vamos a trabajar en cortes de precisión. No porque la perfección sea el objetivo, sino porque la consistencia mejora tanto la cocción como la presentación."
 Yuki asiente inmediatamente. Para ella, la técnica es como meditación.
@@ -75,7 +78,7 @@ HIROSHI: "Empezaremos con juliana básica. Yuki, ¿quieres demostrar tu técnica
 Yuki se acerca a la estación principal con confianza tranquila. Durante estas semanas, ha florecido en su rol como mentora ocasional.
 YUKI: "La clave está en la posición de los dedos. Así."
 Demuestra el corte con movimientos fluidos y seguros. Ya no hay temblor en sus manos, no hay la ansiedad paralizante que tenía cuando llegó.
-MIKA: "¡Guau! Haces que se vea tan fácil."
+MIKA: "¡Increíble! Parece magia cuando mueves los dedos así."
 YUKI: "Solo es práctica. Y paciencia contigo misma."
 Es hermoso ver cómo Yuki ha encontrado su voz como maestra.
 REN: "Tu técnica es sólida, pero ¿puedo sugerir un ajuste en el ángulo?"
@@ -92,7 +95,7 @@ SAKI: "¿Puedo mostrar una técnica alternativa que podría funcionar mejor para
 Saki demuestra un método ligeramente diferente que acomoda el estilo más libre de Mika.
 SAKI: "A veces la técnica tiene que adaptarse a la persona, no al revés."
 Cuando Mika prueba la técnica adaptada, funciona mucho mejor.
-MIKA: "¡Esto es mucho más natural! ¿Por qué no me enseñaron esto antes?"
+MIKA: "¡Esto es mucho más natural! Jamás se me habría ocurrido ajustar el ángulo de esa forma."
 HIROSHI: "Porque la mayoría de la educación culinaria asume que hay una sola manera correcta de hacer las cosas."
 REN: "Cuando en realidad, diferentes técnicas funcionan para diferentes personas."
 Es una revelación que ha tomado tiempo para que todas aceptemos.
@@ -191,31 +194,28 @@ Su rostro se colorea con un rubor hermoso.
 YUKI: "¿De verdad lo crees?"
 HIROSHI: "Completamente. Has florecido de maneras que no creo que ni siquiera te des cuenta."
 Se acerca ligeramente, y por un momento, el aire entre nosotros se carga de algo más que amistad.
-Pero entonces suena el timer del horno, rompiendo el hechizo.
+Pero entonces suena el temporizador del horno.
 YUKI: "Los panes están listos."
-Mientras sacamos nuestras creaciones ridículas pero alegres del horno, hay una nueva calidez entre nosotros.
-Algo ha cambiado en nuestra dinámica.
-Algo hermoso y aterrador al mismo tiempo.
-Mientras empacamos los panes para compartir con los demás más tarde, Yuki me toca ligeramente el brazo.
+Sacamos las bandejas del horno y las dejamos enfriar sobre las rejillas, con el aroma dulce invadiendo el taller. Mientras los dejamos reposar para compartir con los demás, Yuki me toca ligeramente el brazo.
 YUKI: "Hiroshi... esto que estamos construyendo aquí... ¿crees que podría durar?"
 HIROSHI: "¿Te refieres al grupo?"
 YUKI: "Me refiero a... a todo. El grupo, este lugar, estos sentimientos."
 Es una pregunta cargada de esperanza y miedo.
-HIROSHI: "Creo que las cosas hermosas duran cuando las personas involucradas deciden que valen la pena proteger."
+HIROSHI: "Creo que las cosas hermosas duran cuando las personas involucradas deciden que vale la pena protegerlas."
 YUKI: "Entonces tenemos que decidir proteger esto."
 HIROSHI: "¿Estás dispuesta a hacer eso?"
 YUKI: "Sí. Completamente."
-Nos quedamos los dos mirando la masa que sobró en la tabla, y ninguno de los dos dice nada de lo que acaba de decir el otro.
+Nos quedamos los dos mirando un resto de masa que sobró en la tabla, y ninguno de los dos dice nada más sobre lo que acabamos de hablar.
 La llevo al mostrador metálico, la espolvoreo y empiezo a trabajarla. No hace falta que le diga nada: se pone a mi lado, se remanga otra vez y mete las manos en la masa conmigo, y durante un rato lo único que hay en el taller es el ruido de la harina.
 
-*Es la primera vez en cuatro semanas que estoy solo con ella en un taller cerrado y sin reloj. Lo pienso y me da vergüenza pensarlo, porque sé exactamente lo que estoy calculando: cuánto tiempo tenemos.*
+*Es la primera vez a solas con ella desde que llegaron las demás en un taller cerrado y sin reloj. Lo pienso y me da vergüenza pensarlo, porque sé exactamente lo que estoy calculando: cuánto tiempo tenemos.*
 
 Es ella la que rompe el ritmo. Deja de amasar con la izquierda, se limpia la mano en el delantal, se gira medio cuerpo y me la pone abierta en el pecho, a la altura del esternón, sin apretar.
 YUKI: "Enséñame cómo lo haces tú."
 HIROSHI: "¿El pan?"
 YUKI: "El pan. Y lo otro. Que también lo haces tú."
 Le pongo las manos encima de las suyas, desde atrás, y le corrijo el ángulo del codo y el peso de la muñeca como se corrige una técnica: con la voz, sin tocar nada más. Aprende rápido. Siempre aprende rápido, y eso es un problema, porque a la tercera pasada ya no necesita que le sujete las manos y yo no he quitado las mías.
-Y entonces se para. Deja las dos manos quietas dentro de la masa, se echa un centímetro hacia atrás y me coloca las mías —las dos— sobre su cintura, por encima del delantal. Sin girarse. Sin pedirlo. Coge mi mano derecha, la lleva donde quiere que esté y la sujeta ahí con la suya.
+Y entonces se para. Deja las dos manos quietas dentro de la masa, se echa un centímetro hacia atrás y me coloca las mías —las dos— sobre su cintura, por encima del delantal. Sin girarse. Sin pedirlo. Toma mi mano derecha, la lleva donde quiere que esté y la sujeta ahí con la suya.
 Estoy duro contra su espalda baja y ella lo sabe desde el primer segundo, porque no hay tela entre los dos que lo disimule. Y no dice nada. Se queda con una sola mano en la masa, trabajándola como si aquello fuera el trabajo.
 
 *Y entiendo, con dos segundos de retraso, para qué la está usando: para poder decir, si alguien entrara ahora, que estaba cocinando. La única persona de esta casa incapaz de mentir acaba de fabricarse una coartada, y la ha fabricado con mi cuerpo.*
@@ -224,13 +224,13 @@ Estoy duro contra su espalda baja y ella lo sabe desde el primer segundo, porque
 
 YUKI: [Sin girarse, con la voz más baja que le he oído nunca] "¿Puedes parar tú? Dímelo ahora, que ahora es cuando sirve."
 HIROSHI: "Puedo. No quiero."
-YUKI: "Entonces los dos sabemos lo que hay. Y no me lo digas mañana como si te hubiera pillado por sorpresa."
+YUKI: "Entonces los dos sabemos lo que hay. Y no me lo digas mañana como si te hubiera tomado por sorpresa."
 Se le dobla un dedo: solo el índice de la mano libre, que empieza a temblar sobre el borde del mostrador. No es miedo y no es frío. Es un temblor de precisión, el de una mano que sabe hacer una cosa y está haciendo otra.
 Y ese temblor es lo que la para a ella. Se aparta un paso, limpio, sin sobresalto y sin vergüenza, y me deja las manos en el aire donde estaban.
-YUKI: [Mirándose los dedos] "Cuando me tiembla así no puedo cortar. Y mañana hay servicio."
+YUKI: [Mirándose los dedos] "Cuando me tiembla así no puedo cortar. Y mañana hay preparativos para el servicio."
 HIROSHI: "Yuki."
 YUKI: "No es una excusa. Es una razón, y es distinta. Si fuera una excusa me habría ido sin decirte nada."
-Coge la masa y la tira a la basura. Está sobrecalentada de tanto trabajarla: ya no sirve para nada.
+Toma la masa y la tira a la basura. Está sobrecalentada de tanto trabajarla: ya no sirve para nada.
 HIROSHI: "Se puede dejar reposar."
 YUKI: "Hoy no. Hoy se tira."
 Se lava las manos con una calma que no le conozco, se seca los dedos uno a uno y vuelve a su lista de tareas de cierre, porque es eso lo que hace Yuki Hayashi cuando algo la desborda: ordena. Y yo me quedo plantado junto al mostrador con las manos todavía abiertas y con la sensación de haber estado a un dedo de algo que no sé nombrar.
@@ -258,7 +258,7 @@ HIROSHI: "Mika, ¿puedo decirte lo que veo cuando te observo aquí?"
 MIKA: "Por favor."
 HIROSHI: "Veo a alguien que se permite tener días malos sin fingir que está bien. Veo a alguien que celebra los éxitos pequeños de otros sin convertirlo en contenido. Veo a alguien que llora cuando algo la toca genuinamente."
 Sus ojos se llenan de lágrimas.
-HIROSHI: "Esa persona no está actuando. Esa persona es tú."
+HIROSHI: "Esa persona no está actuando. Esa persona eres tú."
 MIKA: "¿Pero cómo puedo estar segura?"
 HIROSHI: "¿Qué sientes ahora mismo, en este momento?"
 MIKA: "Siento... miedo. Pero también esperanza. Y gratitud."
@@ -296,10 +296,10 @@ MIKA: "Sabe exactamente como la recuerdo."
 Mientras las galletas se hornean, nos sentamos juntos en la mesa.
 MIKA: "Hiroshi..."
 HIROSHI: "¿Sí?"
-MIKA: "Creo que me estoy enamorando."
+MIKA: "Creo que me estoy ilusionando de verdad."
 Mi corazón se acelera.
-HIROSHI: "¿De quién?"
-MIKA: "De la posibilidad de ser feliz otra vez. De este lugar. De..." Se detiene, como si fuera a decir algo más personal.
+HIROSHI: "¿Con qué?"
+MIKA: "Con la posibilidad de ser feliz otra vez. De este lugar. De..." Se detiene, como si fuera a decir algo más personal.
 
 *Se ha acercado tanto que puedo olerla: azúcar, mantequilla y ese champú dulzón que usa. Tiene una pestaña pegada en la mejilla, una miga de masa en el borde del labio, y yo estoy mirando ese borde de labio como si fuera lo único que existe en el pueblo.*
 *Si levanto la mano y se la quito, se acaba. Lo que sea que es esto, se acaba, porque no habría vuelta atrás. No levanto la mano. Pero tampoco aparto los ojos.*
@@ -337,13 +337,13 @@ Después se sube al mostrador. Se sienta encima, se quita las zapatillas y las d
 MIKA: "Te voy a contar una cosa que no le he contado a nadie. En los rodajes había días de comida. Catorce platos. Yo probaba un bocado de cada uno, lo masticaba, lo escupía en un cubo que quedaba fuera de plano y me enjuagaba la boca. Tres años así."
 HIROSHI: "¿Y lo peor?"
 MIKA: "Que no me acuerdo de a qué sabía nada de aquello. Comí delante de una cámara durante tres años y no saboreé ni un plato. Por eso me acuerdo de la masa cruda de mi hermana y no me acuerdo del menú de mis propios vídeos."
-Se limpia el pulgar con la servilleta, y no sirve de nada, porque se ha vuelto a manchar al coger la caja. Le queda una miga de masa en el borde del labio.
+Se limpia el pulgar con la servilleta, y no sirve de nada, porque se ha vuelto a manchar al tomar la caja. Le queda una miga de masa en el borde del labio.
 La veo. Es exactamente la miga que llevo veinte minutos negándome a quitarle, la que decidí no tocar porque en cuanto la tocara se acababa lo que fuera que es esto. Y esta vez levanto la mano.
 Le pongo el pulgar en la comisura, muy despacio, y se la quito. Es un gesto de nada. Es el gesto de un hermano mayor y de un cocinero.
 Y ella me cierra la mano sobre la muñeca. No me aparta: me sujeta. Se queda con mi pulgar en su boca y los ojos abiertos, mirándome desde la misma distancia a la que se mira un espejo, y toda la naturalidad se le cae de la cara de golpe.
 MIKA: "Ya está. Ya lo has hecho."
 HIROSHI: "Sí."
-MIKA: "Entonces ya no vale decir que no."
+MIKA: "Entonces ya no se vale decir que no."
 Se descuelga del mostrador sin bajarse: me engancha la correa del delantal y tira de mí hasta que quedo de pie entre sus rodillas, con sus talones cerrándose detrás de mis piernas y sus pies descalzos apoyados en el cajón de abajo.
 Se le ha ido la cabeza hacia atrás. Tiene la garganta entera al aire —esa que le vi el primer día, la que no he podido dejar de ver desde entonces— y la respiración le sube y le baja por ahí marcándole el pulso.
 Yo no la beso. Estoy a un centímetro de su cuello y no la beso, y ese centímetro es lo único que me queda de educación.
@@ -381,7 +381,7 @@ HIROSHI: "Estás cortando esas cebollas como si te hubieran ofendido personalmen
 Se detiene y pone el cuchillo abajo.
 REN: "Recibí una llamada hoy. De mi antigua cocina."
 Espero a que continúe.
-REN: "Me ofrecieron un puesto. Sous chef en uno de los restaurantes más prestigiosos de Tokyo."
+REN: "Me ofrecieron un puesto. Sous chef en uno de los restaurantes más prestigiosos de Tokio."
 HIROSHI: "Eso es... impresionante."
 REN: "Sí. Es exactamente lo que pensé que quería hace seis meses."
 HIROSHI: "¿Pero?"
@@ -462,20 +462,20 @@ HIROSHI: "Completamente."
 Se acerca más, y puedo sentir la misma tensión romántica que he sentido con Yuki y Mika.
 REN: "Hiroshi... ¿puedo decirte algo que me confunde?"
 HIROSHI: "Por favor."
-REN: "Nunca había sentido que alguien viera valor en mí más allá de mi rendimiento. Y eso está... cambiando cosas para mí."
+REN: "Que por primera vez siento que alguien se preocupa por mí y no solo por mis resultados. Y eso... me descoloca por completo."
 Mientras recogemos el desastre, me pongo al fregadero con ella. A los dos minutos me mira el codo.
 REN: "Tienes el codo abierto."
 HIROSHI: "¿Y eso importa para fregar?"
 REN: "Para fregar no. Para cortar, sí."
-Coge el cuchillo del tablero, lo pasa bajo el agua, lo seca con el trapo, me lo pone en la mano derecha y me coloca delante de la tabla, con la media cebolla que se quedó a medias.
+Toma el cuchillo del tablero, lo pasa bajo el agua, lo seca con el trapo, me lo pone en la mano derecha y me coloca delante de la tabla, con la media cebolla que se quedó a medias.
 REN: "Vas a cortar. Muñeca recta, codo quieto, y no aprietes, que el cuchillo no es un timón."
 Me pone la palma encima del dorso de la mano y me la aprieta contra el mango. Noto los callos y noto toda la fuerza que no está gastando.
 
-*Ren Takahashi tiene las manos de una mujer que ha cargado cajas entre el mercado y la cocina desde que era una cría, y el detalle que a mí me desmonta no es la fuerza: es que sepa exactamente cuánta no hace falta. Nunca he conocido a nadie que administre tan bien lo que tiene.*
+*Ren Takahashi tiene las manos de una mujer que ha cargado cajas entre el mercado y la cocina desde que era una niña, y el detalle que a mí me desmonta no es la fuerza: es que sepa exactamente cuánta no hace falta. Nunca he conocido a nadie que administre tan bien lo que tiene.*
 
 REN: "Así. Otra vez."
 Corta conmigo. Cinco golpes, seis, y en el sexto se le va el peso del cuerpo a una pierna y la otra se le queda atrás, con la bota clavada en el suelo y el tendón marcándosele debajo del pantalón. Ya sé que eso es lo único que Ren Takahashi no sabe disimular mientras trabaja, y ya sé que cuando alguien la mira vuelve a plantar las dos piernas y se le cierra el cuerpo. Hoy no las planta. Se queda así, con la corva tensa y la punta de la bota clavada, como si no hubiera nadie.
-Me coge la mano izquierda —la que le queda libre, la que no tengo en el cuchillo— y me la pone en la cadera, encima del delantal, con la palma hacia dentro y los dedos abiertos.
+Me toma la mano izquierda —la que le queda libre, la que no tengo en el cuchillo— y me la pone en la cadera, encima del delantal, con la palma hacia dentro y los dedos abiertos.
 REN: "Esa la tienes libre. Ponla donde no estorbe."
 Estoy entre ella y la tabla, con las dos manos ocupadas por decisión suya, su cadera contra la mía por encima del uniforme, y la respiración contándonos los golpes a los dos. La cocina entera se queda en el ruido del agua.
 Y entonces se para. No se aparta: se para, con el cuchillo todavía mirando la tabla y la mano encima de la mía, y yo entiendo que en algún sitio de su cabeza acaba de cerrarse una cuenta.
@@ -488,9 +488,9 @@ Lo dice con la misma voz con la que dice «sazona» o «retira», sin subirla, y
 REN: "Basta de esto, no de ti. Y que quede claro para los dos, porque mañana vas a pensar que me arrepentí."
 HIROSHI: "¿Y no te arrepientes?"
 REN: "No. Estoy avisando. Y conste que lo he dicho yo. Si lo dices tú, no cuenta."
-Se aparta un paso, coge el estropajo y se pone a fregar la placa como si la placa le hubiera hecho algo. Fregó la misma baldosa nueve veces. Las conté.
+Se aparta un paso, toma el estropajo y se pone a fregar la placa como si la placa le hubiera hecho algo. Friega la misma baldosa nueve veces. Las cuento.
 
-*Y yo me quedé de pie en medio de la cocina, con la mano abierta y sin cuchillo, entendiendo que Ren Takahashi acababa de hacer lo único que no le he visto hacer nunca: dejar un trabajo a medias.*
+*Y yo me quedo de pie en medio de la cocina, con la mano abierta y sin cuchillo, entendiendo que Ren Takahashi acaba de hacer lo único que no le he visto hacer nunca: dejar un trabajo a medias.*
 
 La forma en que me mira sugiere que esos "cambios" van más allá de la simple amistad.
 Mientras limpiamos nuestro experimento culinario desastroso, hay una nueva intimidad entre nosotros.
@@ -574,7 +574,7 @@ Se inclina y toma mi mano gentilmente.
 
 *Su mano es más pequeña de lo que esperaba y está caliente, y la piel del dorso es fina, con esas manchas leves que solo tiene la gente que ha vivido lo suficiente para tenerlas. No la aprieta. Solo la apoya.*
 *Tiene el pelo recogido en el moño alto y el cuello entero al aire, y desde esta distancia puedo verle la línea del cuello hasta el nacimiento de los hombros, el modo en que respira, el modo en que me sostiene la mirada sin hacer ningún esfuerzo.*
-*Saki Yamamoto tiene el cuerpo de una mujer que ya no tiene nada que demostrar. Y a media tarde, con la luz de través y ella inclinada sobre la tetera, eso quiere decir un busto grande a menos de un metro de mi cara: el peso real cuando se inclina, la blusa separándosele del pecho, la línea que baja del cuello al nacimiento y que uno sigue sin permiso. Lo que provoca no es solo el deseo. Es que ella lo sabe y lo deja estar. Se ha inclinado para servirme y ha tardado todo lo que ha querido tardar, y no ha corregido un solo pliegue, porque no tiene por qué corregirlo: eso es el permiso, esa es su gramática entera. Un escote a media asta a un metro de distancia es una frase dicha en voz baja, y yo llevo toda la tarde contestándola mal. Hay además una economía en ese cuerpo que me da vergüenza no haber entendido antes: la blusa aguantando, el delantal corto, la espalda recta sosteniendo un peso que no es metafórico, todo administrado con la misma precisión con la que sirve el té. Ella lleva veintiséis años —los que le echo— viviendo ahí dentro; yo llevo cuatro semanas mirando, y ya voy por detrás. Y eso, en un pueblo pequeño, a media tarde, con su mano sobre la mía, es lo más peligroso que me ha pasado en años. Y lo peligroso no es el cuerpo: es que no necesita que yo me explique, porque me ha leído antes de que yo empezara a hablar. Con las otras tres me escondo. Con ella no hay dónde. Hay además una sospecha que no sé de dónde me viene y que no pienso decir en voz alta: que la «Saki sabia» es en parte una actuación que sostiene para nosotras, y que por dentro hay una mujer que también se pregunta si sirve. Esa mujer es la que yo querría conocer, y es la única de esta casa a la que todavía no me han presentado.*
+*Saki Yamamoto tiene el cuerpo de una mujer que ya no tiene nada que demostrar. Y a media tarde, con la luz de través y ella inclinada sobre la tetera, eso quiere decir un busto grande a menos de un metro de mi cara: el peso real cuando se inclina, la blusa separándosele del pecho, la línea que baja del cuello al nacimiento y que uno sigue sin permiso. Lo que provoca no es solo el deseo. Es que ella lo sabe y lo deja estar. Se ha inclinado para servirme y ha tardado todo lo que ha querido tardar, y no ha corregido un solo pliegue, porque no tiene por qué corregirlo: eso es el permiso, esa es su gramática entera. Un escote a media asta a un metro de distancia es una frase dicha en voz baja, y yo llevo toda la tarde contestándola mal. Hay además una economía en ese cuerpo que me da vergüenza no haber entendido antes: la blusa aguantando, el delantal corto, la espalda recta sosteniendo un peso que no es metafórico, todo administrado con la misma precisión con la que sirve el té. Ella lleva veintiséis años —los que le echo— viviendo ahí dentro; yo llevo cuatro semanas mirando, y ya voy por detrás. Y eso, en un pueblo pequeño, a media tarde, con su mano sobre la mía, es lo más peligroso que me ha pasado en años. Y lo peligroso no es el cuerpo: es que no necesita que yo me explique, porque me ha leído antes de que yo empezara a hablar. Con las otras tres me escondo. Con ella no hay dónde. Hay además una sospecha que no sé de dónde me viene y que no pienso decir en voz alta: que la «Saki sabia» es en parte una actuación que sostiene para nosotros, y que por dentro hay una mujer que también se pregunta si sirve. Esa mujer es la que yo querría conocer, y es la única de esta casa a la que todavía no me han presentado.*
 SAKI: "No tienes que tener todas las respuestas ahora. Solo tienes que ser honesto sobre el viaje."
 HIROSHI: "¿Y si tomar una decisión lastima a las otras?"
 SAKI: "Las personas fuertes prefieren la honestidad dolorosa sobre la incertidumbre gentil."
@@ -598,9 +598,9 @@ Luego baja un brazo. Muy despacio, como todo lo suyo, y me pone la mano abierta 
 SAKI: "Ya lo has entendido, ¿verdad? Que yo sé lo que está pasando aquí desde el primer día."
 HIROSHI: "Sí."
 SAKI: "Bien. Porque no voy a hacer como si no. Eso lo hacen las chicas de veinte años, y yo tengo veintiséis: no son muchos más, pero son los que hacen falta."
-Se gira sin soltarme el pecho, se coloca de medio lado contra el estante y me coge la mano derecha para ponérmela —otra vez, sin pedirla— en la cintura, por encima de la blusa. La deja ahí, con la suya encima, y sigue hablando con la voz de siempre, la de comentar la lista de la compra.
+Se gira sin soltarme el pecho, se coloca de medio lado contra el estante y me toma la mano derecha para ponérmela —otra vez, sin pedirla— en la cintura, por encima de la blusa. La deja ahí, con la suya encima, y sigue hablando con la voz de siempre, la de comentar la lista de la compra.
 SAKI: "Yo no soy rápida y no soy paciente. Soy lenta, que es otra cosa. Lo que hago despacio lo hago una sola vez."
-Le separa a la blusa un pliegue del delantal con dos dedos, muy fino, sin mirarlo.
+Separa de la blusa un pliegue del delantal con dos dedos, muy fino, sin mirarlo.
 SAKI: "Y ahora mismo tengo una mano tuya en la cintura y estoy esperando a ver qué haces tú. Y no lo hago por juego. Lo hago porque en cuarenta segundos se sabe todo lo que se puede saber de un hombre, y prefiero saberlo yo antes de que lo sepa el pueblo."
 No mueve la mano y no la voy a mover yo. Se queda ahí, y a media tarde, con la luz de través y la casa vacía, eso es una frase dicha en voz baja.
 SAKI: "No te he dado permiso para nada y no te he quitado ninguno. Fíjate en la diferencia, porque es la única cosa que voy a pedirte hoy."
@@ -619,12 +619,12 @@ Pero también sé, con la taza todavía tibia en las manos, que mi situación ac
 Cuatro mujeres.
 Cuatro conexiones que ya no puedo seguir contando como si fueran puntos en una balanza.
 Y yo, necesitando desesperadamente encontrar una manera de ser honesto sin destruir la familia que hemos construido juntos.
-ESCENA 5.7 - PLANIFICACIÓN GRUPAL
-NARRACIÓN: Esa noche, todos nos reunimos para nuestra cena grupal habitual. Pero hay algo diferente en el aire. Una tensión sutil que sugiere que las conversaciones individuales han cambiado las dinámicas.
+ESCENA 5.7 - EL PACTO DE LA MESA
+NARRACIÓN: A la noche siguiente, todos nos reunimos para nuestra cena grupal habitual. Pero hay algo diferente en el aire. Una tensión sutil que sugiere que las conversaciones individuales han cambiado las dinámicas.
 No es hostilidad. Es más como... expectativa.
 MIKA: "¿Saben qué? Siento que todos estamos un poco diferentes esta semana."
 Deja la observación colgando, pero puedo ver que las otras también lo han notado.
-YUKI: "Diferentes en qué sentido?"
+YUKI: "¿Diferentes en qué sentido?"
 MIKA: "Más... conscientes unos de otros. Como si estuviéramos procesando cosas."
 Ren intercambia una mirada con Saki que no pasa desapercibida.
 REN: "Tal vez es natural. Hemos estado conociéndonos más profundamente."
@@ -701,7 +701,7 @@ YUKI: "Puedo ir yo primero."
 HIROSHI: "Sí. Tú primero."
 Entra con la bandeja a la altura del pecho. Yo la sigo con la olla contra el costado. A medio pasillo, la puerta del cuarto de los trastos se ha quedado entreabierta y hay que empujarla con el hombro para pasar.
 Se detiene para empujarla. Yo me detengo detrás.
-Y ya no hay dónde ponerse. Levanto la olla un poco más para dejarle aire, doy el medio paso que me falta, y el pasillo se encarga del resto: mi cadera queda contra la suya y no hay manera humana de fingir que no es lo que es. Estoy duro contra ella. Por encima del pantalón blanco del uniforme y por encima del mío, la erección se le apoya justo en el centro del trasero —ese trasero pequeño y redondo que ya conozco de la mañana de la lluvia y que no debería conocer— y ninguno de los dos se mueve.
+Y ya no hay dónde ponerse. Levanto la olla un poco más para dejarle aire, doy el medio paso que me falta, y el pasillo se encarga del resto: mi cadera queda contra la suya y no hay manera humana de fingir que no es lo que es. Estoy duro contra ella. Por encima del pantalón blanco del uniforme y por encima del mío, la erección se le apoya justo en el centro del trasero —ese trasero pequeño y redondo que ya conozco de la tarde de la lluvia y que no debería conocer— y ninguno de los dos se mueve.
 
 *Cualquier persona decente suelta la olla y se hace a un lado. Yo tengo las dos manos ocupadas y la excusa perfecta, y llevo cuatro semanas aprendiendo a usarla: la excusa, digo. Lo que no se me había ocurrido es que ella también tuviera las manos ocupadas, y que la excusa funcionara en las dos direcciones.*
 
@@ -720,7 +720,7 @@ YUKI: "Yo no sé hacer esto, que quede claro. No sé coquetear, no sé atraer a 
 HIROSHI: "Entiendo."
 YUKI: "Entonces no me digas que fue un accidente. Yo no voy a decir que lo fue."
 
-*Y ahí está, entera, la frase que llevo dos semanas temiendo: que la única persona de esta casa incapaz de mentir acaba de negarse a mentir por mí.*
+*Y ahí está, entera, la frase que llevo semanas temiendo: que la única persona de esta casa incapaz de mentir acaba de negarse a mentir por mí.*
 
 YUKI: "Y si te digo alto, alto. Pero no te he dicho alto."
 El agua del grifo se ha quedado abierta en algún momento y nadie la ha cerrado. El taller entero se queda en ese ruido mínimo, blanco, y en la respiración de ella, que ya no cuenta nada.
@@ -740,10 +740,10 @@ Yuki retira la mano. Empuja la puerta del cuarto de los trastos con el hombro, s
 YUKI: [Ya en la cocina, con la voz de siempre, un poco más aguda] "Estaba ordenando los tazones. Hiroshi traía la olla."
 MIKA: "Claro que sí. Y yo soy la emperatriz de Japón."
 HIROSHI: "Traía la olla."
-REN: [Desde el mostrador, sin levantar la vista] "Y los dos tenéis la misma cara."
+REN: [Desde el mostrador, sin levantar la vista] "Y los dos tienen la misma cara."
 
-*Durante la cena, Yuki no me miró ni una vez. Habló del pan del sábado, corrigió a Mika dos veces sobre la temperatura del horno y se rió con las historias de la Señora Watanabe. Perfecta. Impecable.*
-*Y cuando le pasé el plato, se quedó un segundo de más con los dedos en el borde.*
+*Durante la cena, Yuki no me mira ni una vez. Habla del pan del sábado, corrige a Mika dos veces sobre la temperatura del horno y se ríe con las historias de la Señora Watanabe. Perfecta. Impecable.*
+*Y cuando le paso el plato, se queda un segundo de más con los dedos en el borde.*
 ESCENA 5.9 - LOS SACOS DE HARINA
 NARRACIÓN: Dos noches después de lo del pasillo, el almacén del fondo se convierte en el sitio donde Ren y yo discutimos sin discutir.
 Los sacos del proveedor nuevo llegaron a las cinco y son de veinticinco kilos. Ren los ha estado subiendo sola al estante alto, uno por uno, con las rodillas flexionadas y la espalda recta, porque a esta hora no queda nadie más en el taller y porque pedir ayuda es una de las cosas que Ren Takahashi no hace antes de intentarlo dos veces.
@@ -753,7 +753,7 @@ REN: "No. Pero puedes sostener la base del saco mientras encajo la boca en el es
 Levanta el cuarto saco del suelo con las dos manos, lo apoya en el pecho y lo empuja hacia arriba sin un solo quejido. Yo me meto en el hueco entre el estante y la puerta —un hueco de una persona y media— y me pongo detrás para sujetar el fondo del papel grueso. Para sujetarlo bien tengo que apoyarme en ella: las dos manos abajo, el pecho contra su espalda, la cadera contra la suya, porque el saco pesa y porque el hueco no da para más. Y en cuanto quedamos así, la harina pasa a ser lo último en lo que estoy pensando.
 REN: "Arriba. No la sueltes."
 Empuja. El saco entra hasta el fondo del estante. Y se queda ahí, con las dos manos en el borde de la tabla y los botones del uniforme abiertos por el esfuerzo, y yo con las dos manos abajo, y ninguno de los dos se hace a un lado.
-REN: "Vale. Está puesto."
+REN: "Listo. Está puesto."
 HIROSHI: "Sí."
 REN: "Te puedes mover."
 HIROSHI: "Sí."
@@ -770,8 +770,8 @@ HIROSHI: "¿Y el que gana qué se lleva?"
 REN: "Gana que el otro se ha movido primero. Aquí eso es suficiente."
 Y después, mucho más despacio de lo que le conozco la voz:
 REN: "Yo llevo tres semanas sin dormir por culpa de esto. No del festival. De esto."
-HIROSHI: "Yo llevo tres meses."
-REN: "Joder."
+HIROSHI: "Yo llevo semanas igual."
+REN: "Maldición."
 HIROSHI: "¿Qué?"
 REN: "Que no me tiemblan las manos. Y me tendrían que temblar."
 Se gira apenas, lo justo para que yo le vea la mandíbula apretada y una gota de sudor bajándole por la sien, y apoya la cabeza un segundo contra mi hombro —un segundo, no dos— y vuelve a mirar al estante. La parte interna del muslo se le aprieta contra la mía, el tendón le sube tenso por detrás de la rodilla hasta la bota clavada en el suelo, y yo pienso, con una claridad espantosa, en todo lo que cabe en dos capas de tela.
@@ -791,7 +791,7 @@ REN: "Y conste que yo no he dicho que fuera un accidente. Tú tampoco, ¿verdad?
 HIROSHI: "No."
 REN: "Bien. Entonces estamos en el mismo sitio."
 
-*En la mesa, Saki nos sirvió té a los dos sin preguntar nada. Ren se sentó con las botas plantadas y se bebió el suyo de un trago, y a mí me pareció que en toda la casa no había nadie con menos prisa por esconder lo que acababa de pasar. Yuki no dijo nada. Mika no dijo nada. Saki sirvió otra ronda.*
+*En la mesa, Saki nos sirve té a los dos sin preguntar nada. Ren se sienta con las botas plantadas y se bebe el suyo de un trago, y a mí me parece que en toda la casa no hay nadie con menos prisa por esconder lo que acaba de pasar. Yuki no dice nada. Mika no dice nada. Saki sirve otra ronda.*
 
 *Y esa es la parte que no había previsto: que cuatro mujeres acaban de convertirme en el único de los cinco que todavía se hace el tonto.*
 
@@ -801,7 +801,7 @@ ESCENA 5.10 - EL CIERRE DEL MERCADO
 NARRACIÓN: La noche siguiente a lo de la harina acompaño a Mika hasta el mercado, porque se ha quedado hasta las diez pegando rótulos y porque la Señora Tanaka le ha dejado las llaves para que cierre ella.
 Es la primera vez que entro ahí a esa hora. Dentro huele a cítrico y a cartón, y la única luz encendida es la de la cámara del fondo.
 MIKA: "La Señora Tanaka baja la persiana de un tirón. Yo necesito la vara, el escalón y las dos manos, y el escalón está lleno de cajas. Así que hoy la bajamos entre los dos."
-HIROSHI: "Vale."
+HIROSHI: "De acuerdo."
 MIKA: "Qué poco te ha costado decir que sí."
 HIROSHI: "Es una persiana."
 MIKA: "Es una persiana. Claro."
@@ -842,7 +842,7 @@ Cierra con el mismo golpe de antes, baja la persiana del todo, y cuando vuelve a
 MIKA: "¿Ves lo que hay? Tres semanas de audiencia no se me caen del cuerpo ni en mi casa. La cara me ha vuelto sola en cuanto ha tocado el puño en la chapa."
 HIROSHI: "A mí no me ha vuelto nada."
 MIKA: "Ya lo sé. Por eso estoy aquí y no en la calle."
-Cruza por delante del mostrador, me coge la mano derecha y me la aprieta una vez, fuerte, como se le da la mano a un compañero de equipo después de un partido, y no es cariño ni es broma: es un contrato.
+Cruza por delante del mostrador, me toma la mano derecha y me la aprieta una vez, fuerte, como se le da la mano a un compañero de equipo después de un partido, y no es cariño ni es broma: es un contrato.
 MIKA: "Y que quede claro, porque luego se te olvida: esto no lo hemos cortado tú ni yo. Lo ha cortado el mostrador."
 HIROSHI: "Mika."
 MIKA: "Mañana hay clase a las siete. Vete a dormir tú, que yo no voy a poder."
@@ -866,7 +866,7 @@ HIROSHI: "¿A comprar qué?"
 SAKI: "El pueblo. O lo que queda de él. Yo he visto esa cara antes, en la puerta del restaurante de mi padre, dos años antes de que lo cerraran."
 HIROSHI: "Saki."
 SAKI: "No te lo digo para asustarte. Te lo digo porque el sábado vas a estar sirviendo y no vas a ver llegar a nadie por la espalda. Yo sí. Yo llevo viendo gente por la espalda desde los dieciséis años."
-Llegamos. Sube el escalón, se gira para despedirse, y por primera vez en cuatro meses me toca mirarla desde abajo: los ojos a la altura de su cintura, el delantal doblado, la llave en la mano.
+Llegamos. Sube el escalón, se gira para despedirse, y por primera vez en cuatro semanas me toca mirarla desde abajo: los ojos a la altura de su cintura, el delantal doblado, la llave en la mano.
 SAKI: "No te muevas, que quiero ver una cosa."
 Me pone la mano abierta encima de la cabeza. No aprieta, no me alborota el pelo y no dice nada: deja la palma ahí, con el peso justo, como se pone una tapa encima de una olla.
 SAKI: "Cuatro dedos. Siempre me he preguntado cómo se veía esto desde abajo."
@@ -889,7 +889,7 @@ Su cuerpo hace un movimiento mínimo hacia adelante, la puerta cede un centímet
 Y se para. Se separa lo justo para que yo le vea la cara, se saca la llave del hueco y se la mete otra vez en el bolsillo, en el delantal doblado, sin mirarlo.
 Las llaves suenan una sola vez. Solas.
 SAKI: "Ha sido la puerta. Está floja."
-Y es mentira. La puerta no ha sonado: han sonado las llaves, y las llaves las tiene ella. En cuatro meses no le he oído decir una sola frase que no fuera cierta, y acaba de mentirme en voz baja, sobre un temblor, sin ninguna vergüenza.
+Y es mentira. La puerta no ha sonado: han sonado las llaves, y las llaves las tiene ella. En cuatro semanas no le he oído decir una sola frase que no fuera cierta, y acaba de mentirme en voz baja, sobre un temblor, sin ninguna vergüenza.
 HIROSHI: "¿Por qué hoy no?"
 SAKI: "Mi tío hizo lo contrario de lo que estoy haciendo yo: no abrió nada, dejó que se resolviera solo y estuvo a punto de perder a las tres mujeres que quería. Se lo debía al restaurante, decía. Así que no te confundas conmigo: esto no es miedo. Es orden."
 HIROSHI: "¿Y cuándo?"

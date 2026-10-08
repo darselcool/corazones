@@ -10,7 +10,7 @@ YUKI: "¿Eso es...?"
 HIROSHI: "Creo que alguien viene hacia acá."
 La música se detiene justo frente al taller. A través de la ventana, vemos una maleta rosa brillante decorada con calcomanías coloridas.
 Y luego aparece su dueña.
-Una joven con cabello castaño caramelo recogido en una coleta alta, elástica y esponjosa emerge en la vista, estirándose después de lo que claramente fue un viaje largo. Lleva un top corto translúcido de estilo gal que deja entrever un top deportivo rosa fucsia y su abdomen plano de piel color miel, con unos jeans de mezclilla azul desgastados y zapatillas blancas decoradas con garabatos y marcadores de colores. Tiene unos ojos avellana chispeantes y pecas suaves salpicadas sobre la nariz y las mejillas.
+Una joven con cabello castaño caramelo recogido en una coleta alta, elástica y esponjosa emerge en la vista, estirándose después de lo que claramente fue un viaje largo. Lleva un top corto translúcido de estilo gal que deja entrever un top deportivo rosa fucsia y su abdomen plano de piel color miel, con unos jeans de mezclilla azul desgastados, zapatillas blancas decoradas con garabatos y marcadores de colores, y una sudadera ligera atada a la cintura. Tiene unos ojos avellana chispeantes y pecas suaves salpicadas sobre la nariz y las mejillas.
 Es como si alguien hubiera derramado un arcoíris en nuestra tranquila monocromía.
 
 *Se estira con los brazos por encima de la cabeza y el top corto se le tensa sobre el busto firme y juvenil, dejando al descubierto varios palmos de cintura tersa y abdomen plano. Y aun así me cuesta más de lo que debería volver a mirarla a la cara.*
@@ -29,7 +29,7 @@ MIKA: "¡Hola! ¡Soy Mika! Mika Nakamura." Extiende la mano con una sonrisa que 
 Su energía es tan intensa que casi da un paso atrás.
 
 *Es imposible no seguirla con la vista. Cuando se agacha a mirar algo del suelo, el jean se le tensa sobre las piernas y yo me descubro deseando que vuelva a agacharse. Cuando se ríe, se ríe con todo el cuerpo, la cabeza hacia atrás y la garganta expuesta, y uno piensa cosas que no debería pensar sobre la garganta de una desconocida.*
-*Y no es solo cuando se ríe. Cuando bebe, bebe igual: echa la cabeza atrás, traga con la garganta entera a la vista y deja el vaso sin limpiarse la boca. Y esa combinación —la garganta, el trago, la boca sin limpiar— me hace entender algo que preferiría no entender a estas alturas: que a Mika Nakamura no le han enseñado a esconder las partes que se mueven. Lo que me provoca no es nada que ella haga; es que no hace nada. Es la única de las cuatro que no tiene un solo gesto defensivo en el cuerpo, y eso, en un pueblo donde todo el mundo mide lo que dice, es como hablar a gritos. Con una excepción que me ha llamado la atención: cuando quiere quedar bien dice que está bien en el mismo tono con el que dice todo lo demás, pero la voz se le va un segundo al fondo de la garganta antes de volver. Tiene la boca entrenada y la garganta no. Eso es todo lo que he aprendido hoy sobre Mika Nakamura, y es bastante más de lo que ella cree que ha enseñado.*
+*Y no es solo cuando se ríe. Cuando bebe, bebe igual: echa la cabeza atrás, traga con la garganta entera a la vista y deja el vaso sin limpiarse la boca. Y esa combinación —la garganta, el trago, la boca sin limpiar— me hace entender algo que preferiría no entender a estas alturas: que a Mika Nakamura no le han enseñado a esconder las partes que se mueven. Lo que me provoca no es nada que ella haga; es que no hace nada. A diferencia de Yuki, es la única de las dos que no tiene un solo gesto defensivo en el cuerpo, y eso, en un pueblo donde todo el mundo mide lo que dice, es como hablar a gritos. Con una excepción que me ha llamado la atención: cuando quiere quedar bien dice que está bien en el mismo tono con el que dice todo lo demás, pero la voz se le va un segundo al fondo de la garganta antes de volver. Tiene la boca entrenada y la garganta no. Eso es todo lo que he aprendido hoy sobre Mika Nakamura, y es bastante más de lo que ella cree que ha enseñado.*
 *Esta mujer va a ser un problema. Un problema de los que sonríen.*
 HIROSHI: "Soy Hiroshi Matsuda. Esta es Yuki."
 MIKA: "¡Encantada de conocerlos!" Se voltea hacia Yuki con la misma sonrisa radiante. "¡Qué hermoso cabello tienes! Y tu postura es increíble. ¿Eres bailarina?"
@@ -43,7 +43,7 @@ HIROSHI: "¿Está de paso por el pueblo o...?"
 MIKA: "Honestamente, no lo sé todavía." Su sonrisa vacila por una fracción de segundo antes de regresar a su intensidad completa. "Estoy en una especie de... aventura de autoconocimiento. Ya sabes, encontrando nuevos lugares, conociendo nueva gente, descubriendo qué me hace feliz realmente."
 Hay algo en la forma en que dice "qué me hace feliz realmente" que me hace pensar que no es tan simple como suena.
 YUKI: "¿Viene de lejos?"
-MIKA: "¡De Tokyo! Pero antes de eso, de todas partes. He estado viajando durante... ¿cuánto tiempo ha sido?" Cuenta con los dedos. "Tres meses. Ha sido increíble. Cada lugar tiene su propia personalidad."
+MIKA: "¡De Tokio! Pero antes de eso, de todas partes. He estado viajando durante... ¿cuánto tiempo ha sido?" Cuenta con los dedos. "Tres meses. Ha sido increíble. Cada lugar tiene su propia personalidad."
 Se acerca a nuestra estación de trabajo donde Yuki había estado cortando verduras.
 MIKA: "¡Guau, estos cortes son perfectos! ¿Los hiciste tú?" Mira a Yuki con admiración genuina. "Son como pequeñas obras de arte."
 Por primera vez desde que llegó, Yuki sonríe ligeramente.
@@ -51,23 +51,23 @@ YUKI: "Gracias. Es solo práctica."
 MIKA: "¡Pero la práctica que viene del amor se nota! Mis cortes siempre parecen como si los hubiera hecho durante un terremoto."
 Se ríe de sí misma con tanta naturalidad que es imposible no sentirse más relajado.
 ELECCIÓN 1:
-OPCIÓN A: "La precisión técnica es importante, pero la alegría en el proceso también tiene valor."
+OPCIÓN A: "La precisión técnica es importante, pero la alegría en el proceso también tiene valor. Con gusto te enseñamos a practicar."
 [+2 MIKA, +1 YUKI, +1 SAKI - Valorar tanto técnica como pasión]
-OPCIÓN B: "Cada chef tiene su propio estilo. Lo importante es encontrar el que funcione para usted."
+OPCIÓN B: "Cada chef tiene su propio estilo. Lo importante es encontrar el tuyo, y podemos ayudarte a practicar las bases."
 [+1 a todas - Respuesta inclusiva que valora diversidad de enfoques]
-OPCIÓN C: "¿Le gustaría que le enseñemos algunas técnicas básicas de corte?"
+OPCIÓN C: "¿Te gustaría que te enseñemos algunas técnicas básicas de corte?"
 [+2 YUKI, +1 REN, +1 MIKA - Enfoque educativo y generoso]
 MIKA: "¡Eso sería increíble! Aunque les advierto, soy el tipo de persona que puede quemar agua."
 Su honestidad auto-despreciativa es encantadora, pero noto que Yuki frunce el ceño ligeramente.
 YUKI: "Nadie nace sabiendo cocinar. Solo necesita la técnica correcta."
-MIKA: "¡Ves? ¡Ya me gusta esta chica!" Se voltea hacia mí. "¿Ofrecen clases regulares? Porque honestamente, este lugar tiene exactamente la vibra que he estado buscando."
+MIKA: "¿Ves? ¡Ya me gusta esta chica!" Se voltea hacia mí. "¿Ofrecen clases regulares? Porque honestamente, este lugar tiene exactamente la vibra que he estado buscando."
 HIROSHI: "Acabamos de empezar, así que somos bastante flexibles con el formato."
 MIKA: "¡Perfecto! ¿Hay algún lugar donde pueda quedarme en el pueblo? No necesito mucho, solo una cama y tal vez acceso a wifi."
 La mención del wifi la marca inmediatamente como alguien aún conectada al mundo exterior, a diferencia de Yuki y yo, quienes hemos estado existiendo en esta burbuja tranquila.
-HIROSHI: "La Señora Tanaka podría tener una habitación disponible arriba de su mercado."
+HIROSHI: "La Señora Tanaka tiene una habitación disponible arriba de su mercado. Yo acabo de acondicionar el piso de arriba del taller para dormir aquí, así que el cuarto del mercado está libre."
 MIKA: "¡Excelente! ¿Podrían presentármela? Me gusta conocer a la gente local. Siempre tienen las mejores historias."
 Mientras arregla su cabello en el reflejo de una de las ollas pulidas, noto que sus movimientos son naturalmente fotogénicos. Como alguien acostumbrada a ser observada.
-YUKI: "¿A qué se dedicaba en Tokyo?"
+YUKI: "¿A qué se dedicaba en Tokio?"
 La pregunta es casual, pero veo que Mika se tensa ligeramente.
 MIKA: "Oh, un poco de todo. Contenido digital, principalmente. Ya sabes, la cosa moderna." Su sonrisa se vuelve ligeramente menos genuina. "Pero ahora estoy más interesada en experiencias reales. Conexiones auténticas. Cosas que no se pueden capturar en una pantalla."
 Hay algo en la forma en que dice "auténticas" que sugiere que no es un concepto que haya tenido mucho en su vida recientemente.
@@ -81,7 +81,7 @@ NARRACIÓN: Más tarde esa tarde, después de que Mika se instalara en la habita
 Tiene su teléfono en las manos, pero no lo está usando. Solo lo mira con una expresión que no puedo descifrar desde esta distancia.
 Parezco ser el único que la ve. Yuki está en el taller practicando cortes (algo que hace cuando está procesando emociones), y el resto del pueblo está en su rutina vespertina habitual.
 Hay algo en la postura de Mika que es completamente diferente a la energía vibrante que mostró antes. Sus hombros están caídos, su cabeza inclinada, y por primera vez desde que llegó, está completamente quieta.
-Desde mi posición en la ventana del taller, puedo verla pero no escucharla. Es como observar una película silenciosa.
+Tengo la ventana del taller abierta de par en par para que circule el aire fresco del atardecer. Desde mi posición puedo verla con claridad, y en la calma absoluta del pueblo, el silencio deja viajar su voz hasta aquí. Es como observar una película que cobra sonido a retazos.
 Levanta el teléfono como si fuera a usarlo, luego lo baja. Repite este gesto varias veces.
 Finalmente, activa la pantalla. Puedo ver la luz azulada iluminando su rostro desde aquí.
 Su expresión cambia mientras desplaza por lo que sea que esté viendo. Sonríe, pero no es la sonrisa radiante que nos mostró. Es una sonrisa pequeña, nostálgica.
@@ -97,7 +97,7 @@ En lugar de eso, la observo mientras se permite sentir lo que sea que ha estado 
 *Que es exactamente lo que llevo años haciendo con todo el mundo. Mirar desde la ventana. Saber. Callar.*
 
 Después de unos minutos, se limpia los ojos y guarda el teléfono. Pero no se levanta inmediatamente. Se queda sentada, mirando el cielo que se oscurece lentamente.
-Cuando finalmente habla, es tan suave que apenas puedo escucharla desde aquí.
+Cuando finalmente habla, su voz es suave pero llega flotando nítida por la ventana abierta:
 MIKA: [Para sí misma] "Estaría orgullosa de este lugar, ¿verdad? Es exactamente el tipo de pueblo que solías dibujar."
 No sé a quién le está hablando, pero hay amor en su voz. Y una tristeza profunda.
 MIKA: [Continuando] "Me pregunto si estarías bien con que dejara todo atrás. Sé que lo construí para ti, pero se siente tan... vacío sin ti ahí para verlo."
@@ -115,7 +115,7 @@ ESCENA 3.3 - PRIMER PROYECTO CONJUNTO
 NARRACIÓN: La mañana siguiente, Mika aparece en el taller con la misma energía brillante de ayer, como si el momento de vulnerabilidad en el parque nunca hubiera ocurrido.
 MIKA: "¡Buenos días, equipo culinario! ¿Listos para ver exactamente qué tan mal puedo arruinar verduras inocentes?"
 Yuki ya está en su estación habitual, organizando meticulosamente sus herramientas. La mirada que le da a Mika es una mezcla de confusión y fascinación.
-YUKI: "Buenos días, Mika. ¿Durmió bien?"
+YUKI: "Buenos días, Mika. ¿Dormiste bien?"
 MIKA: "¡Como un bebé! Aunque debo admitir que me tomó un rato acostumbrarme al silencio. En la ciudad siempre hay ruido de fondo."
 Se acerca a la estación de trabajo con un rebote en su paso que contrasta marcadamente con los movimientos precisos y medidos de Yuki.
 HIROSHI: "Pensé que podríamos trabajar en algo juntos hoy. Un proyecto que combine diferentes fortalezas."
@@ -145,7 +145,7 @@ Esta vez, cuando Mika lo intenta, funciona mejor. No perfecto, pero definitivame
 MIKA: "¡Lo hice! ¡Se parece a uno de verdad!"
 Su alegría es tan genuina que es imposible no sonreír.
 
-*Y me doy cuenta de que llevo veinte minutos mirándoles las manos. Las de Yuki, medidas, limpias, con esa autoridad tranquila que no gasta en nada que no sea el arroz. Las de Mika, torpes y harinosas y rápidas, con la coleta cayéndole por delante del hombro cada vez que se inclina sobre la tabla.*
+*Y me doy cuenta de que llevo veinte minutos mirándoles las manos. Las de Yuki, medidas, limpias, con esa autoridad tranquila que no gasta en nada que no sea el arroz. Las de Mika, torpes, llenas de almidón y rápidas, con la coleta cayéndole por delante del hombro cada vez que se inclina sobre la tabla.*
 *Están a treinta centímetros la una de la otra, hombro con hombro, y yo en medio de las dos como un poste. Y no sé en qué momento dejó de ser una clase.*
 
 HIROSHI: "Ahora viene la parte divertida. Los rellenos."
@@ -162,9 +162,9 @@ OPCIÓN B: "La innovación es importante, pero debe construirse sobre una base s
 OPCIÓN C: "Lo que importa es que cocinemos con alegría y respeto, sin importar si es tradicional o no."
 [+2 MIKA, +1 SAKI, +1 REN - Enfoque en proceso emocional sobre técnica]
 Después de un momento de consideración, Yuki asiente lentamente.
-YUKI: "Tienes razón. La innovación puede ser hermosa si se hace con respeto."
+YUKI: "Tienes razón. Si empezamos con los fundamentos correctos, podemos explorar nuevas ideas con respeto."
 MIKA: "¡Exacto! Y si sale horrible, al menos nos divertiremos en el proceso."
-Pasamos la siguiente hora experimentando. Yuki muestra a Mika cómo hacer rellenos tradicionales - salmón, umeboshi, atún con mayonesa. Mika contribuye con ideas más aventureras que algunas funcionan (queso con hierbas) y otras no tanto (mermelada de fresa con pollo).
+Pasamos la siguiente hora experimentando. Yuki muestra a Mika cómo hacer rellenos tradicionales - salmón, umeboshi, atún con mayonesa. Mika contribuye con ideas más aventureras, de las cuales algunas funcionan (queso con hierbas) y otras no tanto (mermelada de fresa con pollo).
 Pero lo más hermoso de observar es cómo se complementan. La precisión de Yuki equilibra la creatividad espontánea de Mika. La alegría de Mika libera la rigidez de Yuki.
 MIKA: "¿Sabes qué? Esto es exactamente lo que necesitaba."
 YUKI: "¿El qué?"
@@ -189,7 +189,7 @@ YUKI: "Estaré aquí practicando si necesitas algo."
 Es típico de Yuki quedarse en el espacio seguro del taller.
 HIROSHI: "Puedo presentarte a algunas personas si quieres."
 MIKA: "¡Sería genial! Pero también está bien si quiero solo... absorber la atmósfera."
-Salimos juntos, pero después de presentarla a la Señora Tanaka y a algunos de los ancianos, Mika me hace señas de que está bien sola.
+Salimos juntos, pero después de pasar a saludar de nuevo a la Señora Tanaka en el mercado y presentarle al resto de los ancianos, Mika me hace señas de que está bien sola.
 Desde la ventana del taller, Yuki y yo la observamos ir de casa en casa, no como vendedora, sino como alguien genuinamente curiosa sobre las vidas de las personas.
 La vemos ayudar al Señor Kimura a cargar algunas cajas pesadas. Se detiene a admirar el jardín de la Señora Sato. Incluso logra hacer reír a la anciana Señora Watanabe, quien es conocida por ser la persona más gruñona del pueblo.
 YUKI: "Es... diferente de lo que esperaba."
@@ -291,7 +291,7 @@ OPCIÓN B: "Propongo que nos comprometamos a ser honestos unos con otros. Sin m�
 [+3 YUKI, +2 REN - Enfoque en autenticidad y vulnerabilidad]
 OPCIÓN C: "Construyamos algo hermoso juntos. Algo que honre de donde venimos pero mire hacia el futuro."
 [+2 SAKI, +2 MIKA, +1 REN - Enfoque en construcción y legado]
-Las tres opciones resuenan con algo profundo en cada una de nosotras.
+Las tres opciones resuenan con algo profundo en cada uno de nosotros.
 MIKA: "Me gusta eso. Sea lo que sea que construyamos juntos."
 YUKI: "Por primera vez en meses, siento esperanza real."
 HIROSHI: "Entonces estamos de acuerdo. Vamos a intentar esto. Juntos."
@@ -300,7 +300,7 @@ No solo un taller de cocina.
 No solo amistad.
 Algo más profundo. Una alianza de almas heridas que han decidido sanar juntas.
 Mientras cerramos el taller por la noche, Mika se queda un momento más.
-MIKA: "Hiroshi?"
+MIKA: "¿Hiroshi?"
 HIROSHI: "¿Sí?"
 MIKA: "¿Crees que es posible construir una nueva vida sobre las cenizas de la anterior?"
 HIROSHI: "Creo que sobre las cenizas solo se puede construir de verdad. Lo demás es decoración."
@@ -308,7 +308,7 @@ Ella asiente despacio, guardándose la frase como quien guarda una receta.
 MIKA: "Buenas noches. Y gracias. Por todo."
 Mientras la veo caminar hacia el mercado bajo las estrellas, siento que Sakura-machi está empezando a transformarse de un refugio en algo más.
 
-*La veo alejarse y me quedo en la puerta más tiempo del necesario. La luz de la luna le da en la espalda, en el pelo suelto, en la curva que va de la cintura a la cadera y que la sudadera ya no esconde porque se la ha atado a la cintura.*
+*La veo alejarse y me quedo en la puerta más tiempo del necesario. La luz de la luna le da en la espalda, en el pelo que se ha soltado al final de la jornada, en la curva que va de la cintura a la cadera y que la sudadera ya no esconde porque se la ha atado a la cintura.*
 *Mika camina como si la noche fuera suya. Y yo la miro como si no fuera mía.*
 *Cierro la puerta. Echo la llave. Me quedo con la frente apoyada en la madera un momento, respirando.*
 *Esto no era parte del plan.*

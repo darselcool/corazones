@@ -53,7 +53,7 @@ Es exactamente lo que esperábamos: no solo un evento exitoso, sino una genuina 
 Mika está en su elemento, documentando momentos hermosos sin ser intrusiva.
 MIKA: "¡Miren! ¡Tres generaciones cocinando juntas!"
 Una abuela, su hija, y su nieta están trabajando en la estación de Yuki, cada una añadiendo su propio toque a la misma receta básica.
-Ren está discutiendo técnicas avanzadas con un chef de Tokyo que condujo dos horas solo para estar aquí.
+Ren está discutiendo técnicas avanzadas con un chef de Tokio que condujo dos horas solo para estar aquí.
 CHEF VISITANTE: "Su enfoque es fascinante. Muy diferente a lo que se enseña en las escuelas culinarias tradicionales."
 REN: "Es porque aquí aprendemos que la excelencia técnica debe estar al servicio de la conexión humana, no al revés."
 Yuki está ayudando a un joven que claramente tiene alguna discapacidad motriz a dominar un corte básico.
